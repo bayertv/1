@@ -1,362 +1,362 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="60" tvg-logo="noimage.png" group-title="Haber kanalları", BENGÜTÜRK TV  HABER
+#EXTINF:-1 tvg-id="60" tvg-logo="noimage.png" group-title="TR: Haber kanalları", BENGÜTÜRK TV  HABER
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="Haber kanalları", 360 TV  ULUSAL
+#EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="TR: Haber kanalları", 360 TV  ULUSAL
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-logo="noimage.png" group-title="Haber kanalları", A HABER  EKSTRA
+#EXTINF:-1 tvg-id="2" tvg-logo="noimage.png" group-title="TR: Haber kanalları", A HABER  EKSTRA
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="Haber kanalları", CNN TÜRK  EKSTRA
+#EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="TR: Haber kanalları", CNN TÜRK  EKSTRA
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-logo="noimage.png" group-title="Haber kanalları", HABERTÜRK  EKSTRA
+#EXTINF:-1 tvg-id="15" tvg-logo="noimage.png" group-title="TR: Haber kanalları", HABERTÜRK  EKSTRA
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="Haber kanalları", HALK TV  EKSTRA
+#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="TR: Haber kanalları", HALK TV  EKSTRA
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="24" tvg-logo="noimage.png" group-title="Haber kanalları", KRT TV  EKSTRA
+#EXTINF:-1 tvg-id="24" tvg-logo="noimage.png" group-title="TR: Haber kanalları", KRT TV  EKSTRA
 https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="38" tvg-logo="noimage.png" group-title="Haber kanalları", TELE 1  EKSTRA
+#EXTINF:-1 tvg-id="38" tvg-logo="noimage.png" group-title="TR: Haber kanalları", TELE 1  EKSTRA
 https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-logo="noimage.png" group-title="Haber kanalları", TGRT EU  ULUSAL
+#EXTINF:-1 tvg-id="29" tvg-logo="noimage.png" group-title="TR: Haber kanalları", TGRT EU  ULUSAL
 https://ecanlitv3.etvserver.com/tgrteu.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216
 
-#EXTINF:-1 tvg-id="27" tvg-logo="noimage.png" group-title="Haber kanalları", TRT WORLD  ULUSAL
+#EXTINF:-1 tvg-id="27" tvg-logo="noimage.png" group-title="TR: Haber kanalları", TRT WORLD  ULUSAL
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-logo="noimage.png" group-title="Haber kanalları", FLASH HABER TV  HABER
+#EXTINF:-1 tvg-id="46" tvg-logo="noimage.png" group-title="TR: Haber kanalları", FLASH HABER TV  HABER
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
-#EXTINF:-1 tvg-id="33" tvg-logo="noimage.png" group-title="Haber kanalları", HABERTÜRK  HABER
+#EXTINF:-1 tvg-id="33" tvg-logo="noimage.png" group-title="TR: Haber kanalları", HABERTÜRK  HABER
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-logo="noimage.png" group-title="Haber kanalları", HALK TV  HABER
+#EXTINF:-1 tvg-id="44" tvg-logo="noimage.png" group-title="TR: Haber kanalları", HALK TV  HABER
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
-#EXTINF:-1 tvg-id="39" tvg-logo="noimage.png" group-title="Haber kanalları", NTV  HABER
+#EXTINF:-1 tvg-id="39" tvg-logo="noimage.png" group-title="TR: Haber kanalları", NTV  HABER
 https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
 
-#EXTINF:-1 tvg-id="47" tvg-logo="noimage.png" group-title="Haber kanalları", TBMM TV  HABER
+#EXTINF:-1 tvg-id="47" tvg-logo="noimage.png" group-title="TR: Haber kanalları", TBMM TV  HABER
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
-#EXTINF:-1 tvg-id="40" tvg-logo="noimage.png" group-title="Spor kanalları", A SPOR TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="40" tvg-logo="noimage.png" group-title="TR: Spor kanalları", A SPOR TARAFTARİUM24SPOR
 https://cakal.click/yayinas.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-logo="noimage.png" group-title="Spor kanalları", A SPOR TRGOALSSPOR
+#EXTINF:-1 tvg-id="17" tvg-logo="noimage.png" group-title="TR: Spor kanalları", A SPOR TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinas.m3u8
 
-#EXTINF:-1 tvg-id="41" tvg-logo="noimage.png" group-title="Spor kanalları", ATV TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="41" tvg-logo="noimage.png" group-title="TR: Spor kanalları", ATV TARAFTARİUM24SPOR
 https://cakal.click/yayinatv.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="Spor kanalları", ATV TRGOALSSPOR
+#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="TR: Spor kanalları", ATV TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinatv.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN MAX 1 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="29" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN MAX 1 TARAFTARİUM24SPOR
 https://cakal.click/yayinbm1.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN MAX 1 TRGOALSSPOR
+#EXTINF:-1 tvg-id="6" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN MAX 1 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN MAX 2 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="30" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN MAX 2 TARAFTARİUM24SPOR
 https://cakal.click/yayinbm2.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN MAX 2 TRGOALSSPOR
+#EXTINF:-1 tvg-id="7" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN MAX 2 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinbm2.m3u8
 
-#EXTINF:-1 tvg-id="24" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN SPORTS 1 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="24" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN SPORTS 1 TARAFTARİUM24SPOR
 https://cakal.click/yayinstar.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN SPORTS 1 TRGOALSSPOR
+#EXTINF:-1 tvg-id="1" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN SPORTS 1 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayin1.m3u8
 
-#EXTINF:-1 tvg-id="25" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN SPORTS 2 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="25" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN SPORTS 2 TARAFTARİUM24SPOR
 https://cakal.click/yayinb2.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN SPORTS 2 TRGOALSSPOR
+#EXTINF:-1 tvg-id="2" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN SPORTS 2 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
 
-#EXTINF:-1 tvg-id="26" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN SPORTS 3 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="26" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN SPORTS 3 TARAFTARİUM24SPOR
 https://cakal.click/yayinb3.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN SPORTS 3 TRGOALSSPOR
+#EXTINF:-1 tvg-id="3" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN SPORTS 3 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinb3.m3u8
 
-#EXTINF:-1 tvg-id="27" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN SPORTS 4 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="27" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN SPORTS 4 TARAFTARİUM24SPOR
 https://cakal.click/yayinb4.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN SPORTS 4 TRGOALSSPOR
+#EXTINF:-1 tvg-id="4" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN SPORTS 4 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinb4.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN SPORTS 5 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="28" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN SPORTS 5 TARAFTARİUM24SPOR
 https://cakal.click/yayinb5.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-logo="noimage.png" group-title="Spor kanalları", BEIN SPORTS 5 TRGOALSSPOR
+#EXTINF:-1 tvg-id="5" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEIN SPORTS 5 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinb5.m3u8
 
-#EXTINF:-1 tvg-id="49" tvg-logo="noimage.png" group-title="Spor kanalları", BEİN SPORTS HABER  SPOR
+#EXTINF:-1 tvg-id="49" tvg-logo="noimage.png" group-title="TR: Spor kanalları", BEİN SPORTS HABER  SPOR
 https://ecanlitv3.etvserver.com/beinsporthaber.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216
 
-#EXTINF:-1 tvg-id="45" tvg-logo="noimage.png" group-title="Spor kanalları", EUROSPORT 1 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="45" tvg-logo="noimage.png" group-title="TR: Spor kanalları", EUROSPORT 1 TARAFTARİUM24SPOR
 https://cakal.click/yayineu1.m3u8
 
-#EXTINF:-1 tvg-id="22" tvg-logo="noimage.png" group-title="Spor kanalları", EUROSPORT 1 TRGOALSSPOR
+#EXTINF:-1 tvg-id="22" tvg-logo="noimage.png" group-title="TR: Spor kanalları", EUROSPORT 1 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayineu1.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-logo="noimage.png" group-title="Spor kanalları", EUROSPORT 2 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="46" tvg-logo="noimage.png" group-title="TR: Spor kanalları", EUROSPORT 2 TARAFTARİUM24SPOR
 https://cakal.click/yayineu2.m3u8
 
-#EXTINF:-1 tvg-id="23" tvg-logo="noimage.png" group-title="Spor kanalları", EUROSPORT 2 TRGOALSSPOR
+#EXTINF:-1 tvg-id="23" tvg-logo="noimage.png" group-title="TR: Spor kanalları", EUROSPORT 2 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayineu2.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-logo="noimage.png" group-title="Spor kanalları", NBA TV TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="44" tvg-logo="noimage.png" group-title="TR: Spor kanalları", NBA TV TARAFTARİUM24SPOR
 https://cakal.click/yayinnba.m3u8
 
-#EXTINF:-1 tvg-id="21" tvg-logo="noimage.png" group-title="Spor kanalları", NBA TV TRGOALSSPOR
+#EXTINF:-1 tvg-id="21" tvg-logo="noimage.png" group-title="TR: Spor kanalları", NBA TV TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinnba.m3u8
 
-#EXTINF:-1 tvg-id="32" tvg-logo="noimage.png" group-title="Spor kanalları", S SPORT 2 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="32" tvg-logo="noimage.png" group-title="TR: Spor kanalları", S SPORT 2 TARAFTARİUM24SPOR
 https://cakal.click/yayinss2.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="Spor kanalları", S SPORT 2 TRGOALSSPOR
+#EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="TR: Spor kanalları", S SPORT 2 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
 
-#EXTINF:-1 tvg-id="31" tvg-logo="noimage.png" group-title="Spor kanalları", S SPORT TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="31" tvg-logo="noimage.png" group-title="TR: Spor kanalları", S SPORT TARAFTARİUM24SPOR
 https://cakal.click/yayinss.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-logo="noimage.png" group-title="Spor kanalları", S SPORT TRGOALSSPOR
+#EXTINF:-1 tvg-id="8" tvg-logo="noimage.png" group-title="TR: Spor kanalları", S SPORT TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinss.m3u8
 
-#EXTINF:-1 tvg-id="36" tvg-logo="noimage.png" group-title="Spor kanalları", SMARTSPOR TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="36" tvg-logo="noimage.png" group-title="TR: Spor kanalları", SMARTSPOR TARAFTARİUM24SPOR
 https://cakal.click/yayinsmarts.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-logo="noimage.png" group-title="Spor kanalları", SMARTSPOR TRGOALSSPOR
+#EXTINF:-1 tvg-id="13" tvg-logo="noimage.png" group-title="TR: Spor kanalları", SMARTSPOR TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
 
-#EXTINF:-1 tvg-id="52" tvg-logo="noimage.png" group-title="Spor kanalları", SPORTS TV  SPOR
+#EXTINF:-1 tvg-id="52" tvg-logo="noimage.png" group-title="TR: Spor kanalları", SPORTS TV  SPOR
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1 tvg-id="33" tvg-logo="noimage.png" group-title="Spor kanalları", TIVIBU 1 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="33" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TIVIBU 1 TARAFTARİUM24SPOR
 https://cakal.click/yayint1.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-logo="noimage.png" group-title="Spor kanalları", TIVIBU 1 TRGOALSSPOR
+#EXTINF:-1 tvg-id="10" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TIVIBU 1 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayint1.m3u8
 
-#EXTINF:-1 tvg-id="34" tvg-logo="noimage.png" group-title="Spor kanalları", TIVIBU 2 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="34" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TIVIBU 2 TARAFTARİUM24SPOR
 https://cakal.click/yayint2.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="Spor kanalları", TIVIBU 2 TRGOALSSPOR
+#EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TIVIBU 2 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayint2.m3u8
 
-#EXTINF:-1 tvg-id="35" tvg-logo="noimage.png" group-title="Spor kanalları", TIVIBU 3 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="35" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TIVIBU 3 TARAFTARİUM24SPOR
 https://cakal.click/yayint3.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-logo="noimage.png" group-title="Spor kanalları", TIVIBU 3 TRGOALSSPOR
+#EXTINF:-1 tvg-id="12" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TIVIBU 3 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayint3.m3u8
 
-#EXTINF:-1 tvg-id="48" tvg-logo="noimage.png" group-title="Spor kanalları", TİVİBU SPOR  SPOR
+#EXTINF:-1 tvg-id="48" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TİVİBU SPOR  SPOR
 https://ecanlitv3.etvserver.com/tvbu.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216
 
-#EXTINF:-1 tvg-id="39" tvg-logo="noimage.png" group-title="Spor kanalları", TRT 1 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="39" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TRT 1 TARAFTARİUM24SPOR
 https://cakal.click/yayintrt1.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="Spor kanalları", TRT 1 TRGOALSSPOR
+#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TRT 1 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayintrt1.m3u8
 
-#EXTINF:-1 tvg-id="37" tvg-logo="noimage.png" group-title="Spor kanalları", TRT SPOR TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="37" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TRT SPOR TARAFTARİUM24SPOR
 https://cakal.click/yayintrtspor.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-logo="noimage.png" group-title="Spor kanalları", TRT SPOR TRGOALSSPOR
+#EXTINF:-1 tvg-id="14" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TRT SPOR TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayintrtspor.m3u8
 
-#EXTINF:-1 tvg-id="42" tvg-logo="noimage.png" group-title="Spor kanalları", TV 8 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="42" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TV 8 TARAFTARİUM24SPOR
 https://cakal.click/yayintv8.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-logo="noimage.png" group-title="Spor kanalları", TV 8 TRGOALSSPOR
+#EXTINF:-1 tvg-id="19" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TV 8 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayintv8.m3u8
 
-#EXTINF:-1 tvg-id="43" tvg-logo="noimage.png" group-title="Spor kanalları", TV 8.5 TARAFTARİUM24SPOR
+#EXTINF:-1 tvg-id="43" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TV 8.5 TARAFTARİUM24SPOR
 https://cakal.click/yayintv85.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="Spor kanalları", TV 8.5 TRGOALSSPOR
+#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="TR: Spor kanalları", TV 8.5 TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="Ulusal kanallar", 360 TV  ULUSAL
+#EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", 360 TV  ULUSAL
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-logo="noimage.png" group-title="Ulusal kanallar", A HABER  EKSTRA
+#EXTINF:-1 tvg-id="2" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", A HABER  EKSTRA
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
 
-#EXTINF:-1 tvg-id="58" tvg-logo="noimage.png" group-title="Ulusal kanallar", A2 TV  ULUSAL
+#EXTINF:-1 tvg-id="58" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", A2 TV  ULUSAL
 https://ecanlitv3.etvserver.com/a2tv.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216
 
-#EXTINF:-1 tvg-id="6" tvg-logo="noimage.png" group-title="Ulusal kanallar", AGRO TV  EKSTRA
+#EXTINF:-1 tvg-id="6" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", AGRO TV  EKSTRA
 https://yayin30.haber100.com/live/agrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="82" tvg-logo="noimage.png" group-title="Ulusal kanallar", ASLAN TV  EKSTRA
+#EXTINF:-1 tvg-id="82" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", ASLAN TV  EKSTRA
 https://starkurd.ozelip.com:3459/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="75" tvg-logo="noimage.png" group-title="Ulusal kanallar", ATV  EKSTRA
+#EXTINF:-1 tvg-id="75" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", ATV  EKSTRA
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
 
-#EXTINF:-1 tvg-id="66" tvg-logo="noimage.png" group-title="Ulusal kanallar", BERAT TV  ULUSAL
+#EXTINF:-1 tvg-id="66" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", BERAT TV  ULUSAL
 https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="noimage.png" group-title="Ulusal kanallar", BEYAZ TV  EKSTRA
+#EXTINF:-1 tvg-id="7" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", BEYAZ TV  EKSTRA
 https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-logo="noimage.png" group-title="Ulusal kanallar", CİNE5 TV  ULUSAL
+#EXTINF:-1 tvg-id="28" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", CİNE5 TV  ULUSAL
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="Ulusal kanallar", CNN TÜRK  EKSTRA
+#EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", CNN TÜRK  EKSTRA
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="56" tvg-logo="noimage.png" group-title="Ulusal kanallar", D MAX  ULUSAL
+#EXTINF:-1 tvg-id="56" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", D MAX  ULUSAL
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-logo="noimage.png" group-title="Ulusal kanallar", DENİZ POSTASI TV  ULUSAL
+#EXTINF:-1 tvg-id="30" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", DENİZ POSTASI TV  ULUSAL
 https://ecanlitv3.etvserver.com/sabantv.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216
 
-#EXTINF:-1 tvg-id="14" tvg-logo="noimage.png" group-title="Ulusal kanallar", FOX TV  EKSTRA
+#EXTINF:-1 tvg-id="14" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", FOX TV  EKSTRA
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-logo="noimage.png" group-title="Ulusal kanallar", HABERTÜRK  EKSTRA
+#EXTINF:-1 tvg-id="15" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", HABERTÜRK  EKSTRA
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="Ulusal kanallar", HALK TV  EKSTRA
+#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", HALK TV  EKSTRA
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="Ulusal kanallar", KANAL 23  EKSTRA
+#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", KANAL 23  EKSTRA
 https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="Ulusal kanallar", KANAL 23  EKSTRA
+#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", KANAL 23  EKSTRA
 https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-logo="noimage.png" group-title="Ulusal kanallar", KANAL 7  EKSTRA
+#EXTINF:-1 tvg-id="19" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", KANAL 7  EKSTRA
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="54" tvg-logo="noimage.png" group-title="Ulusal kanallar", KANAL 7 AVRUPA  EKSTRA
+#EXTINF:-1 tvg-id="54" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", KANAL 7 AVRUPA  EKSTRA
 http://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
-#EXTINF:-1 tvg-id="21" tvg-logo="noimage.png" group-title="Ulusal kanallar", KANAL D  EKSTRA
+#EXTINF:-1 tvg-id="21" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", KANAL D  EKSTRA
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
-#EXTINF:-1 tvg-id="23" tvg-logo="noimage.png" group-title="Ulusal kanallar", KANAL Z  EKSTRA
+#EXTINF:-1 tvg-id="23" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", KANAL Z  EKSTRA
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 
-#EXTINF:-1 tvg-id="83" tvg-logo="noimage.png" group-title="Ulusal kanallar", KRAL POP TV  EKSTRA
+#EXTINF:-1 tvg-id="83" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", KRAL POP TV  EKSTRA
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24" tvg-logo="noimage.png" group-title="Ulusal kanallar", KRT TV  EKSTRA
+#EXTINF:-1 tvg-id="24" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", KRT TV  EKSTRA
 https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="25" tvg-logo="noimage.png" group-title="Ulusal kanallar", LALEGÜL TV  EKSTRA
+#EXTINF:-1 tvg-id="25" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", LALEGÜL TV  EKSTRA
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 
-#EXTINF:-1 tvg-id="55" tvg-logo="noimage.png" group-title="Ulusal kanallar", ON6 TV  EKSTRA
+#EXTINF:-1 tvg-id="55" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", ON6 TV  EKSTRA
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-logo="noimage.png" group-title="Ulusal kanallar", SHOW TV  EKSTRA
+#EXTINF:-1 tvg-id="30" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", SHOW TV  EKSTRA
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="noimage.png" group-title="Ulusal kanallar", SHOW TV  ULUSAL
+#EXTINF:-1 tvg-id="3" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", SHOW TV  ULUSAL
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-id="37" tvg-logo="noimage.png" group-title="Ulusal kanallar", TARIM TV  EKSTRA
+#EXTINF:-1 tvg-id="37" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TARIM TV  EKSTRA
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 
-#EXTINF:-1 tvg-id="38" tvg-logo="noimage.png" group-title="Ulusal kanallar", TELE 1  EKSTRA
+#EXTINF:-1 tvg-id="38" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TELE 1  EKSTRA
 https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="63" tvg-logo="noimage.png" group-title="Ulusal kanallar", TELEON TV  ULUSAL
+#EXTINF:-1 tvg-id="63" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TELEON TV  ULUSAL
 https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-logo="noimage.png" group-title="Ulusal kanallar", TEVE 2  EKSTRA
+#EXTINF:-1 tvg-id="29" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TEVE 2  EKSTRA
 https://yayin.rizeturk.com:3777/multi_web/phttps://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/34/index.m3u8lay.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-logo="noimage.png" group-title="Ulusal kanallar", TGRT EU  ULUSAL
+#EXTINF:-1 tvg-id="29" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TGRT EU  ULUSAL
 https://ecanlitv3.etvserver.com/tgrteu.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216
 
-#EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="Ulusal kanallar", TLC   EKSTRA
+#EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TLC   EKSTRA
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="Ulusal kanallar", TLC   EKSTRA
+#EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TLC   EKSTRA
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-logo="noimage.png" group-title="Ulusal kanallar", TLC  ULUSAL
+#EXTINF:-1 tvg-id="8" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TLC  ULUSAL
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 
-#EXTINF:-1 tvg-id="40" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT 1  EKSTRA
+#EXTINF:-1 tvg-id="40" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT 1  EKSTRA
 https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
-#EXTINF:-1 tvg-id="42" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT 2  EKSTRA
+#EXTINF:-1 tvg-id="42" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT 2  EKSTRA
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 
-#EXTINF:-1 tvg-id="24" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT ARAPÇA  ULUSAL
+#EXTINF:-1 tvg-id="24" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT ARAPÇA  ULUSAL
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="43" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT BELGESEL  EKSTRA
+#EXTINF:-1 tvg-id="43" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT BELGESEL  EKSTRA
 http://116.202.238.88/TRTBELGESEL_TR/index.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT BELGESEL  ULUSAL
+#EXTINF:-1 tvg-id="15" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT BELGESEL  ULUSAL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="58" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT DİYANET ÇOCUK  EKSTRA
+#EXTINF:-1 tvg-id="58" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT DİYANET ÇOCUK  EKSTRA
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT EBA TV İLKOKUL  ULUSAL
+#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT EBA TV İLKOKUL  ULUSAL
 https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT EBA TV LİSE  ULUSAL
+#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT EBA TV LİSE  ULUSAL
 https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT EBA TV ORTAOKUL  ULUSAL
+#EXTINF:-1 tvg-id="17" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT EBA TV ORTAOKUL  ULUSAL
 https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="25" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT KURDİ  ULUSAL
+#EXTINF:-1 tvg-id="25" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT KURDİ  ULUSAL
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT MUZİK  ULUSAL
+#EXTINF:-1 tvg-id="19" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT MUZİK  ULUSAL
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT TURK  ULUSAL
+#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT TURK  ULUSAL
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT TÜRK  EKSTRA
+#EXTINF:-1 tvg-id="46" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT TÜRK  EKSTRA
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="27" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT WORLD  ULUSAL
+#EXTINF:-1 tvg-id="27" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT WORLD  ULUSAL
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="45" tvg-logo="noimage.png" group-title="Ulusal kanallar", TRT ÇOCUK  EKSTRA
+#EXTINF:-1 tvg-id="45" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TRT ÇOCUK  EKSTRA
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="59" tvg-logo="noimage.png" group-title="Ulusal kanallar", TV 4  ULUSAL
+#EXTINF:-1 tvg-id="59" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TV 4  ULUSAL
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
-#EXTINF:-1 tvg-id="48" tvg-logo="noimage.png" group-title="Ulusal kanallar", TV 8  EKSTRA
+#EXTINF:-1 tvg-id="48" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TV 8  EKSTRA
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="Ulusal kanallar", TV 8  ULUSAL
+#EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TV 8  ULUSAL
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
 
-#EXTINF:-1 tvg-id="12" tvg-logo="noimage.png" group-title="Ulusal kanallar", TV 8.5  ULUSAL
+#EXTINF:-1 tvg-id="12" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TV 8.5  ULUSAL
 https://ecanlitv3.etvserver.com/tv855.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216
 
-#EXTINF:-1 tvg-id="81" tvg-logo="noimage.png" group-title="Ulusal kanallar", TÜRKMENELİ TV  EKSTRA
+#EXTINF:-1 tvg-id="81" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TÜRKMENELİ TV  EKSTRA
 https://fubca.com:5443/LiveApp/streams/p9tKao40IwzRAiXw1696067892766.m3u8
 
-#EXTINF:-1 tvg-id="31" tvg-logo="noimage.png" group-title="Ulusal kanallar", TV19 ÇORUM  ULUSAL
+#EXTINF:-1 tvg-id="31" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", TV19 ÇORUM  ULUSAL
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
-#EXTINF:-1 tvg-id="51" tvg-logo="noimage.png" group-title="Ulusal kanallar", WOMAN TV  EKSTRA
+#EXTINF:-1 tvg-id="51" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", WOMAN TV  EKSTRA
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-logo="noimage.png" group-title="Ulusal kanallar", ÇİFTCİ TV  ULUSAL
+#EXTINF:-1 tvg-id="13" tvg-logo="noimage.png" group-title="TR: Ulusal kanallar", ÇİFTCİ TV  ULUSAL
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="TR : Yedek 1", A Haber
