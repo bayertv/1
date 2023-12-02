@@ -194,26 +194,47 @@ http://worldclas.xyz:8080/Muharrmk/AlPRn.2023/72588
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SCHWEIZ", VOX
 http://worldclas.xyz:8080/Muharrmk/AlPRn.2023/72592
 
-#EXTINF:-1 tvg-id="60" tvg-logo="noimage.png" group-title="TR / Haber kanalları", BENGÜTÜRK TV  HABER
-https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
-
 #EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="TR / Haber kanalları", 360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="noimage.png" group-title="TR / Haber kanalları", A HABER
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
 
+#EXTINF:-1 tvg-id="60" tvg-logo="noimage.png" group-title="TR / Haber kanalları", BENGÜTÜRK TV  HABER
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+
 #EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="TR / Haber kanalları", CNN TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-logo="noimage.png" group-title="TR / Haber kanalları", FLASH HABER TV  HABER
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-logo="noimage.png" group-title="TR / Haber kanalları", HABERTÜRK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
+#EXTINF:-1 tvg-id="33" tvg-logo="noimage.png" group-title="TR / Haber kanalları", HABERTÜRK  HABER
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+
 #EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="TR / Haber kanalları", HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 
+#EXTINF:-1 tvg-id="44" tvg-logo="noimage.png" group-title="TR / Haber kanalları", HALK TV  HABER
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
 #EXTINF:-1 tvg-id="24" tvg-logo="noimage.png" group-title="TR / Haber kanalları", KRT TV
 https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/l1E2Pha.png" group-title="TR / Haber kanalları", MedyaHaber
+https://ythls.armelin.one/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-logo="noimage.png" group-title="TR / Haber kanalları", NTV  HABER
+https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TR / Haber kanalları", SOZCU TV HD
+http://worldclas.xyz:8080/Muharrmk/AlPRn.2023/90984
+
+#EXTINF:-1 tvg-id="47" tvg-logo="noimage.png" group-title="TR / Haber kanalları", TBMM TV  HABER
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 #EXTINF:-1 tvg-id="38" tvg-logo="noimage.png" group-title="TR / Haber kanalları", TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
@@ -223,21 +244,6 @@ https://ecanlitv3.etvserver.com/tgrteu.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=17005
 
 #EXTINF:-1 tvg-id="27" tvg-logo="noimage.png" group-title="TR / Haber kanalları", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="46" tvg-logo="noimage.png" group-title="TR / Haber kanalları", FLASH HABER TV  HABER
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-logo="noimage.png" group-title="TR / Haber kanalları", HABERTÜRK  HABER
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-logo="noimage.png" group-title="TR / Haber kanalları", HALK TV  HABER
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-
-#EXTINF:-1 tvg-id="39" tvg-logo="noimage.png" group-title="TR / Haber kanalları", NTV  HABER
-https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
-
-#EXTINF:-1 tvg-id="47" tvg-logo="noimage.png" group-title="TR / Haber kanalları", TBMM TV  HABER
-https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-logo="noimage.png" group-title="TR / Spor kanalları", A SPOR
 https://cakal.click/yayinas.m3u8
