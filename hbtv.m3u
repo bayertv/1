@@ -1202,30 +1202,6 @@ https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", África News 🇺🇸[Pluto]
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png" group-title="1 BAYER GLOBAL", футбол 2 Украина 🇷🇺
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png" group-title="1 BAYER GLOBAL", футбол 3 Украина 🇷🇺
-http://188.191.160.238:7780/udp/239.195.3.18:1234
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png" group-title="1 BAYER GLOBAL", футбол 3 Украина 🇷🇺
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://goo.gl/wYPLrH" group-title="1 BAYER GLOBAL", ™ FORUM IPTV https://bit.ly/31s29L6 ™
-https://lh3.googleusercontent.com/ZrzzMekRrkZXW6kNM5mYk1NU406kp-13V59qT1BmBKZSq7R3drMtjq8qq2B6EoDvum9v1ST7HWUMdkMqFN3Z-DMzukPNpu17=m22
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="1 BAYER GLOBAL", 🇺🇸 🎮➾ ESR 24x7 eSports Network 🇺🇸
-https://eyeonesports.com/720/ESR-002SCTE35.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/eurosport.png" group-title="1 BAYER GLOBAL", 🇺🇸 🎱🚴🎾⛷️➾ Eurosport
-https://varun-iptv.netlify.app/m3u/Eurosport.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.marschannels.com/files/channel_settings/img/1637571920876.svg" group-title="1 BAYER GLOBAL", 🇺🇸 💥➾ Fashion Midnightᴴᴰ
-https://bit.ly/3WlaQCx?/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/eurosport.png" group-title="1 BAYER GLOBAL", 🏎️🏍🚴🎾🏄➾ Eurosport 2 🇺🇸
-http://173.225.246.25:8889/udp/239.203.20.111:4002
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CANADA 3", CA: A&E
 http://iptvtree.net:8080/xhevahir2022/76XIsXm7iDg3G4Ow/1729
 
