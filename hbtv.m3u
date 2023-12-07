@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BayerTest", 1
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BayerTest", 2
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-logo="noimage.png" group-title="BAYER TR", 360 TV  EKSTRA
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
