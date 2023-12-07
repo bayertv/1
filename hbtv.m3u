@@ -1979,38 +1979,17 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/5MinuteCrafts.webp" group-title="1 BAYER GLOBAL", 5 Minute Crafts 🇺🇸 [Rakuten]
 https://bit.ly/3QLfTvi?/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/51Radio.png" group-title="1 BAYER GLOBAL", 51 Radio Tv 🇮🇹
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8?wmsAuthSign=InspirationLinks
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://8lamarinatv.com/wp-content/uploads/2018/05/8lamarinatv.png" group-title="1 BAYER GLOBAL", 8 La Marina 🇪🇸
-https://streaming005.gestec-video.com/hls/canal24.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/88stereo.png" group-title="1 BAYER GLOBAL", 88 Stereo 🇨🇷
-http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8?wmsAuthSign=InspirationLinks
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/A%26E.png" group-title="1 BAYER GLOBAL", A&E 🇺🇸
-https://bit.ly/3N4CUpC?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.atrescine.com/public/img/atrescine/android-chrome-192x192.png" group-title="1 BAYER GLOBAL", A3Cine ᴴᴰ 🇪🇸
-http://45.181.121.227:801/play/a055
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ATRESSeries.png" group-title="1 BAYER GLOBAL", A3Series ᴴᴰ 🇪🇸
-http://191.97.58.41:8001/play/a00l
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/AdventureEarth.jpeg" group-title="1 BAYER GLOBAL", Adventure Earth 🇺🇸
 https://bit.ly/3TdgLKh?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Afrobeats.png" group-title="1 BAYER GLOBAL", Afrobeats TV
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?wmsAuthSign=InspirationLinks
 
 #EXTINF:-1 tvg-id="aljaze.tv.vodafone.pt" tvg-logo="https://www.aljazeera.com/static/media/aj-footer-logo.bac952ad.svg" group-title="1 BAYER GLOBAL", Al Jazeeraᴴᴰ 🇬🇧
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/33894_42798_32883.jpg" group-title="1 BAYER GLOBAL", Alfred Hitchcock Presents [Legendado 🇺🇸]
-https://bit.ly/3uJKFfc?/master.m3u8?ads.xumo_channelId=99951256
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" group-title="1 BAYER GLOBAL", AMC [Legendado 🇺🇸]
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Afrobeats.png" group-title="1 BAYER GLOBAL", Afrobeats TV
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?wmsAuthSign=InspirationLinks
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" group-title="1 BAYER GLOBAL", AMC Stories [Legendado 🇺🇸]
 https://bit.ly/3CmcVEq?/playlist720p.m3u8
@@ -2021,86 +2000,17 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AMC.png" group-title="1 BAYER GLOBAL", AMC 🇺🇸
 http://45.5.117.3:4000/play/a04d/index.m3u
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="1 BAYER GLOBAL", Animal Planet HD ² 🇮🇳🇺🇸
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="1 BAYER GLOBAL", Animal Planet HD 🇮🇳🇺🇸
-https://bit.ly/3uyrN2m?/AnimalPlanet.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Animals tv 🇺🇸[Pluto]
 https://bit.ly/AnimalsPluto?/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Animaux 🇫🇷[Pluto]
-https://bit.ly/animaux_inspiration_m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Anime 🇧🇷[Pluto]
-https://bit.ly/3qY2y4m?/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png" group-title="1 BAYER GLOBAL", Antena 1
-http://radiocast.rtp.pt/antena180a.mp3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png" group-title="1 BAYER GLOBAL", Antena 1
-http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8?wowzasessionid=inspiration
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/103-551119141305.png" group-title="1 BAYER GLOBAL", Antena 1 Vida
-https://streaming-live.rtp.pt/liveradio/vida80a/chunklist_DVR.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/101-262619141305.png" group-title="1 BAYER GLOBAL", Antena 2 Jazzin
-https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/chunklist_DVR.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", Antena 3
-http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?wowzasessionid=inspiration
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp" group-title="1 BAYER GLOBAL", Antena 3 🇪🇸
-http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png" group-title="1 BAYER GLOBAL", Aragon tv Internacional 🇪🇸
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-id="arirangtv.tv.vodafone.pt" tvg-logo="https://www.arirang.com/favicon.ico" group-title="1 BAYER GLOBAL", Arirang tvᴴᴰ 🇺🇸
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="artv.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ARTV.png" group-title="1 BAYER GLOBAL", ARTV ᴴᴰ 🇵🇹
-https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sck.pm/a4n5" group-title="1 BAYER GLOBAL", Automoto 🇬🇧
 http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AXN.png" group-title="1 BAYER GLOBAL", AXN 🇲🇽
-http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AXN.png" group-title="1 BAYER GLOBAL", AXN 🇲🇽🇺🇸
-http://173.225.246.25:8889/udp/239.203.20.4:4003
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/babyfirts.png" group-title="1 BAYER GLOBAL", Baby Firts 🇧🇷[Pluto]
-https://bit.ly/BabyFirts?/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/BandNews.png" group-title="1 BAYER GLOBAL", BAND News 🇧🇷
-https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/bvRubp2.png" group-title="1 BAYER GLOBAL", Band Sport 🇧🇷
-http://45.182.178.62:7003/play/a00l
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/bvRubp2.png" group-title="1 BAYER GLOBAL", Band Sport 🇧🇷
-http://187.95.95.18/Band-Sports/video.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/bvRubp2.png" group-title="1 BAYER GLOBAL", Band Sport 🇧🇷
-http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Band.png" group-title="1 BAYER GLOBAL", BAND sᴘ ᴴᴰ 🇧🇷
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Band.png" group-title="1 BAYER GLOBAL", BAND ᴴᴰ 🇧🇷
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1464711203.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="1 BAYER GLOBAL", BBB Fazenda 23ᴴᴰ 🇧🇷
-http://45.182.178.62:7010/play/a00c
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbcamerica.png" group-title="1 BAYER GLOBAL", BBC América 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbcamerica.png" group-title="1 BAYER GLOBAL", BBC América 🇺🇸 [Only Simpletv]
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679$OPT:http-user-agent=UniversoSport
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/24a87e344fc86c9c4a5763a1d883253e95cb95af/BBCDrama.svg" group-title="1 BAYER GLOBAL", BBC Drama ᴴᴰ
 https://i.mjh.nz/PlutoTV/60dafb9a0df1ba000758d37b-alt.m3u8
@@ -2125,24 +2035,6 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/topgear.png" group-title="1 BAYER GLOBAL", BBC Top Gear [Legendado 🇺🇸]
 https://bit.ly/3RdZw9d?/playlist.m3u8?ads.xumo_channelId=99951249
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico" group-title="1 BAYER GLOBAL", bein sport 1ᴴᴰ 🇫🇷
-https://webudit.hlsjs.ru/lb/premium116/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico" group-title="1 BAYER GLOBAL", Bein Sports 1ᴴᴰ 🇫🇷[only simpletv]
-https://webudit.hlsjs.ru/lb/premium116/index.m3u8$OPT:http-referrer=https://olalivehdplay.ru/z.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico" group-title="1 BAYER GLOBAL", Bein Sports 2ᴴᴰ 🇫🇷
-https://webudit.hlsjs.ru/lb/premium117/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico" group-title="1 BAYER GLOBAL", Bein Sports 2ᴴᴰ 🇫🇷[only simpletv]
-https://webudit.hlsjs.ru/lb/premium117/index.m3u8$OPT:http-referrer=https://olalivehdplay.ru/z.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico" group-title="1 BAYER GLOBAL", Bein Sports 3ᴴᴰ 🇫🇷
-https://webudit.hlsjs.ru/lb/premium118/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico" group-title="1 BAYER GLOBAL", Bein Sports 3ᴴᴰ 🇫🇷[only simpletv]
-https://webudit.hlsjs.ru/lb/premium118/index.m3u8$OPT:http-referrer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico" group-title="1 BAYER GLOBAL", Bein SportXtra ñ 🇪🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
@@ -2429,9 +2321,6 @@ http://45.182.178.62:7002/play/a00k
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN 🇦🇷
 http://191.97.58.41:8001/play/a00h
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN 🇧🇷[Only simpletv]
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_1000/index.m3u8$OPT:http-referrer=https://futemax.gratis
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Estilo de Vida ᴴᴰ 🇧🇷
 https://bit.ly/3sdVL7a?/playlist_1280x720_3000k.m3u8
 
@@ -2602,9 +2491,6 @@ http://170.81.147.241:37000/play/a05d
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png" group-title="1 BAYER GLOBAL", Goltv 🇵🇪
 http://167.114.156.136:25461/INFINITV/ZX89NM22/208.ch
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png" group-title="1 BAYER GLOBAL", Goltv 🇵🇪[only simpletv]
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559$OPT:http-user-agent=UniversoSport
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png" group-title="1 BAYER GLOBAL", Goltv 🇵🇪[Other Players]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
@@ -2909,9 +2795,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsu
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg" group-title="1 BAYER GLOBAL", NBA tv 🇺🇸
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2309.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg" group-title="1 BAYER GLOBAL", NBA tv 🇺🇸[only simpletv]
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600$OPT:http-user-agent=UniversoSport
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/39/USBB400000145_20211117T100428.png" group-title="1 BAYER GLOBAL", NBC GolfPass 🇺🇸 [Pluto]
 https://bit.ly/42nZAHa?/index_14.m3u8
 
@@ -3022,9 +2905,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 
 #EXTINF:-1 tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/portocanal.png" group-title="1 BAYER GLOBAL", Porto Canalᴴᴰ 🇵🇹 [Other Players]
 https://ddh1.hlsjs.ru:443/ddh1/premium718/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/portocanal.png" group-title="1 BAYER GLOBAL", Porto Canalᴴᴰ 🇵🇹[Only Simpletv]
-https://ddh1.hlsjs.ru:443/ddh1/premium718/tracks-v1a1/mono.m3u8$OPT:http-referrer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Power Nation 🇺🇸[Pluto]
 https://bit.ly/3Neqc8t?/playlist.m3u8
@@ -3158,9 +3038,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENC
 #EXTINF:-1 tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1hd.png" group-title="1 BAYER GLOBAL", RTP 1 ᴴᴰ 🇵🇹
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1hd.png" group-title="1 BAYER GLOBAL", RTP 1 ᴴᴰ 🇵🇹  [only simpletv]
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8$OPT:http-user-agent=Firefox
-
 #EXTINF:-1 tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="1 BAYER GLOBAL", RTP 2 ᴴᴰ 🇵🇹
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
@@ -3257,23 +3134,14 @@ http://185.6.22.6:8000/play/a042
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png" group-title="1 BAYER GLOBAL", SK 2 🇧🇦
 https://webudit.hlsjs.ru/lb/premium102/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png" group-title="1 BAYER GLOBAL", SK 2 🇧🇦[only simpletv]
-https://webudit.hlsjs.ru/lb/premium102/index.m3u8$OPT:http-referrer=https://olalivehdplay.ru/z.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png" group-title="1 BAYER GLOBAL", SK 3 🇧🇦
 http://185.6.22.6:8000/play/a041
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png" group-title="1 BAYER GLOBAL", SK 3 🇧🇦
 https://webudit.hlsjs.ru/lb/premium103/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png" group-title="1 BAYER GLOBAL", SK 3 🇧🇦 [only simpletv]
-https://webudit.hlsjs.ru/lb/premium103/index.m3u8$OPT:http-referrer=https://olalivehdplay.ru/z.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png" group-title="1 BAYER GLOBAL", SK 4 🇧🇦
 https://webudit.hlsjs.ru/lb/premium104/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png" group-title="1 BAYER GLOBAL", SK 4 🇧🇦 [only simpletv]
-https://webudit.hlsjs.ru/lb/premium104/index.m3u8$OPT:http-referrer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png" group-title="1 BAYER GLOBAL", SK Fight 🇧🇦
 http://185.6.22.6:8000/play/a02r
@@ -3332,14 +3200,8 @@ http://103.121.60.170:8027/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png" group-title="1 BAYER GLOBAL", Sportv  Premiere 🇧🇷
 http://185.150.190.225:16476/
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/sportvbr.webp" group-title="1 BAYER GLOBAL", Sportv 2 [only simpletv]
-https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8$OPT:http-referrer=https://futemax.gratis
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/sportvbr.webp" group-title="1 BAYER GLOBAL", Sportv 2 🇧🇷
 http://51.83.238.223:16457/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/sportvbr.webp" group-title="1 BAYER GLOBAL", Sportv 🇧🇷[only simpletv]
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8$OPT:http-referrer=https://futemax.gratis
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Stadium.png" group-title="1 BAYER GLOBAL", Stadium 🇺🇸[Stirr]
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
@@ -3506,9 +3368,6 @@ https://bit.ly/TrueCrimeNow?/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/6304fb268bd95300072d2198/colorLogoPNG.png" group-title="1 BAYER GLOBAL", True Crime uk
 https://i.mjh.nz/PlutoTV/64c37e47dac71b000809abab-alt.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/true%20tennis.webp" group-title="1 BAYER GLOBAL", True Tennis 🇹🇭🇺🇸[only simpletv]
-https://sport.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8$OPT:http-referrer=https://www.youdooball.com/
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TRVL.png" group-title="1 BAYER GLOBAL", Trvl Channel ᴴᴰ 🇺🇸
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 
@@ -3589,9 +3448,6 @@ http://138.219.58.234:8112/play/101
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/usatv.png" group-title="1 BAYER GLOBAL", USA 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/usatv.png" group-title="1 BAYER GLOBAL", USA 🇺🇸[only simpletv]
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481$OPT:http-user-agent=UniversoSport
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png" group-title="1 BAYER GLOBAL", VEVO
 https://bit.ly/3maJ49S?/live.m3u8
@@ -3721,9 +3577,6 @@ https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/DAZN.png" group-title="1 BAYER GLOBAL", Zona DAZNᴴᴰ 🇮🇹
 https://3.ultimate2019.com/stream/hls/890
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/DAZN.png" group-title="1 BAYER GLOBAL", Zona DAZNᴴᴰ 🇮🇹 [only simpletv]
-https://3.ultimate2019.com/stream/hls/890$OPT:http-user-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Zoom.png" group-title="1 BAYER GLOBAL", Zoom tv 🇧🇷
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
