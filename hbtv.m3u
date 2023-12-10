@@ -236,8 +236,12 @@ https://cakal.click/yayintrtspor.m3u8
 #EXTINF:-1 tvg-id="14" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT SPOR TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayintrtspor.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT TURK  ULUSAL
+#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT TURK
+https://www.youtube.com/live/2i8lfP9oqvk?si=awf-tDepLjrlpNME
+
 
 #EXTINF:-1 tvg-id="27" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT WORLD  ULUSAL
 https://tv-trtworld.live.trt.com.tr/master.m3u8
