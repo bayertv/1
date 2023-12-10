@@ -1,109 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="noimage.png" group-title="1 BAYER TR", 360 TV  EKSTRA
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
-#EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="1 BAYER TR", 360 TV  ULUSAL
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="noimage.png" group-title="1 BAYER TR", A HABER  EKSTRA
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-logo="noimage.png" group-title="1 BAYER TR", AGRO TV  EKSTRA
-https://yayin30.haber100.com/live/agrotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="82" tvg-logo="noimage.png" group-title="1 BAYER TR", ASLAN TV  EKSTRA
-https://starkurd.ozelip.com:3459/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="82" tvg-logo="noimage.png" group-title="1 BAYER TR", ASLAN TV  EKSTRA
-https://starkurd.ozelip.com:3459/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="75" tvg-logo="noimage.png" group-title="1 BAYER TR", ATV  EKSTRA
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
-
-#EXTINF:-1 tvg-id="60" tvg-logo="noimage.png" group-title="1 BAYER TR", BENGÜTÜRK TV  HABER
-https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
-
-#EXTINF:-1 tvg-id="66" tvg-logo="noimage.png" group-title="1 BAYER TR", BERAT TV  ULUSAL
-https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-logo="noimage.png" group-title="1 BAYER TR", BEYAZ TV  EKSTRA
-https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-id="40" tvg-logo="noimage.png" group-title="1 BAYER TR", BLOOMBERG HT  HABER
-https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-
-#EXTINF:-1 tvg-id="28" tvg-logo="noimage.png" group-title="1 BAYER TR", CİNE5 TV  ULUSAL
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="1 BAYER TR", CNN TÜRK  EKSTRA
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="53" tvg-logo="noimage.png" group-title="1 BAYER TR", D MAX  EKSTRA
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-
-#EXTINF:-1 tvg-id="46" tvg-logo="noimage.png" group-title="1 BAYER TR", FLASH HABER TV  HABER
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-
-#EXTINF:-1 tvg-id="14" tvg-logo="noimage.png" group-title="1 BAYER TR", FOX TV  EKSTRA
-https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-id="15" tvg-logo="noimage.png" group-title="1 BAYER TR", HABERTÜRK  EKSTRA
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
-
-#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="1 BAYER TR", HALK TV  EKSTRA
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-
-#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="1 BAYER TR", KANAL 23  EKSTRA
-https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="19" tvg-logo="noimage.png" group-title="1 BAYER TR", KANAL 7  EKSTRA
-https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-id="21" tvg-logo="noimage.png" group-title="1 BAYER TR", KANAL D  EKSTRA
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-
-#EXTINF:-1 tvg-id="23" tvg-logo="noimage.png" group-title="1 BAYER TR", KANAL Z  EKSTRA
-https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
-
-#EXTINF:-1 tvg-id="83" tvg-logo="noimage.png" group-title="1 BAYER TR", KRAL POP TV  EKSTRA
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="24" tvg-logo="noimage.png" group-title="1 BAYER TR", KRT TV  EKSTRA
-https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-id="39" tvg-logo="noimage.png" group-title="1 BAYER TR", NTV  HABER
-https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
-
-#EXTINF:-1 tvg-id="55" tvg-logo="noimage.png" group-title="1 BAYER TR", ON6 TV  EKSTRA
-https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
-
-#EXTINF:-1 tvg-id="30" tvg-logo="noimage.png" group-title="1 BAYER TR", SHOW TV  EKSTRA
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-
-#EXTINF:-1 tvg-id="52" tvg-logo="noimage.png" group-title="1 BAYER TR", SPORTS TV  SPOR
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-logo="noimage.png" group-title="1 BAYER TR", STAR TV  ULUSAL
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-
-#EXTINF:-1 tvg-id="37" tvg-logo="noimage.png" group-title="1 BAYER TR", TARIM TV  EKSTRA
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
-
-#EXTINF:-1 tvg-id="47" tvg-logo="noimage.png" group-title="1 BAYER TR", TBMM TV  HABER
-https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-
-#EXTINF:-1 tvg-id="38" tvg-logo="noimage.png" group-title="1 BAYER TR", TELE 1  EKSTRA
-https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-id="39" tvg-logo="noimage.png" group-title="1 BAYER TR", TEVE 2  EKSTRA
-https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-
-#EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="1 BAYER TR", TLC   EKSTRA
-https://dogus-live.daioncdn.net/tlc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="1 BAYER TR", TLC   EKSTRA
-https://dogus-live.daioncdn.net/tlc/playlist.m3u8
-
 #EXTINF:-1 tvg-id="24kitchen.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2926de716268ca6fdeba45843203b6b7.png" group-title="1 BAYER TR", TR: 24 Kitchen
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1808
 
@@ -113,11 +8,20 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/636
 #EXTINF:-1 tvg-id="TR: 360" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1855a28f3b5ae332650665dfc364236b.png" group-title="1 BAYER TR", TR: 360
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/615
 
+#EXTINF:-1 tvg-id="1" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 360 TV  EKSTRA
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 360 TV  ULUSAL
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
 #EXTINF:-1 tvg-id="TR: 90 Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/6e7d0dae568b93ae126ce0ef2349954c.png" group-title="1 BAYER TR", TR: 90 Plus
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/275953
 
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/218c8e8b89865abbd3918efd02d16bf2.jpg" group-title="1 BAYER TR", TR: A Haber
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/666
+
+#EXTINF:-1 tvg-id="2" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: A HABER  EKSTRA
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
 
 #EXTINF:-1 tvg-id="TR: A News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/8ea0573983ff465fd158273ced601374.png" group-title="1 BAYER TR", TR: A News
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/284578
@@ -133,6 +37,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/163242
 
 #EXTINF:-1 tvg-id="TR: Agro TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/3e717c23d8a760618a583bb990b23de8.png" group-title="1 BAYER TR", TR: Agro TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/281360
+
+#EXTINF:-1 tvg-id="6" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: AGRO TV  EKSTRA
+https://yayin30.haber100.com/live/agrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TR: Akilli TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9ccfd42962bf61f2ef1222af30c427d5.png" group-title="1 BAYER TR", TR: Akilli TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/16809
@@ -161,8 +68,17 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/32592
 #EXTINF:-1 tvg-id="TR: AS TV Bursa" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c2ed49571c185cec5be5491ad751215e.png" group-title="1 BAYER TR", TR: AS TV Bursa
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/58133
 
+#EXTINF:-1 tvg-id="82" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: ASLAN TV  EKSTRA
+https://starkurd.ozelip.com:3459/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="82" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: ASLAN TV  EKSTRA
+https://starkurd.ozelip.com:3459/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="atv.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/69f2d05081701e62d382efdeadb96438.png" group-title="1 BAYER TR", TR: ATV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/521
+
+#EXTINF:-1 tvg-id="75" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: ATV  EKSTRA
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
 
 #EXTINF:-1 tvg-id="TR: ATV Avrupa" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/61372998d54bb2d61364dd891c78c990.png" group-title="1 BAYER TR", TR: ATV Avrupa
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/296360
@@ -257,17 +173,29 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/8224
 #EXTINF:-1 tvg-id="TR: Bengu Turk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1ac7201118e48e8927c74d4e7d2086b2.png" group-title="1 BAYER TR", TR: Bengu Turk
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/611
 
+#EXTINF:-1 tvg-id="60" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: BENGÜTÜRK TV  HABER
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+
 #EXTINF:-1 tvg-id="TR: Berat TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/9779ba0ad7d613623a74129f5486c309.png" group-title="1 BAYER TR", TR: Berat TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/291146
 
+#EXTINF:-1 tvg-id="66" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: BERAT TV  ULUSAL
+https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8
+
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/117d727a93dbf7466f92f0da411e26a5.png" group-title="1 BAYER TR", TR: Beyaz TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/524
+
+#EXTINF:-1 tvg-id="7" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: BEYAZ TV  EKSTRA
+https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="TR: Beykent TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d521026daa570bd150e6b422f2ec8d9.png" group-title="1 BAYER TR", TR: Beykent TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/36067
 
 #EXTINF:-1 tvg-id="TR: Bloomberg HT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3300490032d3e8d8524df217c0c591f2.png" group-title="1 BAYER TR", TR: Bloomberg HT
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/664
+
+#EXTINF:-1 tvg-id="40" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: BLOOMBERG HT  HABER
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
 #EXTINF:-1 tvg-id="TR: BLU TV PLAY 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="1 BAYER TR", TR: BLU TV PLAY 1
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/300422
@@ -311,8 +239,17 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/300983
 #EXTINF:-1 tvg-id="TR: Cine 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/6747b19306e60ba4e2af48c17bb708e5.png" group-title="1 BAYER TR", TR: Cine 5
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/297035
 
+#EXTINF:-1 tvg-id="28" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: CİNE5 TV  ULUSAL
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ad88b04ca24f6eb2e2fd89a87f29e683.png" group-title="1 BAYER TR", TR: CNN Turk
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/628
+
+#EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: CNN TÜRK  EKSTRA
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: D MAX  EKSTRA
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
 #EXTINF:-1 tvg-id="TR: Da Vinci" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/335e4ee4cc0197611dddcc8a6110be6d.png" group-title="1 BAYER TR", TR: Da Vinci
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1850
@@ -425,6 +362,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/192417
 #EXTINF:-1 tvg-id="TR: Flash Haber TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/a02ca62066d58a1645aab3ef5b16e6bb.png" group-title="1 BAYER TR", TR: Flash Haber TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/148308
 
+#EXTINF:-1 tvg-id="46" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: FLASH HABER TV  HABER
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+
 #EXTINF:-1 tvg-id="TR: FM TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/899e12116bb5163e2586b77f20bdd548.png" group-title="1 BAYER TR", TR: FM TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/146678
 
@@ -436,6 +376,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/579
 
 #EXTINF:-1 tvg-id="TR: Fox Life" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ac93c3800cfb2c500ed42e6d30a229cb.png" group-title="1 BAYER TR", TR: Fox Life
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/578
+
+#EXTINF:-1 tvg-id="14" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: FOX TV  EKSTRA
+https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="fxnetwork.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fd443398dba083c1772b3967e1b2c96c.png" group-title="1 BAYER TR", TR: FX
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/580
@@ -461,11 +404,17 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/652
 #EXTINF:-1 tvg-id="TR: Haberturk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6ef3885c8277d1547f4cea9c2c0ac833.png" group-title="1 BAYER TR", TR: Haberturk
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/651
 
+#EXTINF:-1 tvg-id="15" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: HABERTÜRK  EKSTRA
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
 #EXTINF:-1 tvg-id="TR: Habitat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/ba0687a74dd7ac9ffc836c47801ba286.png" group-title="1 BAYER TR", TR: Habitat
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/300398
 
 #EXTINF:-1 tvg-id="TR: Halk TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5b438ce41e52561c626fd60bde4e4e5a.png" group-title="1 BAYER TR", TR: Halk TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/617
+
+#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: HALK TV  EKSTRA
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0383f737c235ec9523ce712603700d70.png" group-title="1 BAYER TR", TR: History
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1801
@@ -494,6 +443,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/58132
 #EXTINF:-1 tvg-id="TR: Kanal 23" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/79d177d9302e47f122ef397da0bd95e8.png" group-title="1 BAYER TR", TR: Kanal 23
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/58139
 
+#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: KANAL 23  EKSTRA
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="TR: Kanal 26" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/691d50137486757d9a5c2275aec80c81.png" group-title="1 BAYER TR", TR: Kanal 26
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/11052
 
@@ -518,6 +470,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/19203
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3e53703637c336bbcdf1035b512cd0d6.png" group-title="1 BAYER TR", TR: Kanal 7
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/525
 
+#EXTINF:-1 tvg-id="19" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: KANAL 7  EKSTRA
+https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
+
 #EXTINF:-1 tvg-id="TR: Kanal 7 Avrupa" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a2d4c82b6f17a3ff4bfaef8ef7cce949.png" group-title="1 BAYER TR", TR: Kanal 7 Avrupa
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/4777
 
@@ -529,6 +484,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/605
 
 #EXTINF:-1 tvg-id="kanald.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/11746bc07a9dc85cf6120d85a7332277.png" group-title="1 BAYER TR", TR: Kanal D
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/510
+
+#EXTINF:-1 tvg-id="21" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: KANAL D  EKSTRA
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TR: Kanal Firat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/45f4b9861bc161b61b2b178c5774f626.png" group-title="1 BAYER TR", TR: Kanal Firat
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/19242
@@ -544,6 +502,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/657
 
 #EXTINF:-1 tvg-id="TR: Kanal Z" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1efbddf45d9fe278dddf63a686102dce.png" group-title="1 BAYER TR", TR: Kanal Z
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/58173
+
+#EXTINF:-1 tvg-id="23" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: KANAL Z  EKSTRA
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TR: Kardelen TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e6547f468b6c8fdba8aaca181aac24b5.png" group-title="1 BAYER TR", TR: Kardelen TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/199174
@@ -566,8 +527,14 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/667
 #EXTINF:-1 tvg-id="TR: Kral Pop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3bb31cdc59816a3b8f7305d042d99711.png" group-title="1 BAYER TR", TR: Kral Pop
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/194621
 
+#EXTINF:-1 tvg-id="83" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: KRAL POP TV  EKSTRA
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TR: KRT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/273350a7e3ba064d51347a28e095e979.png" group-title="1 BAYER TR", TR: KRT
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1826
+
+#EXTINF:-1 tvg-id="24" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: KRT TV  EKSTRA
+https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="TR: Kudüs TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/deaa952e72cabb53d5b7f9a814443d8e.png" group-title="1 BAYER TR", TR: Kudüs TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/163248
@@ -647,6 +614,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/278469
 #EXTINF:-1 tvg-id="ntv.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cf136a7dec7bc93f4f1ad1520f8f9dfd.png" group-title="1 BAYER TR", TR: NTV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/668
 
+#EXTINF:-1 tvg-id="39" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: NTV  HABER
+https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
+
 #EXTINF:-1 tvg-id="TR: Number 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2cc6614dc186a19a177394f280009735.png" group-title="1 BAYER TR", TR: Number 1
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1842
 
@@ -661,6 +631,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/44751
 
 #EXTINF:-1 tvg-id="TR: On 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/9271d610865776795097803187607686.png" group-title="1 BAYER TR", TR: On 6
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/146680
+
+#EXTINF:-1 tvg-id="55" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: ON6 TV  EKSTRA
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TR: Pamukkale TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f64062b20ecf3f8523077a34732de829.png" group-title="1 BAYER TR", TR: Pamukkale TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/76647
@@ -719,6 +692,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/278466
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2c4d5cbcad5ceb1e4427ef3c6faea6f8.png" group-title="1 BAYER TR", TR: SHOW TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/516
 
+#EXTINF:-1 tvg-id="30" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: SHOW TV  EKSTRA
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
 #EXTINF:-1 tvg-id="TR: Sinema 1001" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/751db97a44d889859bdc7bd97319ae62.png" group-title="1 BAYER TR", TR: Sinema 1001
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1789
 
@@ -767,8 +743,14 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/50121
 #EXTINF:-1 tvg-id="TR: Sports TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cfd75582e9065c9d5f9b57022733df21.png" group-title="1 BAYER TR", TR: Sports TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/89846
 
+#EXTINF:-1 tvg-id="52" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: SPORTS TV  SPOR
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1074b77ce18f87f91d9fbf5121ac7dbd.png" group-title="1 BAYER TR", TR: Star TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/512
+
+#EXTINF:-1 tvg-id="6" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: STAR TV  ULUSAL
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-id="TR: Sun RTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/81ecb7e8e8ab5bd3607858972add72a1.png" group-title="1 BAYER TR", TR: Sun RTV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/162297
@@ -782,6 +764,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/300953
 #EXTINF:-1 tvg-id="TR: Tarih TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/24ef006bc44111f2cedad8705f424902.png" group-title="1 BAYER TR", TR: Tarih TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/300437
 
+#EXTINF:-1 tvg-id="37" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TARIM TV  EKSTRA
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
+
 #EXTINF:-1 tvg-id="TR: Tarim Türk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/fb24ab018c4ee550209590d7a5e87560.png" group-title="1 BAYER TR", TR: Tarim Türk
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/281364
 
@@ -794,14 +779,23 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/16887
 #EXTINF:-1 tvg-id="TR: TBMM TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/2974222693afa87e49f3c4fec800bd5e.jpg" group-title="1 BAYER TR", TR: TBMM TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/192558
 
+#EXTINF:-1 tvg-id="47" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TBMM TV  HABER
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+
 #EXTINF:-1 tvg-id="TR: Tele 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2093456f5794199e5b7d9e3a3b0d8dea.png" group-title="1 BAYER TR", TR: Tele 1
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/654
+
+#EXTINF:-1 tvg-id="38" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TELE 1  EKSTRA
+https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="TR: Tempo TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a67d1e1b4ad2e706d5b9502403fcfd6a.png" group-title="1 BAYER TR", TR: Tempo TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/29841
 
 #EXTINF:-1 tvg-id="TR: Teve 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b68122f40311239b2169b2db393bc455.png" group-title="1 BAYER TR", TR: Teve 2
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/535
+
+#EXTINF:-1 tvg-id="39" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TEVE 2  EKSTRA
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TR: Teve 63" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3ca66c3d7b90a7f473d9f585a2dc126d.png" group-title="1 BAYER TR", TR: Teve 63
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/299517
@@ -845,6 +839,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/594
 #EXTINF:-1 tvg-id="tlc.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ace9ed69ecaab1ad9351be84fb66613d.png" group-title="1 BAYER TR", TR: TLC
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/585
 
+#EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TLC   EKSTRA
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TR: TMB" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bf762b7668823b34b75f22b46d0af857.png" group-title="1 BAYER TR", TR: TMB
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/76692
 
@@ -854,14 +851,23 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/291162
 #EXTINF:-1 tvg-id="TR: Ton TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/33a642eced6fb01e3226d727bd7ac93f.png" group-title="1 BAYER TR", TR: Ton TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/58134
 
+#EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TR: TLC   EKSTRA
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TR: Trakya Türk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/4dde5a30c8dba37366a7bbd90d15b2f6.png" group-title="1 BAYER TR", TR: Trakya Türk
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/162830
 
 #EXTINF:-1 tvg-id="trt1.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63bc976ccc960656def70edc42a71d6a.png" group-title="1 BAYER TR", TR: TRT 1
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/507
 
+#EXTINF:-1 tvg-id="40" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT 1  EKSTRA
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+
 #EXTINF:-1 tvg-id="TR: TRT 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b376110bbffd0080e60b0904b424d0dc.png" group-title="1 BAYER TR", TR: TRT 2
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/635
+
+#EXTINF:-1 tvg-id="42" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT 2  EKSTRA
+http://167.114.115.233:8080/trt2fhd/index.m3u8
 
 #EXTINF:-1 tvg-id="TR: TRT 3 Spor" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a61752a31c2d29db679bcb1851a87e58.jpg" group-title="1 BAYER TR", TR: TRT 3 Spor
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/299775
@@ -875,14 +881,29 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/622
 #EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2d5dda60ae62b888b5efb9a46e3603ab.png" group-title="1 BAYER TR", TR: TRT Belgesel
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/577
 
+#EXTINF:-1 tvg-id="44" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT BELGESEL  EKSTRA
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4c97918044ad2996399fd692049b7397.png" group-title="1 BAYER TR", TR: TRT Cocuk
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/629
+
+#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT EBA TV İLKOKUL  ULUSAL
+https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT EBA TV LİSE  ULUSAL
+https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT EBA TV ORTAOKUL  ULUSAL
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5a4b8f4b49043acfe3689f2f9223d4e2.png" group-title="1 BAYER TR", TR: TRT Haber
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/627
 
 #EXTINF:-1 tvg-id="trtmuzik.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6bb9f49cc8db4ec89ab4dcf92856d76a.png" group-title="1 BAYER TR", TR: TRT Muzik
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/630
+
+#EXTINF:-1 tvg-id="19" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT MUZİK  ULUSAL
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b48e2102ca3ffba0bdbcebcb419bbd17.png" group-title="1 BAYER TR", TR: TRT Spor
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/528
@@ -893,8 +914,17 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/32095
 #EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7aaf60ae8c58a76e9925540dc91ad578.png" group-title="1 BAYER TR", TR: TRT Turk
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/831
 
+#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT TURK  ULUSAL
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-id="trtworld.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ed414aa74c0d7648f3645f55c1286a28.png" group-title="1 BAYER TR", TR: TRT World
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/11025
+
+#EXTINF:-1 tvg-id="27" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT WORLD  ULUSAL
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT ÇOCUK  EKSTRA
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TR: Turkmenli TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/b55e5f5d4448bd65fc5b1726b5648931.jpg" group-title="1 BAYER TR", TR: Turkmenli TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/283082
@@ -907,6 +937,9 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1776
 
 #EXTINF:-1 tvg-id="TR: TV 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2c667c03e4a1aa588fbf581f5f5ff6e7.png" group-title="1 BAYER TR", TR: TV 4
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/646
+
+#EXTINF:-1 tvg-id="59" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TV 4  ULUSAL
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF:-1 tvg-id="TR: TV 41" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bee3477143ed0c30518c703c0ec82184.png" group-title="1 BAYER TR", TR: TV 41
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/6857
@@ -935,8 +968,17 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/269641
 #EXTINF:-1 tvg-id="TR: TV Net" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/250102f1bfb367ef33610da80152b901.png" group-title="1 BAYER TR", TR: TV Net
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1822
 
+#EXTINF:-1 tvg-id="31" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TV19 ÇORUM  ULUSAL
+https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+
+#EXTINF:-1 tvg-id="74" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TÜRK HABER  HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TR: TürkHaber TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/deda591362d32f0395376234f5cfd830.png" group-title="1 BAYER TR", TR: TürkHaber TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/19202
+
+#EXTINF:-1 tvg-id="81" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TÜRKMENELİ TV  EKSTRA
+https://fubca.com:5443/LiveApp/streams/p9tKao40IwzRAiXw1696067892766.m3u8
 
 #EXTINF:-1 tvg-id="TR: Ulusal Kanal" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cfbc18ec269ee7a020a09eeedfb69b9f.png" group-title="1 BAYER TR", TR: Ulusal Kanal
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/5699
@@ -986,103 +1028,61 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1851
 #EXTINF:-1 tvg-id="ulketv.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ba0296292e9bd2ba9d07bf35fd60ae3f.png" group-title="1 BAYER TR", TR: Ülke TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/626
 
-#EXTINF:-1 tvg-id="40" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT 1  EKSTRA
-https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
-
-#EXTINF:-1 tvg-id="42" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT 2  EKSTRA
-http://167.114.115.233:8080/trt2fhd/index.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT BELGESEL  EKSTRA
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT EBA TV İLKOKUL  ULUSAL
-https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT EBA TV LİSE  ULUSAL
-https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT EBA TV ORTAOKUL  ULUSAL
-https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="19" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT MUZİK  ULUSAL
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT TURK  ULUSAL
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="27" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT WORLD  ULUSAL
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="45" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT ÇOCUK  EKSTRA
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="59" tvg-logo="noimage.png" group-title="1 BAYER TR", TV 4  ULUSAL
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-
-#EXTINF:-1 tvg-id="31" tvg-logo="noimage.png" group-title="1 BAYER TR", TV19 ÇORUM  ULUSAL
-https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
-
-#EXTINF:-1 tvg-id="74" tvg-logo="noimage.png" group-title="1 BAYER TR", TÜRK HABER  HABER
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="81" tvg-logo="noimage.png" group-title="1 BAYER TR", TÜRKMENELİ TV  EKSTRA
-https://fubca.com:5443/LiveApp/streams/p9tKao40IwzRAiXw1696067892766.m3u8
-
-#EXTINF:-1 tvg-id="81" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿 ADA TV 🍿 SİNEMA
+#EXTINF:-1 tvg-id="81" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿 ADA TV 🍿 SİNEMA
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿 AFYON TÜRK 🍿 SİNEMA
+#EXTINF:-1 tvg-id="5" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿 AFYON TÜRK 🍿 SİNEMA
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿 CINE1 TV 🍿 SİNEMA
+#EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿 CINE1 TV 🍿 SİNEMA
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿 CLC TV 🍿 SİNEMA
+#EXTINF:-1 tvg-id="10" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿 CLC TV 🍿 SİNEMA
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿 RIZE TÜRK 🍿 SİNEMA
+#EXTINF:-1 tvg-id="28" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿 RIZE TÜRK 🍿 SİNEMA
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
-#EXTINF:-1 tvg-id="47" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿 TV 4 🍿 SİNEMA
+#EXTINF:-1 tvg-id="47" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿 TV 4 🍿 SİNEMA
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
-#EXTINF:-1 tvg-id="50" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿 TV 90 🍿 SİNEMA
+#EXTINF:-1 tvg-id="50" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿 TV 90 🍿 SİNEMA
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
-#EXTINF:-1 tvg-id="86" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿BLUTV PLAY 1 🍿 SİNEMA
+#EXTINF:-1 tvg-id="86" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿BLUTV PLAY 1 🍿 SİNEMA
 https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="87" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿BLUTV PLAY 2 🍿 SİNEMA
+#EXTINF:-1 tvg-id="87" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿BLUTV PLAY 2 🍿 SİNEMA
 https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="79" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿DENİZ POSTASI TV 🍿 SİNEMA
+#EXTINF:-1 tvg-id="79" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿DENİZ POSTASI TV 🍿 SİNEMA
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
-#EXTINF:-1 tvg-id="73" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿NENET TV 🍿 SİNEMA
+#EXTINF:-1 tvg-id="73" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿NENET TV 🍿 SİNEMA
 https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/index.m3u8
 
-#EXTINF:-1 tvg-id="71" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿NET SEVER 🍿 SİNEMA
+#EXTINF:-1 tvg-id="71" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿NET SEVER 🍿 SİNEMA
 https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/index.m3u8
 
-#EXTINF:-1 tvg-id="70" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿REDBOX VİZYON 1 🍿 SİNEMA
+#EXTINF:-1 tvg-id="70" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿REDBOX VİZYON 1 🍿 SİNEMA
 https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon1/index.m3u8
 
-#EXTINF:-1 tvg-id="89" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿SHOW DİJİTAL TV 🍿 SİNEMA YOUTUBE
+#EXTINF:-1 tvg-id="89" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿SHOW DİJİTAL TV 🍿 SİNEMA YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700600643/ei/48ZcZYO0N4vPi9oP9c-EsAI/ip/195.201.1.32/id/Bb7BUyO8o1c.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxaW4whqXqjozIEKqTjwe3cb8PieqeZ-ZcYGUg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgHfEoN4LZRLceeaZoqn0tWOApD-ipi3exz3k-S1NwgnECIHz1ARerrUDCSBIy3V24GIYSyz1hOfkBKwXs556QC8Fo/file/index.m3u8
 
-#EXTINF:-1 tvg-id="85" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿TİVİ6 🍿 SİNEMA
+#EXTINF:-1 tvg-id="85" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿TİVİ6 🍿 SİNEMA
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="76" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿TİVİTÜRK 🍿 SİNEMA
+#EXTINF:-1 tvg-id="76" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿TİVİTÜRK 🍿 SİNEMA
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
-#EXTINF:-1 tvg-id="69" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿YANSIMA TV 🍿 SİNEMA
+#EXTINF:-1 tvg-id="69" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿YANSIMA TV 🍿 SİNEMA
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="72" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿YEŞİLÇAM TV  2 🍿 SİNEMA
+#EXTINF:-1 tvg-id="72" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿YEŞİLÇAM TV  2 🍿 SİNEMA
 https://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv2/index.m3u8
 
-#EXTINF:-1 tvg-id="74" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿YEŞİLÇAM TV  3 🍿 SİNEMA
+#EXTINF:-1 tvg-id="74" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: 🍿YEŞİLÇAM TV  3 🍿 SİNEMA
 https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", 24 TV FHD
@@ -1538,475 +1538,475 @@ http://new.cache-stream.workers.dev/stream/UCmMPdW0rtbEI_XyIsMlMnqg/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", ZEYNO TV
 https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: 24 TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: 24 TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48425
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: 360 TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: 360 TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4065
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: A Haber HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: A Haber HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3165
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: A Spor HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: A Spor HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/828
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: A2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: A2
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4064
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Aksu TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Aksu TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48416
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: ANADOLU TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: ANADOLU TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50801
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Animal Planet HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Animal Planet HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48415
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: AS TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: AS TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48343
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: ATV Avrupa
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: ATV Avrupa
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48413
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: ATV HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: ATV HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/826
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Baby TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Baby TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48411
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Box Office 1 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Box Office 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4066
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Box Office 2 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Box Office 2 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4067
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Box Office 3 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Box Office 3 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4068
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN IZ TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN IZ TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48274
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Movies Action HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Movies Action HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3179
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Movies Family HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Movies Family HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1553
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: bein Movies Premiere 1 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: bein Movies Premiere 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52708
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Movies Premiere 2 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Movies Premiere 2 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48277
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Movies Stars HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Movies Stars HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48276
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Movies Turk HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Movies Turk HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48275
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: BEIN SERIES 1 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: BEIN SERIES 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50148
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: BEIN SERIES 2 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: BEIN SERIES 2 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50146
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: BEIN SERIES 3 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: BEIN SERIES 3 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50799
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: BEIN SERIES COMEDY HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: BEIN SERIES COMEDY HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50147
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Sport 1 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Sport 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/469
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Sport 2 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Sport 2 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1547
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Sport 3 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Sport 3 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1549
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Sport 4 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Sport 4 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49946
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: beIN Sport HABER
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: beIN Sport HABER
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54465
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: BenguTurk TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: BenguTurk TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/418
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: BEREKET  TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: BEREKET  TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50802
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Beyaz TV HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Beyaz TV HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48406
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: BEYKENT TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: BEYKENT TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48362
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: BJK TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: BJK TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48256
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Bloomberg TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Bloomberg TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/416
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: BRT 1 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: BRT 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48404
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: BRT 2 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: BRT 2 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48403
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Cartoon Network HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Cartoon Network HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48402
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Cay TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Cay TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48401
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Cem TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Cem TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48400
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: CNN Turk HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: CNN Turk HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/415
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Da Vinci Learning HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Da Vinci Learning HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48398
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Discovery Channel
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Discovery Channel
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3171
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Discovery IDX HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Discovery IDX HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48395
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Discovery SIENCE HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Discovery SIENCE HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48394
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Disney Channel
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Disney Channel
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1758
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Disney Junior
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Disney Junior
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1759
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Disney XD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Disney XD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48391
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Dizismart Max HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Dizismart Max HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48263
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Dizismart PREMIUM HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Dizismart PREMIUM HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50804
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: DOCUBOX HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: DOCUBOX HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54468
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Dost TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Dost TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48390
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Dream Truk
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Dream Truk
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48388
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Dream TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Dream TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48389
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Euro D
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Euro D
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48384
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Euro Star
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Euro Star
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48383
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: EuroSport 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: EuroSport 1
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48253
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: EuroSport 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: EuroSport 2
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48252
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Exxen Sport 1 FHD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Exxen Sport 1 FHD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54439
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: EXXEN SPORT 2 FHD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: EXXEN SPORT 2 FHD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54440
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Fenerbahce
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Fenerbahce
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48254
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Filmbox Fantastik HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Filmbox Fantastik HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48339
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Fox HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Fox HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3163
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Genc TV HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Genc TV HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48376
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: GS TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: GS TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48255
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Haber Turk FHD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Haber Turk FHD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48375
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Halk TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Halk TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48374
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: History Channel HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: History Channel HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48373
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: IDMan TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: IDMan TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48371
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Kanal 24
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Kanal 24
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/414
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Kanal 26
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Kanal 26
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48366
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Kanal 3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Kanal 3
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48370
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Kanal 58
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Kanal 58
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48365
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Kanal 7 Avrupa
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Kanal 7 Avrupa
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48369
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Kanal 7 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Kanal 7 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/413
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: KANAL B
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: KANAL B
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52716
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Kanal D HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Kanal D HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1646
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Karadeniz Akustik TV Muzik
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Karadeniz Akustik TV Muzik
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50806
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Kon TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Kon TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48360
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Kral POP HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Kral POP HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1550
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: KUDUS TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: KUDUS TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48382
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Lalegul TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Lalegul TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48357
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: MagicBox Animasyon HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: MagicBox Animasyon HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48268
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: MagicBox Komedi HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: MagicBox Komedi HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48267
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: MAVI KARADENIZ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: MAVI KARADENIZ
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48363
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Minika Cocuk HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Minika Cocuk HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48355
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Minika Go HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Minika Go HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48354
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Movies Boss TV 1 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Movies Boss TV 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53515
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Movies Boss TV 3 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Movies Boss TV 3 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53518
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Movies Boss TV 4 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Movies Boss TV 4 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53519
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: MovieSmart Action HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: MovieSmart Action HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49214
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: MovieSmart Classic HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: MovieSmart Classic HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49215
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: MovieSmart Family HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: MovieSmart Family HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48266
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: MovieSmart Fest HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: MovieSmart Fest HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49212
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: MovieSmart Platin 2 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: MovieSmart Platin 2 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48264
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: MovieSmart Platin HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: MovieSmart Platin HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49216
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: MovieSmart Turk HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: MovieSmart Turk HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49213
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Nat Geo HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Nat Geo HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48348
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Nat Geo People
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Nat Geo People
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1773
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Nat Geo Wild HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Nat Geo Wild HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1760
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Nick JR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Nick JR
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48349
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Nickeledeon HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Nickeledeon HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48352
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: NR1 Turk
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: NR1 Turk
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48353
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: NTV HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: NTV HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48351
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Planet Turk
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Planet Turk
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48342
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Power Turk HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Power Turk HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48341
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: POWER TV HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: POWER TV HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53016
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: S Sports TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: S Sports TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48251
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Salon 1 FHD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Salon 1 FHD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/802
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Salon 2 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Salon 2 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/801
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Salon 3 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Salon 3 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/800
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Semerkant TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Semerkant TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48338
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Show HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Show HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48336
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Show Max
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Show Max
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48335
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Show Turk
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Show Turk
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/411
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Sinema Action HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Sinema Action HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48273
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: SINEMA TV 1002 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: SINEMA TV 1002 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54605
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: SINEMA TV AiLE 1 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: SINEMA TV AiLE 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54603
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: SINEMA TV KOMEDi 1 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: SINEMA TV KOMEDi 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54604
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Sinema TV YERLI
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Sinema TV YERLI
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48257
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: SMART COCUK
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: SMART COCUK
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48345
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Smart Sport 1 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Smart Sport 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48243
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Smart Sport 2 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Smart Sport 2 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48242
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Star HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Star HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48337
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TGRT EU
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TGRT EU
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52714
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TGRT Haber HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TGRT Haber HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48320
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TiviBu Sport 1 FHD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TiviBu Sport 1 FHD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48241
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TiviBu Sport 2 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TiviBu Sport 2 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48240
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TiviBu Sport 3 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TiviBu Sport 3 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48239
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TiviBu Sport 4 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TiviBu Sport 4 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/55186
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TJK TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TJK TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48332
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TRT 1 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TRT 1 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/409
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TRT AVAZ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TRT AVAZ
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50809
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TRT Belgesel HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TRT Belgesel HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/406
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TRT Cocuk
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TRT Cocuk
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/405
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TRT Diyanet
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TRT Diyanet
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48328
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TRT Haber HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TRT Haber HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48327
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TRT Muzik HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TRT Muzik HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3170
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TRT Okul
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TRT Okul
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48324
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TRT Spor HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TRT Spor HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48323
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TRT Turk
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TRT Turk
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48322
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TRT World
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TRT World
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/401
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TV 2 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TV 2 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48317
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TV 4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TV 4
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48316
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TV 5
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TV 5
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48315
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TV 8.5 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TV 8.5 HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48313
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TV EM
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TV EM
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48312
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TV Kayseri
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TV Kayseri
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48311
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TV8 FHD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TV8 FHD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/795
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: TVNET HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: TVNET HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52715
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Ulke TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Ulke TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48310
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: VIASAT EXPLORER HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: VIASAT EXPLORER HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54467
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: VIASAT History HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: VIASAT History HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54466
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: Yaban TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: Yaban TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48309
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR ", TR: YOL TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="2 BAYER TR", TR: YOL TV
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/51541
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="3 BAYER TR", TR: 24 Kitchen
