@@ -236,12 +236,11 @@ https://cakal.click/yayintrtspor.m3u8
 #EXTINF:-1 tvg-id="14" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT SPOR TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayintrtspor.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT TURK
+#EXTINF:-1 tvg-id="TR | TRT Spor Yildiz HD" tvg-logo="http://xplatinmedia.com:8080/images/6d06477f640e246562ea7b624d1340d3.png" group-title="1 BAYER TR", TRT Spor Yildiz HD
+http://31.42.185.100:8080/@TheNFTbros/2PFtS2DKBuqAIxkkD3QNakbi2GxFqU/548
+
+#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT TURK  ULUSAL
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT TURK
-https://www.youtube.com/live/2i8lfP9oqvk?si=awf-tDepLjrlpNME
-
 
 #EXTINF:-1 tvg-id="27" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT WORLD  ULUSAL
 https://tv-trtworld.live.trt.com.tr/master.m3u8
@@ -330,887 +329,407 @@ https://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv2/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo="noimage.png" group-title="1 BAYER TR", 🍿YEŞİLÇAM TV  3 🍿 SİNEMA
 https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/5MinuteCrafts.webp" group-title="1 BAYER GLOBAL", 5 Minute Crafts 🇺🇸 [Rakuten]
-https://bit.ly/3QLfTvi?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", 24 TV FHD
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/AdventureEarth.jpeg" group-title="1 BAYER GLOBAL", Adventure Earth 🇺🇸
-https://bit.ly/3TdgLKh?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", 24 TV HD
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Afrobeats.png" group-title="1 BAYER GLOBAL", Afrobeats TV
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?wmsAuthSign=InspirationLinks
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", 360 TV HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-id="aljaze.tv.vodafone.pt" tvg-logo="https://www.aljazeera.com/static/media/aj-footer-logo.bac952ad.svg" group-title="1 BAYER GLOBAL", Al Jazeeraᴴᴰ 🇬🇧
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", 360 TV HD YEDEK
+https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" group-title="1 BAYER GLOBAL", AMC [Legendado 🇺🇸]
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", A HABER
+http://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" group-title="1 BAYER GLOBAL", AMC Stories [Legendado 🇺🇸]
-https://bit.ly/3CmcVEq?/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", A HABER
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" group-title="1 BAYER GLOBAL", AMC Thrillers [Legendado 🇺🇸]
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", A SPOR
+http://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AMC.png" group-title="1 BAYER GLOBAL", AMC 🇺🇸
-http://45.5.117.3:4000/play/a04d/index.m3u
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", AFYON T�RK
+https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Animals tv 🇺🇸[Pluto]
-https://bit.ly/AnimalsPluto?/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", AGRO TV
+https://yayin30.haber100.com/live/agrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="arirangtv.tv.vodafone.pt" tvg-logo="https://www.arirang.com/favicon.ico" group-title="1 BAYER GLOBAL", Arirang tvᴴᴰ 🇺🇸
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", AKiT TV HD
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sck.pm/a4n5" group-title="1 BAYER GLOBAL", Automoto 🇬🇧
-http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", AMED TV DiYARBAKIR
+http://live.amedradyotv.net:2020/hls/ferat.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/24a87e344fc86c9c4a5763a1d883253e95cb95af/BBCDrama.svg" group-title="1 BAYER GLOBAL", BBC Drama ᴴᴰ
-https://i.mjh.nz/PlutoTV/60dafb9a0df1ba000758d37b-alt.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", ANGARA TV HD
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbcearth.jpg" group-title="1 BAYER GLOBAL", BBC Earth [Legendado 🇬🇧]
-https://bit.ly/3smxcco?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", ARABESK TV
+https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbcearth.jpg" group-title="1 BAYER GLOBAL", BBC Earth 🇬🇧 [Legendado 🇺🇸]
-https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951231
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", ATV FHD
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/BBC_Food_logo.png" group-title="1 BAYER GLOBAL", BBC Food 🇺🇸[Pluto]
-https://bit.ly/bbcfood_inspiration_m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BARTIN TV HD
+http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbc%20home%26garden.png" group-title="1 BAYER GLOBAL", BBC Home & Garden [Legendado 🇧🇷]
-https://bit.ly/3xGj8e5?/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BEA TV
+https://yayin30.haber100.com/live/beykenttv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", BBC Home [Legendado 🇺🇸]
-https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951178
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BERAT TV
+http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", BBC News  🇬🇧
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BESiKTAS WEB TV
+http://s01.vpis.io/besiktas/besiktas.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/topgear.png" group-title="1 BAYER GLOBAL", BBC Top Gear [Legendado 🇺🇸]
-https://bit.ly/3RdZw9d?/playlist.m3u8?ads.xumo_channelId=99951249
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BEYAZ TV FHD
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico" group-title="1 BAYER GLOBAL", Bein SportXtra ñ 🇪🇸
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BEYAZ TV HD
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico" group-title="1 BAYER GLOBAL", Bein SportXtra 🇺🇸[Pluto]
-https://bit.ly/BeinSportXtra?/master.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BLOOMBERG HT
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1 tvg-id="DistroTV_Billiard TV" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/billiardTV.webp" group-title="1 BAYER GLOBAL", Billiard TV ² 🇺🇸[Xiaomi]
-https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BLUTV PLAY 1
+https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="DistroTV_Billiard TV" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/billiardTV.webp" group-title="1 BAYER GLOBAL", Billiard TV 🇺🇸[Distrotv]
-https://bit.ly/43xuvkW?/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BLUTV PLAY 2
+https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/61409b5108ae6e0007f9b189/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Biografy tv ᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/3KoFB23?/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BOOMERANG TV
+https://boomerang.blutv.com/blutv_boomerang/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png" group-title="1 BAYER GLOBAL", Bmadᴴᴰ 🇪🇸
-https://bit.ly/3N0q2Sx?/manifest.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BRiC-SATRANC TV
+http://139.162.182.79/live/test/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webraga.pt/wp-content/uploads/2020/04/66822479_10162074923580367_7253832045023985664_o.jpg" group-title="1 BAYER GLOBAL", Bon Appetit ᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/3oxq36U?/master1080p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BRT 1 KIBRIS
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/canaltvmotor.webp" group-title="1 BAYER GLOBAL", Canal tv Motor 🇺🇸
-https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", BRT 2 KIBRIS
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Canal%2BSport.png" group-title="1 BAYER GLOBAL", canal+ sport 2 🇵🇱
-http://89.187.179.242:12183
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", B�LTEN TV
+https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Canal%2BSport.png" group-title="1 BAYER GLOBAL", canal+ sport 5 🇵🇱
-http://89.187.179.242:1531
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", CEKMEKOY BELEDiYE TV
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/amlst:cekmekoybeltv/chunklist_w1305163043_b1694720.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Canal%2BSport.png" group-title="1 BAYER GLOBAL", canal+ sport 🇵🇱
-http://89.187.179.242:1626
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", CNN TURK HD
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ginikousa.com/channels/logo/cartoon-classics.jpg" group-title="1 BAYER GLOBAL", Cartoon Classics 🇺🇸
-https://rpn1.bozztv.com/36bay2/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", DAMAR TV
+https://tvsms.club/tv.php?kanal=damar&file=.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d697ec8c1724e5dc37d8999e9aa71ac3.webp" group-title="1 BAYER GLOBAL", Catedral do Rock
-https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w1704335745.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", DERiN TV
+https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cats247.png" group-title="1 BAYER GLOBAL", Cats 24/7 🇺🇸[Pluto]
-https://bit.ly/Cats24-7?/3000.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", DiYAR TV
+https://yayin30.haber100.com/live/diyartv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="1 BAYER GLOBAL", CGTN Documentary [Legendado 🇺🇸]
-https://livedoc.cgtn.com/1000d/prog_index.m3u8?wowzasessionid=inspiration
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", DMAX TV HD
+https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522" group-title="1 BAYER GLOBAL", Choppertown 🇺🇸
-https://bit.ly/CHOPPERTOWN?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", DOCUMAX BELGESEL
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1278/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png" group-title="1 BAYER GLOBAL", Clubbing tv ᴴᴰ [Pluto]
-https://bit.ly/321b7yZ?/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", DOST HD TV
+https://dost.stream.emsal.im/tv/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", CNN International 
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", DREAM TURK HD
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cnn.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png" group-title="1 BAYER GLOBAL", CNN 🇺🇸[Pluto]
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", D�ZG�N TV
+http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Cold|Case|Files [Legendado 🇺🇸]
-https://bit.ly/34t4Ws5?/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", EBA iLKOKUL
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Conan%20O'Brien.png" group-title="1 BAYER GLOBAL", Conan O'Brien ᴴᴰ 🇺🇸 [Pluto]
-https://bit.ly/3QsvP3A?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", EBA LiSE
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/concert.png" group-title="1 BAYER GLOBAL", Concert Channel
-http://45.5.119.197:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", EBA ORTAOKUL
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/crime%20300.png" group-title="1 BAYER GLOBAL", Crime 360ᴴᴰ [Legendado 🇺🇸]
-https://bit.ly/3C098Nw?/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", EDESSA TV URFA
+https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Crime Investigationᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/Investigationcrime?/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", EDiRNE TV
+https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Crime Timeᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/3NPyTHs?/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", ERCiS TV
+https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/CSI_Logo.png" group-title="1 BAYER GLOBAL", CSI [Legendado 🇺🇸]
-https://bit.ly/csi_inspiration_m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", ESENLER SEHiR EKRANI
+https://yayin30.haber100.com/live/sehirekrani/chunklist_w1128481069.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/62f54c11b3af68000702c304/colorLogoPNG.png" group-title="1 BAYER GLOBAL", CSI Miami [Legendado 🇺🇸]
-https://bit.ly/3M0OTFm?/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", EURO 90 CHANNEL
+https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/62f54c6439183b000769fb8f/colorLogoPNG-1662428890751.png" group-title="1 BAYER GLOBAL", CSI NY [Legendado 🇺🇸]
-https://bit.ly/41g7r8V?/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dangertv.com/themes/custom/dangertv/logo.png" group-title="1 BAYER GLOBAL", Danger tv 🇺🇸[Pluto]
-https://bit.ly/41duxNl?/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", EUROSPORT 1
+https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
 
-#EXTINF:-1 tvg-id="Deluxe Rock" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="1 BAYER GLOBAL", Deluxe Flashback
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", EUROSPORT 2
+https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
 
-#EXTINF:-1 tvg-id="Deluxe Rock" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="1 BAYER GLOBAL", Deluxe Music
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", EZO TV
+https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="1 BAYER GLOBAL", Deluxe Musicᴴᴰ
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", FB TV FHD
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/298/index.m3u8
 
-#EXTINF:-1 tvg-id="Deluxe Rock" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="1 BAYER GLOBAL", Deluxe Rock
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", FiNEST TV
+http://media.finest.tv/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discoverysci.png" group-title="1 BAYER GLOBAL", Discovery Science ᴴᴰ 🇮🇳🇺🇸
-https://bit.ly/40RL7nr?/playlistE720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", FLASH HABER HD
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discoverysci.png" group-title="1 BAYER GLOBAL", Discovery Scienceᴴᴰ ² 🇺🇸
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", FOX TV FHD
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/DiscoveryTurbo.png" group-title="1 BAYER GLOBAL", Discovery Turbo 🇺🇸
-https://bit.ly/47U6oPT?/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", FOX TV HD
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/DiscoveryTurbo.png" group-title="1 BAYER GLOBAL", Discovery Turbo 🇺🇸
-https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", GENC SMS TV
+https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discovery%20Channel.png" group-title="1 BAYER GLOBAL", Discovery ᴴᴰ ² 🇮🇳🇺🇸
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discovery%20Channel.png" group-title="1 BAYER GLOBAL", Discovery ᴴᴰ 🇺🇸
-https://bit.ly/416hEXf?/playlistE720p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", DMAX 🇮🇳🇺🇸
-https://varun-iptv.netlify.app/m3u/DMAX.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", DMAX 🇺🇸
-http://92.114.85.81:8000/play/a03b/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="1 BAYER GLOBAL", Documentary 🇺🇸[Pluto]
-https://bit.ly/DocumentarioPluto?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60e453641239a700071f53a1/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Dog Whisperer ᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/39hYnuP
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/dogs247.png" group-title="1 BAYER GLOBAL", Dogs 24/7 🇺🇸[Pluto]
-https://bit.ly/dogs24-7?/3000.m3u8
-
-#EXTINF:-1 tvg-id="localnow_Drone TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png" group-title="1 BAYER GLOBAL", Drone TV ᴴᴰ
-https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ducktv.png" group-title="1 BAYER GLOBAL", Duck tv
-http://iptv.prosto.tv:7000/ch209/video.m3u8
-
-#EXTINF:-1 tvg-id="dw.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="1 BAYER GLOBAL", DW  🇺🇸
-http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png" group-title="1 BAYER GLOBAL", Edge Sportᴴᴰ 🇺🇸[Rakuten]
-https://edgesports-row-rakuten.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/el-pais.svg" group-title="1 BAYER GLOBAL", EL PAIS 🇪🇸
-https://bit.ly/3pXfx9q?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/el-pais.svg" group-title="1 BAYER GLOBAL", EL PAIS 🇪🇸
-https://daiconnect.com/live/hls/tvup/lg-elpais/56f0832110a1bbaecc3a45a27ddba1d9/.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ElevenSports.png" group-title="1 BAYER GLOBAL", Eleven Sports 3 🇵🇹
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63302_&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ElevenSports.png" group-title="1 BAYER GLOBAL", Eleven Sports 4 🇵🇱
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63303_&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EnglishClub.png" group-title="1 BAYER GLOBAL", English Club TV ᴴᴰ 🇬🇧
-http://iptv.prosto.tv:7000/ch206/video.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN  🇧🇷[Other Players]
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_1000/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN 2 🇧🇷
-http://vdk10.life:80/16935120826/42207149695/71335
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN 3 🇦🇷
-http://191.97.58.41:8001/play/a00j
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN 3 🇧🇷
-http://vdk10.life:80/16935120826/42207149695/71193
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN 4 🇦🇷
-http://191.97.58.41:8001/play/a00p
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN Extra 🇦🇷
-http://191.97.58.41:8001/play/a00s
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN Extra 🇧🇷
-http://45.182.178.62:7002/play/a00k
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN 🇦🇷
-http://191.97.58.41:8001/play/a00h
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Estilo de Vida ᴴᴰ 🇧🇷
-https://bit.ly/3sdVL7a?/playlist_1280x720_3000k.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://uploads-ssl.webflow.com/605d30d204b9a4582f828426/605e81d7393ed246eb367d7c_256.png" group-title="1 BAYER GLOBAL", Estv 🇺🇸
-https://estv-rakuten-samsung.amagi.tv/playlist_1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.etonline.com/img/favicons/apple-icon-180x180.png" group-title="1 BAYER GLOBAL", ET Live Entertainment Tonightᴴᴰ [Stirr]
-https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/eurosport.png" group-title="1 BAYER GLOBAL", Eurosport 1 🇩🇪
-http://84.200.70.178:41142/bysid/31200
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Extremeplus.png" group-title="1 BAYER GLOBAL", Extreme Channelᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/44tAQ1a?/playlist_1920x1080.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Extremeplus.png" group-title="1 BAYER GLOBAL", Extreme Plusᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/3nCPX8Z?/playlist_1920x1080.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png" group-title="1 BAYER GLOBAL", F1 🇺🇸
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2094.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="1 BAYER GLOBAL", FailArmyᴴᴰ ³ 🇺🇸[Pluto]
-https://bit.ly/3SzVHNO?/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="1 BAYER GLOBAL", FailArmyᴴᴰ 🇺🇸[Pluto]
-https://i.mjh.nz/PlutoTV/5ad9b7ffe738977e2c312133-alt.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="1 BAYER GLOBAL", FailArmyᴴᴰ² 🇺🇸[localnow]
-https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/US/family-flix-720p/normal.png" group-title="1 BAYER GLOBAL", Family Flix 🇺🇸
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_1280x720.m3u8
-
-#EXTINF:-1 tvg-id="fashiontvhd.tv.vodafone.pt" tvg-logo="https://cdn.marschannels.com/files/channel_settings/img/1637571920876.svg" group-title="1 BAYER GLOBAL", Fashion Paris 🇺🇸
-https://bit.ly/3om0rKg?/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/fbifiles.png" group-title="1 BAYER GLOBAL", FBI Filesᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/fbi_inspiration_m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/fifamais.png" group-title="1 BAYER GLOBAL", Fifa Plus 🇵🇹🇺🇸
-https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Fishingpluto.png" group-title="1 BAYER GLOBAL", Fishing ² 🇺🇸[Pluto]
-https://bit.ly/41vKcbd?/manifest/3000.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Fishingpluto.png" group-title="1 BAYER GLOBAL", Fishing 🇺🇸[Pluto]
-https://bit.ly/Fishing_inspiration_m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="1 BAYER GLOBAL", Fite 24/7 🇺🇸[Plex]
-https://i.mjh.nz/Plex/643054b1fc3be59477853717-62c8a2d2d774648bcc76a116.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.foxtv.com/static/orion/img/core/s/logos/fts-philadelphia-a.svg" group-title="1 BAYER GLOBAL", Fox News Nowᴴᴰ 🇺🇸[Pluto]
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Fox_Sports.png" group-title="1 BAYER GLOBAL", Fox Sports 2 🇧🇷
-http://45.182.178.62:7001/play/a00m
-
-#EXTINF:-1 tvg-id="fra24e.tv.vodafone.pt" tvg-logo="https://i.imgur.com/zY7VbFh.png" group-title="1 BAYER GLOBAL", France 24 ᴴᴰ 🇫🇷
-https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="fueltvhd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/fueltv_red.png" group-title="1 BAYER GLOBAL", Fuel tv ᴴᴰ 🇵🇹 [Pluto]
-https://bit.ly/3NgxEB4?/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/fueltv_red.png" group-title="1 BAYER GLOBAL", Fuel tvᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/3VfOaDi?/playlist_1280x720_3000k.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Full Custom Garage 🇺🇸[Pluto]
-https://bit.ly/46JjUVa?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="1 BAYER GLOBAL", Galatasaray tv 🇬🇷
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c8cbfde-5e42-433b-a930-f3fba4bc3c29-profile_image-70x70.png" group-title="1 BAYER GLOBAL", Game Revolution 🇺🇸
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", GUNEYDOGU TV
+http://stream2.taksimbilisim.com:1935/gtv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/gametoon.png" group-title="1 BAYER GLOBAL", GameToonᴴᴰ 🇺🇸
-http://iptv.prosto.tv:7000/ch256/video.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", GURBET 24 TV
+http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Glamour%20tv.png" group-title="1 BAYER GLOBAL", Glamour 🇺🇸[redboxtv]
-https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", HABER 61 HD
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/gotv.png" group-title="1 BAYER GLOBAL", GO TV
-https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8?wmsAuthSign=InspirationLinks
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", HABER GLOBAL FHD
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/72/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/GoUSA.png" group-title="1 BAYER GLOBAL", Go usa ᴴᴰ 🇺🇸
-https://brandusa-gousa-1-in.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", HABER GLOBAL HD
+https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Golazo Network 🇺🇸[Pluto]
-https://bit.ly/3Tb7L8z?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", HABER TURK HD
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GoTraveler_logo_dark.png" group-title="1 BAYER GLOBAL", GoTraveler ᴴᴰ 🇺🇸
-https://bit.ly/GoTraveler?/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", HABERT�RK FHD
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/54/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GoUSA.png" group-title="1 BAYER GLOBAL", GoUSA TVᴴᴰ 🇺🇸[Plex]
-https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV//playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", HALK TV
+https://halktvdvr.blutv.com/blutv_halktv2_dvr/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/c509430d4b8cd272fec971908d8562bbaf644e09/GQ.svg" group-title="1 BAYER GLOBAL", GQ ᴴᴰ 🇺🇸[Redbox]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", HEDEF TV HD KOCAELi
+https://cdn1-hedeftv.yayin.com.tr/hedeftv/hedeftv/chunklist_w980829448_b1696000.m3u8?app=supersatforum
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/c509430d4b8cd272fec971908d8562bbaf644e09/GQ.svg" group-title="1 BAYER GLOBAL", GQ ᴴᴰ 🇺🇸[Redbox]
-https://dai2.xumo.com/xumocdn/p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxgq/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", HRT AKDENiZ
+https://vod02.cdn.web.tv/cn/ov/cnovvu97lqw_,240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="1 BAYER GLOBAL", Hallmark Movies & More ᴴᴰ [Legendado 🇺🇸]
-https://bit.ly/HallmarkMoviesMore?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KANAL 23 FHD
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="1 BAYER GLOBAL", Hard Knock Fighting 🇺🇸
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KANAL 5
+http://new.cache-stream.workers.dev/stream/UCVebw64Db0yhrPkVk-D8F6w/live.m3u8?app=supersatforum
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/HarleyDavidsonTV.png" group-title="1 BAYER GLOBAL", Harley Davidson TV 🇺🇸
-https://bit.ly/3OAG1YC?/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KANAL 56
+https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/haunttv.png" group-title="1 BAYER GLOBAL", Haunt tv 🇺🇸[Pluto]
-https://bit.ly/42N6ar7??/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KANAL 7 AVRUPA FHD
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/HGTV.png" group-title="1 BAYER GLOBAL", HGTV ᴴᴰ ² 🇺🇸
-http://143.255.35.223:8000/play/a007
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KANAL 7 FHD
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/HGTV.png" group-title="1 BAYER GLOBAL", HGTV ᴴᴰ ³ 🇮🇳🇺🇸
-https://bit.ly/47KadH3?/playlistE720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KANAL 7 HD
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/HGTV.png" group-title="1 BAYER GLOBAL", HGTV ᴴᴰ 🇮🇳🇺🇸
-https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KANAL AVRUPA FHD
+https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/HGTV.png" group-title="1 BAYER GLOBAL", HGTV ᴴᴰ 🇺🇸
-http://92.114.85.81:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KANAL B
+https://kanalb.blutv.com/blutv_kanalb2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Historias de Ultratumba ᴴᴰ 🇲🇽[Pluto]
-https://bit.ly/39vxTpZ?/playlistE720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KANAL D FHD
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/historypluto.png" group-title="1 BAYER GLOBAL", History ² 🇺🇸[Pluto]
-https://bit.ly/3mkCLQQ?/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KANAL D HD
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="1 BAYER GLOBAL", History ᴴᴰ 🇲🇽[Pluto]
-https://bit.ly/3y5kHCd?/playlistE720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KANAL GiRESUN
+https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Historyᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/historypluto?/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KANAL S
+https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Hollywire.png" group-title="1 BAYER GLOBAL", Hollywire ᴴᴰ ² 🇺🇸
-https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KASTAMONU  TV FHD
+http://51.158.204.52:8080/live/kastamonutv/kastamonutv/3385.m3u8?app=supersatforum
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Hollywire.png" group-title="1 BAYER GLOBAL", Hollywire ᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/3sMxIQT?/playlistE720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KON TV HD
+https://kontv.blutv.com/blutv_kontv2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://horizonsports.tv/assets/imgs/HsLogo45.png" group-title="1 BAYER GLOBAL", Horizon Sportsᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/3M34Af9?/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KRAL POP TV FHD
+http://dygvideo.dygdigital.com/live/hls/kralpop
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png" group-title="1 BAYER GLOBAL", Horror Machine 🇺🇸[Distrotv]
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KRAL POP TV HD
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Horror 🇺🇸[Pluto]
-https://bit.ly/horrorterror?/master_4.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", KRT TV
+http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe3c7159-2d42-47c3-a112-2c0cd847e4ef/horrorfy_logo.png" group-title="1 BAYER GLOBAL", Horrorfy 🇪🇸[Roku]
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", MELTEM TV FHD
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hunt-channel.png" group-title="1 BAYER GLOBAL", Hunt Channel 🇺🇸
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8?wowzasessionid=inspiration
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", MiLYON TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/discoveryID.png" group-title="1 BAYER GLOBAL", IDiscovery ᴴᴰ 🇺🇸 ²
-https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", NR 1 TV HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/discoveryID.png" group-title="1 BAYER GLOBAL", IDiscovery 🇮🇳🇺🇸
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2303.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", NTV HD
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/discoveryID.png" group-title="1 BAYER GLOBAL", IDiscovery 🇮🇳🇺🇸
-https://bit.ly/3MSRQaQ?/playlistE720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", ORDU BEL TV
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Impact!%20Wrestling.png" group-title="1 BAYER GLOBAL", Impact! Wrestling 🇺🇸
-https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", SHOW TV FHD
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Impact!%20Wrestling.png" group-title="1 BAYER GLOBAL", Impact! Wrestling 🇺🇸[localnow]
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", SHOW TV HD
+https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Inspector Gadget 🇺🇸[Pluto]
-https://bit.ly/3FblQIm?/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", SHOW T�RK
+https://showturk.blutv.com/blutv_showturk2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Introubltv.jpg" group-title="1 BAYER GLOBAL", Introuble tvᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/479eHHl?/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", SILA TV
+https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png" group-title="1 BAYER GLOBAL", Inwild tvᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/49tJIYf?/playlist720.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", SiNOP YILDIZ TV
+http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/inwonder.webp" group-title="1 BAYER GLOBAL", Inwonder tv ᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/3MD8dbJ?/playlist720.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", SLOW KARADENIZ TV HD
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/JohnnyCarsonTV.png" group-title="1 BAYER GLOBAL", Johnny Carson TVᴴᴰ [localnow]
-https://bit.ly/3Gh85eh?/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", SPORTS TV
+https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.juicetv.live/_resources/themes/mood/images/logo.png" group-title="1 BAYER GLOBAL", Juice tv
-https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index_2.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", STAR TV HD
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://rwpromosites.s3-website-us-east-1.amazonaws.com/marketing/images/jingles/kronehit/logo.png" group-title="1 BAYER GLOBAL", Kronehit TV 🇦🇹
-https://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", S�ZC� TV
+https://szctv.blutv.com/blutv_szctv/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2023/06/KuriakosKids_curvas.jpg" group-title="1 BAYER GLOBAL", kuriakos kidsᴴᴰ 🇵🇹
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TARIM TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" group-title="1 BAYER GLOBAL", L'Equipe Live 1 🇫🇷
-https://bit.ly/3C6tK6F?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TELE 1
+https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" group-title="1 BAYER GLOBAL", L'Equipe Live 2 🇫🇷
-https://bit.ly/3OG6GmP?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TEVE 2 FHD
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" group-title="1 BAYER GLOBAL", L'Equipe 🇫🇷
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TEVE 2 FHD YEDEK
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/34/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png" group-title="1 BAYER GLOBAL", La 1 ᴴᴰ 🇪🇸
-https://sck.pm/K0U?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TiViTURK HD
+https://stream.tiviturk.de/live/tiviturk.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png" group-title="1 BAYER GLOBAL", La 1 ᴴᴰ 🇪🇸
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TLC HD
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png" group-title="1 BAYER GLOBAL", La 1 ᴴᴰ 🇪🇸
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TOKAT TV
+https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/legendxtra.png" group-title="1 BAYER GLOBAL", Legend Xtra+1 🇺🇸
-http://92.114.85.81:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TOP POP TV
+https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png" group-title="1 BAYER GLOBAL", Lego Kids Channelᴴᴰ 🇺🇸
-https://bit.ly/3FIHUgn?/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT 1 FHD YEDEK
+https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ligacampeones.png" group-title="1 BAYER GLOBAL", Liga Campeonesᴴᴰ 🇪🇸
-http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/livexzone.png" group-title="1 BAYER GLOBAL", LivexOne 🇺🇸[Stirr]
-https://bit.ly/3MrZW9C?/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT 1 HD YEDEK
+https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/lovenature.png" group-title="1 BAYER GLOBAL", Love Nature 🇧🇷[Pluto]
-https://bit.ly/3HNWe8N?/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="1 BAYER GLOBAL", Love Natureᴴᴰ ² 🇺🇸[Pluto]
-https://bit.ly/3kKVLIy?/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT ARABi
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LovePets.png" group-title="1 BAYER GLOBAL", Love Pets ᴴᴰ 🇺🇸[vizio]
-https://bit.ly/3uVGkoY?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Love Songs [Pluto]
-https://bit.ly/3twVIny?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT BELGESEL HD
+https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Lovewine.png" group-title="1 BAYER GLOBAL", Love Wine 🇺🇸 [xumo]
-https://bit.ly/486K5GO?/playlist.m3u8?ads.xumo_channelId=99951215
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT BELGESEL HD YEDEK
+https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/M6%20Music.png" group-title="1 BAYER GLOBAL", M6 Internacional 🇫🇷
-https://bit.ly/3pQq2LG?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT COCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/M6%20Music.png" group-title="1 BAYER GLOBAL", M6 🇫🇷
-https://bit.ly/42Vqbw6?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.mastershowtv.com/admin/assets/img/logo.png" group-title="1 BAYER GLOBAL", Master show tv 🇧🇷
-http://mastershowtv.videovox.pw/master6123/master6123/chunklist_w88667257.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT KURDi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sck.pm/ykI6" group-title="1 BAYER GLOBAL", Mavtv Global 🇺🇸[Rakuten]
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT MUZiK HD
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sck.pm/ykI6" group-title="1 BAYER GLOBAL", Mavtv Select 🇺🇸[Pluto]
-https://mavtv-1-ca.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT SPOR YEDEK
+https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/M/mcm-top-logo-3649B48C16-seeklogo.com.png" group-title="1 BAYER GLOBAL", MCM Top 🇫🇷
-http://iptv.prosto.tv:7000/ch137/video.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT TURK HD
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", Megaᴴᴰ 🇪🇸
-https://bit.ly/3WBbnR1?/manifest.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TRT WORLD HD
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/fightnetwork.webp" group-title="1 BAYER GLOBAL", MFight Network 🇺🇸
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TURK HABER TV HD
+https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="1 BAYER GLOBAL", MLB 🇺🇸[Pluto]
-https://bit.ly/3NeAdCO?/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TV 1 KAYSERi
+http://stream.taksimbilisim.com:1935/tv1/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/morangosacucar.jpg" group-title="1 BAYER GLOBAL", Morangos com Açúcarᴴᴰ 🇵🇹
-https://bit.ly/3tWqMRr?/hd2-1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TV 48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
-#EXTINF:-1 tvg-id="localnow_MotoAmerica" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/motoamerica.png" group-title="1 BAYER GLOBAL", MotoAmerica 🇺🇸[localnow]
-https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TV 8 FHD
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
-#EXTINF:-1 tvg-id="localnow_MotoAmerica" tvg-logo="https://cdn.motor1.com/images/static/motor1/favicon-228.png" group-title="1 BAYER GLOBAL", Motor1 TV 🇮🇹🇺🇸[Pluto]
-https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TV 8.5 FHD
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Motorvision%20HD.png" group-title="1 BAYER GLOBAL", Motorvision 🇺🇸[localnow]
-https://ov.ottera.tv/live/master2300000.m3u8;session=mvg_mv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TV 90
+https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Motorvision%20HD.png" group-title="1 BAYER GLOBAL", Motorvision 🇺🇸[Ottera]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TV4 HD
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Movie%20Sphere%20by%20Lionsgate.png" group-title="1 BAYER GLOBAL", Movie Sphere by Lionsgate 🇺🇸[xumo]
-https://bit.ly/3uMDP8G?/playlist.m3u8?ads.xumo_channelId=99951251
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", TV4 HD YEDEK
+https://tv4.blutv.com/blutv_tv4/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MUTV.png" group-title="1 BAYER GLOBAL", MUTV 🇬🇧
-https://bit.ly/3FTAN4y?/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", ULKE TV HD
+https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/09/GBBA3300059BU_20210310T011210.png" group-title="1 BAYER GLOBAL", My time movie network ᴴᴰ [Legendado 🇧🇷]
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", ULUSAL KANAL
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/85/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/naturetime.png" group-title="1 BAYER GLOBAL", Nature Time 🇪🇸[Pluto]
-https://bit.ly/3NKeKT4?/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", VAN GOLU TV
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/naturetime.png" group-title="1 BAYER GLOBAL", Nature Time 🇫🇷[Pluto]
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", VAV TV
+http://new.cache-stream.workers.dev/stream/UCmMPdW0rtbEI_XyIsMlMnqg/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg" group-title="1 BAYER GLOBAL", NBA tv 🇺🇸
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2309.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/62ce32fb66af7043f47309e6cb3a36e3c91a84ad/NBC%20lxHome.svg" group-title="1 BAYER GLOBAL", NBC Lx Home [Legendado 🇺🇸]
-https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991651
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/NHLonNBC2012logo.png" group-title="1 BAYER GLOBAL", NBC NHL 🇺🇸 [firetv]
-https://nhl-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="1 BAYER GLOBAL", NFL 🇺🇸[Pluto]
-https://bit.ly/47Y5gKX?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="nhkworld.tv.vodafone.pt" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_152x152.png" group-title="1 BAYER GLOBAL", NHK Worldᴴᴰ 🇬🇧
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/o2Sport.png" group-title="1 BAYER GLOBAL", O2 TV SPORT 🇨🇿
-http://84.42.140.148:8880/hdmi
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/onegolf.png" group-title="1 BAYER GLOBAL", One Golf 🇺🇸
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300034DB_20210525T051534.png" group-title="1 BAYER GLOBAL", Pac 12 Insider 🇺🇸[samsungtv]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Paranormal.png" group-title="1 BAYER GLOBAL", Paranormal Status 🇺🇸[Pluto]
-https://bit.ly/ParanormalStatus?/playlist_1280x720_3000k.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", Pequeradio TV 🇪🇸
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/petclubtv.png" group-title="1 BAYER GLOBAL", Pet Club tv ᴴᴰ 🇺🇸[xiaomi]
-https://bit.ly/3Ttq5dp?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="1 BAYER GLOBAL", PGA Tour 🇺🇸 [Pluto]
-https://i.mjh.nz/PlutoTV/5de94dacb394a300099fa22a-alt.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Poker Go 🇺🇸[Pluto]
-https://bit.ly/3MDukPh?/playlist720_p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/PolsatSportPremium.png" group-title="1 BAYER GLOBAL", Polsat Sport Premium 1 🇵🇱
-http://89.187.179.242:12467
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/PolsatSportPremium.png" group-title="1 BAYER GLOBAL", Polsat Sport Premium 2 🇵🇱
-http://89.187.179.242:12468
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/PolsatSportPremium.png" group-title="1 BAYER GLOBAL", Polsat Sport Premium 🇵🇱
-http://89.187.179.242:1969
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Power Nation 🇺🇸[Pluto]
-https://bit.ly/3Neqc8t?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.premiersport.sk/wp-content/uploads/2021/10/PREMIER-SPORT-logo-colour.svg" group-title="1 BAYER GLOBAL", Premier Sport 1 🇸🇰
-http://84.42.140.147:8890/hdmi
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Premier | Paramount+ 🇪🇸🇺🇸[Pluto]
-https://bit.ly/3QPREKE?wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png" group-title="1 BAYER GLOBAL", Premiere 🇧🇷
-http://185.150.190.225:16468
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.presstv.ir/custom/images/site/LOGO.gif" group-title="1 BAYER GLOBAL", Press Tv 🇬🇧
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/PursuitUp.png" group-title="1 BAYER GLOBAL", PursuitUp 🇺🇸[Stirr]
-https://bit.ly/47BQfOP?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RacingAmerica.png" group-title="1 BAYER GLOBAL", Racing America 🇺🇸[Plex]
-https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/reallife.png" group-title="1 BAYER GLOBAL", Real Life Familiesᴴᴰ 🇺🇸[Plex]
-https://lds-realfamilies-plex.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png" group-title="1 BAYER GLOBAL", Real Madrid Tv 🇬🇧
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png" group-title="1 BAYER GLOBAL", Real Stories ᴴᴰ 🇺🇸[Pluto]
-https://realstories-samsung-uk.amagi.tv/playlist720-p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/mtrspt.png" group-title="1 BAYER GLOBAL", Rmtrspt1 🇬🇧
-https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/643d9d1d79cd3b7d4c054f71/335.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/62b9c3339f5db20007ff4867/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Rovr Pets 🇺🇸[Pluto]
-https://bit.ly/47SXpy2?wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://en.m.wikipedia.org/wiki/RT_DE#/media/File%3ART_DE_Logo_2021.png" group-title="1 BAYER GLOBAL", RT Deutsch
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="1 BAYER GLOBAL", RT English
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SilkSport.png" group-title="1 BAYER GLOBAL", Silk Sports 1 🇬🇪
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20144/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SilkSport.png" group-title="1 BAYER GLOBAL", Silk Sports 1 🇬🇪
-https://tbs01-edge11.itdc.ge/silksport1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SilkSport.png" group-title="1 BAYER GLOBAL", Silk Sports 2 🇬🇪
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20145/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SilkSport.png" group-title="1 BAYER GLOBAL", Silk Sports 2 🇬🇪
-https://tbs01-edge11.itdc.ge/silksport2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SilkSport.png" group-title="1 BAYER GLOBAL", Silk Sports 3 🇬🇪
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20146/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SilkSport.png" group-title="1 BAYER GLOBAL", Silk Sports 3 🇬🇪
-https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png" group-title="1 BAYER GLOBAL", SK 1 🇧🇦
-http://185.6.22.6:8000/play/a040
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png" group-title="1 BAYER GLOBAL", SK Fight 🇧🇦
-http://185.6.22.6:8000/play/a02r
-
-#EXTINF:-1 tvg-id="localnow_Ski TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4db4f95e42d5ab722ad92" group-title="1 BAYER GLOBAL", Ski TV 🇺🇸[localnow]
-https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
-
-#EXTINF:-1 tvg-id="skynews.tv.vodafone.pt" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Sky News ᴴᴰ 🇺🇸[Pluto]
-https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
-
-#EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Smithsonian Channel [Legendado 🇧🇷]
-https://bit.ly/3B2uidm?/playlist_1280x720_3000k.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.smithsonianchannel.com/svg/logo.svg" group-title="1 BAYER GLOBAL", Smithsonian Channel Asia ᴴᴰ 🇺🇸
-https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/SnowyMountainsTv.png" group-title="1 BAYER GLOBAL", Snowy Mountains Tv 🇺🇸
-https://i.mjh.nz/snowy-mountains.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SolMusica.png" group-title="1 BAYER GLOBAL", Sol Musica 🇪🇸
-https://bit.ly/47gjVkn?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/SonyChannel.png" group-title="1 BAYER GLOBAL", Sony Movies Channel 🇺🇸 [klowdtv]
-https://bit.ly/4858KeF?smc_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="1 BAYER GLOBAL", Sport en France 🇫🇷
-https://bit.ly/3OK0jPI?/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/sportvbr.webp" group-title="1 BAYER GLOBAL", Sportv 2 🇧🇷
-http://51.83.238.223:16457/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sck.pm/ctcN" group-title="1 BAYER GLOBAL", superyacht tv ᴴᴰ 🇺🇸
-https://sy.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfnow.png" group-title="1 BAYER GLOBAL", Surf Now tvᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/3J39Afq?/playlist_1920x1080.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/SwerveCombat.png" group-title="1 BAYER GLOBAL", Swerve Combat 🇺🇸
-https://bit.ly/47jr7N2?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tastemadeTravel.png" group-title="1 BAYER GLOBAL", Tastemade Travel ᴴᴰ 🇺🇸
-https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB.png" group-title="1 BAYER GLOBAL", Telekanal Futbol 🇷🇺
-http://188.191.160.238:7780/udp/239.195.1.45:1234
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", TeleMadrid Internacional 🇪🇸
-https://new-international-23.secure2.footprint.net/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="1 BAYER GLOBAL", TeleSur ᴴᴰ 🇵🇪
-https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="1 BAYER GLOBAL", TeleSur ᴴᴰ 🇻🇪
-https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/chunklist_w384365430.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png" group-title="1 BAYER GLOBAL", Tennis Channel Internacionalᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/3q3zsn6?/playlist720_p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/tennistv.png" group-title="1 BAYER GLOBAL", Tennis tv 🇺🇸
-http://203.154.243.88:899/TENNIS?u=hh:p=hh@1234
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Terror [Legendado 🇺🇸]
-https://i.mjh.nz/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sck.pm/gl9u" group-title="1 BAYER GLOBAL", TG Junior Kids
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/The%20Beach%20Channel.png" group-title="1 BAYER GLOBAL", The Beach Channel ᴴᴰ 🇺🇸[xumo]
-https://bit.ly/3GfK2MD?/chunklist_b3028000.m3u8
-
-#EXTINF:-1 tvg-id="TheBoatShow.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png" group-title="1 BAYER GLOBAL", The Boat Show ᴴᴰ 🇮🇹🇺🇸[Pluto]
-https://bit.ly/3O2MmMk?/3000.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/The%20Bob%20Ross%20Channel.webp" group-title="1 BAYER GLOBAL", The Bob Ross Channelᴴᴰ 🇺🇸 [Plex]
-https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/country%20network.png" group-title="1 BAYER GLOBAL", The Country Networkᴴᴰ [Stirr]
-https://bit.ly/41YBHFw?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300001X9_20230426T031131SQUARE.png_20230426031132.png" group-title="1 BAYER GLOBAL", The Jack Hanna Channel [Legendado 🇺🇸]
-https://bit.ly/47IBNVt?/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300001X9_20230426T031131SQUARE.png_20230426031132.png" group-title="1 BAYER GLOBAL", The Jack Hanna Channel 🇺🇸[tubi]
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Jack-Hannah.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png" group-title="1 BAYER GLOBAL", The Lego Channelᴴᴰ 🇺🇸
-https://bit.ly/3QpzYFN?/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/pets.png" group-title="1 BAYER GLOBAL", The Pet Collectiveᴴᴰ 🇺🇸[Pluto]
-https://bit.ly/3sYLlrg?master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/WalkingDeadUniv.png" group-title="1 BAYER GLOBAL", The Walking Dead Universe [Legendado 🇺🇸]
-https://bit.ly/TheWalkingDeadUniverse?/playlist_1280x720_3000k.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/timeline-logo.png" group-title="1 BAYER GLOBAL", TimeLineᴴᴰ 🇺🇸
-https://timeline-samsung-uk.amagi.tv/playlist720-p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TLC.png" group-title="1 BAYER GLOBAL", TLC ²
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TLC.png" group-title="1 BAYER GLOBAL", TLC 🇮🇳🇺🇸
-https://bit.ly/3sTqkmP?/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/dbc8c6481d149d5b54521b167373f175b4274b0a/tntSports.svg" group-title="1 BAYER GLOBAL", tntsports 🇧🇷
-https://bit.ly/3u9nryO?laylist-720p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Tortues Ninja 🇺🇸[Pluto]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="1 BAYER GLOBAL", Trace
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="1 BAYER GLOBAL", Trace Latina
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tracehd.tv.vodafone.pt" tvg-logo="https://br.trace.company/wp-content/uploads//2017/04/logo_sport1.png" group-title="1 BAYER GLOBAL", Trace Sports 🇺🇸[Pluto]
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="1 BAYER GLOBAL", Trace Urban
-http://95.67.12.82:9068/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="1 BAYER GLOBAL", Trace Urban ²
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tfh.png" group-title="1 BAYER GLOBAL", Trailers from Hell 🇺🇸
-https://bec-trailersfromhell-1-us.plex.wurl.tv/4300.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trailers.png" group-title="1 BAYER GLOBAL", Trailersᴴᴰ 🇺🇸🇪🇸
-https://bit.ly/3WChqoj?/chunklist_b1290000_slpt.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trailers.png" group-title="1 BAYER GLOBAL", Trailersᴴᴰ 🇺🇸🇮🇹
-https://bit.ly/4324sCN?/chunklist_b1290000_slpt.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Travel ᴴᴰ [Legendado 🇺🇸]
-https://i.mjh.nz/PlutoTV/59c01b1953680139c6ae9d4d-alt.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png" group-title="1 BAYER GLOBAL", Travelxp 🇺🇸[Rakuten]
-https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", Trips Marter ᴴᴰ 🇺🇸
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", TRT Worldᴴᴰ 🇬🇧
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/truecrimenow.png" group-title="1 BAYER GLOBAL", True Crime Now [Legendado 🇺🇸]
-https://bit.ly/TrueCrimeNow?/manifest/3000.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/6304fb268bd95300072d2198/colorLogoPNG.png" group-title="1 BAYER GLOBAL", True Crime uk
-https://i.mjh.nz/PlutoTV/64c37e47dac71b000809abab-alt.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TRVL.png" group-title="1 BAYER GLOBAL", Trvl Channel ᴴᴰ 🇺🇸
-https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/tvlondres.png" group-title="1 BAYER GLOBAL", Tv Londres
-https://cdn2.connectbr.com.br/oxtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", Türkmenistan Sport 🇹🇷
-http://217.174.225.146/hls/ch004_720/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/voyagerDocu.png" group-title="1 BAYER GLOBAL", Voyager Documentaries [Legendado 🇺🇸]
-https://bit.ly/3mAWlc5?/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.warnerbros.com/assets/apple-touch-icon.png" group-title="1 BAYER GLOBAL", Warner Tv ᴴᴰ 🇲🇽
-http://138.219.58.234:8112/play/081
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.warnerbros.com/assets/apple-touch-icon.png" group-title="1 BAYER GLOBAL", Warner Tv ᴴᴰ 🇲🇽
-http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.warnerbros.com/assets/apple-touch-icon.png" group-title="1 BAYER GLOBAL", Warner Tv ᴴᴰ 🇺🇸🇮🇹
-http://176.65.146.136:8019/play/a07l/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/waypoint.png" group-title="1 BAYER GLOBAL", Waypoint TVᴴᴰ 🇺🇸[Sitrr]
-https://i.mjh.nz/PlutoTV/61b3ec5ac547920007daf647-alt.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wildearth.png" group-title="1 BAYER GLOBAL", Wild Earthᴴᴰ 🇺🇸[Plex]
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wildearth.png" group-title="1 BAYER GLOBAL", Wild Earthᴴᴰ 🇺🇸[Rewardedtv]
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-wildearth-rewardedtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/wildplanett" group-title="1 BAYER GLOBAL", Wild Planetᴴᴰ 🇺🇸[Plex]
-https://bit.ly/41ykXoq?/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20201007T012217.png" group-title="1 BAYER GLOBAL", Wildlife tvᴴᴰ 🇺🇸
-https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Wired2Fish.png" group-title="1 BAYER GLOBAL", Wired2Fish 🇺🇸[Plex]
-https://bit.ly/3SzxVBt?/playlist_1280x720.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/womensports.webp" group-title="1 BAYER GLOBAL", Womens Sports Network 🇺🇸[Plex]
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png" group-title="1 BAYER GLOBAL", wonder tv ᴴᴰ 🇺🇸[Pluto]
-https://wonder-samsung-uk.amagi.tv/playlist720-p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/01/World-Billiards-TV_Logo_sml.png" group-title="1 BAYER GLOBAL", World Billiards tv 🇺🇸[Otteratv]
-https://bit.ly/3JYZmO5?/playlist720_p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="1 BAYER GLOBAL", WPT 🇺🇸[Pluto]
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/xplore.webp" group-title="1 BAYER GLOBAL", Xplore 🇺🇸[Pluto]
-http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/XtremeOutdoor.png" group-title="1 BAYER GLOBAL", Xtreme Outdoor [Legendado 🇺🇸]
-https://bit.ly/3R6dsmU?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DistroTV_Young Hollywood" tvg-logo="https://younghollywood.com/templates/yh2016/images/logo.png" group-title="1 BAYER GLOBAL", Young Hollywood ² 🇺🇸[Stirr]
-https://dai.google.com/linear/hls/event/PXzvwCecR2eybIVtd-593w/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://younghollywood.com/templates/yh2016/images/logo.png" group-title="1 BAYER GLOBAL", Young Hollywoodᴴᴰ [Pluto]
-https://younghollywood-rakuten-samsung.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/ziggosport.ico" group-title="1 BAYER GLOBAL", Ziggo Select 🇳🇱
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73731.ch
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/ziggosport.ico" group-title="1 BAYER GLOBAL", Ziggo Sport Extra 🇳🇱
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73727.ch
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/ziggosport.ico" group-title="1 BAYER GLOBAL", Ziggo Voetbal 🇳🇱
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73732.ch
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/DAZN.png" group-title="1 BAYER GLOBAL", Zona DAZNᴴᴰ 🇮🇹
-https://3.ultimate2019.com/stream/hls/890
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png" group-title="1 BAYER GLOBAL", ZooMoo 🇺🇸[Pluto]
-https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", África News 🇺🇸[Pluto]
-https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR YEDEK", ZEYNO TV
+https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CANADA 3", CA: A&E
 http://iptvtree.net:8080/xhevahir2022/76XIsXm7iDg3G4Ow/1729
@@ -27156,24 +26675,906 @@ http://37.49.225.197:8080/EyQcvdQmdH/f7bdd5a828/174242
 #EXTINF:-1 tvg-id="AT: W24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/92cee47e04b4783bf4d1c9d23d35ae0d.png" group-title="ÖSTERREICH 5", AT: W24
 http://37.49.225.197:8080/EyQcvdQmdH/f7bdd5a828/285322
 
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="ÖSTERREICH SPORT ", 4K SKY SPORT AUSTRIA 1 DE
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="ÖSTERREICH SPORT", 4K SKY SPORT AUSTRIA 1 DE
 http://mix-dns.com:8080/alonsoj.chavez@gmail.com/XPZBzYvkxh/522198
 
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="ÖSTERREICH SPORT ", 4K SKY SPORT AUSTRIA 3 DE
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="ÖSTERREICH SPORT", 4K SKY SPORT AUSTRIA 3 DE
 http://mix-dns.com:8080/alonsoj.chavez@gmail.com/XPZBzYvkxh/522200
 
-#EXTINF:-1 tvg-id="SkySport4.de" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="ÖSTERREICH SPORT ", 4K SKY SPORT AUSTRIA 4 DE
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="ÖSTERREICH SPORT", 4K SKY SPORT AUSTRIA 4 DE
 http://mix-dns.com:8080/alonsoj.chavez@gmail.com/XPZBzYvkxh/522201
 
-#EXTINF:-1 tvg-id="SkySport5.de" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="ÖSTERREICH SPORT ", 4K SKY SPORT AUSTRIA 5 DE
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="ÖSTERREICH SPORT", 4K SKY SPORT AUSTRIA 5 DE
 http://mix-dns.com:8080/alonsoj.chavez@gmail.com/XPZBzYvkxh/522202
 
-#EXTINF:-1 tvg-id="SkySport6.de" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="ÖSTERREICH SPORT ", 4K SKY SPORT AUSTRIA 6 DE
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="ÖSTERREICH SPORT", 4K SKY SPORT AUSTRIA 6 DE
 http://mix-dns.com:8080/alonsoj.chavez@gmail.com/XPZBzYvkxh/522203
 
-#EXTINF:-1 tvg-id="SkySport7.de" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="ÖSTERREICH SPORT ", 4K SKY SPORT AUSTRIA 7 DE
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="ÖSTERREICH SPORT", 4K SKY SPORT AUSTRIA 7 DE
 http://mix-dns.com:8080/alonsoj.chavez@gmail.com/XPZBzYvkxh/522204
 
-#EXTINF:-1 tvg-id="World Sky Sport Austria HD AUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GDJ-World-Flags-Globe.svg/1047px-GDJ-World-Flags-Globe.svg.png" group-title="ÖSTERREICH SPORT ", World Sky Sport Austria HD AUT
+#EXTINF:-1 tvg-id="World Sky Sport Austria HD AUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GDJ-World-Flags-Globe.svg/1047px-GDJ-World-Flags-Globe.svg.png" group-title="ÖSTERREICH SPORT", World Sky Sport Austria HD AUT
 http://mix-dns.com:8080/alonsoj.chavez@gmail.com/XPZBzYvkxh/214143
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/5MinuteCrafts.webp" group-title="1 BAYER GLOBAL", 5 Minute Crafts 🇺🇸 [Rakuten]
+https://bit.ly/3QLfTvi?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/AdventureEarth.jpeg" group-title="1 BAYER GLOBAL", Adventure Earth 🇺🇸
+https://bit.ly/3TdgLKh?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Afrobeats.png" group-title="1 BAYER GLOBAL", Afrobeats TV
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?wmsAuthSign=InspirationLinks
+
+#EXTINF:-1 tvg-id="aljaze.tv.vodafone.pt" tvg-logo="https://www.aljazeera.com/static/media/aj-footer-logo.bac952ad.svg" group-title="1 BAYER GLOBAL", Al Jazeeraᴴᴰ 🇬🇧
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" group-title="1 BAYER GLOBAL", AMC [Legendado 🇺🇸]
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" group-title="1 BAYER GLOBAL", AMC Stories [Legendado 🇺🇸]
+https://bit.ly/3CmcVEq?/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" group-title="1 BAYER GLOBAL", AMC Thrillers [Legendado 🇺🇸]
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AMC.png" group-title="1 BAYER GLOBAL", AMC 🇺🇸
+http://45.5.117.3:4000/play/a04d/index.m3u
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Animals tv 🇺🇸[Pluto]
+https://bit.ly/AnimalsPluto?/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="arirangtv.tv.vodafone.pt" tvg-logo="https://www.arirang.com/favicon.ico" group-title="1 BAYER GLOBAL", Arirang tvᴴᴰ 🇺🇸
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sck.pm/a4n5" group-title="1 BAYER GLOBAL", Automoto 🇬🇧
+http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/24a87e344fc86c9c4a5763a1d883253e95cb95af/BBCDrama.svg" group-title="1 BAYER GLOBAL", BBC Drama ᴴᴰ
+https://i.mjh.nz/PlutoTV/60dafb9a0df1ba000758d37b-alt.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbcearth.jpg" group-title="1 BAYER GLOBAL", BBC Earth [Legendado 🇬🇧]
+https://bit.ly/3smxcco?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbcearth.jpg" group-title="1 BAYER GLOBAL", BBC Earth 🇬🇧 [Legendado 🇺🇸]
+https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951231
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/BBC_Food_logo.png" group-title="1 BAYER GLOBAL", BBC Food 🇺🇸[Pluto]
+https://bit.ly/bbcfood_inspiration_m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbc%20home%26garden.png" group-title="1 BAYER GLOBAL", BBC Home & Garden [Legendado 🇧🇷]
+https://bit.ly/3xGj8e5?/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", BBC Home [Legendado 🇺🇸]
+https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951178
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", BBC News  🇬🇧
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/topgear.png" group-title="1 BAYER GLOBAL", BBC Top Gear [Legendado 🇺🇸]
+https://bit.ly/3RdZw9d?/playlist.m3u8?ads.xumo_channelId=99951249
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico" group-title="1 BAYER GLOBAL", Bein SportXtra ñ 🇪🇸
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico" group-title="1 BAYER GLOBAL", Bein SportXtra 🇺🇸[Pluto]
+https://bit.ly/BeinSportXtra?/master.m3u8
+
+#EXTINF:-1 tvg-id="DistroTV_Billiard TV" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/billiardTV.webp" group-title="1 BAYER GLOBAL", Billiard TV ² 🇺🇸[Xiaomi]
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DistroTV_Billiard TV" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/billiardTV.webp" group-title="1 BAYER GLOBAL", Billiard TV 🇺🇸[Distrotv]
+https://bit.ly/43xuvkW?/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/61409b5108ae6e0007f9b189/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Biografy tv ᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/3KoFB23?/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png" group-title="1 BAYER GLOBAL", Bmadᴴᴰ 🇪🇸
+https://bit.ly/3N0q2Sx?/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webraga.pt/wp-content/uploads/2020/04/66822479_10162074923580367_7253832045023985664_o.jpg" group-title="1 BAYER GLOBAL", Bon Appetit ᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/3oxq36U?/master1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/canaltvmotor.webp" group-title="1 BAYER GLOBAL", Canal tv Motor 🇺🇸
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Canal%2BSport.png" group-title="1 BAYER GLOBAL", canal+ sport 2 🇵🇱
+http://89.187.179.242:12183
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Canal%2BSport.png" group-title="1 BAYER GLOBAL", canal+ sport 5 🇵🇱
+http://89.187.179.242:1531
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Canal%2BSport.png" group-title="1 BAYER GLOBAL", canal+ sport 🇵🇱
+http://89.187.179.242:1626
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ginikousa.com/channels/logo/cartoon-classics.jpg" group-title="1 BAYER GLOBAL", Cartoon Classics 🇺🇸
+https://rpn1.bozztv.com/36bay2/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d697ec8c1724e5dc37d8999e9aa71ac3.webp" group-title="1 BAYER GLOBAL", Catedral do Rock
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w1704335745.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cats247.png" group-title="1 BAYER GLOBAL", Cats 24/7 🇺🇸[Pluto]
+https://bit.ly/Cats24-7?/3000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="1 BAYER GLOBAL", CGTN Documentary [Legendado 🇺🇸]
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?wowzasessionid=inspiration
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522" group-title="1 BAYER GLOBAL", Choppertown 🇺🇸
+https://bit.ly/CHOPPERTOWN?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png" group-title="1 BAYER GLOBAL", Clubbing tv ᴴᴰ [Pluto]
+https://bit.ly/321b7yZ?/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cnn.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png" group-title="1 BAYER GLOBAL", CNN 🇺🇸[Pluto]
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Cold|Case|Files [Legendado 🇺🇸]
+https://bit.ly/34t4Ws5?/playlist1080-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Conan%20O'Brien.png" group-title="1 BAYER GLOBAL", Conan O'Brien ᴴᴰ 🇺🇸 [Pluto]
+https://bit.ly/3QsvP3A?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/concert.png" group-title="1 BAYER GLOBAL", Concert Channel
+http://45.5.119.197:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/crime%20300.png" group-title="1 BAYER GLOBAL", Crime 360ᴴᴰ [Legendado 🇺🇸]
+https://bit.ly/3C098Nw?/playlist1080-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Crime Investigationᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/Investigationcrime?/playlist1080-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Crime Timeᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/3NPyTHs?/playlist1080-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/CSI_Logo.png" group-title="1 BAYER GLOBAL", CSI [Legendado 🇺🇸]
+https://bit.ly/csi_inspiration_m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/62f54c11b3af68000702c304/colorLogoPNG.png" group-title="1 BAYER GLOBAL", CSI Miami [Legendado 🇺🇸]
+https://bit.ly/3M0OTFm?/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/62f54c6439183b000769fb8f/colorLogoPNG-1662428890751.png" group-title="1 BAYER GLOBAL", CSI NY [Legendado 🇺🇸]
+https://bit.ly/41g7r8V?/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dangertv.com/themes/custom/dangertv/logo.png" group-title="1 BAYER GLOBAL", Danger tv 🇺🇸[Pluto]
+https://bit.ly/41duxNl?/playlist1080-p.m3u8
+
+#EXTINF:-1 tvg-id="Deluxe Rock" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="1 BAYER GLOBAL", Deluxe Flashback
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+
+#EXTINF:-1 tvg-id="Deluxe Rock" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="1 BAYER GLOBAL", Deluxe Music
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="1 BAYER GLOBAL", Deluxe Musicᴴᴰ
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="Deluxe Rock" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="1 BAYER GLOBAL", Deluxe Rock
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discoverysci.png" group-title="1 BAYER GLOBAL", Discovery Science ᴴᴰ 🇮🇳🇺🇸
+https://bit.ly/40RL7nr?/playlistE720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discoverysci.png" group-title="1 BAYER GLOBAL", Discovery Scienceᴴᴰ ² 🇺🇸
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/DiscoveryTurbo.png" group-title="1 BAYER GLOBAL", Discovery Turbo 🇺🇸
+https://bit.ly/47U6oPT?/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/DiscoveryTurbo.png" group-title="1 BAYER GLOBAL", Discovery Turbo 🇺🇸
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discovery%20Channel.png" group-title="1 BAYER GLOBAL", Discovery ᴴᴰ ² 🇮🇳🇺🇸
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discovery%20Channel.png" group-title="1 BAYER GLOBAL", Discovery ᴴᴰ 🇺🇸
+https://bit.ly/416hEXf?/playlistE720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", DMAX 🇮🇳🇺🇸
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", DMAX 🇺🇸
+http://92.114.85.81:8000/play/a03b/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="1 BAYER GLOBAL", Documentary 🇺🇸[Pluto]
+https://bit.ly/DocumentarioPluto?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60e453641239a700071f53a1/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Dog Whisperer ᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/39hYnuP
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/dogs247.png" group-title="1 BAYER GLOBAL", Dogs 24/7 🇺🇸[Pluto]
+https://bit.ly/dogs24-7?/3000.m3u8
+
+#EXTINF:-1 tvg-id="localnow_Drone TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png" group-title="1 BAYER GLOBAL", Drone TV ᴴᴰ
+https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ducktv.png" group-title="1 BAYER GLOBAL", Duck tv
+http://iptv.prosto.tv:7000/ch209/video.m3u8
+
+#EXTINF:-1 tvg-id="dw.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="1 BAYER GLOBAL", DW  🇺🇸
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png" group-title="1 BAYER GLOBAL", Edge Sportᴴᴰ 🇺🇸[Rakuten]
+https://edgesports-row-rakuten.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/el-pais.svg" group-title="1 BAYER GLOBAL", EL PAIS 🇪🇸
+https://bit.ly/3pXfx9q?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/el-pais.svg" group-title="1 BAYER GLOBAL", EL PAIS 🇪🇸
+https://daiconnect.com/live/hls/tvup/lg-elpais/56f0832110a1bbaecc3a45a27ddba1d9/.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ElevenSports.png" group-title="1 BAYER GLOBAL", Eleven Sports 3 🇵🇹
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63302_&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ElevenSports.png" group-title="1 BAYER GLOBAL", Eleven Sports 4 🇵🇱
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63303_&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EnglishClub.png" group-title="1 BAYER GLOBAL", English Club TV ᴴᴰ 🇬🇧
+http://iptv.prosto.tv:7000/ch206/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN  🇧🇷[Other Players]
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_1000/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN 2 🇧🇷
+http://vdk10.life:80/16935120826/42207149695/71335
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN 3 🇦🇷
+http://191.97.58.41:8001/play/a00j
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN 3 🇧🇷
+http://vdk10.life:80/16935120826/42207149695/71193
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN 4 🇦🇷
+http://191.97.58.41:8001/play/a00p
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN Extra 🇦🇷
+http://191.97.58.41:8001/play/a00s
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN Extra 🇧🇷
+http://45.182.178.62:7002/play/a00k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png" group-title="1 BAYER GLOBAL", ESPN 🇦🇷
+http://191.97.58.41:8001/play/a00h
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Estilo de Vida ᴴᴰ 🇧🇷
+https://bit.ly/3sdVL7a?/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://uploads-ssl.webflow.com/605d30d204b9a4582f828426/605e81d7393ed246eb367d7c_256.png" group-title="1 BAYER GLOBAL", Estv 🇺🇸
+https://estv-rakuten-samsung.amagi.tv/playlist_1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.etonline.com/img/favicons/apple-icon-180x180.png" group-title="1 BAYER GLOBAL", ET Live Entertainment Tonightᴴᴰ [Stirr]
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/eurosport.png" group-title="1 BAYER GLOBAL", Eurosport 1 🇩🇪
+http://84.200.70.178:41142/bysid/31200
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Extremeplus.png" group-title="1 BAYER GLOBAL", Extreme Channelᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/44tAQ1a?/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Extremeplus.png" group-title="1 BAYER GLOBAL", Extreme Plusᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/3nCPX8Z?/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png" group-title="1 BAYER GLOBAL", F1 🇺🇸
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2094.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="1 BAYER GLOBAL", FailArmyᴴᴰ ³ 🇺🇸[Pluto]
+https://bit.ly/3SzVHNO?/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="1 BAYER GLOBAL", FailArmyᴴᴰ 🇺🇸[Pluto]
+https://i.mjh.nz/PlutoTV/5ad9b7ffe738977e2c312133-alt.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="1 BAYER GLOBAL", FailArmyᴴᴰ² 🇺🇸[localnow]
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/US/family-flix-720p/normal.png" group-title="1 BAYER GLOBAL", Family Flix 🇺🇸
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="fashiontvhd.tv.vodafone.pt" tvg-logo="https://cdn.marschannels.com/files/channel_settings/img/1637571920876.svg" group-title="1 BAYER GLOBAL", Fashion Paris 🇺🇸
+https://bit.ly/3om0rKg?/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/fbifiles.png" group-title="1 BAYER GLOBAL", FBI Filesᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/fbi_inspiration_m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/fifamais.png" group-title="1 BAYER GLOBAL", Fifa Plus 🇵🇹🇺🇸
+https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Fishingpluto.png" group-title="1 BAYER GLOBAL", Fishing ² 🇺🇸[Pluto]
+https://bit.ly/41vKcbd?/manifest/3000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Fishingpluto.png" group-title="1 BAYER GLOBAL", Fishing 🇺🇸[Pluto]
+https://bit.ly/Fishing_inspiration_m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="1 BAYER GLOBAL", Fite 24/7 🇺🇸[Plex]
+https://i.mjh.nz/Plex/643054b1fc3be59477853717-62c8a2d2d774648bcc76a116.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.foxtv.com/static/orion/img/core/s/logos/fts-philadelphia-a.svg" group-title="1 BAYER GLOBAL", Fox News Nowᴴᴰ 🇺🇸[Pluto]
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Fox_Sports.png" group-title="1 BAYER GLOBAL", Fox Sports 2 🇧🇷
+http://45.182.178.62:7001/play/a00m
+
+#EXTINF:-1 tvg-id="fra24e.tv.vodafone.pt" tvg-logo="https://i.imgur.com/zY7VbFh.png" group-title="1 BAYER GLOBAL", France 24 ᴴᴰ 🇫🇷
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fueltvhd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/fueltv_red.png" group-title="1 BAYER GLOBAL", Fuel tv ᴴᴰ 🇵🇹 [Pluto]
+https://bit.ly/3NgxEB4?/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/fueltv_red.png" group-title="1 BAYER GLOBAL", Fuel tvᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/3VfOaDi?/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Full Custom Garage 🇺🇸[Pluto]
+https://bit.ly/46JjUVa?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="1 BAYER GLOBAL", Galatasaray tv 🇬🇷
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c8cbfde-5e42-433b-a930-f3fba4bc3c29-profile_image-70x70.png" group-title="1 BAYER GLOBAL", Game Revolution 🇺🇸
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/gametoon.png" group-title="1 BAYER GLOBAL", GameToonᴴᴰ 🇺🇸
+http://iptv.prosto.tv:7000/ch256/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Glamour%20tv.png" group-title="1 BAYER GLOBAL", Glamour 🇺🇸[redboxtv]
+https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/gotv.png" group-title="1 BAYER GLOBAL", GO TV
+https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8?wmsAuthSign=InspirationLinks
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/GoUSA.png" group-title="1 BAYER GLOBAL", Go usa ᴴᴰ 🇺🇸
+https://brandusa-gousa-1-in.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Golazo Network 🇺🇸[Pluto]
+https://bit.ly/3Tb7L8z?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GoTraveler_logo_dark.png" group-title="1 BAYER GLOBAL", GoTraveler ᴴᴰ 🇺🇸
+https://bit.ly/GoTraveler?/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GoUSA.png" group-title="1 BAYER GLOBAL", GoUSA TVᴴᴰ 🇺🇸[Plex]
+https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV//playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/c509430d4b8cd272fec971908d8562bbaf644e09/GQ.svg" group-title="1 BAYER GLOBAL", GQ ᴴᴰ 🇺🇸[Redbox]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/c509430d4b8cd272fec971908d8562bbaf644e09/GQ.svg" group-title="1 BAYER GLOBAL", GQ ᴴᴰ 🇺🇸[Redbox]
+https://dai2.xumo.com/xumocdn/p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxgq/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="1 BAYER GLOBAL", Hallmark Movies & More ᴴᴰ [Legendado 🇺🇸]
+https://bit.ly/HallmarkMoviesMore?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="1 BAYER GLOBAL", Hard Knock Fighting 🇺🇸
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/HarleyDavidsonTV.png" group-title="1 BAYER GLOBAL", Harley Davidson TV 🇺🇸
+https://bit.ly/3OAG1YC?/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/haunttv.png" group-title="1 BAYER GLOBAL", Haunt tv 🇺🇸[Pluto]
+https://bit.ly/42N6ar7??/playlist1080-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/HGTV.png" group-title="1 BAYER GLOBAL", HGTV ᴴᴰ ² 🇺🇸
+http://143.255.35.223:8000/play/a007
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/HGTV.png" group-title="1 BAYER GLOBAL", HGTV ᴴᴰ ³ 🇮🇳🇺🇸
+https://bit.ly/47KadH3?/playlistE720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/HGTV.png" group-title="1 BAYER GLOBAL", HGTV ᴴᴰ 🇮🇳🇺🇸
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/HGTV.png" group-title="1 BAYER GLOBAL", HGTV ᴴᴰ 🇺🇸
+http://92.114.85.81:8000/play/a037/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Historias de Ultratumba ᴴᴰ 🇲🇽[Pluto]
+https://bit.ly/39vxTpZ?/playlistE720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/historypluto.png" group-title="1 BAYER GLOBAL", History ² 🇺🇸[Pluto]
+https://bit.ly/3mkCLQQ?/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="1 BAYER GLOBAL", History ᴴᴰ 🇲🇽[Pluto]
+https://bit.ly/3y5kHCd?/playlistE720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Historyᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/historypluto?/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Hollywire.png" group-title="1 BAYER GLOBAL", Hollywire ᴴᴰ ² 🇺🇸
+https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Hollywire.png" group-title="1 BAYER GLOBAL", Hollywire ᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/3sMxIQT?/playlistE720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://horizonsports.tv/assets/imgs/HsLogo45.png" group-title="1 BAYER GLOBAL", Horizon Sportsᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/3M34Af9?/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png" group-title="1 BAYER GLOBAL", Horror Machine 🇺🇸[Distrotv]
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Horror 🇺🇸[Pluto]
+https://bit.ly/horrorterror?/master_4.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe3c7159-2d42-47c3-a112-2c0cd847e4ef/horrorfy_logo.png" group-title="1 BAYER GLOBAL", Horrorfy 🇪🇸[Roku]
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hunt-channel.png" group-title="1 BAYER GLOBAL", Hunt Channel 🇺🇸
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8?wowzasessionid=inspiration
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/discoveryID.png" group-title="1 BAYER GLOBAL", IDiscovery ᴴᴰ 🇺🇸 ²
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/discoveryID.png" group-title="1 BAYER GLOBAL", IDiscovery 🇮🇳🇺🇸
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2303.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/discoveryID.png" group-title="1 BAYER GLOBAL", IDiscovery 🇮🇳🇺🇸
+https://bit.ly/3MSRQaQ?/playlistE720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Impact!%20Wrestling.png" group-title="1 BAYER GLOBAL", Impact! Wrestling 🇺🇸
+https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Impact!%20Wrestling.png" group-title="1 BAYER GLOBAL", Impact! Wrestling 🇺🇸[localnow]
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Inspector Gadget 🇺🇸[Pluto]
+https://bit.ly/3FblQIm?/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Introubltv.jpg" group-title="1 BAYER GLOBAL", Introuble tvᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/479eHHl?/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png" group-title="1 BAYER GLOBAL", Inwild tvᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/49tJIYf?/playlist720.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/inwonder.webp" group-title="1 BAYER GLOBAL", Inwonder tv ᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/3MD8dbJ?/playlist720.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/JohnnyCarsonTV.png" group-title="1 BAYER GLOBAL", Johnny Carson TVᴴᴰ [localnow]
+https://bit.ly/3Gh85eh?/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.juicetv.live/_resources/themes/mood/images/logo.png" group-title="1 BAYER GLOBAL", Juice tv
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index_2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://rwpromosites.s3-website-us-east-1.amazonaws.com/marketing/images/jingles/kronehit/logo.png" group-title="1 BAYER GLOBAL", Kronehit TV 🇦🇹
+https://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2023/06/KuriakosKids_curvas.jpg" group-title="1 BAYER GLOBAL", kuriakos kidsᴴᴰ 🇵🇹
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" group-title="1 BAYER GLOBAL", L'Equipe Live 1 🇫🇷
+https://bit.ly/3C6tK6F?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" group-title="1 BAYER GLOBAL", L'Equipe Live 2 🇫🇷
+https://bit.ly/3OG6GmP?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" group-title="1 BAYER GLOBAL", L'Equipe 🇫🇷
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png" group-title="1 BAYER GLOBAL", La 1 ᴴᴰ 🇪🇸
+https://sck.pm/K0U?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png" group-title="1 BAYER GLOBAL", La 1 ᴴᴰ 🇪🇸
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png" group-title="1 BAYER GLOBAL", La 1 ᴴᴰ 🇪🇸
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/legendxtra.png" group-title="1 BAYER GLOBAL", Legend Xtra+1 🇺🇸
+http://92.114.85.81:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png" group-title="1 BAYER GLOBAL", Lego Kids Channelᴴᴰ 🇺🇸
+https://bit.ly/3FIHUgn?/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ligacampeones.png" group-title="1 BAYER GLOBAL", Liga Campeonesᴴᴰ 🇪🇸
+http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/livexzone.png" group-title="1 BAYER GLOBAL", LivexOne 🇺🇸[Stirr]
+https://bit.ly/3MrZW9C?/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/lovenature.png" group-title="1 BAYER GLOBAL", Love Nature 🇧🇷[Pluto]
+https://bit.ly/3HNWe8N?/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="1 BAYER GLOBAL", Love Natureᴴᴰ ² 🇺🇸[Pluto]
+https://bit.ly/3kKVLIy?/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LovePets.png" group-title="1 BAYER GLOBAL", Love Pets ᴴᴰ 🇺🇸[vizio]
+https://bit.ly/3uVGkoY?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Love Songs [Pluto]
+https://bit.ly/3twVIny?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Lovewine.png" group-title="1 BAYER GLOBAL", Love Wine 🇺🇸 [xumo]
+https://bit.ly/486K5GO?/playlist.m3u8?ads.xumo_channelId=99951215
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/M6%20Music.png" group-title="1 BAYER GLOBAL", M6 Internacional 🇫🇷
+https://bit.ly/3pQq2LG?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/M6%20Music.png" group-title="1 BAYER GLOBAL", M6 🇫🇷
+https://bit.ly/42Vqbw6?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.mastershowtv.com/admin/assets/img/logo.png" group-title="1 BAYER GLOBAL", Master show tv 🇧🇷
+http://mastershowtv.videovox.pw/master6123/master6123/chunklist_w88667257.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sck.pm/ykI6" group-title="1 BAYER GLOBAL", Mavtv Global 🇺🇸[Rakuten]
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sck.pm/ykI6" group-title="1 BAYER GLOBAL", Mavtv Select 🇺🇸[Pluto]
+https://mavtv-1-ca.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/M/mcm-top-logo-3649B48C16-seeklogo.com.png" group-title="1 BAYER GLOBAL", MCM Top 🇫🇷
+http://iptv.prosto.tv:7000/ch137/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", Megaᴴᴰ 🇪🇸
+https://bit.ly/3WBbnR1?/manifest.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/fightnetwork.webp" group-title="1 BAYER GLOBAL", MFight Network 🇺🇸
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="1 BAYER GLOBAL", MLB 🇺🇸[Pluto]
+https://bit.ly/3NeAdCO?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/morangosacucar.jpg" group-title="1 BAYER GLOBAL", Morangos com Açúcarᴴᴰ 🇵🇹
+https://bit.ly/3tWqMRr?/hd2-1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="localnow_MotoAmerica" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/motoamerica.png" group-title="1 BAYER GLOBAL", MotoAmerica 🇺🇸[localnow]
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+
+#EXTINF:-1 tvg-id="localnow_MotoAmerica" tvg-logo="https://cdn.motor1.com/images/static/motor1/favicon-228.png" group-title="1 BAYER GLOBAL", Motor1 TV 🇮🇹🇺🇸[Pluto]
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Motorvision%20HD.png" group-title="1 BAYER GLOBAL", Motorvision 🇺🇸[localnow]
+https://ov.ottera.tv/live/master2300000.m3u8;session=mvg_mv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Motorvision%20HD.png" group-title="1 BAYER GLOBAL", Motorvision 🇺🇸[Ottera]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Movie%20Sphere%20by%20Lionsgate.png" group-title="1 BAYER GLOBAL", Movie Sphere by Lionsgate 🇺🇸[xumo]
+https://bit.ly/3uMDP8G?/playlist.m3u8?ads.xumo_channelId=99951251
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MUTV.png" group-title="1 BAYER GLOBAL", MUTV 🇬🇧
+https://bit.ly/3FTAN4y?/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/09/GBBA3300059BU_20210310T011210.png" group-title="1 BAYER GLOBAL", My time movie network ᴴᴰ [Legendado 🇧🇷]
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/naturetime.png" group-title="1 BAYER GLOBAL", Nature Time 🇪🇸[Pluto]
+https://bit.ly/3NKeKT4?/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/naturetime.png" group-title="1 BAYER GLOBAL", Nature Time 🇫🇷[Pluto]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg" group-title="1 BAYER GLOBAL", NBA tv 🇺🇸
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2309.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/62ce32fb66af7043f47309e6cb3a36e3c91a84ad/NBC%20lxHome.svg" group-title="1 BAYER GLOBAL", NBC Lx Home [Legendado 🇺🇸]
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991651
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/NHLonNBC2012logo.png" group-title="1 BAYER GLOBAL", NBC NHL 🇺🇸 [firetv]
+https://nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="1 BAYER GLOBAL", NFL 🇺🇸[Pluto]
+https://bit.ly/47Y5gKX?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nhkworld.tv.vodafone.pt" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_152x152.png" group-title="1 BAYER GLOBAL", NHK Worldᴴᴰ 🇬🇧
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/o2Sport.png" group-title="1 BAYER GLOBAL", O2 TV SPORT 🇨🇿
+http://84.42.140.148:8880/hdmi
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/onegolf.png" group-title="1 BAYER GLOBAL", One Golf 🇺🇸
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300034DB_20210525T051534.png" group-title="1 BAYER GLOBAL", Pac 12 Insider 🇺🇸[samsungtv]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Paranormal.png" group-title="1 BAYER GLOBAL", Paranormal Status 🇺🇸[Pluto]
+https://bit.ly/ParanormalStatus?/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", Pequeradio TV 🇪🇸
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/petclubtv.png" group-title="1 BAYER GLOBAL", Pet Club tv ᴴᴰ 🇺🇸[xiaomi]
+https://bit.ly/3Ttq5dp?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="1 BAYER GLOBAL", PGA Tour 🇺🇸 [Pluto]
+https://i.mjh.nz/PlutoTV/5de94dacb394a300099fa22a-alt.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Poker Go 🇺🇸[Pluto]
+https://bit.ly/3MDukPh?/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/PolsatSportPremium.png" group-title="1 BAYER GLOBAL", Polsat Sport Premium 1 🇵🇱
+http://89.187.179.242:12467
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/PolsatSportPremium.png" group-title="1 BAYER GLOBAL", Polsat Sport Premium 2 🇵🇱
+http://89.187.179.242:12468
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/PolsatSportPremium.png" group-title="1 BAYER GLOBAL", Polsat Sport Premium 🇵🇱
+http://89.187.179.242:1969
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Power Nation 🇺🇸[Pluto]
+https://bit.ly/3Neqc8t?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.premiersport.sk/wp-content/uploads/2021/10/PREMIER-SPORT-logo-colour.svg" group-title="1 BAYER GLOBAL", Premier Sport 1 🇸🇰
+http://84.42.140.147:8890/hdmi
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Premier | Paramount+ 🇪🇸🇺🇸[Pluto]
+https://bit.ly/3QPREKE?wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png" group-title="1 BAYER GLOBAL", Premiere 🇧🇷
+http://185.150.190.225:16468
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.presstv.ir/custom/images/site/LOGO.gif" group-title="1 BAYER GLOBAL", Press Tv 🇬🇧
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/PursuitUp.png" group-title="1 BAYER GLOBAL", PursuitUp 🇺🇸[Stirr]
+https://bit.ly/47BQfOP?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RacingAmerica.png" group-title="1 BAYER GLOBAL", Racing America 🇺🇸[Plex]
+https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/reallife.png" group-title="1 BAYER GLOBAL", Real Life Familiesᴴᴰ 🇺🇸[Plex]
+https://lds-realfamilies-plex.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png" group-title="1 BAYER GLOBAL", Real Madrid Tv 🇬🇧
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png" group-title="1 BAYER GLOBAL", Real Stories ᴴᴰ 🇺🇸[Pluto]
+https://realstories-samsung-uk.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/mtrspt.png" group-title="1 BAYER GLOBAL", Rmtrspt1 🇬🇧
+https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/643d9d1d79cd3b7d4c054f71/335.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/62b9c3339f5db20007ff4867/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Rovr Pets 🇺🇸[Pluto]
+https://bit.ly/47SXpy2?wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://en.m.wikipedia.org/wiki/RT_DE#/media/File%3ART_DE_Logo_2021.png" group-title="1 BAYER GLOBAL", RT Deutsch
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="1 BAYER GLOBAL", RT English
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SilkSport.png" group-title="1 BAYER GLOBAL", Silk Sports 1 🇬🇪
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20144/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SilkSport.png" group-title="1 BAYER GLOBAL", Silk Sports 1 🇬🇪
+https://tbs01-edge11.itdc.ge/silksport1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SilkSport.png" group-title="1 BAYER GLOBAL", Silk Sports 2 🇬🇪
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20145/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SilkSport.png" group-title="1 BAYER GLOBAL", Silk Sports 2 🇬🇪
+https://tbs01-edge11.itdc.ge/silksport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SilkSport.png" group-title="1 BAYER GLOBAL", Silk Sports 3 🇬🇪
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20146/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SilkSport.png" group-title="1 BAYER GLOBAL", Silk Sports 3 🇬🇪
+https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png" group-title="1 BAYER GLOBAL", SK 1 🇧🇦
+http://185.6.22.6:8000/play/a040
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png" group-title="1 BAYER GLOBAL", SK Fight 🇧🇦
+http://185.6.22.6:8000/play/a02r
+
+#EXTINF:-1 tvg-id="localnow_Ski TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4db4f95e42d5ab722ad92" group-title="1 BAYER GLOBAL", Ski TV 🇺🇸[localnow]
+https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+
+#EXTINF:-1 tvg-id="skynews.tv.vodafone.pt" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Sky News ᴴᴰ 🇺🇸[Pluto]
+https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
+
+#EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Smithsonian Channel [Legendado 🇧🇷]
+https://bit.ly/3B2uidm?/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.smithsonianchannel.com/svg/logo.svg" group-title="1 BAYER GLOBAL", Smithsonian Channel Asia ᴴᴰ 🇺🇸
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/SnowyMountainsTv.png" group-title="1 BAYER GLOBAL", Snowy Mountains Tv 🇺🇸
+https://i.mjh.nz/snowy-mountains.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SolMusica.png" group-title="1 BAYER GLOBAL", Sol Musica 🇪🇸
+https://bit.ly/47gjVkn?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/SonyChannel.png" group-title="1 BAYER GLOBAL", Sony Movies Channel 🇺🇸 [klowdtv]
+https://bit.ly/4858KeF?smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="1 BAYER GLOBAL", Sport en France 🇫🇷
+https://bit.ly/3OK0jPI?/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/sportvbr.webp" group-title="1 BAYER GLOBAL", Sportv 2 🇧🇷
+http://51.83.238.223:16457/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sck.pm/ctcN" group-title="1 BAYER GLOBAL", superyacht tv ᴴᴰ 🇺🇸
+https://sy.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfnow.png" group-title="1 BAYER GLOBAL", Surf Now tvᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/3J39Afq?/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/SwerveCombat.png" group-title="1 BAYER GLOBAL", Swerve Combat 🇺🇸
+https://bit.ly/47jr7N2?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tastemadeTravel.png" group-title="1 BAYER GLOBAL", Tastemade Travel ᴴᴰ 🇺🇸
+https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB.png" group-title="1 BAYER GLOBAL", Telekanal Futbol 🇷🇺
+http://188.191.160.238:7780/udp/239.195.1.45:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", TeleMadrid Internacional 🇪🇸
+https://new-international-23.secure2.footprint.net/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="1 BAYER GLOBAL", TeleSur ᴴᴰ 🇵🇪
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="1 BAYER GLOBAL", TeleSur ᴴᴰ 🇻🇪
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/chunklist_w384365430.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png" group-title="1 BAYER GLOBAL", Tennis Channel Internacionalᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/3q3zsn6?/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/tennistv.png" group-title="1 BAYER GLOBAL", Tennis tv 🇺🇸
+http://203.154.243.88:899/TENNIS?u=hh:p=hh@1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Terror [Legendado 🇺🇸]
+https://i.mjh.nz/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sck.pm/gl9u" group-title="1 BAYER GLOBAL", TG Junior Kids
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/The%20Beach%20Channel.png" group-title="1 BAYER GLOBAL", The Beach Channel ᴴᴰ 🇺🇸[xumo]
+https://bit.ly/3GfK2MD?/chunklist_b3028000.m3u8
+
+#EXTINF:-1 tvg-id="TheBoatShow.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png" group-title="1 BAYER GLOBAL", The Boat Show ᴴᴰ 🇮🇹🇺🇸[Pluto]
+https://bit.ly/3O2MmMk?/3000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/The%20Bob%20Ross%20Channel.webp" group-title="1 BAYER GLOBAL", The Bob Ross Channelᴴᴰ 🇺🇸 [Plex]
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/country%20network.png" group-title="1 BAYER GLOBAL", The Country Networkᴴᴰ [Stirr]
+https://bit.ly/41YBHFw?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300001X9_20230426T031131SQUARE.png_20230426031132.png" group-title="1 BAYER GLOBAL", The Jack Hanna Channel [Legendado 🇺🇸]
+https://bit.ly/47IBNVt?/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300001X9_20230426T031131SQUARE.png_20230426031132.png" group-title="1 BAYER GLOBAL", The Jack Hanna Channel 🇺🇸[tubi]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Jack-Hannah.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png" group-title="1 BAYER GLOBAL", The Lego Channelᴴᴰ 🇺🇸
+https://bit.ly/3QpzYFN?/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/pets.png" group-title="1 BAYER GLOBAL", The Pet Collectiveᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/3sYLlrg?master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/WalkingDeadUniv.png" group-title="1 BAYER GLOBAL", The Walking Dead Universe [Legendado 🇺🇸]
+https://bit.ly/TheWalkingDeadUniverse?/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/timeline-logo.png" group-title="1 BAYER GLOBAL", TimeLineᴴᴰ 🇺🇸
+https://timeline-samsung-uk.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TLC.png" group-title="1 BAYER GLOBAL", TLC ²
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TLC.png" group-title="1 BAYER GLOBAL", TLC 🇮🇳🇺🇸
+https://bit.ly/3sTqkmP?/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/dbc8c6481d149d5b54521b167373f175b4274b0a/tntSports.svg" group-title="1 BAYER GLOBAL", tntsports 🇧🇷
+https://bit.ly/3u9nryO?laylist-720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Tortues Ninja 🇺🇸[Pluto]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="1 BAYER GLOBAL", Trace
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="1 BAYER GLOBAL", Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tracehd.tv.vodafone.pt" tvg-logo="https://br.trace.company/wp-content/uploads//2017/04/logo_sport1.png" group-title="1 BAYER GLOBAL", Trace Sports 🇺🇸[Pluto]
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="1 BAYER GLOBAL", Trace Urban
+http://95.67.12.82:9068/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="1 BAYER GLOBAL", Trace Urban ²
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tfh.png" group-title="1 BAYER GLOBAL", Trailers from Hell 🇺🇸
+https://bec-trailersfromhell-1-us.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trailers.png" group-title="1 BAYER GLOBAL", Trailersᴴᴰ 🇺🇸🇪🇸
+https://bit.ly/3WChqoj?/chunklist_b1290000_slpt.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trailers.png" group-title="1 BAYER GLOBAL", Trailersᴴᴰ 🇺🇸🇮🇹
+https://bit.ly/4324sCN?/chunklist_b1290000_slpt.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="1 BAYER GLOBAL", Travel ᴴᴰ [Legendado 🇺🇸]
+https://i.mjh.nz/PlutoTV/59c01b1953680139c6ae9d4d-alt.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png" group-title="1 BAYER GLOBAL", Travelxp 🇺🇸[Rakuten]
+https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", Trips Marter ᴴᴰ 🇺🇸
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", TRT Worldᴴᴰ 🇬🇧
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/truecrimenow.png" group-title="1 BAYER GLOBAL", True Crime Now [Legendado 🇺🇸]
+https://bit.ly/TrueCrimeNow?/manifest/3000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/6304fb268bd95300072d2198/colorLogoPNG.png" group-title="1 BAYER GLOBAL", True Crime uk
+https://i.mjh.nz/PlutoTV/64c37e47dac71b000809abab-alt.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TRVL.png" group-title="1 BAYER GLOBAL", Trvl Channel ᴴᴰ 🇺🇸
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/tvlondres.png" group-title="1 BAYER GLOBAL", Tv Londres
+https://cdn2.connectbr.com.br/oxtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", Türkmenistan Sport 🇹🇷
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/voyagerDocu.png" group-title="1 BAYER GLOBAL", Voyager Documentaries [Legendado 🇺🇸]
+https://bit.ly/3mAWlc5?/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.warnerbros.com/assets/apple-touch-icon.png" group-title="1 BAYER GLOBAL", Warner Tv ᴴᴰ 🇲🇽
+http://138.219.58.234:8112/play/081
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.warnerbros.com/assets/apple-touch-icon.png" group-title="1 BAYER GLOBAL", Warner Tv ᴴᴰ 🇲🇽
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.warnerbros.com/assets/apple-touch-icon.png" group-title="1 BAYER GLOBAL", Warner Tv ᴴᴰ 🇺🇸🇮🇹
+http://176.65.146.136:8019/play/a07l/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/waypoint.png" group-title="1 BAYER GLOBAL", Waypoint TVᴴᴰ 🇺🇸[Sitrr]
+https://i.mjh.nz/PlutoTV/61b3ec5ac547920007daf647-alt.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wildearth.png" group-title="1 BAYER GLOBAL", Wild Earthᴴᴰ 🇺🇸[Plex]
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wildearth.png" group-title="1 BAYER GLOBAL", Wild Earthᴴᴰ 🇺🇸[Rewardedtv]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-wildearth-rewardedtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/wildplanett" group-title="1 BAYER GLOBAL", Wild Planetᴴᴰ 🇺🇸[Plex]
+https://bit.ly/41ykXoq?/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20201007T012217.png" group-title="1 BAYER GLOBAL", Wildlife tvᴴᴰ 🇺🇸
+https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Wired2Fish.png" group-title="1 BAYER GLOBAL", Wired2Fish 🇺🇸[Plex]
+https://bit.ly/3SzxVBt?/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/womensports.webp" group-title="1 BAYER GLOBAL", Womens Sports Network 🇺🇸[Plex]
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png" group-title="1 BAYER GLOBAL", wonder tv ᴴᴰ 🇺🇸[Pluto]
+https://wonder-samsung-uk.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/01/World-Billiards-TV_Logo_sml.png" group-title="1 BAYER GLOBAL", World Billiards tv 🇺🇸[Otteratv]
+https://bit.ly/3JYZmO5?/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="1 BAYER GLOBAL", WPT 🇺🇸[Pluto]
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/xplore.webp" group-title="1 BAYER GLOBAL", Xplore 🇺🇸[Pluto]
+http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/XtremeOutdoor.png" group-title="1 BAYER GLOBAL", Xtreme Outdoor [Legendado 🇺🇸]
+https://bit.ly/3R6dsmU?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DistroTV_Young Hollywood" tvg-logo="https://younghollywood.com/templates/yh2016/images/logo.png" group-title="1 BAYER GLOBAL", Young Hollywood ² 🇺🇸[Stirr]
+https://dai.google.com/linear/hls/event/PXzvwCecR2eybIVtd-593w/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://younghollywood.com/templates/yh2016/images/logo.png" group-title="1 BAYER GLOBAL", Young Hollywoodᴴᴰ [Pluto]
+https://younghollywood-rakuten-samsung.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/ziggosport.ico" group-title="1 BAYER GLOBAL", Ziggo Select 🇳🇱
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73731.ch
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/ziggosport.ico" group-title="1 BAYER GLOBAL", Ziggo Sport Extra 🇳🇱
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73727.ch
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/ziggosport.ico" group-title="1 BAYER GLOBAL", Ziggo Voetbal 🇳🇱
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73732.ch
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/DAZN.png" group-title="1 BAYER GLOBAL", Zona DAZNᴴᴰ 🇮🇹
+https://3.ultimate2019.com/stream/hls/890
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png" group-title="1 BAYER GLOBAL", ZooMoo 🇺🇸[Pluto]
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER GLOBAL", África News 🇺🇸[Pluto]
+https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 
