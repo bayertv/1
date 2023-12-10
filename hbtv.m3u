@@ -1,24 +1,132 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56c9396519be5f17a1cd883cc4524e2a.png" group-title="1 BAYER TR", TR:  BBC Earth
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56c9396519be5f17a1cd883cc4524e2a.png" group-title="1 BAYER TR", TR:   BBC Earth
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/8238
 
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e3828293e36f3cc45e82b169e6590e8.png" group-title="1 BAYER TR", TR:  beIN Iz
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e3828293e36f3cc45e82b169e6590e8.png" group-title="1 BAYER TR", TR:   beIN Iz
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1806
 
-#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/259f5c55c4c7fe17aa7569ec673254c6.png" group-title="1 BAYER TR", TR:  Discovery Science
+#EXTINF:-1 tvg-id="53" tvg-logo="noimage.png" group-title="1 BAYER TR", TR:   D MAX  EKSTRA
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/259f5c55c4c7fe17aa7569ec673254c6.png" group-title="1 BAYER TR", TR:   Discovery Science
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/5693
 
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7fc32221d2c98b43f8d3178589b8ea47.png" group-title="1 BAYER TR", TR:  Discovery World
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7fc32221d2c98b43f8d3178589b8ea47.png" group-title="1 BAYER TR", TR:   Discovery World
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/8236
 
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1aa674eea8e0dad89403e75596ab261f.png" group-title="1 BAYER TR", TR:  DMAX
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1aa674eea8e0dad89403e75596ab261f.png" group-title="1 BAYER TR", TR:   DMAX
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1805
 
-#EXTINF:-1 tvg-id="TR: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/50248dfe48a3f0f7319c05a7da2eab69.png" group-title="1 BAYER TR", TR:  NAT GEO
+#EXTINF:-1 tvg-id="TR: Investigation Discovery" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b8eb9865e3892d9489a26b1b35c352d8.png" group-title="1 BAYER TR", TR:   Investigation Discovery
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/8237
+
+#EXTINF:-1 tvg-id="TR: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/50248dfe48a3f0f7319c05a7da2eab69.png" group-title="1 BAYER TR", TR:   NAT GEO
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/278566
 
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56d97c6609cc66e0b37f2839505118d5.png" group-title="1 BAYER TR", TR:  NAT GEO Wild
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56d97c6609cc66e0b37f2839505118d5.png" group-title="1 BAYER TR", TR:   NAT GEO Wild
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/838
+
+#EXTINF:-1 tvg-id="TR: Science & Vie TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e33430648087af37f8728f34774a56d6.png" group-title="1 BAYER TR", TR:   Science & Vie TV
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/32593
+
+#EXTINF:-1 tvg-id="TR: TGRT Belgesel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c88396117f7be65d8414302424aebdfb.png" group-title="1 BAYER TR", TR:   TGRT Belgesel
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/16828
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ace9ed69ecaab1ad9351be84fb66613d.png" group-title="1 BAYER TR", TR:   TLC
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/585
+
+#EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="1 BAYER TR", TR:   TLC   EKSTRA
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2d5dda60ae62b888b5efb9a46e3603ab.png" group-title="1 BAYER TR", TR:   TRT Belgesel
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/577
+
+#EXTINF:-1 tvg-id="44" tvg-logo="noimage.png" group-title="1 BAYER TR", TR:   TRT BELGESEL  EKSTRA
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="aspor.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/db9197f6c99d8bee8735f066e187d2e9.png" group-title="1 BAYER TR", TR:  A Spor
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/529
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="1 BAYER TR", TR:  beIN Sports 1
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1735
+
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9e0d289e6b96b75e073d74cae50fc8a4.png" group-title="1 BAYER TR", TR:  beIN Sports 2
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1737
+
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7d20955aa9bafdb1a3f750f81e15bc9.png" group-title="1 BAYER TR", TR:  beIN Sports 3
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1739
+
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c3c50392388c5ec0a094ab2fdb13c874.png" group-title="1 BAYER TR", TR:  beIN Sports 4
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/7450
+
+#EXTINF:-1 tvg-id="TR: beIN Sports 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/6b3c1cbcf5f09bb55850d7f309ef5b44.png" group-title="1 BAYER TR", TR:  beIN Sports 5
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/300982
+
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/14b924d7b7ab9bac07505c7bd792ade1.png" group-title="1 BAYER TR", TR:  beIN Sports Haber
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/7448
+
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d53f40a54a2315cb05e9aa96d1061a49.png" group-title="1 BAYER TR", TR:  beIN Sports Max 1
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/8224
+
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/fec0a4dd7f3e21b20b9f4ff7c9f15ae4.png" group-title="1 BAYER TR", TR:  Eurosport 1
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1755
+
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/433cdc077ed5826b4fe6489086c52bc9.png" group-title="1 BAYER TR", TR:  Eurosport 2
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1756
+
+#EXTINF:-1 tvg-id="TR: EuroStar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/508c77023966cbb00c7fbe6728a75c0b.png" group-title="1 BAYER TR", TR:  EuroStar
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/5038
+
+#EXTINF:-1 tvg-id="TR: FB TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/dac069889ba674aa20198dc7110d5f6e.png" group-title="1 BAYER TR", TR:  FB TV
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/300391
+
+#EXTINF:-1 tvg-id="TR: Fenerbahce TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/011a073d263aac8f8592bc5ecd90b8de.png" group-title="1 BAYER TR", TR:  Fenerbahce TV
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/575
+
+#EXTINF:-1 tvg-id="TR: Galatasaray TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c0bc117e0be3121347b05ef7365b7deb.png" group-title="1 BAYER TR", TR:  Galatasaray TV
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/618
+
+#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/543cf115a49b83263997399b2cea3ecd.png" group-title="1 BAYER TR", TR:  S Sport
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1753
+
+#EXTINF:-1 tvg-id="TR: S Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4309f8d27e6038dd69d1053d4ca5769a.png" group-title="1 BAYER TR", TR:  S Sport 2
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/10167
+
+#EXTINF:-1 tvg-id="TR: Spor Smart" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b8523963880349398f435c3e82921f2e.png" group-title="1 BAYER TR", TR:  Spor Smart
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1750
+
+#EXTINF:-1 tvg-id="TR: Spor Smart 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dee3b2e8c2b3b040188fa0426c11f752.png" group-title="1 BAYER TR", TR:  Spor Smart 2
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/50121
+
+#EXTINF:-1 tvg-id="TR: Sports TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cfd75582e9065c9d5f9b57022733df21.png" group-title="1 BAYER TR", TR:  Sports TV
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/89846
+
+#EXTINF:-1 tvg-id="52" tvg-logo="noimage.png" group-title="1 BAYER TR", TR:  SPORTS TV  SPOR
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/fe0d9a7a5b9e15c2a60128046333e106.png" group-title="1 BAYER TR", TR:  Tivibu Spor
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1746
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7a833205f11c822cb26d2529b9540524.jpeg" group-title="1 BAYER TR", TR:  Tivibu Spor 1
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/299705
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7eaa64af38041f22f47a5792de00b63d.png" group-title="1 BAYER TR", TR:  Tivibu Spor 2
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1748
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/eb5884085b1f38af79816551f2f9a9c4.png" group-title="1 BAYER TR", TR:  Tivibu Spor 3
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1749
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/dcf89d3781d45b920eed12cf726a84ba.png" group-title="1 BAYER TR", TR:  Tivibu Spor 4
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/286778
+
+#EXTINF:-1 tvg-id="TR: TRT 3 Spor" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a61752a31c2d29db679bcb1851a87e58.jpg" group-title="1 BAYER TR", TR:  TRT 3 Spor
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/299775
+
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b48e2102ca3ffba0bdbcebcb419bbd17.png" group-title="1 BAYER TR", TR:  TRT Spor
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/528
+
+#EXTINF:-1 tvg-id="TR: TRT Spor Yildiz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/304d92146d514ecba8e6dd59712822d3.png" group-title="1 BAYER TR", TR:  TRT Spor Yildiz
+http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/32095
 
 #EXTINF:-1 tvg-id="TR: 24 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/94511af0fe107686cf7fec08a8e9df29.png" group-title="1 BAYER TR", TR: 24 TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/636
@@ -43,9 +151,6 @@ https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u
 
 #EXTINF:-1 tvg-id="TR: A News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/8ea0573983ff465fd158273ced601374.png" group-title="1 BAYER TR", TR: A News
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/284578
-
-#EXTINF:-1 tvg-id="aspor.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/db9197f6c99d8bee8735f066e187d2e9.png" group-title="1 BAYER TR", TR: A Spor
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/529
 
 #EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e9ce6186c612d640a4e75ed305ff3ca8.png" group-title="1 BAYER TR", TR: A2
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/523
@@ -161,27 +266,6 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1768
 #EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e62d82be35a5c21cae0c62a78dbf8cd3.png" group-title="1 BAYER TR", TR: beIN Series Drama
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1769
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="1 BAYER TR", TR: beIN Sports 1
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1735
-
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9e0d289e6b96b75e073d74cae50fc8a4.png" group-title="1 BAYER TR", TR: beIN Sports 2
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1737
-
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7d20955aa9bafdb1a3f750f81e15bc9.png" group-title="1 BAYER TR", TR: beIN Sports 3
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1739
-
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c3c50392388c5ec0a094ab2fdb13c874.png" group-title="1 BAYER TR", TR: beIN Sports 4
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/7450
-
-#EXTINF:-1 tvg-id="TR: beIN Sports 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/6b3c1cbcf5f09bb55850d7f309ef5b44.png" group-title="1 BAYER TR", TR: beIN Sports 5
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/300982
-
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/14b924d7b7ab9bac07505c7bd792ade1.png" group-title="1 BAYER TR", TR: beIN Sports Haber
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/7448
-
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d53f40a54a2315cb05e9aa96d1061a49.png" group-title="1 BAYER TR", TR: beIN Sports Max 1
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/8224
-
 #EXTINF:-1 tvg-id="TR: Bengu Turk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1ac7201118e48e8927c74d4e7d2086b2.png" group-title="1 BAYER TR", TR: Bengu Turk
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/611
 
@@ -260,9 +344,6 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/628
 #EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: CNN TÜRK  EKSTRA
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="53" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: D MAX  EKSTRA
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-
 #EXTINF:-1 tvg-id="TR: Da Vinci" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/335e4ee4cc0197611dddcc8a6110be6d.png" group-title="1 BAYER TR", TR: Da Vinci
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1850
 
@@ -335,23 +416,8 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/593
 #EXTINF:-1 tvg-id="TR: Euro D" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b15a564b46041a6ce5f98df092090bd5.png" group-title="1 BAYER TR", TR: Euro D
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/39324
 
-#EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/fec0a4dd7f3e21b20b9f4ff7c9f15ae4.png" group-title="1 BAYER TR", TR: Eurosport 1
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1755
-
-#EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/433cdc077ed5826b4fe6489086c52bc9.png" group-title="1 BAYER TR", TR: Eurosport 2
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1756
-
-#EXTINF:-1 tvg-id="TR: EuroStar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/508c77023966cbb00c7fbe6728a75c0b.png" group-title="1 BAYER TR", TR: EuroStar
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/5038
-
 #EXTINF:-1 tvg-id="TR: Exxen TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/ef5ce44df72af67ca762309fb6a874f7.jpg" group-title="1 BAYER TR", TR: Exxen TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/300384
-
-#EXTINF:-1 tvg-id="TR: FB TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/dac069889ba674aa20198dc7110d5f6e.png" group-title="1 BAYER TR", TR: FB TV
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/300391
-
-#EXTINF:-1 tvg-id="TR: Fenerbahce TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/011a073d263aac8f8592bc5ecd90b8de.png" group-title="1 BAYER TR", TR: Fenerbahce TV
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/575
 
 #EXTINF:-1 tvg-id="filmbox.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/08fc0740f29689d893c10a78608b4f2b.png" group-title="1 BAYER TR", TR: FilmBox
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/533
@@ -385,9 +451,6 @@ https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="fxnetwork.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fd443398dba083c1772b3967e1b2c96c.png" group-title="1 BAYER TR", TR: FX
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/580
-
-#EXTINF:-1 tvg-id="TR: Galatasaray TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c0bc117e0be3121347b05ef7365b7deb.png" group-title="1 BAYER TR", TR: Galatasaray TV
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/618
 
 #EXTINF:-1 tvg-id="TR: Gonca TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/0b9ca735a72a9662b81a5cc8ce93c451.png" group-title="1 BAYER TR", TR: Gonca TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/146677
@@ -433,9 +496,6 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/166861
 
 #EXTINF:-1 tvg-id="TR: Icel TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a38395d67461353b22c2a2a10606a907.jpg" group-title="1 BAYER TR", TR: Icel TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/298612
-
-#EXTINF:-1 tvg-id="TR: Investigation Discovery" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b8eb9865e3892d9489a26b1b35c352d8.png" group-title="1 BAYER TR", TR: Investigation Discovery
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/8237
 
 #EXTINF:-1 tvg-id="TR: Kadirga TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/86b10486b3da4a01cb60a0bffb6949b5.png" group-title="1 BAYER TR", TR: Kadirga TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/645
@@ -662,20 +722,11 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/15676
 #EXTINF:-1 tvg-id="TR: Rumeli TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fa1f8ed970fdd9441f56cf473beeba03.png" group-title="1 BAYER TR", TR: Rumeli TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/76644
 
-#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/543cf115a49b83263997399b2cea3ecd.png" group-title="1 BAYER TR", TR: S Sport
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1753
-
-#EXTINF:-1 tvg-id="TR: S Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4309f8d27e6038dd69d1053d4ca5769a.png" group-title="1 BAYER TR", TR: S Sport 2
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/10167
-
 #EXTINF:-1 tvg-id="TR: Sam TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a06068f413a606f57f26754013b270e7.png" group-title="1 BAYER TR", TR: Sam TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/298355
 
 #EXTINF:-1 tvg-id="TR: Sat 7 Türk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b88d7682fb821ec80936ad6b3e58931a.png" group-title="1 BAYER TR", TR: Sat 7 Türk
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/76639
-
-#EXTINF:-1 tvg-id="TR: Science & Vie TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e33430648087af37f8728f34774a56d6.png" group-title="1 BAYER TR", TR: Science & Vie TV
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/32593
 
 #EXTINF:-1 tvg-id="TR: Semerkand TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7388fa97fe716ad032f1027cfaf5075d.png" group-title="1 BAYER TR", TR: Semerkand TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/834
@@ -731,18 +782,6 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/163186
 #EXTINF:-1 tvg-id="TR: SL Niloya" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2eeaf6e7640d0a1e258227397f003eaf.jpg" group-title="1 BAYER TR", TR: SL Niloya
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/70743
 
-#EXTINF:-1 tvg-id="TR: Spor Smart" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b8523963880349398f435c3e82921f2e.png" group-title="1 BAYER TR", TR: Spor Smart
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1750
-
-#EXTINF:-1 tvg-id="TR: Spor Smart 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dee3b2e8c2b3b040188fa0426c11f752.png" group-title="1 BAYER TR", TR: Spor Smart 2
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/50121
-
-#EXTINF:-1 tvg-id="TR: Sports TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cfd75582e9065c9d5f9b57022733df21.png" group-title="1 BAYER TR", TR: Sports TV
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/89846
-
-#EXTINF:-1 tvg-id="52" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: SPORTS TV  SPOR
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1074b77ce18f87f91d9fbf5121ac7dbd.png" group-title="1 BAYER TR", TR: Star TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/512
 
@@ -797,9 +836,6 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="TR: Teve 63" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3ca66c3d7b90a7f473d9f585a2dc126d.png" group-title="1 BAYER TR", TR: Teve 63
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/299517
 
-#EXTINF:-1 tvg-id="TR: TGRT Belgesel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c88396117f7be65d8414302424aebdfb.png" group-title="1 BAYER TR", TR: TGRT Belgesel
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/16828
-
 #EXTINF:-1 tvg-id="TR: TGRT EU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/91f2384e2be17c28fb4d3e7ae3a911bb.png" group-title="1 BAYER TR", TR: TGRT EU
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/32907
 
@@ -815,29 +851,8 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/291159
 #EXTINF:-1 tvg-id="TR: TIVI TÜRK" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/07c42f340df3d6e485737d7fd31b8add.png" group-title="1 BAYER TR", TR: TIVI TÜRK
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/192597
 
-#EXTINF:-1 tvg-id="TR: Tivibu Spor" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/fe0d9a7a5b9e15c2a60128046333e106.png" group-title="1 BAYER TR", TR: Tivibu Spor
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1746
-
-#EXTINF:-1 tvg-id="TR: Tivibu Spor 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7a833205f11c822cb26d2529b9540524.jpeg" group-title="1 BAYER TR", TR: Tivibu Spor 1
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/299705
-
-#EXTINF:-1 tvg-id="TR: Tivibu Spor 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7eaa64af38041f22f47a5792de00b63d.png" group-title="1 BAYER TR", TR: Tivibu Spor 2
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1748
-
-#EXTINF:-1 tvg-id="TR: Tivibu Spor 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/eb5884085b1f38af79816551f2f9a9c4.png" group-title="1 BAYER TR", TR: Tivibu Spor 3
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1749
-
-#EXTINF:-1 tvg-id="TR: Tivibu Spor 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/dcf89d3781d45b920eed12cf726a84ba.png" group-title="1 BAYER TR", TR: Tivibu Spor 4
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/286778
-
 #EXTINF:-1 tvg-id="TR: TJK TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/909e379e5ddf18b3fe97b231f177a7e6.png" group-title="1 BAYER TR", TR: TJK TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/594
-
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ace9ed69ecaab1ad9351be84fb66613d.png" group-title="1 BAYER TR", TR: TLC
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/585
-
-#EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TLC   EKSTRA
-https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TR: TMB" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bf762b7668823b34b75f22b46d0af857.png" group-title="1 BAYER TR", TR: TMB
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/76692
@@ -848,7 +863,7 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/291162
 #EXTINF:-1 tvg-id="TR: Ton TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/33a642eced6fb01e3226d727bd7ac93f.png" group-title="1 BAYER TR", TR: Ton TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/58134
 
-#EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TR: TLC   EKSTRA
+#EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TR:   TLC   EKSTRA
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TR: Trakya Türk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/4dde5a30c8dba37366a7bbd90d15b2f6.png" group-title="1 BAYER TR", TR: Trakya Türk
@@ -866,20 +881,11 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/635
 #EXTINF:-1 tvg-id="42" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT 2  EKSTRA
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 
-#EXTINF:-1 tvg-id="TR: TRT 3 Spor" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a61752a31c2d29db679bcb1851a87e58.jpg" group-title="1 BAYER TR", TR: TRT 3 Spor
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/299775
-
 #EXTINF:-1 tvg-id="TR: TRT 4K" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7cce6fc6565cdcf493af768731819cb.png" group-title="1 BAYER TR", TR: TRT 4K
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1810
 
 #EXTINF:-1 tvg-id="trtavaz.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7ed4a4f9ada13603fdf725e1f85c5ba7.png" group-title="1 BAYER TR", TR: TRT Avaz
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/622
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2d5dda60ae62b888b5efb9a46e3603ab.png" group-title="1 BAYER TR", TR: TRT Belgesel
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/577
-
-#EXTINF:-1 tvg-id="44" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT BELGESEL  EKSTRA
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4c97918044ad2996399fd692049b7397.png" group-title="1 BAYER TR", TR: TRT Cocuk
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/629
@@ -901,12 +907,6 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/630
 
 #EXTINF:-1 tvg-id="19" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT MUZİK  ULUSAL
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b48e2102ca3ffba0bdbcebcb419bbd17.png" group-title="1 BAYER TR", TR: TRT Spor
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/528
-
-#EXTINF:-1 tvg-id="TR: TRT Spor Yildiz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/304d92146d514ecba8e6dd59712822d3.png" group-title="1 BAYER TR", TR: TRT Spor Yildiz
-http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/32095
 
 #EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7aaf60ae8c58a76e9925540dc91ad578.png" group-title="1 BAYER TR", TR: TRT Turk
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/831
