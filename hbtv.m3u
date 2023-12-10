@@ -2,57 +2,6 @@
 #EXTINF:-1 tvg-id="1" tvg-logo="noimage.png" group-title="1 BAYER TR", 360 TV  EKSTRA
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Sport 1 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/469
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Sport 2 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1547
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Sport 3 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1549
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Sport 4 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49946
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Sport HABER
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54465
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: EuroSport 1
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48253
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: EuroSport 2
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48252
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Exxen Sport 1 FHD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54439
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: EXXEN SPORT 2 FHD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54440
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Fenerbahce
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48254
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: GS TV
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48255
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: IDMan TV
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48371
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: S Sports TV
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48251
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TiviBu Sport 1 FHD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48241
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TiviBu Sport 2 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48240
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TiviBu Sport 3 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48239
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT Spor HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48323
-
 #EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="1 BAYER TR", 360 TV  ULUSAL
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
@@ -154,6 +103,171 @@ https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="57" tvg-logo="noimage.png" group-title="1 BAYER TR", TLC   EKSTRA
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: BBC Earth
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/8238
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Box Office 1
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/536
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Box Office 2
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/281863
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Box Office 3
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/538
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Box Office Turk
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/539
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Gurme
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1807
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Iz
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1806
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Movies Action
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1761
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Movies Action 2
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/278527
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Movies Family
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1763
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Movies Premiere
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1764
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Movies Premiere 2
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1765
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Movies Stars
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1766
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Movies Turk
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1767
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Series 1
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/298429
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Series 2
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/298427
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Series 3
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/298428
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Series 4
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/298430
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Series Comedy
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1768
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Series Drama
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1769
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Sports 1
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1735
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Sports 2
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1737
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Sports 3
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1739
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Sports 4
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/7450
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Sports 5
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/300982
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Sports Haber
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/7448
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: beIN Sports Max 1
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/8224
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: EuroSport 1
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48253
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: EUROSPORT 1
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1755
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: EuroSport 2
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48252
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: EUROSPORT 2
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1756
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Exxen Sport 1 FHD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54439
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: EXXEN SPORT 2 FHD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54440
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Exxen TV
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/300384
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: FB TV
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/300391
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Fenerbahce
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48254
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Fenerbahce TV
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/575
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Galatasaray TV
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/618
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: GS TV
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48255
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: IDMan TV
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48371
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: S Sport
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1753
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: S Sport 2
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/10167
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: S Sports TV
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48251
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Spor Smart
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1750
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Spor Smart 2
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/50121
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Sports TV
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/89846
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Tivibu Spor
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1746
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Tivibu Spor 1
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/299705
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Tivibu Spor 2
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1748
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Tivibu Spor 3
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/1749
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: Tivibu Spor 4
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/286778
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT 3 Spor
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/299775
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT Spor
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/528
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT Spor HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48323
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1 BAYER TR", TR: TRT Spor Yildiz
+http://37.49.225.197:8080/Streamteam5723/Wb59KC2jsJGtRm8hgPpf7S/32095
 
 #EXTINF:-1 tvg-id="40" tvg-logo="noimage.png" group-title="1 BAYER TR", TRT 1  EKSTRA
 https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
