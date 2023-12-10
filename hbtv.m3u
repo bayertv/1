@@ -86,7 +86,7 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/10153
 #EXTINF:-1 tvg-id="babytv.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" group-title="1 BAYER TR", TR: Baby TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/634
 
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56c9396519be5f17a1cd883cc4524e2a.png" group-title="1 BAYER TR", TR: BBC Earth
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56c9396519be5f17a1cd883cc4524e2a.png" group-title="1 BAYER TR", TR:  BBC Earth
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/8238
 
 #EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" group-title="1 BAYER TR", TR: beIN Box Office 1
@@ -104,7 +104,7 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/539
 #EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ae6ed623d37a8ee71af209e2cc08d22e.png" group-title="1 BAYER TR", TR: beIN Gurme
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1807
 
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e3828293e36f3cc45e82b169e6590e8.png" group-title="1 BAYER TR", TR: beIN Iz
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e3828293e36f3cc45e82b169e6590e8.png" group-title="1 BAYER TR", TR:  beIN Iz
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1806
 
 #EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ca1d2bb923338f5d520918b981135d91.png" group-title="1 BAYER TR", TR: beIN Movies Action
@@ -260,10 +260,10 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/36073
 #EXTINF:-1 tvg-id="TR: Dim TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cd2370c1bf4759c3628fee17a29fd473.jpg" group-title="1 BAYER TR", TR: Dim TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/58152
 
-#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/259f5c55c4c7fe17aa7569ec673254c6.png" group-title="1 BAYER TR", TR: Discovery Science
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/259f5c55c4c7fe17aa7569ec673254c6.png" group-title="1 BAYER TR", TR:  Discovery Science
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/5693
 
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7fc32221d2c98b43f8d3178589b8ea47.png" group-title="1 BAYER TR", TR: Discovery World
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7fc32221d2c98b43f8d3178589b8ea47.png" group-title="1 BAYER TR", TR:  Discovery World
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/8236
 
 #EXTINF:-1 tvg-id="disneychannel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d4bfb7096c986189cad4c27667329846.png" group-title="1 BAYER TR", TR: Disney Junior
@@ -278,7 +278,7 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/32147
 #EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4f32853a6807d014d455ae7cbff4566e.png" group-title="1 BAYER TR", TR: DiziSmart Premium
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/15714
 
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1aa674eea8e0dad89403e75596ab261f.png" group-title="1 BAYER TR", TR: DMAX
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1aa674eea8e0dad89403e75596ab261f.png" group-title="1 BAYER TR", TR:  DMAX
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1805
 
 #EXTINF:-1 tvg-id="TR: Dost TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6928e8cfd586d639fe9040ff91e2cac0.png" group-title="1 BAYER TR", TR: Dost TV
@@ -596,10 +596,10 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1773
 #EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/09ed1dcf29dd0da429d2a7abb958c7eb.png" group-title="1 BAYER TR", TR: Moviesmart Turk
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1780
 
-#EXTINF:-1 tvg-id="TR: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/50248dfe48a3f0f7319c05a7da2eab69.png" group-title="1 BAYER TR", TR: NAT GEO
+#EXTINF:-1 tvg-id="TR: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/50248dfe48a3f0f7319c05a7da2eab69.png" group-title="1 BAYER TR", TR:  NAT GEO
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/278566
 
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56d97c6609cc66e0b37f2839505118d5.png" group-title="1 BAYER TR", TR: NAT GEO Wild
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56d97c6609cc66e0b37f2839505118d5.png" group-title="1 BAYER TR", TR:  NAT GEO Wild
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/838
 
 #EXTINF:-1 tvg-id="TR: Nick Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d17ee4121212f3d15a6d3e96e1b78e6b.png" group-title="1 BAYER TR", TR: Nick Junior
