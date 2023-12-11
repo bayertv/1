@@ -5729,6 +5729,9 @@ http://37.49.225.197:8080/EyQcvdQmdH/f7bdd5a828/78280
 #EXTINF:-1 tvg-id="zeste.ca" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2136bbb0854489b2acd004b03b2b118a.png" group-title="CANADA 5", CA: Zeste
 http://37.49.225.197:8080/EyQcvdQmdH/f7bdd5a828/502
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://en.m.wikipedia.org/wiki/RT_DE#/media/File%3ART_DE_Logo_2021.png" group-title="DEUTSCHLAND 1", RT   Deutsch
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+
 #EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8a3416d40631ad2d244f18f3809f255c.png" group-title="DEUTSCHLAND 1", DE:   ANIMAL PLANET
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/14370
 
