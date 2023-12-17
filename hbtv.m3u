@@ -1025,66 +1025,6 @@ http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/1851
 #EXTINF:-1 tvg-id="ulketv.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ba0296292e9bd2ba9d07bf35fd60ae3f.png" group-title="BAYER TV TR1", TR: Ülke TV
 http://cheaptv.online:8080/EyQcvdQmdH/f7bdd5a828/626
 
-#EXTINF:-1 tvg-id="81" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿 ADA TV 🍿 SİNEMA
-https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿 AFYON TÜRK 🍿 SİNEMA
-https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-
-#EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿 CINE1 TV 🍿 SİNEMA
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="10" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿 CLC TV 🍿 SİNEMA
-https://clcmediatv.ozelip.com:3192/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="28" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿 RIZE TÜRK 🍿 SİNEMA
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
-#EXTINF:-1 tvg-id="47" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿 TV 4 🍿 SİNEMA
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-
-#EXTINF:-1 tvg-id="50" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿 TV 90 🍿 SİNEMA
-https://tv90-live.cdnnew.com/tv90/tv90.m3u8
-
-#EXTINF:-1 tvg-id="86" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿BLUTV PLAY 1 🍿 SİNEMA
-https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
-
-#EXTINF:-1 tvg-id="87" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿BLUTV PLAY 2 🍿 SİNEMA
-https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
-
-#EXTINF:-1 tvg-id="79" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿DENİZ POSTASI TV 🍿 SİNEMA
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-
-#EXTINF:-1 tvg-id="73" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿NENET TV 🍿 SİNEMA
-https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/index.m3u8
-
-#EXTINF:-1 tvg-id="71" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿NET SEVER 🍿 SİNEMA
-https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/index.m3u8
-
-#EXTINF:-1 tvg-id="70" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿REDBOX VİZYON 1 🍿 SİNEMA
-https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon1/index.m3u8
-
-#EXTINF:-1 tvg-id="89" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿SHOW DİJİTAL TV 🍿 SİNEMA YOUTUBE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700600643/ei/48ZcZYO0N4vPi9oP9c-EsAI/ip/195.201.1.32/id/Bb7BUyO8o1c.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxaW4whqXqjozIEKqTjwe3cb8PieqeZ-ZcYGUg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgHfEoN4LZRLceeaZoqn0tWOApD-ipi3exz3k-S1NwgnECIHz1ARerrUDCSBIy3V24GIYSyz1hOfkBKwXs556QC8Fo/file/index.m3u8
-
-#EXTINF:-1 tvg-id="85" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿TİVİ6 🍿 SİNEMA
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="76" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿TİVİTÜRK 🍿 SİNEMA
-https://stream.tiviturk.de/live/tiviturk.m3u8
-
-#EXTINF:-1 tvg-id="69" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿YANSIMA TV 🍿 SİNEMA
-https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="72" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿YEŞİLÇAM TV  2 🍿 SİNEMA
-https://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv2/index.m3u8
-
-#EXTINF:-1 tvg-id="74" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR: 🍿YEŞİLÇAM TV  3 🍿 SİNEMA
-https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", 24 TV FHD
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", 24 TV HD
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
@@ -1118,9 +1058,6 @@ http://live.amedradyotv.net:2020/hls/ferat.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", ANGARA TV HD
 https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", ARABESK TV
-https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", ATV FHD
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
 
@@ -1145,15 +1082,6 @@ https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", BLOOMBERG HT
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", BLUTV PLAY 1
-https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", BLUTV PLAY 2
-https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", BOOMERANG TV
-https://boomerang.blutv.com/blutv_boomerang/live.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", BRiC-SATRANC TV
 http://139.162.182.79/live/test/index.m3u8
 
@@ -1172,17 +1100,11 @@ https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/amlst:cekmekoybeltv/chunkli
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", CNN TURK HD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", DAMAR TV
-https://tvsms.club/tv.php?kanal=damar&file=.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", DERiN TV
 https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", DiYAR TV
 https://yayin30.haber100.com/live/diyartv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", DMAX TV HD
-https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", DOCUMAX BELGESEL
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1278/index.m3u8
@@ -1223,12 +1145,6 @@ https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", EUROSPORT 1
-https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", EUROSPORT 2
-https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", EZO TV
 https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
 
@@ -1247,14 +1163,8 @@ https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", FOX TV HD
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", GENC SMS TV
-https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", GUNEYDOGU TV
-http://stream2.taksimbilisim.com:1935/gtv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", GURBET 24 TV
 http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8?checkedby:iptvcat.com
@@ -1275,7 +1185,7 @@ https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/54/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", HALK TV
-https://halktvdvr.blutv.com/blutv_halktv2_dvr/live_720p2000000kbps/index.m3u8
+https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", HEDEF TV HD KOCAELi
 https://cdn1-hedeftv.yayin.com.tr/hedeftv/hedeftv/chunklist_w980829448_b1696000.m3u8?app=supersatforum
@@ -6530,7 +6440,7 @@ https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfnow.png" group-title="BAYER TV TR8 - GLOBAL", Surf Now tvᴴᴰ 🇺🇸[Pluto]
 https://bit.ly/3J39Afq?/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/SwerveCombat.png" group-title="BAYER TV TR8 - GLOBAL", Swerve Combat 🇺🇸
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/SwerveCombat.png" group-title="BAYER TV TR8 - GLOBAL", Swerve Combat 🇺??
 https://bit.ly/47jr7N2?/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tastemadeTravel.png" group-title="BAYER TV TR8 - GLOBAL", Tastemade Travel ᴴᴰ 🇺🇸
