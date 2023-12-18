@@ -1,6 +1,51 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56c9396519be5f17a1cd883cc4524e2a.png" group-title="BAYER TV TR1", TR: BBC Earth
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/8238
+
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e3828293e36f3cc45e82b169e6590e8.png" group-title="BAYER TV TR1", TR: beIN Iz
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1806
+
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/259f5c55c4c7fe17aa7569ec673254c6.png" group-title="BAYER TV TR1", TR: Discovery Science
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/5693
+
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7fc32221d2c98b43f8d3178589b8ea47.png" group-title="BAYER TV TR1", TR: Discovery World
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/8236
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1aa674eea8e0dad89403e75596ab261f.png" group-title="BAYER TV TR1", TR: DMAX
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1805
+
+#EXTINF:-1 tvg-id="TR: Investigation Discovery" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b8eb9865e3892d9489a26b1b35c352d8.png" group-title="BAYER TV TR1", TR: Investigation Discovery
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/8237
+
+#EXTINF:-1 tvg-id="TR: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/50248dfe48a3f0f7319c05a7da2eab69.png" group-title="BAYER TV TR1", TR: NAT GEO
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/278566
+
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56d97c6609cc66e0b37f2839505118d5.png" group-title="BAYER TV TR1", TR: NAT GEO Wild
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/838
+
 #EXTINF:-1 tvg-id="TR: 24 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/94511af0fe107686cf7fec08a8e9df29.png" group-title="BAYER TV TR1", TR: 24 TV
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/636
+
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ad88b04ca24f6eb2e2fd89a87f29e683.png" group-title="BAYER TV TR1", TR: CNN Turk
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/628
+
+#EXTINF:-1 tvg-id="TR: Haber Global" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2ab2a8d67ecd293a69ffd06e8a03fd99.png" group-title="BAYER TV TR1", TR: Haber Global
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/652
+
+#EXTINF:-1 tvg-id="TR: Haberturk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6ef3885c8277d1547f4cea9c2c0ac833.png" group-title="BAYER TV TR1", TR: Haberturk
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/651
+
+#EXTINF:-1 tvg-id="TR: Halk TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5b438ce41e52561c626fd60bde4e4e5a.png" group-title="BAYER TV TR1", TR: Halk TV
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/617
+
+#EXTINF:-1 tvg-id="TR: KRT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/273350a7e3ba064d51347a28e095e979.png" group-title="BAYER TV TR1", TR: KRT
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1826
+
+#EXTINF:-1 tvg-id="TR: SZC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/869459186fa0ee850eb286d986b3a05b.png" group-title="BAYER TV TR1", TR: SZC
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300436
+
+#EXTINF:-1 tvg-id="TR: Tele 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2093456f5794199e5b7d9e3a3b0d8dea.png" group-title="BAYER TV TR1", TR: Tele 1
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/654
 
 #EXTINF:-1 tvg-id="TR: 360" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1855a28f3b5ae332650665dfc364236b.png" group-title="BAYER TV TR1", TR: 360
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/615
@@ -74,9 +119,6 @@ http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300467
 #EXTINF:-1 tvg-id="babytv.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" group-title="BAYER TV TR1", TR: Baby TV
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/634
 
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56c9396519be5f17a1cd883cc4524e2a.png" group-title="BAYER TV TR1", TR: BBC Earth
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/8238
-
 #EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" group-title="BAYER TV TR1", TR: beIN Box Office 1
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/536
 
@@ -91,9 +133,6 @@ http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/539
 
 #EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ae6ed623d37a8ee71af209e2cc08d22e.png" group-title="BAYER TV TR1", TR: beIN Gurme
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1807
-
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e3828293e36f3cc45e82b169e6590e8.png" group-title="BAYER TV TR1", TR: beIN Iz
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1806
 
 #EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ca1d2bb923338f5d520918b981135d91.png" group-title="BAYER TV TR1", TR: beIN Movies Action
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1761
@@ -263,9 +302,6 @@ http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/271162
 #EXTINF:-1 tvg-id="TR: Cineflix Sener Sen" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BAYER TV TR1", TR: Cineflix Sener Sen
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/271167
 
-#EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ad88b04ca24f6eb2e2fd89a87f29e683.png" group-title="BAYER TV TR1", TR: CNN Turk
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/628
-
 #EXTINF:-1 tvg-id="TR: Da Vinci" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/335e4ee4cc0197611dddcc8a6110be6d.png" group-title="BAYER TV TR1", TR: Da Vinci
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1850
 
@@ -281,12 +317,6 @@ http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/174429
 #EXTINF:-1 tvg-id="TR: Dim TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cd2370c1bf4759c3628fee17a29fd473.jpg" group-title="BAYER TV TR1", TR: Dim TV
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/58152
 
-#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/259f5c55c4c7fe17aa7569ec673254c6.png" group-title="BAYER TV TR1", TR: Discovery Science
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/5693
-
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7fc32221d2c98b43f8d3178589b8ea47.png" group-title="BAYER TV TR1", TR: Discovery World
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/8236
-
 #EXTINF:-1 tvg-id="disneychannel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d4bfb7096c986189cad4c27667329846.png" group-title="BAYER TV TR1", TR: Disney Junior
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/633
 
@@ -298,9 +328,6 @@ http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/32147
 
 #EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4f32853a6807d014d455ae7cbff4566e.png" group-title="BAYER TV TR1", TR: DiziSmart Premium
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/15714
-
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1aa674eea8e0dad89403e75596ab261f.png" group-title="BAYER TV TR1", TR: DMAX
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1805
 
 #EXTINF:-1 tvg-id="TR: Dost TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6928e8cfd586d639fe9040ff91e2cac0.png" group-title="BAYER TV TR1", TR: Dost TV
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/7712
@@ -473,17 +500,8 @@ http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300479
 #EXTINF:-1 tvg-id="TR: Haber 61" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/34a72085994172bd1391a2681d250466.jpg" group-title="BAYER TV TR1", TR: Haber 61
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/596
 
-#EXTINF:-1 tvg-id="TR: Haber Global" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2ab2a8d67ecd293a69ffd06e8a03fd99.png" group-title="BAYER TV TR1", TR: Haber Global
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/652
-
-#EXTINF:-1 tvg-id="TR: Haberturk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6ef3885c8277d1547f4cea9c2c0ac833.png" group-title="BAYER TV TR1", TR: Haberturk
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/651
-
 #EXTINF:-1 tvg-id="TR: Habitat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/ba0687a74dd7ac9ffc836c47801ba286.png" group-title="BAYER TV TR1", TR: Habitat
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300398
-
-#EXTINF:-1 tvg-id="TR: Halk TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5b438ce41e52561c626fd60bde4e4e5a.png" group-title="BAYER TV TR1", TR: Halk TV
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/617
 
 #EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0383f737c235ec9523ce712603700d70.png" group-title="BAYER TV TR1", TR: History
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1801
@@ -499,9 +517,6 @@ http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/166861
 
 #EXTINF:-1 tvg-id="TR: Icel TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a38395d67461353b22c2a2a10606a907.jpg" group-title="BAYER TV TR1", TR: Icel TV
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/298612
-
-#EXTINF:-1 tvg-id="TR: Investigation Discovery" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b8eb9865e3892d9489a26b1b35c352d8.png" group-title="BAYER TV TR1", TR: Investigation Discovery
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/8237
 
 #EXTINF:-1 tvg-id="TR: Kadirga TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/86b10486b3da4a01cb60a0bffb6949b5.png" group-title="BAYER TV TR1", TR: Kadirga TV
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/645
@@ -592,9 +607,6 @@ http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300478
 
 #EXTINF:-1 tvg-id="TR: Kral Pop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3bb31cdc59816a3b8f7305d042d99711.png" group-title="BAYER TV TR1", TR: Kral Pop
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/194621
-
-#EXTINF:-1 tvg-id="TR: KRT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/273350a7e3ba064d51347a28e095e979.png" group-title="BAYER TV TR1", TR: KRT
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1826
 
 #EXTINF:-1 tvg-id="TR: Kudüs TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/deaa952e72cabb53d5b7f9a814443d8e.png" group-title="BAYER TV TR1", TR: Kudüs TV
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/163248
@@ -730,42 +742,6 @@ http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1780
 
 #EXTINF:-1 tvg-id="TR: MUSLUM GURSES" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BAYER TV TR1", TR: MUSLUM GURSES
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300401
-
-#EXTINF:-1 tvg-id="TR: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/50248dfe48a3f0f7319c05a7da2eab69.png" group-title="BAYER TV TR1", TR: NAT GEO
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/278566
-
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56d97c6609cc66e0b37f2839505118d5.png" group-title="BAYER TV TR1", TR: NAT GEO Wild
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/838
-
-#EXTINF:-1 tvg-id="TR: NATURE 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BAYER TV TR1", TR: NATURE 1
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300394
-
-#EXTINF:-1 tvg-id="TR: NATURE 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BAYER TV TR1", TR: NATURE 2
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300395
-
-#EXTINF:-1 tvg-id="TR: NATURE 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BAYER TV TR1", TR: NATURE 3
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300396
-
-#EXTINF:-1 tvg-id="TR: NATURE 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BAYER TV TR1", TR: NATURE 4
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300397
-
-#EXTINF:-1 tvg-id="TR: Net Server 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BAYER TV TR1", TR: Net Server 1
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/21003
-
-#EXTINF:-1 tvg-id="TR: Net Server 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BAYER TV TR1", TR: Net Server 2
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/32160
-
-#EXTINF:-1 tvg-id="TR: Net Server 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BAYER TV TR1", TR: Net Server 3
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/44348
-
-#EXTINF:-1 tvg-id="TR: Net Server 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BAYER TV TR1", TR: Net Server 4
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/39504
-
-#EXTINF:-1 tvg-id="TR: Net Server 5" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BAYER TV TR1", TR: Net Server 5
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/55155
-
-#EXTINF:-1 tvg-id="TR: Net Server 6" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BAYER TV TR1", TR: Net Server 6
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/39507
 
 #EXTINF:-1 tvg-id="TR: Nick Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d17ee4121212f3d15a6d3e96e1b78e6b.png" group-title="BAYER TV TR1", TR: Nick Junior
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/675
@@ -947,9 +923,6 @@ http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/512
 #EXTINF:-1 tvg-id="TR: Sun RTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/81ecb7e8e8ab5bd3607858972add72a1.png" group-title="BAYER TV TR1", TR: Sun RTV
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/162297
 
-#EXTINF:-1 tvg-id="TR: SZC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/869459186fa0ee850eb286d986b3a05b.png" group-title="BAYER TV TR1", TR: SZC
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300436
-
 #EXTINF:-1 tvg-id="TR: Sünger Bob" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/9ff4189cdc14f2f720bce178359a0ca6.jpg" group-title="BAYER TV TR1", TR: Sünger Bob
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300953
 
@@ -970,9 +943,6 @@ http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/16887
 
 #EXTINF:-1 tvg-id="TR: TBMM TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/2974222693afa87e49f3c4fec800bd5e.jpg" group-title="BAYER TV TR1", TR: TBMM TV
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/192558
-
-#EXTINF:-1 tvg-id="TR: Tele 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2093456f5794199e5b7d9e3a3b0d8dea.png" group-title="BAYER TV TR1", TR: Tele 1
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/654
 
 #EXTINF:-1 tvg-id="TR: Tempo TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a67d1e1b4ad2e706d5b9502403fcfd6a.png" group-title="BAYER TV TR1", TR: Tempo TV
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/29841
