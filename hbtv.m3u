@@ -2423,6 +2423,48 @@ http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149648.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR4", |TR| Yol TV
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149669.ts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: BBC Earth
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8238
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: beIN Iz
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1806
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Discovery Science
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/5693
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Discovery World
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8236
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: DMAX
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1805
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: NAT GEO
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/278566
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: NAT GEO Wild
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/838
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: CNN Turk
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/628
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Haber Global
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/652
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Haberturk
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/651
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Halk TV
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/617
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: KRT
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1826
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: SZC
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300436
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Tele 1
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/654
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: 24 Kitchen
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1808
 
@@ -2501,9 +2543,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300467
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Baby TV
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/634
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: BBC Earth
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8238
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: beIN Box Office 1
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/536
 
@@ -2518,9 +2557,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/539
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: beIN Gurme
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1807
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: beIN Iz
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1806
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: beIN Movies Action
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1761
@@ -2690,9 +2726,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/271162
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Cineflix Sener Sen
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/271167
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: CNN Turk
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/628
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Da Vinci
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1850
 
@@ -2708,12 +2741,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/174429
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Dim TV
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/58152
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Discovery Science
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/5693
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Discovery World
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8236
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Disney Junior
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/633
 
@@ -2725,9 +2752,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/32147
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: DiziSmart Premium
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/15714
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: DMAX
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1805
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Dost TV
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/7712
@@ -2900,17 +2924,8 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300479
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Haber 61
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/596
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Haber Global
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/652
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Haberturk
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/651
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Habitat
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300398
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Halk TV
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/617
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: History
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1801
@@ -3019,9 +3034,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300478
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Kral Pop
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/194621
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: KRT
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1826
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Kudüs TV
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/163248
@@ -3157,12 +3169,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1780
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: MUSLUM GURSES
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300401
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: NAT GEO
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/278566
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: NAT GEO Wild
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/838
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: NATURE 1
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300394
@@ -3374,9 +3380,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/512
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Sun RTV
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/162297
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: SZC
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300436
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Sünger Bob
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300953
 
@@ -3397,9 +3400,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/16887
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: TBMM TV
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/192558
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Tele 1
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/654
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR5", TR: Tempo TV
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/29841
