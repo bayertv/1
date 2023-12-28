@@ -5240,11 +5240,14 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png" group-title="BAYER TV TR8 - GLOBAL", Euronews English
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="BAYER TV TR8 - GLOBAL", WION (1080p)
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="BAYER TV TR8 - GLOBAL", RT English
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://en.m.wikipedia.org/wiki/RT_DE#/media/File%3ART_DE_Logo_2021.png" group-title="BAYER TV TR8 - GLOBAL", RT Deutsch
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="BAYER TV TR8 - GLOBAL", WION (1080p)
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 #EXTINF:-1 tvg-id="ADHTV.au" tvg-logo="https://i.ibb.co/zmccMZG/Channels4-profile.jpg" group-title="BAYER TV TR8 - GLOBAL", ADH TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCtzTaKI8AkiSjyzm1_JbMUg.m3u8
@@ -5281,9 +5284,6 @@ https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/
 
 #EXTINF:-1 tvg-id="dw.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="BAYER TV TR8 - GLOBAL", DW  🇺🇸
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://en.m.wikipedia.org/wiki/RT_DE#/media/File%3ART_DE_Logo_2021.png" group-title="BAYER TV TR8 - GLOBAL", RT Deutsch
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/5MinuteCrafts.webp" group-title="BAYER TV TR8 - GLOBAL", 5 Minute Crafts 🇺🇸 [Rakuten]
 https://bit.ly/3QLfTvi?/playlist.m3u8
