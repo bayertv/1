@@ -1442,57 +1442,6 @@ https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TOP POP TV
 https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: beIN Sport 1 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/469
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: beIN Sport 2 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1547
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: beIN Sport 3 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1549
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: beIN Sport 4 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49946
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: beIN Sport HABER
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54465
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: EuroSport 1
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48253
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: EuroSport 2
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48252
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: Exxen Sport 1 FHD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54439
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: EXXEN SPORT 2 FHD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54440
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: Fenerbahce
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48254
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: GS TV
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48255
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: IDMan TV
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48371
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: S Sports TV
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48251
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: TiviBu Sport 1 FHD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48241
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: TiviBu Sport 2 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48240
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: TiviBu Sport 3 HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48239
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TR: TRT Spor HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48323
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", TRT 1 FHD YEDEK
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 
