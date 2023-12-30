@@ -1,576 +1,828 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BBC Earth HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2721
+#EXTINF:-1 tvg-id="spor.smart.2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR017SSPORTHD(1).png" group-title="BAYER TV TR1", TR017:ANIMAL PLANET
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33052
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN IZ TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2736
+#EXTINF:-1 tvg-id="bbc.earth.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR024POWERTURKHD.png" group-title="BAYER TV TR1", TR024:BBC EARTH
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33045
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_DISCOVERY CHANNEL HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2723
+#EXTINF:-1 tvg-id="discovery.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR065FBTVHD.png" group-title="BAYER TV TR1", TR065:DISCOVERY CHANNEL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33004
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_DISCOVERY SCIENCE HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2724
+#EXTINF:-1 tvg-id="id.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR066" group-title="BAYER TV TR1", TR066:DISCOVERY ID
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33003
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_DMAX
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/631
+#EXTINF:-1 tvg-id="discovery.science.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR067EUROSPORT2HD.png" group-title="BAYER TV TR1", TR067:DISCOVERY SCIENCE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33002
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_NATIONAL GEO HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2743
+#EXTINF:-1 tvg-id="history.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR122TRTTurk.png" group-title="BAYER TV TR1", TR122:HISTORY CHANNEL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32947
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_NATIONAL GEO WILD HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2744
+#EXTINF:-1 tvg-id="love.nature.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR156ArtitvHDKU.png" group-title="BAYER TV TR1", TR156:LOVE NATURE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32913
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_NATIONAL PEOPLE HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2745
+#EXTINF:-1 tvg-id="national.geographic.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR170beINGURMEHD.png" group-title="BAYER TV TR1", TR170:NAT GEO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32899
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_24 TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2798
+#EXTINF:-1 tvg-id="nat.geo.wild.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR171beINIZHD.png" group-title="BAYER TV TR1", TR171:NAT GEO WILD
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32898
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_360 TV HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2759
+#EXTINF:-1 tvg-id="tgrt.belgesel.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR229" group-title="BAYER TV TR1", TR229:TGRT BELGESEL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32840
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_A HABER HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2713
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR237EUROSPORT2HD.png" group-title="BAYER TV TR1", TR237:TLC
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32832
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_A SPOR HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/578
+#EXTINF:-1 tvg-id="trt.belgesel.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR242NEXTBOXNOSTALJI.png" group-title="BAYER TV TR1", TR242:TRT BELGESEL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32827
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_A2
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2712
+#EXTINF:-1 tvg-id="viasat.explore.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR267KANAL68.png" group-title="BAYER TV TR1", TR267:VIASAT EXPLORE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32802
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_AKIT TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/21236
+#EXTINF:-1 tvg-id="viasat.history.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR268KANALAVRUPA.png" group-title="BAYER TV TR1", TR268:VIASAT HISTORY
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32801
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_ANIMAL PLANET HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2715
+#EXTINF:-1 tvg-id="TR:------|BELGESEL|--------------" tvg-logo="noimage.png" group-title="BAYER TV TR1", TR:------|BELGESEL|--------------
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/61751
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_ARABESK FM
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10358
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR001YABANTV.png" group-title="BAYER TV TR1", TR001:24
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33068
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_ATV HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/172
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR003TV8HD.png" group-title="BAYER TV TR1", TR003:360
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33066
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BABY TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2716
+#EXTINF:-1 tvg-id="TR004:360 PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR004TV5.png" group-title="BAYER TV TR1", TR004:360 PLUS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33065
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BEAT HOUSE ONLINE
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10370
+#EXTINF:-1 tvg-id="a.haber.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR005" group-title="BAYER TV TR1", TR005:A HABER
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33064
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN BOX OFFIC 1 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/522
+#EXTINF:-1 tvg-id="a.news.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR006TVNET.png" group-title="BAYER TV TR1", TR006:A NEWS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33063
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN BOX OFFIC 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2750
+#EXTINF:-1 tvg-id="a.para.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR007BeINGurmeHD.png" group-title="BAYER TV TR1", TR007:A PARA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33062
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN BOX OFFIC 3 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2754
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR008TRTSPORSD/HD.png" group-title="BAYER TV TR1", TR008:A SPOR
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33061
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN GURME
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2787
+#EXTINF:-1 tvg-id="a2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR009360TV.png" group-title="BAYER TV TR1", TR009:A2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33060
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN MOVIES ACTION 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2753
+#EXTINF:-1 tvg-id="TR010:AFYON TURK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR010TIVIBUSPOR3HD.png" group-title="BAYER TV TR1", TR010:AFYON TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33059
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN MOVIES ACTION HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2791
+#EXTINF:-1 tvg-id="TR011:AKILLI TAVSAN MOMO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR011TIVIBUSPOR1HD.png" group-title="BAYER TV TR1", TR011:AKILLI TAVSAN MOMO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33058
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN MOVIES PREMIER HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/5141
+#EXTINF:-1 tvg-id="TR012:AKIT TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR012TIVIBUSPOR2HD.png" group-title="BAYER TV TR1", TR012:AKIT TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33057
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN MOVIES PREMIERE 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2752
+#EXTINF:-1 tvg-id="tgrt.haber.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR013TGRTHABER.png" group-title="BAYER TV TR1", TR013:AKLILI TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33056
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN MOVIES STARS HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/5145
+#EXTINF:-1 tvg-id="star.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR014STARTVHD.png" group-title="BAYER TV TR1", TR014:AKSU TV K MARAS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33055
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN MOVIES TUREK HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/525
+#EXTINF:-1 tvg-id="altas.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR015SPORTSTVHD.png" group-title="BAYER TV TR1", TR015:ALTAS TV ORDU
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33054
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN SERIES 1 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/5144
+#EXTINF:-1 tvg-id="spor.smart.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR016SPORSMART.png" group-title="BAYER TV TR1", TR016:ANADOLU DERNEK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33053
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN SERIES 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/5142
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR018SKYTURK360.png" group-title="BAYER TV TR1", TR018:ARTI TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33051
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_beIN SERIES DRAM HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/5143
+#EXTINF:-1 tvg-id="as.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR019SHOWHD.png" group-title="BAYER TV TR1", TR019:AS TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33050
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BEIN SPORTS 1 FHD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/7163
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR020SEMERKAND.png" group-title="BAYER TV TR1", TR020:ATV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33049
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BEIN SPORTS 1 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/137
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR021bEINBOXOFFICE2HD.png" group-title="BAYER TV TR1", TR021:AUTOMOTO (FR)
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33048
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BEIN SPORTS 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/136
+#EXTINF:-1 tvg-id="baby.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR022SALON1HD.png" group-title="BAYER TV TR1", TR022:BABY TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33047
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BEIN SPORTS 3 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/135
+#EXTINF:-1 tvg-id="cartoon.network.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR023CARTOONNETWORKHD.png" group-title="BAYER TV TR1", TR023:BBC CBEEBIES TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33046
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BEIN SPORTS 4 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/739
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR025PLANETTURK.png" group-title="BAYER TV TR1", TR025:BEIN BOX OFFICE 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33044
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BEIN SPORTS HABER HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/4728
+#EXTINF:-1 tvg-id="TR026:BEIN BOX OFFICE 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR026PLANETCOCUK.png" group-title="BAYER TV TR1", TR026:BEIN BOX OFFICE 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33043
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BEIN SPORTS MAX 1 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/7159
+#EXTINF:-1 tvg-id="TR027:BEIN BOX OFFICE 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR027NUMBER1HD.png" group-title="BAYER TV TR1", TR027:BEIN BOX OFFICE 3
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33042
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BEIN SPORTS MAX 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/7160
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR028DMAX1080P.png" group-title="BAYER TV TR1", TR028:BEIN BOX OFFICE TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33041
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BENGUTURK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2717
+#EXTINF:-1 tvg-id="bein.gurme.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR029NICKELODEON.png" group-title="BAYER TV TR1", TR029:BEIN GURME
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33040
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BEYAZ TV HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2718
+#EXTINF:-1 tvg-id="bein.iz.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR030NICKELODEONHD.png" group-title="BAYER TV TR1", TR030:BEIN IZ TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33039
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BJKTV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2719
+#EXTINF:-1 tvg-id="national.geographic.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR031NATIONALGEOGRAPHICHD.png" group-title="BAYER TV TR1", TR031:BEIN MOVIES ACTION
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33038
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BLOOMBERG
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2720
+#EXTINF:-1 tvg-id="national.geographic.wild.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR032NATINOALGEOWILD.png" group-title="BAYER TV TR1", TR032:BEIN MOVIES ACTION 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33037
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BOOMERANG HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/24000
+#EXTINF:-1 tvg-id="moviesmart.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR033MoviesmartTurk.png" group-title="BAYER TV TR1", TR033:BEIN MOVIES FAMILY
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33036
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BOSS MOVIES 1 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/15239
+#EXTINF:-1 tvg-id="moviesmart.premium.2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR034MoviesmartPremium2.png" group-title="BAYER TV TR1", TR034:BEIN MOVIES PREMIERE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33035
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BOSS MOVIES 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/15240
+#EXTINF:-1 tvg-id="moviesmart.premium.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR035MoviesmartPremium.png" group-title="BAYER TV TR1", TR035:BEIN MOVIES PREMIERE 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33034
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BOSS MOVIES 3 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/15241
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR036MoviesmartPlatin2.png" group-title="BAYER TV TR1", TR036:BEIN MOVIES STARS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33033
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BOSS MOVIES 4 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/15242
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR037MoviesmartPlatin.png" group-title="BAYER TV TR1", TR037:BEIN SERIES COMEDY
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33032
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BOSS MOVIES 5 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/15243
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR038MoviesmartGold.png" group-title="BAYER TV TR1", TR038:BEIN SERIES DRAMA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33031
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BOSS MOVIES 6 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/15244
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR039MoviesmartFest.png" group-title="BAYER TV TR1", TR039:BEIN SERIES SCI-FI
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33030
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BOSS MOVIES 7 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/15245
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR040MoviesmartFamily.png" group-title="BAYER TV TR1", TR040:BEIN SERIES VICE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33029
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BOSS MOVIES 8 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/15246
+#EXTINF:-1 tvg-id="bein.sports.1.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR041MoviesmartClassic.png" group-title="BAYER TV TR1", TR041:BEIN SPORTS 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33028
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BRT 1 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2779
+#EXTINF:-1 tvg-id="bein.sports.2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR042MoviesmartAction.png" group-title="BAYER TV TR1", TR042:BEIN SPORTS 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33027
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BRT 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/24912
+#EXTINF:-1 tvg-id="bein.sports.3.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR043" group-title="BAYER TV TR1", TR043:BEIN SPORTS 3
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33026
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_BURSA TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/21326
+#EXTINF:-1 tvg-id="bein.sports.4.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR044MoviemaxStars.png" group-title="BAYER TV TR1", TR044:BEIN SPORTS 4
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33025
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_CARTOON NETWORK HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2722
+#EXTINF:-1 tvg-id="bein.sports.5.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR045beINSERIESDRAMA.png" group-title="BAYER TV TR1", TR045:BEIN SPORTS 5
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33024
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_CNN TURK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/577
+#EXTINF:-1 tvg-id="bein.sports.haber.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR046MoviemaxFest.png" group-title="BAYER TV TR1", TR046:BEIN SPORTS HABER
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33023
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_DA VINCI LEARNING HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2794
+#EXTINF:-1 tvg-id="bein.sports.max.1.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR047" group-title="BAYER TV TR1", TR047:BEIN SPORTS MAX 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33022
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_DISNEY CHANNEL HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2725
+#EXTINF:-1 tvg-id="bein.sports.max.2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR048" group-title="BAYER TV TR1", TR048:BEIN SPORTS MAX 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33021
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_DISNEY JUNIOR HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2774
+#EXTINF:-1 tvg-id="bengu.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR049LOCA3HD.png" group-title="BAYER TV TR1", TR049:BENGUTURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33020
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_DiSNEY XD HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/21318
+#EXTINF:-1 tvg-id="TR050:BEYAZ TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR050LOCA2HD.png" group-title="BAYER TV TR1", TR050:BEYAZ TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33019
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_DIYANET TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/524
+#EXTINF:-1 tvg-id="bloomberg.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR051LOCA1HD.png" group-title="BAYER TV TR1", TR051:BLOOMBERG
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33018
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_DIZI SMART MAX HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2751
+#EXTINF:-1 tvg-id="boomerang.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR052BOOMERANG.png" group-title="BAYER TV TR1", TR052:BOSS MOVIES 10
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33017
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_DIZI SMART PREMIUM HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/22518
+#EXTINF:-1 tvg-id="brt.1.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR053Ligtv3.png" group-title="BAYER TV TR1", TR053:BRT 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33016
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_DREAM TURK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/576
+#EXTINF:-1 tvg-id="kral.pop.radyo.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR054KRALPOPTV.png" group-title="BAYER TV TR1", TR054:BRT 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33015
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EKOTÜRK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/7161
+#EXTINF:-1 tvg-id="TR055:CAILLOU TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR055KRAL.png" group-title="BAYER TV TR1", TR055:CAILLOU TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33014
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EURO D
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/21350
+#EXTINF:-1 tvg-id="kanal.24.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR056KANAL24.png" group-title="BAYER TV TR1", TR056:CAN TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33013
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EUROSPORT 1 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2727
+#EXTINF:-1 tvg-id="cartoon.network.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR057beINIZHD.png" group-title="BAYER TV TR1", TR057:CARTOON NETWORK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33012
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EUROSPORT 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2728
+#EXTINF:-1 tvg-id="cem.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR058HISTORYHD.png" group-title="BAYER TV TR1", TR058:CEM TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33011
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EUROSTAR
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2726
+#EXTINF:-1 tvg-id="halk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR059HALKTV.png" group-title="BAYER TV TR1", TR059:CHASSE ET PECHE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33010
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EXXEN SPORT 1 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/33638
+#EXTINF:-1 tvg-id="haber.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR060HABERTURK.png" group-title="BAYER TV TR1", TR060:CIFTCI TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33009
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EXXEN SPORT 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/33639
+#EXTINF:-1 tvg-id="cnn.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR061GSTVHD.png" group-title="BAYER TV TR1", TR061:CNN TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33008
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EXXEN SPORT 3 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/33640
+#EXTINF:-1 tvg-id="da.vinci.learning.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR062FOXTVHD.png" group-title="BAYER TV TR1", TR062:DA VINCI LEARNING
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33007
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EXXEN SPORT 4 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/33641
+#EXTINF:-1 tvg-id="TR063:DEHA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR063FLASHTV.png" group-title="BAYER TV TR1", TR063:DEHA TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33006
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EXXEN SPORT 5 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/33642
+#EXTINF:-1 tvg-id="TR064:DIGI MAX 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR064" group-title="BAYER TV TR1", TR064:DIGI MAX 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33005
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EXXEN SPORT 6 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/33643
+#EXTINF:-1 tvg-id="disney.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR068EUROSPORTHD.png" group-title="BAYER TV TR1", TR068:DISNEY CHANNEL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33001
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EXXEN SPORT 7 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/33644
+#EXTINF:-1 tvg-id="disney.junior.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR069DREAMTV.png" group-title="BAYER TV TR1", TR069:DISNEY JR
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33000
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_EXXEN SPORT 8 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/33645
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR070DREAMTURKTV.png" group-title="BAYER TV TR1", TR070:DIZI SMART PREMIUM
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32999
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_FB TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2729
+#EXTINF:-1 tvg-id="TR071:DMAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR071DOSTTV.png" group-title="BAYER TV TR1", TR071:DMAX
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32998
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_FIGHTBOX HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/21237
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR072DISNEYXD/DUCK.png" group-title="BAYER TV TR1", TR072:DOCUBOX
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32997
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_FOX FHD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2748
+#EXTINF:-1 tvg-id="disney.junior.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR073DISNEYJR.png" group-title="BAYER TV TR1", TR073:DOST TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32996
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_FOX TV HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/337
+#EXTINF:-1 tvg-id="disney.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR074DISNEYCHANNEL.png" group-title="BAYER TV TR1", TR074:DREAM TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32995
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_FX
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2788
+#EXTINF:-1 tvg-id="discovery.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR075DISCOVERYCHANNELHD.png" group-title="BAYER TV TR1", TR075:EGE ILE GAGA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32994
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_GSTV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2732
+#EXTINF:-1 tvg-id="cnn.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR076CNNTURKHD.png" group-title="BAYER TV TR1", TR076:EGE TURK TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32993
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_HABER GLOBAL HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/21317
+#EXTINF:-1 tvg-id="TR077:EKO TURK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR077CINESTARVIZYON3.png" group-title="BAYER TV TR1", TR077:EKO TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32992
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_HABER TURK HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/574
+#EXTINF:-1 tvg-id="TR078:ELIFIN DUSLERI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR078CINESTARVIZYON2.png" group-title="BAYER TV TR1", TR078:ELIFIN DUSLERI
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32991
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_HALK TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2793
+#EXTINF:-1 tvg-id="TR079:ENO AKSIYON 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR079CINESTARVIZYON1.png" group-title="BAYER TV TR1", TR079:ENO AKSIYON 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32990
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_HISTORY CHANNEL
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2734
+#EXTINF:-1 tvg-id="cem.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR080CEMTV.png" group-title="BAYER TV TR1", TR080:ENO ANIMASYON
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32989
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_INVESTIGATION DISCOVERY HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/25169
+#EXTINF:-1 tvg-id="bloomberg.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR081BLOOMBERGHD.png" group-title="BAYER TV TR1", TR081:ENO VIZYON 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32988
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_ISTANBUL FM
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10361
+#EXTINF:-1 tvg-id="TR082:ENO VIZYON 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR082" group-title="BAYER TV TR1", TR082:ENO VIZYON 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32987
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_JOY FM
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10357
+#EXTINF:-1 tvg-id="beyaz.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR083BEYAZTVHD.png" group-title="BAYER TV TR1", TR083:ENO VIZYON 3
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32986
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_JOY TURK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10356
+#EXTINF:-1 tvg-id="benguturk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR084BENGUTüRK.png" group-title="BAYER TV TR1", TR084:ENO VIZYON 4
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32985
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_JOY TURK AKUSTIK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10364
+#EXTINF:-1 tvg-id="baby.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR085BABYTV.png" group-title="BAYER TV TR1", TR085:ENO VIZYON 5
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32984
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KANAL 3
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/41484
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR086ATVHD.png" group-title="BAYER TV TR1", TR086:ENO VIZYON 6
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32983
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KANAL 32 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2781
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR087ASPORHD.png" group-title="BAYER TV TR1", TR087:ENO VIZYON 7
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32982
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KANAL 7 AVRUPA FHD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/21214
+#EXTINF:-1 tvg-id="a.haber.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR088AHABERHD.png" group-title="BAYER TV TR1", TR088:ENO VIZYON 8
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32981
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KANAL 7 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2737
+#EXTINF:-1 tvg-id="a2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR089A2TV.png" group-title="BAYER TV TR1", TR089:ENO VIZYON 9
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32980
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KANAL B
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/23999
+#EXTINF:-1 tvg-id="bbc.earth.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR090BBCEarthHD.png" group-title="BAYER TV TR1", TR090:ENO VIZYON 10
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32979
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KANAL D DRAMA HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/15238
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR091ASPORHD(1080P).png" group-title="BAYER TV TR1", TR091:ENO VIZYON 11
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32978
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KANAL D FHD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2731
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR092ATVHD(1080P).png" group-title="BAYER TV TR1", TR092:ENO VIZYON 14
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32977
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KANAL D HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2738
+#EXTINF:-1 tvg-id="TR093:ENO VIZYON 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR093beINMoviesComedyHD.png" group-title="BAYER TV TR1", TR093:ENO VIZYON 15
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32976
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KANAL D HORSE
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/21216
+#EXTINF:-1 tvg-id="bein.movies.stars.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR094beINMoviesStarsHD.png" group-title="BAYER TV TR1", TR094:ENO WESTERN
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32975
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KISS FM
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10373
+#EXTINF:-1 tvg-id="bein.movies.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR095beINMoviesTurk.png" group-title="BAYER TV TR1", TR095:EURO D
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32974
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KRAL POP HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2739
+#EXTINF:-1 tvg-id="eurosport.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR096BEYAZHD(1080P).png" group-title="BAYER TV TR1", TR096:EUROSPORT 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32973
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_Kral TV HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/335
+#EXTINF:-1 tvg-id="eurosport.2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR097CNNTüRKHD(1080P).png" group-title="BAYER TV TR1", TR097:EUROSPORT 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32972
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KRAL_FM
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10354
+#EXTINF:-1 tvg-id="fox.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR098FOXHD(1080P).png" group-title="BAYER TV TR1", TR098:EXXEN SPORTS 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32971
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KRT TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2730
+#EXTINF:-1 tvg-id="haber.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR099HABERTüRKHD(1080P).png" group-title="BAYER TV TR1", TR099:EXXEN SPORTS 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32970
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_KUDUS TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2783
+#EXTINF:-1 tvg-id="kanal.7.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR100KANAL7HD(1080P).png" group-title="BAYER TV TR1", TR100:EXXEN SPORTS 3
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32969
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_LA LEGUL TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2740
+#EXTINF:-1 tvg-id="kanal.d.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR101KANALDHD(1080P).png" group-title="BAYER TV TR1", TR101:EXXEN SPORTS 4
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32968
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_LOVE NATURE HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/23998
+#EXTINF:-1 tvg-id="nr1.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR102NR1HD(1080P).png" group-title="BAYER TV TR1", TR102:EXXEN SPORTS 5
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32967
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_MEDYA HABER
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/3310
+#EXTINF:-1 tvg-id="ntv.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR103NTVHD(1080P).png" group-title="BAYER TV TR1", TR103:EXXEN SPORTS 6
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32966
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_METRO FM ISTANBUL
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10363
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR104DMAXHD.png" group-title="BAYER TV TR1", TR104:EXXEN SPORTS 7
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32965
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_MINIKACOCUK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2742
+#EXTINF:-1 tvg-id="power.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR105POWERHD(1080P).png" group-title="BAYER TV TR1", TR105:EXXEN SPORTS 8
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32964
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_MINIKAGO
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2714
+#EXTINF:-1 tvg-id="power.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR106POWERTüRKHD(1080P).png" group-title="BAYER TV TR1", TR106:FB TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32963
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_MOVIESMART CLASSIC HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/24003
+#EXTINF:-1 tvg-id="TR107:FILMBOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR107" group-title="BAYER TV TR1", TR107:FILMBOX
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32962
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_MOVIESMART FAMILY HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/24002
+#EXTINF:-1 tvg-id="show.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR108SHOWHD(1080P).png" group-title="BAYER TV TR1", TR108:FILMBOX AKSIYON
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32961
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_MOVIESMART FEST HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/24001
+#EXTINF:-1 tvg-id="star.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR109STARHD(1080P).png" group-title="BAYER TV TR1", TR109:FILMBOX COMEDY
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32960
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_MOVIESMART TURK HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2792
+#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR110TEVE2HD(1080P).png" group-title="BAYER TV TR1", TR110:FILMBOX FANTASTIC
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32959
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_NICK JR HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/572
+#EXTINF:-1 tvg-id="trt.belgesel.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR111TRTBELGESELHD(1080P).png" group-title="BAYER TV TR1", TR111:FILMBOX KADIR INANIR
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32958
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_NICKELODEON
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/4684
+#EXTINF:-1 tvg-id="trt.haber.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR112TRTHABERHD(1080P).png" group-title="BAYER TV TR1", TR112:FILMBOX YESILCAM
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32957
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_NR1 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/8650
+#EXTINF:-1 tvg-id="trt.spor.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR113BEINBOXOFFICE1HD.png" group-title="BAYER TV TR1", TR113:FOX
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32956
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_NR1 TURK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2746
+#EXTINF:-1 tvg-id="TR114:FX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR114TV2HD(1080P).png" group-title="BAYER TV TR1", TR114:FX
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32955
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_NTV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2747
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR115TV8HD(1080P).png" group-title="BAYER TV TR1", TR115:GALATASARAY TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32954
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_NTV RADYO
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10374
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR116TVNETHD(1080P).png" group-title="BAYER TV TR1", TR116:GONCA TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32953
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_PLANET TURK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2795
+#EXTINF:-1 tvg-id="ulke.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR117üLKETVHD(1080P).png" group-title="BAYER TV TR1", TR117:GS TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32952
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_POWER TURK AKUSTIK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10367
+#EXTINF:-1 tvg-id="trt.cocuk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR118TRTCOCUKHD.png" group-title="BAYER TV TR1", TR118:GUNEYDOGU
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32951
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_POWER TURK FM
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10368
+#EXTINF:-1 tvg-id="haber.global.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR119TRT1HD.png" group-title="BAYER TV TR1", TR119:HABER GLOBAL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32950
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_POWER TURK HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2749
+#EXTINF:-1 tvg-id="haber.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR120TRTWORLD.png" group-title="BAYER TV TR1", TR120:HABER TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32949
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_POWER TV HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/171
+#EXTINF:-1 tvg-id="trt.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR121TRTTüRK.png" group-title="BAYER TV TR1", TR121:HALK TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32948
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_RADIO MYDONOSE TURK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10360
+#EXTINF:-1 tvg-id="sports.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR123SPORTSTVHD.png" group-title="BAYER TV TR1", TR123:KABE TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32946
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_RADIO VOYAGE
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10359
+#EXTINF:-1 tvg-id="power.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR124" group-title="BAYER TV TR1", TR124:KADIRGA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32945
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_RADYO ALATURKA 91.0 FM
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10362
+#EXTINF:-1 tvg-id="TR125:KANAL 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR125TRTOKUL.png" group-title="BAYER TV TR1", TR125:KANAL 15
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32944
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_S SPORT 1 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/7165
+#EXTINF:-1 tvg-id="trt.muzik.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR126TRTMUZIK.png" group-title="BAYER TV TR1", TR126:KANAL 24
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32943
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_S SPORT2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2733
+#EXTINF:-1 tvg-id="haber.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR127HaberTurk.png" group-title="BAYER TV TR1", TR127:KANAL 3
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32942
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SARAN SPORT
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2761
+#EXTINF:-1 tvg-id="trt.haber.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR128" group-title="BAYER TV TR1", TR128:KANAL 42 KONYA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32941
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SEMERKAND TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2755
+#EXTINF:-1 tvg-id="tgrt.haber.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR129TGRTHaber.png" group-title="BAYER TV TR1", TR129:KANAL 58
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32940
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SHOW RADYO
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10369
+#EXTINF:-1 tvg-id="diyanet.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR130TRTDIYANET.png" group-title="BAYER TV TR1", TR130:KANAL 68
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32939
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SHOW TV HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/36
+#EXTINF:-1 tvg-id="minika.cocuk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR131MinikaCocuk(1).png" group-title="BAYER TV TR1", TR131:KANAL 7
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32938
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SHOWMAX
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2756
+#EXTINF:-1 tvg-id="cnn.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR132CNN.png" group-title="BAYER TV TR1", TR132:KANAL 7 AVRUPA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32937
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SINEMA TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2796
+#EXTINF:-1 tvg-id="trt.belgesel.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR133TRTBelgesel.png" group-title="BAYER TV TR1", TR133:KANAL AVRUPA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32936
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SINEMA TV AILE 1
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2789
+#EXTINF:-1 tvg-id="trt.avaz.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR134TRTAVAZ.png" group-title="BAYER TV TR1", TR134:KANAL B
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32935
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SINEMA TV KOMEDI 1
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2790
+#EXTINF:-1 tvg-id="trt.arabi.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR135TRTARAPCA.png" group-title="BAYER TV TR1", TR135:KANAL D
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32934
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SINEMA TV KOMEDI 2
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/579
+#EXTINF:-1 tvg-id="bein.sports.1.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR13" group-title="BAYER TV TR1", TR136:KANAL T
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32933
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SINEMA TV1001 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/4605
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR13724HABER.png" group-title="BAYER TV TR1", TR137:KANAL URFA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32932
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SINEMA TV1002 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/21324
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR13824KitchenHD.png" group-title="BAYER TV TR1", TR138:KANAL V
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32931
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SINEMATV AKSIYON
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2785
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR139360HD.png" group-title="BAYER TV TR1", TR139:KANAL Z
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32930
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SINEMATV AKSIYON 2
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/571
+#EXTINF:-1 tvg-id="a.haber.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR140AHABERFHD.png" group-title="BAYER TV TR1", TR140:KARDELEN TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32929
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SINEMATV YERLI HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2784
+#EXTINF:-1 tvg-id="a.news.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR141ANewsHD.png" group-title="BAYER TV TR1", TR141:KELOGLAN
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32928
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SMART SPOR HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2760
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR143ASPORTFHD.png" group-title="BAYER TV TR1", TR143:KENT TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32926
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SPORSMART HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/23997
+#EXTINF:-1 tvg-id="a2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR144A2FHD.png" group-title="BAYER TV TR1", TR144:KON TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32925
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_STAR CINEMA TURK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2735
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR145beINMOVIESFAMILY.png" group-title="BAYER TV TR1", TR145:KOY TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32924
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_STAR TV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/336
+#EXTINF:-1 tvg-id="kral.pop.radyo.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR146AKILLITAVSANMOMOTV.png" group-title="BAYER TV TR1", TR146:KRAL POP
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32923
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_SUPER FM
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10355
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR147AKILLITV.png" group-title="BAYER TV TR1", TR147:KRAL SAKIR
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32922
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TATLISES
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/21319
+#EXTINF:-1 tvg-id="kral.fm.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR148AKITTVHD.png" group-title="BAYER TV TR1", TR148:KRAL TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32921
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TELE 1
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2757
+#EXTINF:-1 tvg-id="TR149:KRT TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR149AksTV.png" group-title="BAYER TV TR1", TR149:KRT TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32920
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TEVE 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2773
+#EXTINF:-1 tvg-id="TR150:KUDUS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR150AksuTV.png" group-title="BAYER TV TR1", TR150:KUDUS TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32919
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TGRT HABER
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2762
+#EXTINF:-1 tvg-id="TR151:KUKULI TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR151AktifTVHD.png" group-title="BAYER TV TR1", TR151:KUKULI TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32918
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TIVIBU SPOR 1 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2765
+#EXTINF:-1 tvg-id="altas.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR152AltasTv.png" group-title="BAYER TV TR1", TR152:LALEGUL TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32917
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TIVIBU SPOR 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2766
+#EXTINF:-1 tvg-id="TR153:LOCA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR153TvA.png" group-title="BAYER TV TR1", TR153:LOCA 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32916
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TIVIBU SPOR 3 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2763
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR154ANIMALPLANETHD.png" group-title="BAYER TV TR1", TR154:LOCA 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32915
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TJKTV
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2767
+#EXTINF:-1 tvg-id="TR155:LOONEY TUNES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR155AnimauxHD.png" group-title="BAYER TV TR1", TR155:LOONEY TUNES
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32914
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TLC
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2786
+#EXTINF:-1 tvg-id="as.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR157AsTV.png" group-title="BAYER TV TR1", TR157:MASAL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32912
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TOM & JERRY
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/527
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR158" group-title="BAYER TV TR1", TR158:MAVI KARADENIZ
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32911
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT 1 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/35
+#EXTINF:-1 tvg-id="TR159:MELTEM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR159" group-title="BAYER TV TR1", TR159:MELTEM
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32910
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/7164
+#EXTINF:-1 tvg-id="minika.cocuk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR160" group-title="BAYER TV TR1", TR160:MINIKA COCUK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32909
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT 4K (H265)
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/24910
+#EXTINF:-1 tvg-id="TR161:MINIKA GO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR161" group-title="BAYER TV TR1", TR161:MINIKA GO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32908
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT AVAZ
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/21251
+#EXTINF:-1 tvg-id="bbc.earth.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR162BBCEarthHD.png" group-title="BAYER TV TR1", TR162:MOVIE SMART ACTION
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32907
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT BELGESEL HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2768
+#EXTINF:-1 tvg-id="tv.8.5.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR163TV8,5.png" group-title="BAYER TV TR1", TR163:MOVIE SMART CLASSIC
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32906
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT COCUK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2769
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR164beINMOVIESACTION2.png" group-title="BAYER TV TR1", TR164:MOVIE SMART PLATIN 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32905
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT HABER HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2770
+#EXTINF:-1 tvg-id="TR165:MOVIE SMART PREMIUM 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR165beIN3FHD.png" group-title="BAYER TV TR1", TR165:MOVIE SMART PREMIUM 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32904
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT MUZIK
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/73
+#EXTINF:-1 tvg-id="bein.box.office.1.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR166beINBoxOffice1HD.png" group-title="BAYER TV TR1", TR166:MOVIE SMART TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32903
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT SPOR 2 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2764
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR167beINBoxOffice2HD.png" group-title="BAYER TV TR1", TR167:MOVIEMAX AILE FEST
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32902
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT SPOR 3 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/24911
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR168beINBOXOffice3HD.png" group-title="BAYER TV TR1", TR168:MOVIES YESILCAM
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32901
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT SPOR HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/573
+#EXTINF:-1 tvg-id="TR169:MUSLUM GURSES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR169" group-title="BAYER TV TR1", TR169:MUSLUM GURSES
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32900
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT TURK HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2771
+#EXTINF:-1 tvg-id="nick.jr.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR172beINMoviesActionFHD.png" group-title="BAYER TV TR1", TR172:NICK JR
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32897
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TRT WORLD HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2772
+#EXTINF:-1 tvg-id="nickelodeon.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR173beINMoviesHDStarsFHD.png" group-title="BAYER TV TR1", TR173:NICKELODEON
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32896
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TURKU RADYO
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10365
+#EXTINF:-1 tvg-id="bein.movies.premiere.2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR174beINMoviesPremiere2FHD.png" group-title="BAYER TV TR1", TR174:NILOYA TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32895
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TV 100 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/7162
+#EXTINF:-1 tvg-id="bein.movies.premiere.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR175beINMoviesPremiereFHD.png" group-title="BAYER TV TR1", TR175:NR1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32894
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TV 52 HABER
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/21293
+#EXTINF:-1 tvg-id="bein.movies.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR176beINMoviesTurkFHD.png" group-title="BAYER TV TR1", TR176:NTV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32893
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TV 8 HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2776
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR177beINSeriesComedyFHD.png" group-title="BAYER TV TR1", TR177:ON 4 TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32892
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TV8.5
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2775
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR178beINSeriesSci-FiFHD.png" group-title="BAYER TV TR1", TR178:PAMUKKALE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32891
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_TVNET HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2777
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR179beINSeriesViceFHD.png" group-title="BAYER TV TR1", TR179:PEPE TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32890
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_ULKETV HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2741
+#EXTINF:-1 tvg-id="bein.sports.1.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR180beINSports1FHD.png" group-title="BAYER TV TR1", TR180:PISI
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32889
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_ULUSAL
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2778
+#EXTINF:-1 tvg-id="bein.sports.2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR181beINSports2FHD.png" group-title="BAYER TV TR1", TR181:POWER
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32888
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_VIASAT EXPLORE HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2758
+#EXTINF:-1 tvg-id="bein.sports.4.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR182beINSports4FHD.png" group-title="BAYER TV TR1", TR182:REHBER
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32887
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_VIASAT HISTORY HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/25170
+#EXTINF:-1 tvg-id="bein.sports.1.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR183beINSports1HD.png" group-title="BAYER TV TR1", TR183:RUMELI TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32886
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_VIASAT NATURA & HISTORY
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2780
+#EXTINF:-1 tvg-id="s.sport.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR184beINSports2HD.png" group-title="BAYER TV TR1", TR184:S SPORT
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32885
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_VIRGIN RADIO TURKIYE
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/10366
+#EXTINF:-1 tvg-id="s.sport2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR185beINSports3HD.png" group-title="BAYER TV TR1", TR185:S SPORT 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32884
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_YABAN HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/2797
+#EXTINF:-1 tvg-id="bein.sports.4.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR186beINSports4HD.png" group-title="BAYER TV TR1", TR186:SALON 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32883
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", [TR]_ÇOCUKSMART HD
-http://live.maxcimo.com:8000/tonygeorges69/tonygeorges69/24004
+#EXTINF:-1 tvg-id="bein.sports.1.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR187beINSportsFHD.png" group-title="BAYER TV TR1", TR187:SALON 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32882
+
+#EXTINF:-1 tvg-id="bein.sports.max.1.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR188beINSportsMax1FHD.png" group-title="BAYER TV TR1", TR188:SALON 3 SINEMAX
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32881
+
+#EXTINF:-1 tvg-id="bein.sports.max.2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR189beINSportsMax2FHD.png" group-title="BAYER TV TR1", TR189:SARAN SPORT 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32880
+
+#EXTINF:-1 tvg-id="bein.sports.haber.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR190beINSportsHABERHD.png" group-title="BAYER TV TR1", TR190:SARAN SPORT 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32879
+
+#EXTINF:-1 tvg-id="TR191:SAT7 TURK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/T" group-title="BAYER TV TR1", TR191:SAT7 TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32878
+
+#EXTINF:-1 tvg-id="a.para.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR192APARAHD.png" group-title="BAYER TV TR1", TR192:SCIENCE & VICE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32877
+
+#EXTINF:-1 tvg-id="tv.5.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR193TV5HD.png" group-title="BAYER TV TR1", TR193:SEKER HOCA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32876
+
+#EXTINF:-1 tvg-id="benguturk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR194BENGUTURKTV.png" group-title="BAYER TV TR1", TR194:SEMERKAND
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32875
+
+#EXTINF:-1 tvg-id="TR195:SHOW MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR195" group-title="BAYER TV TR1", TR195:SHOW MAX
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32874
+
+#EXTINF:-1 tvg-id="beyaz.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR196BEYAZFHD.png" group-title="BAYER TV TR1", TR196:SHOW TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32873
+
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR197ASPORHD.png" group-title="BAYER TV TR1", TR197:SHOW TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32872
+
+#EXTINF:-1 tvg-id="bloomberg.ht.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR198BLOOMBERGHTFHD.png" group-title="BAYER TV TR1", TR198:SINEMA 1001
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32871
+
+#EXTINF:-1 tvg-id="baby.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR199BABYF.png" group-title="BAYER TV TR1", TR199:SINEMA 1002
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32870
+
+#EXTINF:-1 tvg-id="TR200:SINEMA AILE 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR200" group-title="BAYER TV TR1", TR200:SINEMA AILE 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32869
+
+#EXTINF:-1 tvg-id="TR201:SINEMA AILE 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR201BURSATVHD.png" group-title="BAYER TV TR1", TR201:SINEMA AILE 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32868
+
+#EXTINF:-1 tvg-id="TR202:SINEMA KOMEDI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR202YOLTV.png" group-title="BAYER TV TR1", TR202:SINEMA KOMEDI
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32867
+
+#EXTINF:-1 tvg-id="TR203:SINEMA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR203" group-title="BAYER TV TR1", TR203:SINEMA TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32866
+
+#EXTINF:-1 tvg-id="TR204:SINEMA YERLI 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR204TBMMTV.png" group-title="BAYER TV TR1", TR204:SINEMA YERLI 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32865
+
+#EXTINF:-1 tvg-id="cartoon.network.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR205CartoonNetworkHD.png" group-title="BAYER TV TR1", TR205:SINEMAX DRAMA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32864
+
+#EXTINF:-1 tvg-id="TR206:SINEMAX FAMILY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR206" group-title="BAYER TV TR1", TR206:SINEMAX FAMILY
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32863
+
+#EXTINF:-1 tvg-id="cem.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/" group-title="BAYER TV TR1", TR207:SINEMAX KOMEDI
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32862
+
+#EXTINF:-1 tvg-id="TR208:SINEMAX TURK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR208CiftciTV.png" group-title="BAYER TV TR1", TR208:SINEMAX TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32861
+
+#EXTINF:-1 tvg-id="TR209:SINEVIZYON 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR209" group-title="BAYER TV TR1", TR209:SINEVIZYON 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32860
+
+#EXTINF:-1 tvg-id="TR210:SINEVIZYON 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR210NEXTBOXGERILIM.png" group-title="BAYER TV TR1", TR210:SINEVIZYON 15
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32859
+
+#EXTINF:-1 tvg-id="TR211:SINEVIZYON 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR211" group-title="BAYER TV TR1", TR211:SINEVIZYON 3
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32858
+
+#EXTINF:-1 tvg-id="TR212:SINEVIZYON TURK 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR212NEXTBOXViZYON.png" group-title="BAYER TV TR1", TR212:SINEVIZYON TURK 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32857
+
+#EXTINF:-1 tvg-id="TR213:SINEVIZYON TURK 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR213NEXTBOXPREMiER.png" group-title="BAYER TV TR1", TR213:SINEVIZYON TURK 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32856
+
+#EXTINF:-1 tvg-id="TR214:SINEVIZYON TURK 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR214NEXTBOXSTARS.png" group-title="BAYER TV TR1", TR214:SINEVIZYON TURK 3
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32855
+
+#EXTINF:-1 tvg-id="TR215:SINEVIZYON TURK 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR215SLTVYESILCAM2.png" group-title="BAYER TV TR1", TR215:SINEVIZYON TURK 5
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32854
+
+#EXTINF:-1 tvg-id="cnn.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR216CNNTURKFHD.png" group-title="BAYER TV TR1", TR216:SINEVIZYON TURK 6
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32853
+
+#EXTINF:-1 tvg-id="tv4.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR217" group-title="BAYER TV TR1", TR217:SINEVIZYON TURK 9
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32852
+
+#EXTINF:-1 tvg-id="da.vinci.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR218DaVinciHD.png" group-title="BAYER TV TR1", TR218:SINEVIZYON TURK 10
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32851
+
+#EXTINF:-1 tvg-id="TR219:SIRINLER TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR219SLKukuliTV.png" group-title="BAYER TV TR1", TR219:SIRINLER TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32850
+
+#EXTINF:-1 tvg-id="cocuk.smart.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR220SLNiloyaTV.png" group-title="BAYER TV TR1", TR220:SMART COCUK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32849
+
+#EXTINF:-1 tvg-id="spor.smart.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR221FOXTV.png" group-title="BAYER TV TR1", TR221:SMART SPOR 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32848
+
+#EXTINF:-1 tvg-id="discovery.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/" group-title="BAYER TV TR1", TR222:STAR TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32847
+
+#EXTINF:-1 tvg-id="discovery.science.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR223DiscoveryScienceHD.png" group-title="BAYER TV TR1", TR223:TARIM TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32846
+
+#EXTINF:-1 tvg-id="TR224:TAY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR224DiscoverySHOWCASEHD.png" group-title="BAYER TV TR1", TR224:TAY
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32845
+
+#EXTINF:-1 tvg-id="disney.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR225DisneyChannelHD.png" group-title="BAYER TV TR1", TR225:TELE 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32844
+
+#EXTINF:-1 tvg-id="disney.junior.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR226DISNEYJRHD.png" group-title="BAYER TV TR1", TR226:TEMPO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32843
+
+#EXTINF:-1 tvg-id="spor.smart.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR227DIZISMARTPREMIUMHD.png" group-title="BAYER TV TR1", TR227:SPOR SMART
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32842
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR228DMAXFHD.png" group-title="BAYER TV TR1", TR228:TEVE 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32841
+
+#EXTINF:-1 tvg-id="TR230:TGRT EU" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR230DostTV.png" group-title="BAYER TV TR1", TR230:TGRT EU
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32839
+
+#EXTINF:-1 tvg-id="tgrt.haber.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR231DREAMTVHD.png" group-title="BAYER TV TR1", TR231:TGRT HABER
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32838
+
+#EXTINF:-1 tvg-id="TR232:TIVI TURK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR232" group-title="BAYER TV TR1", TR232:TIVI TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32837
+
+#EXTINF:-1 tvg-id="ege.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR233EgeTurkTV.png" group-title="BAYER TV TR1", TR233:TIVIBU SPOR 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32836
+
+#EXTINF:-1 tvg-id="euro.d.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR234EuroDHDTR.png" group-title="BAYER TV TR1", TR234:TIVIBU SPOR 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32835
+
+#EXTINF:-1 tvg-id="euro.star.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR235EuroStar.png" group-title="BAYER TV TR1", TR235:TIVIBU SPOR 3
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32834
+
+#EXTINF:-1 tvg-id="eurosport.1.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR236EUROSPORT1HD.png" group-title="BAYER TV TR1", TR236:TJK TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32833
+
+#EXTINF:-1 tvg-id="TR238:TRT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR238SLTVKEMALSUNAL1.png" group-title="BAYER TV TR1", TR238:TRT 1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32831
+
+#EXTINF:-1 tvg-id="TR239:TRT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR239SLTVKEMALSUNAL2.png" group-title="BAYER TV TR1", TR239:TRT 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32830
+
+#EXTINF:-1 tvg-id="fb.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR240" group-title="BAYER TV TR1", TR240:TRT 4K
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32829
+
+#EXTINF:-1 tvg-id="TR241:TRT AVAZ" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR241SLTVPREMIUMHD.png" group-title="BAYER TV TR1", TR241:TRT AVAZ
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32828
+
+#EXTINF:-1 tvg-id="trt.cocuk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR243" group-title="BAYER TV TR1", TR243:TRT COCUK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32826
+
+#EXTINF:-1 tvg-id="TR244:TRT DIYANET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR244MOVIEMAXPREMIER.png" group-title="BAYER TV TR1", TR244:TRT DIYANET
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32825
+
+#EXTINF:-1 tvg-id="TR245:TRT EBA ILKOKUL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR245MOVIEMAXYESILCAM.png" group-title="BAYER TV TR1", TR245:TRT EBA ILKOKUL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32824
+
+#EXTINF:-1 tvg-id="TR246:TRT EBA LISE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR246" group-title="BAYER TV TR1", TR246:TRT EBA LISE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32823
+
+#EXTINF:-1 tvg-id="TR247:TRT EBA ORTAOKUL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR247MOVIEMAXKOMEDIFHD.png" group-title="BAYER TV TR1", TR247:TRT EBA ORTAOKUL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32822
+
+#EXTINF:-1 tvg-id="trt.haber.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR248FOXCRIMEHD.png" group-title="BAYER TV TR1", TR248:TRT HABER
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32821
+
+#EXTINF:-1 tvg-id="TR249:TRT KURDI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR249FOXFHD.png" group-title="BAYER TV TR1", TR249:TRT KURDI
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32820
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR250FoxLifeHD.png" group-title="BAYER TV TR1", TR250:TRT MUZIK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32819
+
+#EXTINF:-1 tvg-id="trt.spor.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR251FXHD.png" group-title="BAYER TV TR1", TR251:TRT SPOR
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32818
+
+#EXTINF:-1 tvg-id="trt.spor.yildiz.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR252GSTVHD.png" group-title="BAYER TV TR1", TR252:TRT SPOR YILDIZ
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32817
+
+#EXTINF:-1 tvg-id="TR253:TRT TURK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR253DenizHaber.png" group-title="BAYER TV TR1", TR253:TRT TURK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32816
+
+#EXTINF:-1 tvg-id="tv4.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR254TV4.png" group-title="BAYER TV TR1", TR254:TRT WORLD
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32815
+
+#EXTINF:-1 tvg-id="haber.global.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR255HABERGLOBALHD.png" group-title="BAYER TV TR1", TR255:TV 100
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32814
+
+#EXTINF:-1 tvg-id="haber.turk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR256HABERTURKFHD.png" group-title="BAYER TV TR1", TR256:TV 5
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32813
+
+#EXTINF:-1 tvg-id="halk.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR257HALKTVHD.png" group-title="BAYER TV TR1", TR257:TV 52 ORDU
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32812
+
+#EXTINF:-1 tvg-id="TR258:TV 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR258" group-title="BAYER TV TR1", TR258:TV 8
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32811
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR259HistoryChannelHD.png" group-title="BAYER TV TR1", TR259:TV 8 INT
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32810
+
+#EXTINF:-1 tvg-id="discovery.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR260DISCOVERYID.png" group-title="BAYER TV TR1", TR260:TV 85
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32809
+
+#EXTINF:-1 tvg-id="TR261:TVNET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR261DRTDENIZLI.png" group-title="BAYER TV TR1", TR261:TVNET
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32808
+
+#EXTINF:-1 tvg-id="TR262:UCANKUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR262KabeTV.png" group-title="BAYER TV TR1", TR262:UCANKUS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32807
+
+#EXTINF:-1 tvg-id="kanal.3.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR263KANAL3HD.png" group-title="BAYER TV TR1", TR263:ULKE TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32806
+
+#EXTINF:-1 tvg-id="kanal.7.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR264KANAL7FHD.png" group-title="BAYER TV TR1", TR264:ULUSAL KANAL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32805
+
+#EXTINF:-1 tvg-id="uzay.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR265Kanal26.png" group-title="BAYER TV TR1", TR265:UZAY HABER
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32804
+
+#EXTINF:-1 tvg-id="TR266:VATAN TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR266Kanal43.png" group-title="BAYER TV TR1", TR266:VATAN TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32803
+
+#EXTINF:-1 tvg-id="kanal.b.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR269KANALBHD.png" group-title="BAYER TV TR1", TR269:VIZYON 58
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32800
+
+#EXTINF:-1 tvg-id="TR270:VIZYON 58 TV SIVAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR270KANALURFA.png" group-title="BAYER TV TR1", TR270:VIZYON 58 TV SIVAS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32799
+
+#EXTINF:-1 tvg-id="kanal.v.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR271KanalV.png" group-title="BAYER TV TR1", TR271:VUSLAT TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32798
+
+#EXTINF:-1 tvg-id="TR272:YABAN TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR272KEMALSUNALHD.png" group-title="BAYER TV TR1", TR272:YABAN TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32797
+
+#EXTINF:-1 tvg-id="beykent.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR273" group-title="BAYER TV TR1", TR273:YESILCAM
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32796
+
+#EXTINF:-1 tvg-id="TR274:YESILCAM BOX 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR274NEXTBOXANIMASYON.png" group-title="BAYER TV TR1", TR274:YESILCAM BOX 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32795
+
+#EXTINF:-1 tvg-id="TR275:YESILCAM BOX 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR275KonTVHD.png" group-title="BAYER TV TR1", TR275:YESILCAM BOX 3
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32794
+
+#EXTINF:-1 tvg-id="vatan.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR276VATANTVHD.png" group-title="BAYER TV TR1", TR276:YOL TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/32793
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR2 / YEDEK", 24 TV HD
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
