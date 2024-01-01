@@ -2141,32 +2141,23 @@ http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149648.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR3", |TR| Yol TV
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149669.ts
 
-#EXTINF:-1 tvg-id="TR : beIN  Sports 2 FullHD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO37R3PdaJOYMRDp7fWejnDFTHVEoK0REmF-GgaJo7PFsi6in4kzI6VQvsfxqkdDxBe.png" group-title="BAYER TV TR4", TR : beIN  Sports 2 FullHD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53997
+#EXTINF:-1 tvg-id="TR: BEIN IZ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26936328441.png" group-title="BAYER TV TR4", TR: BEIN IZ HD
+http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53579
 
-#EXTINF:-1 tvg-id="TR : beIN  Sports 2 HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO37R3PdaJOYMRDp7fWejnDFTHVEoK0REmF-GgaJo7PFsi6in4kzI6VQvsfxqkdDxBe.png" group-title="BAYER TV TR4", TR : beIN  Sports 2 HD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53998
+#EXTINF:-1 tvg-id="TR: Discovery Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/39394578361.png" group-title="BAYER TV TR4", TR: Discovery Channel HD
+http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53620
 
-#EXTINF:-1 tvg-id="TR : beIN  Sports 4 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3rOXHW7aWbmRDfEujx9rI2yBFs3GcI7KcUxqzagPhqmc3o1P6SIc9LC9I7xw6tUky.png" group-title="BAYER TV TR4", TR : beIN  Sports 4 HD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/54001
+#EXTINF:-1 tvg-id="TR: Discovery Science HD" tvg-logo="https://img-cdn.curl.pk/chimg/1744179241.png" group-title="BAYER TV TR4", TR: Discovery Science HD
+http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53621
 
-#EXTINF:-1 tvg-id="TR : beIN  Sports Haber FullHD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3bF5F7eYq3l3gNFsoZCf4q2gBebdOv5a96E96MQkFnPeHVDZVmVlwm0T_c3WxfKYo.png" group-title="BAYER TV TR4", TR : beIN  Sports Haber FullHD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/54002
+#EXTINF:-1 tvg-id="TR: DMAX HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/65f5721ce8921d5ca420fa4ebbd5a4d9.png" group-title="BAYER TV TR4", TR: DMAX HD
+http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53627
 
-#EXTINF:-1 tvg-id="TR : beIN  Sports Haber HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3bF5F7eYq3l3gNFsoZCf4q2gBebdOv5a96E96MQkFnPeHVDZVmVlwm0T_c3WxfKYo.png" group-title="BAYER TV TR4", TR : beIN  Sports Haber HD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/54003
+#EXTINF:-1 tvg-id="TR: NAT GEO Wİld HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b73b90c031fa56e7143ca08784fcca54.png" group-title="BAYER TV TR4", TR: NAT GEO Wİld HD
+http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53694
 
-#EXTINF:-1 tvg-id="TR : beIN  Sports Max 1 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3Cn85zvhYblp4tclSfg2HI70wNvPYflNM6l8kqnUjsGIIuPLsrMInh67gqW1cSsyE.png" group-title="BAYER TV TR4", TR : beIN  Sports Max 1 HD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/54005
-
-#EXTINF:-1 tvg-id="TR : beIN  Sports Max 2 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3Ztnd0uW6k7vNiHLSbIRplJFjid_cFH4nm9ymy0JLpwEXYHeqpazQhY-j4k8JttdH.png" group-title="BAYER TV TR4", TR : beIN  Sports Max 2 HD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/54007
-
-#EXTINF:-1 tvg-id="TR : beIN Sports Max 2 FullHD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_V65c0YQJBzmgSQyf2usO3Ztnd0uW6k7vNiHLSbIRplJFjid_cFH4nm9ymy0JLpwEXYHeqpazQhY-j4k8JttdH.png" group-title="BAYER TV TR4", TR : beIN Sports Max 2 FullHD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/54006
-
-#EXTINF:-1 tvg-id="TR: 24 Kitchen HD" tvg-logo="https://img-cdn.curl.pk/chimg/1501214104.png" group-title="BAYER TV TR4", TR: 24 Kitchen HD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53561
+#EXTINF:-1 tvg-id="TR: Natgeo People HD" tvg-logo="https://img-cdn.curl.pk/chimg/8906365792.png" group-title="BAYER TV TR4", TR: Natgeo People HD
+http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53695
 
 #EXTINF:-1 tvg-id="TR: 24 TV HD" tvg-logo="https://img-cdn.curl.pk/chimg/7427681310.png" group-title="BAYER TV TR4", TR: 24 TV HD
 http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53562
@@ -2218,9 +2209,6 @@ http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53577
 
 #EXTINF:-1 tvg-id="TR: BEIN Gurme HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/83218781601.png" group-title="BAYER TV TR4", TR: BEIN Gurme HD
 http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53578
-
-#EXTINF:-1 tvg-id="TR: BEIN IZ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26936328441.png" group-title="BAYER TV TR4", TR: BEIN IZ HD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53579
 
 #EXTINF:-1 tvg-id="TR: BEIN Movies Action 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/11503601381.png" group-title="BAYER TV TR4", TR: BEIN Movies Action 2 HD
 http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53580
@@ -2342,12 +2330,6 @@ http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53618
 #EXTINF:-1 tvg-id="TR: DA Vinci Learning HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0c17ada39729404d61e0fd203429abc7.png" group-title="BAYER TV TR4", TR: DA Vinci Learning HD
 http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53619
 
-#EXTINF:-1 tvg-id="TR: Discovery Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/39394578361.png" group-title="BAYER TV TR4", TR: Discovery Channel HD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53620
-
-#EXTINF:-1 tvg-id="TR: Discovery Science HD" tvg-logo="https://img-cdn.curl.pk/chimg/1744179241.png" group-title="BAYER TV TR4", TR: Discovery Science HD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53621
-
 #EXTINF:-1 tvg-id="TR: Discovery Science HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/e88ef3f8909dac644967f9390ad7058b.png" group-title="BAYER TV TR4", TR: Discovery Science HD
 http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53622
 
@@ -2362,9 +2344,6 @@ http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53625
 
 #EXTINF:-1 tvg-id="TR: DIZI Smart Premium FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/50227631881.png" group-title="BAYER TV TR4", TR: DIZI Smart Premium FHD
 http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53626
-
-#EXTINF:-1 tvg-id="TR: DMAX HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/65f5721ce8921d5ca420fa4ebbd5a4d9.png" group-title="BAYER TV TR4", TR: DMAX HD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53627
 
 #EXTINF:-1 tvg-id="TR: Dream TURK HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/8dbb4f6d7401951a918536a571883ee1.png" group-title="BAYER TV TR4", TR: Dream TURK HD
 http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53628
@@ -2560,12 +2539,6 @@ http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53692
 
 #EXTINF:-1 tvg-id="TR: Multivizyon 19 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/84203226411.png" group-title="BAYER TV TR4", TR: Multivizyon 19 HD
 http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53693
-
-#EXTINF:-1 tvg-id="TR: NAT GEO Wİld HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b73b90c031fa56e7143ca08784fcca54.png" group-title="BAYER TV TR4", TR: NAT GEO Wİld HD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53694
-
-#EXTINF:-1 tvg-id="TR: Natgeo People HD" tvg-logo="https://img-cdn.curl.pk/chimg/8906365792.png" group-title="BAYER TV TR4", TR: Natgeo People HD
-http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53695
 
 #EXTINF:-1 tvg-id="TR: NBA TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/47830563681.png" group-title="BAYER TV TR4", TR: NBA TV HD
 http://ott1.one:8080/SADTVTELEGRAM150CONX/GGYWJHDUEJDDIDJFJUFRN/53696
