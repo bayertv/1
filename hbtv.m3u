@@ -359,6 +359,165 @@ http://new.cache-stream.workers.dev/stream/UCmMPdW0rtbEI_XyIsMlMnqg/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", ZEYNO TV
 https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
 
+#EXTINF:-1 tvg-id="40" tvg-logo="noimage.png" group-title="BAYER TV SPOR", A SPOR TARAFTARİUM24SPOR
+https://cakal.click/yayinas.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-logo="noimage.png" group-title="BAYER TV SPOR", A SPOR TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinas.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-logo="noimage.png" group-title="BAYER TV SPOR", ATV TARAFTARİUM24SPOR
+https://cakal.click/yayinatv.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="BAYER TV SPOR", ATV TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinatv.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN MAX 1 TARAFTARİUM24SPOR
+https://cakal.click/yayinbm1.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN MAX 1 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN MAX 2 TARAFTARİUM24SPOR
+https://cakal.click/yayinbm2.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN MAX 2 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinbm2.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN SPORTS 1 TARAFTARİUM24SPOR
+https://cakal.click/yayinstar.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN SPORTS 1 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayin1.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN SPORTS 2 TARAFTARİUM24SPOR
+https://cakal.click/yayinb2.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN SPORTS 2 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN SPORTS 3 TARAFTARİUM24SPOR
+https://cakal.click/yayinb3.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN SPORTS 3 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinb3.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN SPORTS 4 TARAFTARİUM24SPOR
+https://cakal.click/yayinb4.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN SPORTS 4 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinb4.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN SPORTS 5 TARAFTARİUM24SPOR
+https://cakal.click/yayinb5.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN SPORTS 5 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinb5.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEİN SPORTS HABER  SPOR
+https://ecanlitv3.etvserver.com/beinsporthaber.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216
+
+#EXTINF:-1 tvg-id="55" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BJK TV  SPOR
+https://ecanlitv3.etvserver.com/aspor.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216
+
+#EXTINF:-1 tvg-id="45" tvg-logo="noimage.png" group-title="BAYER TV SPOR", EUROSPORT 1 TARAFTARİUM24SPOR
+https://cakal.click/yayineu1.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-logo="noimage.png" group-title="BAYER TV SPOR", EUROSPORT 1 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayineu1.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-logo="noimage.png" group-title="BAYER TV SPOR", EUROSPORT 2 TARAFTARİUM24SPOR
+https://cakal.click/yayineu2.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-logo="noimage.png" group-title="BAYER TV SPOR", EUROSPORT 2 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayineu2.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-logo="noimage.png" group-title="BAYER TV SPOR", FB TV  SPOR
+https://ecanlitv3.etvserver.com/fbtv.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216
+
+#EXTINF:-1 tvg-id="44" tvg-logo="noimage.png" group-title="BAYER TV SPOR", NBA TV TARAFTARİUM24SPOR
+https://cakal.click/yayinnba.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-logo="noimage.png" group-title="BAYER TV SPOR", NBA TV TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinnba.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-logo="noimage.png" group-title="BAYER TV SPOR", S SPORT 2 TARAFTARİUM24SPOR
+https://cakal.click/yayinss2.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-logo="noimage.png" group-title="BAYER TV SPOR", S SPORT 2 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-logo="noimage.png" group-title="BAYER TV SPOR", S SPORT TARAFTARİUM24SPOR
+https://cakal.click/yayinss.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="noimage.png" group-title="BAYER TV SPOR", S SPORT TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinss.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-logo="noimage.png" group-title="BAYER TV SPOR", SMARTSPOR TARAFTARİUM24SPOR
+https://cakal.click/yayinsmarts.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="noimage.png" group-title="BAYER TV SPOR", SMARTSPOR TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-logo="noimage.png" group-title="BAYER TV SPOR", SPORTS TV  SPOR
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TIVIBU 1 TARAFTARİUM24SPOR
+https://cakal.click/yayint1.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TIVIBU 1 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayint1.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TIVIBU 2 TARAFTARİUM24SPOR
+https://cakal.click/yayint2.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TIVIBU 2 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayint2.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TIVIBU 3 TARAFTARİUM24SPOR
+https://cakal.click/yayint3.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TIVIBU 3 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayint3.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TİVİBU SPOR  SPOR
+https://ecanlitv3.etvserver.com/tvbu.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216
+
+#EXTINF:-1 tvg-id="39" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TRT 1 TARAFTARİUM24SPOR
+https://cakal.click/yayintrt1.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TRT 1 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayintrt1.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TRT SPOR  SPOR
+
+
+#EXTINF:-1 tvg-id="75" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TRT SPOR  SPOR
+
+
+#EXTINF:-1 tvg-id="37" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TRT SPOR TARAFTARİUM24SPOR
+https://cakal.click/yayintrtspor.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TRT SPOR TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayintrtspor.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TRT SPOR YILDIZ TARAFTARİUM24SPOR
+https://cakal.click/yayintrtspor2.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TRT SPOR YILDIZ TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayintrtspor2.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TV 8 TARAFTARİUM24SPOR
+https://cakal.click/yayintv8.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TV 8 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayintv8.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TV 8.5 TARAFTARİUM24SPOR
+https://cakal.click/yayintv85.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="BAYER TV SPOR", TV 8.5 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
+
 #EXTINF:-1 tvg-id="spor.smart.2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR017SSPORTHD(1).png" group-title="BAYER TV TR2", TR017:ANIMAL PLANET
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/33052
 
@@ -5041,6 +5200,15 @@ http://938592785447741275.ofip231209.xyz:80/play/ja412869/yPqt9STQShr/741275.ts
 
 #EXTINF:-1 tvg-id="AfricanewsEnglish.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="BAYER TV TR8 - GLOBAL", Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR8 - GLOBAL", Latin CubaMax
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/4610
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR8 - GLOBAL", CUBA I CUBAVISION INTERNACIONAL HD
+http://th4.online:2095/RESTREAM65MIO/5747379/2195
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR8 - GLOBAL", CUBA I TELEMARTI HD
+http://th4.online:2095/RESTREAM65MIO/5747379/83512
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR8 - GLOBAL", BBC News  🇬🇧
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
@@ -10006,6 +10174,60 @@ http://mix-dns.com:8080/alonsoj.chavez@gmail.com/XPZBzYvkxh/509153
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR9 - GLOBAL", US: YES NETWORK
 http://mix-dns.com:8080/alonsoj.chavez@gmail.com/XPZBzYvkxh/418167
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE Geo Television HD
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/652449
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE Nitro HD
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/652440
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE NOW HD
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/652445
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE nTV HD
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/652441
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE RTL
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/602170
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE RTL Crime HD
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/652446
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE RTL Living HD
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/652448
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE RTL Passion HD
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/652447
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE RTL Up HD
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/652442
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE RTL Zwei HD
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/652439
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE RTL2
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/602590
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE Super RTL
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/602580
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE Toggo Plus HD
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/652444
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE VOX
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/602169
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE VOX Up HD
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/652443
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE ZDF
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/565435
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE | DAZN SPORT 1
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/434604
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 1", DE | DAZN SPORT 2
+http://live.lordstreams.co:8080/M_solero101/f169922c0f/434605
 
 #EXTINF:-1 tvg-id="animal.planet.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE004AnimalPlanet.png" group-title="DEUTSCH 2", DE004:ANIMAL PLANET
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2679
@@ -15721,6 +15943,408 @@ http://938592785447726827.ofip231209.xyz:80/play/ja412869/yPqt9STQShr/726827.ts
 
 #EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="noimage.png" group-title="DEUTSCH 6", DE: ZDF NEO HD
 http://938592785447611590.ofip231209.xyz:80/play/ja412869/yPqt9STQShr/611590.ts
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US488FOX_KTBC.png" group-title="ENGLISH 2", CT
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29702
+
+#EXTINF:-1 tvg-id="FOX 18 (WHIZ) ZANESVILLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US455FOX_WBFF.png" group-title="ENGLISH 2", FOX 18 (WHIZ) ZANESVILLE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29735
+
+#EXTINF:-1 tvg-id="fox.hd.english.bein" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="ENGLISH 2", US036:FOX-HD
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/3132
+
+#EXTINF:-1 tvg-id="fox.news.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US037FOX-News.png" group-title="ENGLISH 2", US037:FOX-News
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/3131
+
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="ENGLISH 2", US038:FOX-Sports1
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/3130
+
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US039FOX-Sports2.png" group-title="ENGLISH 2", US039:FOX-Sports2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/3129
+
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US090FoxSportsYes.png" group-title="ENGLISH 2", US090:Fox Sports Yes
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/3078
+
+#EXTINF:-1 tvg-id="fox.business.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US094FoxBusinessNetwork.png" group-title="ENGLISH 2", US094:Fox Business Network
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/3074
+
+#EXTINF:-1 tvg-id="US099:Fox Sports NetBase" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US099Fox_Sports_NetBase.png" group-title="ENGLISH 2", US099:Fox Sports NetBase
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30091
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US100Fox_Sports_SportsTime_Ohio.png" group-title="ENGLISH 2", US100:Fox Sports Sportstime Ohio
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30090
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US101Fox_Sports_YES_Network.png" group-title="ENGLISH 2", US101:Fox Sports Yes Network
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30089
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US102Fox_Sports_San_Diego.png" group-title="ENGLISH 2", US102:Fox Sports San Diego
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30088
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US103Fox_Sports_Sun.png" group-title="ENGLISH 2", US103:Fox Sports Sun
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30087
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US104Fox_Sports_Detroit.png" group-title="ENGLISH 2", US104:Fox Sports Detroit
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30086
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US105Fox_Sports_Ohio.png" group-title="ENGLISH 2", US105:Fox Sports Ohio
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30085
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US106Fox_Sports_North.png" group-title="ENGLISH 2", US106:Fox Sports North
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30084
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US107Fox_Sports_Midwest.png" group-title="ENGLISH 2", US107:Fox Sports Indiana
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30083
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US108Fox_Sports_Florida.png" group-title="ENGLISH 2", US108:Fox Sports Florida
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30082
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US109Fox_Sports_Arizona.png" group-title="ENGLISH 2", US109:Fox Sports Arizona
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30081
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US110Fox_Sports_Wisconsin.png" group-title="ENGLISH 2", US110:Fox Sports Wisconsin
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30080
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US111Fox_Sports_West.png" group-title="ENGLISH 2", US111:Fox Sports West
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30079
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US112Fox_Sports_South.png" group-title="ENGLISH 2", US112:Fox Sports South
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30078
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US113Fox_Sports_Southeast.png" group-title="ENGLISH 2", US113:Fox Sports Southeast
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30077
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US114Fox_Sports_Southwest_Plus.png" group-title="ENGLISH 2", US114:Fox Sports Southwest Plus
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30076
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US115Fox_Sports_Southwest.png" group-title="ENGLISH 2", US115:Fox Sports Southwest
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30075
+
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US117Fox_College_Sports_Pacific.png" group-title="ENGLISH 2", US117:Fox Sports 2
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30073
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US118Fox_College_Sports_Central.png" group-title="ENGLISH 2", US118:Fox Sports Oklahoma
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30072
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US119Fox_Sports_Soccer_Plus.png" group-title="ENGLISH 2", US119:Fox Sacramento
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30071
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US120Fox_Sports_2.png" group-title="ENGLISH 2", US120:Fox Sports Kansas City Plu
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30070
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US121Fox_Sports_1.png" group-title="ENGLISH 2", US121:Fox Sports Prime Ticket
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/30069
+
+#EXTINF:-1 tvg-id="US334:FOX 40 (KTXL) SACRAMENTO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US334fox-kcop-lax.png" group-title="ENGLISH 2", US334:FOX 40 (KTXL) SACRAMENTO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29856
+
+#EXTINF:-1 tvg-id="US335:FOX 9 (KNIN) CALDWELL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US335fox-kptv-por.png" group-title="ENGLISH 2", US335:FOX 9 (KNIN) CALDWELL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29855
+
+#EXTINF:-1 tvg-id="US337:FOX (KRQE) ALBUQUERQUE-SANTA FE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US337FOX_WFLX.png" group-title="ENGLISH 2", US337:FOX (KRQE) ALBUQUERQUE-SANTA FE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29853
+
+#EXTINF:-1 tvg-id="US338:FOX SAN FRANCISCO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US338FOX_WUPW.png" group-title="ENGLISH 2", US338:FOX SAN FRANCISCO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29852
+
+#EXTINF:-1 tvg-id="US339:FOX SAN ANTONIO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US339FOX_WSYT.png" group-title="ENGLISH 2", US339:FOX SAN ANTONIO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29851
+
+#EXTINF:-1 tvg-id="US340:FOX NEW ORLEANS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US340FOX_KAYU.png" group-title="ENGLISH 2", US340:FOX NEW ORLEANS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29850
+
+#EXTINF:-1 tvg-id="US341:FOX 4 (WDAF) KANSAS CITY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US341FOX_KRXI.png" group-title="ENGLISH 2", US341:FOX 4 (WDAF) KANSAS CITY
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29849
+
+#EXTINF:-1 tvg-id="US342:FOX HOUSTON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US342FOX_WYZZ.png" group-title="ENGLISH 2", US342:FOX HOUSTON
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29848
+
+#EXTINF:-1 tvg-id="US343:FOX DETROIT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US343FOX_WSYM.png" group-title="ENGLISH 2", US343:FOX DETROIT
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29847
+
+#EXTINF:-1 tvg-id="US344:FOX 54 (WZDX) Huntsville" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US344FOX_KADN.png" group-title="ENGLISH 2", US344:FOX 54 (WZDX) Huntsville
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29846
+
+#EXTINF:-1 tvg-id="US345:FOX 53 (WPGH) Pittsburgh" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US345FOX_WLAX.png" group-title="ENGLISH 2", US345:FOX 53 (WPGH) Pittsburgh
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29845
+
+#EXTINF:-1 tvg-id="US364:FOX 17 (WZTV) NASHVILLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US364FOX_KFXV.png" group-title="ENGLISH 2", US364:FOX 17 (WZTV) NASHVILLE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29826
+
+#EXTINF:-1 tvg-id="US365:FOX GREEN BAY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US365FOX_WEVV2.png" group-title="ENGLISH 2", US365:FOX GREEN BAY
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29825
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US366FOX_KFOX.png" group-title="ENGLISH 2", US366:FOX 9 (KMSP) Minneapolis
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29824
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US367FOX_KSCC.png" group-title="ENGLISH 2", US367:FOX 25 (WLAX) EAU CLAIRE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29823
+
+#EXTINF:-1 tvg-id="US369:FOX TACOMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US369FOX_WBRC.png" group-title="ENGLISH 2", US369:FOX TACOMA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29821
+
+#EXTINF:-1 tvg-id="US370:FOX 44 (WFFF) Burlington" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US370FOX_WFXG.png" group-title="ENGLISH 2", US370:FOX 44 (WFFF) Burlington
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29820
+
+#EXTINF:-1 tvg-id="US371:FOX 43 (WVBT) Virginia Beach" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US371FOX_KICU.png" group-title="ENGLISH 2", US371:FOX 43 (WVBT) Virginia Beach
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29819
+
+#EXTINF:-1 tvg-id="US372:FOX 43 (WSVF) Harrisonburg" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US372FOX_WTWC.png" group-title="ENGLISH 2", US372:FOX 43 (WSVF) Harrisonburg
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29818
+
+#EXTINF:-1 tvg-id="US373:FOXNet Charlottesville" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US373FOX_WJBK.png" group-title="ENGLISH 2", US373:FOXNet Charlottesville
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29817
+
+#EXTINF:-1 tvg-id="US374:FOX 39 (WQRF) ROCKFORD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US374FOX_WTVT.png" group-title="ENGLISH 2", US374:FOX 39 (WQRF) ROCKFORD
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29816
+
+#EXTINF:-1 tvg-id="US379:FOXNet Abilene" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US379FOX_WOLF.png" group-title="ENGLISH 2", US379:FOXNet Abilene
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29811
+
+#EXTINF:-1 tvg-id="US382:FOX (WHBQ) Memphis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US382FOX_WPMT.png" group-title="ENGLISH 2", US382:FOX (WHBQ) Memphis
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29808
+
+#EXTINF:-1 tvg-id="US389:FOX 43 (WFXB) Myrtle Beach" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US389FOX_KTXL.png" group-title="ENGLISH 2", US389:FOX 43 (WFXB) Myrtle Beach
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29801
+
+#EXTINF:-1 tvg-id="US390:FOX (WHNS) Greenville" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US390FOX_WTTG.png" group-title="ENGLISH 2", US390:FOX (WHNS) Greenville
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29800
+
+#EXTINF:-1 tvg-id="US398:FOX CHARLESTON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US398FOX_WTTE.png" group-title="ENGLISH 2", US398:FOX CHARLESTON
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29792
+
+#EXTINF:-1 tvg-id="US399:FOX 64 (WNAC) Providence/New Bedford" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US399FOX_WFXT.png" group-title="ENGLISH 2", US399:FOX 64 (WNAC) Providence/New Bedford
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29791
+
+#EXTINF:-1 tvg-id="US407:FOX PORTLAND" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US407FOX_WFXB.png" group-title="ENGLISH 2", US407:FOX PORTLAND
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29783
+
+#EXTINF:-1 tvg-id="US416:FOX (KLSR) Eugene" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US416FOX_KBSI.png" group-title="ENGLISH 2", US416:FOX (KLSR) Eugene
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29774
+
+#EXTINF:-1 tvg-id="US417:FOX (WYFX) YOUNGSTOWN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US417FOX_KSTU.png" group-title="ENGLISH 2", US417:FOX (WYFX) YOUNGSTOWN
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29773
+
+#EXTINF:-1 tvg-id="US418:FOX 36 (WUPW) TOLEDO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US418FOX_KTVU.png" group-title="ENGLISH 2", US418:FOX 36 (WUPW) TOLEDO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29772
+
+#EXTINF:-1 tvg-id="US421:FOX 8 (WJW) CLEVELAND" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US421FOX_KTVI.png" group-title="ENGLISH 2", US421:FOX 8 (WJW) CLEVELAND
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29769
+
+#EXTINF:-1 tvg-id="US425:FOXNet Binghampton" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US425FOX_KDVR.png" group-title="ENGLISH 2", US425:FOXNet Binghampton
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29765
+
+#EXTINF:-1 tvg-id="US426:FOX (WXXA) ALBANY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US426FOX_WOGX.png" group-title="ENGLISH 2", US426:FOX (WXXA) ALBANY
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29764
+
+#EXTINF:-1 tvg-id="US427:FOX (KVVU) Henderson" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US427FOX_KOKI.png" group-title="ENGLISH 2", US427:FOX (KVVU) Henderson
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29763
+
+#EXTINF:-1 tvg-id="US428:FOX (KVRR) FARGO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US428FOX_KOKH.png" group-title="ENGLISH 2", US428:FOX (KVRR) FARGO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29762
+
+#EXTINF:-1 tvg-id="US429:FOX 50 (WRAZ) Raleigh/Durham" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US429FOX_WDRB.png" group-title="ENGLISH 2", US429:FOX 50 (WRAZ) Raleigh/Durham
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29761
+
+#EXTINF:-1 tvg-id="US430:FOX (WGHP) High Point" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US430FOX_KRQE.png" group-title="ENGLISH 2", US430:FOX (WGHP) High Point
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29760
+
+#EXTINF:-1 tvg-id="US431:FOX 46 (WJZY) BELMONT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US431FOX_WGXA.png" group-title="ENGLISH 2", US431:FOX 46 (WJZY) BELMONT
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29759
+
+#EXTINF:-1 tvg-id="US432:FOX 16 (WJKT) Jackson" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US432FOX_WVUE.png" group-title="ENGLISH 2", US432:FOX 16 (WJKT) Jackson
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29758
+
+#EXTINF:-1 tvg-id="US433:FOXNet Marquette" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US433FOX_KTTW.png" group-title="ENGLISH 2", US433:FOXNet Marquette
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29757
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US434FOX_KTTV.png" group-title="ENGLISH 2", US434:FOX (WSYM) LANSING
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29756
+
+#EXTINF:-1 tvg-id="US435:FOX (WXMI) GRAND RAPIDS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US435FOX_WOFL.png" group-title="ENGLISH 2", US435:FOX (WXMI) GRAND RAPIDS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29755
+
+#EXTINF:-1 tvg-id="US437:FOX 40 (WGGB) Springfield" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US437FOX_WFTX.png" group-title="ENGLISH 2", US437:FOX 40 (WGGB) Springfield
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29753
+
+#EXTINF:-1 tvg-id="US438:FOX 25 (WFXT) Boston" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US438FOX_KFXL.png" group-title="ENGLISH 2", US438:FOX 25 (WFXT) Boston
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29752
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US439FOX_KFXK.png" group-title="ENGLISH 2", US439:FOX 44 (WGMB) Baton Rouge
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29751
+
+#EXTINF:-1 tvg-id="US440:FOX (WXMI) HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US440FOX_WXXA.png" group-title="ENGLISH 2", US440:FOX (WXMI) HD
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29750
+
+#EXTINF:-1 tvg-id="US441:FOX CHICAGO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US441FOX_WPGH.png" group-title="ENGLISH 2", US441:FOX CHICAGO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29749
+
+#EXTINF:-1 tvg-id="US442:FOX BLOOMINGTON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US442FOX_WSMH.png" group-title="ENGLISH 2", US442:FOX BLOOMINGTON
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29748
+
+#EXTINF:-1 tvg-id="US444:FOX (KNIN) CALDWELL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US444FOX_WTNZ.png" group-title="ENGLISH 2", US444:FOX (KNIN) CALDWELL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29746
+
+#EXTINF:-1 tvg-id="US445:FOX (KTTW) SIOUX FALLS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US445FOX_WPFO.png" group-title="ENGLISH 2", US445:FOX (KTTW) SIOUX FALLS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29745
+
+#EXTINF:-1 tvg-id="US446:FOX (KLJB) DAVENPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US446FOX_KCPQ.png" group-title="ENGLISH 2", US446:FOX (KLJB) DAVENPORT
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29744
+
+#EXTINF:-1 tvg-id="US447:FOX 54 (WXTX) COLUMBUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US447FOX_WJZY.png" group-title="ENGLISH 2", US447:FOX 54 (WXTX) COLUMBUS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29743
+
+#EXTINF:-1 tvg-id="US448:FOX (WFXG) AUGUSTA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US448FOX_WNAC.png" group-title="ENGLISH 2", US448:FOX (WFXG) AUGUSTA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29742
+
+#EXTINF:-1 tvg-id="US450:FOX CAPE CORAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US450FOX_WRGT.png" group-title="ENGLISH 2", US450:FOX CAPE CORAL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29740
+
+#EXTINF:-1 tvg-id="US451:FOX (KXRM) COLORADO SPRINGS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US451FOX_WDKY.png" group-title="ENGLISH 2", US451:FOX (KXRM) COLORADO SPRINGS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29739
+
+#EXTINF:-1 tvg-id="US452:FOX (KKFX) San Luis Obispo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US452FOX_WFOX.png" group-title="ENGLISH 2", US452:FOX (KKFX) San Luis Obispo
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29738
+
+#EXTINF:-1 tvg-id="US453:FOX 5 (KSWB) SAN DIEGO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US453FOX_KVRR.png" group-title="ENGLISH 2", US453:FOX 5 (KSWB) SAN DIEGO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29737
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US454FOX_KRIV.png" group-title="ENGLISH 2", US454:FOX 2 (KTVU) OAKLAND
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29736
+
+#EXTINF:-1 tvg-id="US456:FOX (KMSB) TUCSON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US456FOX_WITI.png" group-title="ENGLISH 2", US456:FOX (KMSB) TUCSON
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29734
+
+#EXTINF:-1 tvg-id="US457:FOX 29 (WUTV) BUFFALO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US457FOX_WTIC.png" group-title="ENGLISH 2", US457:FOX 29 (WUTV) BUFFALO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29733
+
+#EXTINF:-1 tvg-id="US458:FOX (WUTV)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US458FOX_WACH.png" group-title="ENGLISH 2", US458:FOX (WUTV)
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29732
+
+#EXTINF:-1 tvg-id="US459:FOX 59 INDIANAPOLIS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US459FOX_WZTV.png" group-title="ENGLISH 2", US459:FOX 59 INDIANAPOLIS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29731
+
+#EXTINF:-1 tvg-id="US460:FOX BALTIMORE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US460FOX_WTGS.png" group-title="ENGLISH 2", US460:FOX BALTIMORE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29730
+
+#EXTINF:-1 tvg-id="US461:FOX 51 LONGVIEW" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US461FOX_WFLD.png" group-title="ENGLISH 2", US461:FOX 51 LONGVIEW
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29729
+
+#EXTINF:-1 tvg-id="US462:FOX 23 (WXXA) ALBANY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US462FOX_KXRM.png" group-title="ENGLISH 2", US462:FOX 23 (WXXA) ALBANY
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29728
+
+#EXTINF:-1 tvg-id="US463:FOX 30 (WFOX) JACKSONVILLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US463FOX_WGMB.png" group-title="ENGLISH 2", US463:FOX 30 (WFOX) JACKSONVILLE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29727
+
+#EXTINF:-1 tvg-id="US464:FOX 68 (WSYT) SYRACUSE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US464FOX_WUHF.png" group-title="ENGLISH 2", US464:FOX 68 (WSYT) SYRACUSE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29726
+
+#EXTINF:-1 tvg-id="US465:FOX 29 WEST PALM BEACH" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US465FOX_WRAZ.png" group-title="ENGLISH 2", US465:FOX 29 WEST PALM BEACH
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29725
+
+#EXTINF:-1 tvg-id="US466:FOX 36 (WUPW) Toledo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US466FOX_WXMI.png" group-title="ENGLISH 2", US466:FOX 36 (WUPW) Toledo
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29724
+
+#EXTINF:-1 tvg-id="US467:FOX 15 LAFAYETTE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US467FOX_WNYW.png" group-title="ENGLISH 2", US467:FOX 15 LAFAYETTE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29723
+
+#EXTINF:-1 tvg-id="US469:FOX 18 DAVENPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US469FOX_WLUK.png" group-title="ENGLISH 2", US469:FOX 18 DAVENPORT
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29721
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US470FOX_KABB.png" group-title="ENGLISH 2", US470:FOX 35 (WOFL) ORLANDO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29720
+
+#EXTINF:-1 tvg-id="US471:FOX 7 MIAMI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US471FOX_KHON.png" group-title="ENGLISH 2", US471:FOX 7 MIAMI
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29719
+
+#EXTINF:-1 tvg-id="US472:FOX 11 CHARLESTON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US472FOX_KRBK.png" group-title="ENGLISH 2", US472:FOX 11 CHARLESTON
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29718
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US473FOX_KDFW.png" group-title="ENGLISH 2", US473:FOX 16 LITTLE ROCK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29717
+
+#EXTINF:-1 tvg-id="US474:FOX 35 (KCBA) SALINAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US474FOX_WFFT.png" group-title="ENGLISH 2", US474:FOX 35 (KCBA) SALINAS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29716
+
+#EXTINF:-1 tvg-id="US475:FOX 27 (WFXR) ROANOKE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US475FOX_WGHP.png" group-title="ENGLISH 2", US475:FOX 27 (WFXR) ROANOKE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29715
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US476FOX_KWKT.png" group-title="ENGLISH 2", US476:FOX 44 (WFFF) Burlington
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29714
+
+#EXTINF:-1 tvg-id="US477:FOX 41 (WDRB) Louisville" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US477FOX_WXIX.png" group-title="ENGLISH 2", US477:FOX 41 (WDRB) Louisville
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29713
+
+#EXTINF:-1 tvg-id="US478:FOX 55 (WFFT) FORT WAYNE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US478FOX_WTAT.png" group-title="ENGLISH 2", US478:FOX 55 (WFFT) FORT WAYNE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29712
+
+#EXTINF:-1 tvg-id="US479:FOX 9 (KECY) EL CENTRO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US479FOX_WFFF.png" group-title="ENGLISH 2", US479:FOX 9 (KECY) EL CENTRO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29711
+
+#EXTINF:-1 tvg-id="US480:FOX 2 (KHON) HONOLULU" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US480FOX_WXIN.png" group-title="ENGLISH 2", US480:FOX 2 (KHON) HONOLULU
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29710
+
+#EXTINF:-1 tvg-id="US481:FOX 29 SAN ANTONIO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US481FOX_WDAF.png" group-title="ENGLISH 2", US481:FOX 29 SAN ANTONIO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29709
+
+#EXTINF:-1 tvg-id="US482:FOX 5 NEW YORK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US482FOX_WMSN.png" group-title="ENGLISH 2", US482:FOX 5 NEW YORK
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29708
+
+#EXTINF:-1 tvg-id="US483:FOX 13 (KCPQ) SEATTLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US483FOX_KSAZ.png" group-title="ENGLISH 2", US483:FOX 13 (KCPQ) SEATTLE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29707
+
+#EXTINF:-1 tvg-id="US484:FOX 26 (KRIV) HOUSTON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US484FOX_KSAS.png" group-title="ENGLISH 2", US484:FOX 26 (KRIV) HOUSTON
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29706
+
+#EXTINF:-1 tvg-id="US485:FOX 2 SAINT LOUIS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US485FOX_KCBA.png" group-title="ENGLISH 2", US485:FOX 2 SAINT LOUIS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29705
+
+#EXTINF:-1 tvg-id="US486:FOX 6 MILWAUKEE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US486FOX_WPWR.png" group-title="ENGLISH 2", US486:FOX 6 MILWAUKEE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29704
+
+#EXTINF:-1 tvg-id="US489:FOX 28 (WTTE) Columbus OH" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US489FOX_KLRT.png" group-title="ENGLISH 2", US489:FOX 28 (WTTE) Columbus OH
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29701
+
+#EXTINF:-1 tvg-id="US490:FOX 29 (WTXF) PHILADELPHIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US490FOX_WVAH.png" group-title="ENGLISH 2", US490:FOX 29 (WTXF) PHILADELPHIA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29700
+
+#EXTINF:-1 tvg-id="US491:FOX 11 (KTTV) LOS ANGELES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US491FOX_KMSS.png" group-title="ENGLISH 2", US491:FOX 11 (KTTV) LOS ANGELES
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29699
+
+#EXTINF:-1 tvg-id="US492:FOX 32 CHICAGO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US492FOX_KMSP.png" group-title="ENGLISH 2", US492:FOX 32 CHICAGO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29698
+
+#EXTINF:-1 tvg-id="US493:FOX (WAGA) ATLANTA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US493FOX_KMSB.png" group-title="ENGLISH 2", US493:FOX (WAGA) ATLANTA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29697
+
+#EXTINF:-1 tvg-id="US494:FOX 9 (KNIN) BOISE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US494FOX_WHBQ.png" group-title="ENGLISH 2", US494:FOX 9 (KNIN) BOISE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29696
+
+#EXTINF:-1 tvg-id="US495:FOX SOCCER PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US495FOX_KMPH.png" group-title="ENGLISH 2", US495:FOX SOCCER PLUS
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29695
+
+#EXTINF:-1 tvg-id="US496:FOX DEPORTES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US496FOX_WJW.png" group-title="ENGLISH 2", US496:FOX DEPORTES
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29694
+
+#EXTINF:-1 tvg-id="US497:FOX WASHINGTON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US497FOX_WZDX.png" group-title="ENGLISH 2", US497:FOX WASHINGTON
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29693
+
+#EXTINF:-1 tvg-id="US499:FOX SACRAMENTO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US499FOX_WSVN.png" group-title="ENGLISH 2", US499:FOX SACRAMENTO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29691
+
+#EXTINF:-1 tvg-id="US500:FOX 33 (WZAW) WAUSAU" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US500FOX_WTXF.png" group-title="ENGLISH 2", US500:FOX 33 (WZAW) WAUSAU
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29690
+
+#EXTINF:-1 tvg-id="US501:FOX 4 (KFQX) Grand Junction" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US501FOX_WRSP.png" group-title="ENGLISH 2", US501:FOX 4 (KFQX) Grand Junction
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29689
+
+#EXTINF:-1 tvg-id="tennis.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US815" group-title="ENGLISH 2", US815:FOX 4 (KHMT) Billings
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/59205
+
+#EXTINF:-1 tvg-id="US817:FOX 27 (KLWY) Cheyenne/Scottsbluff" tvg-logo="noimage.png" group-title="ENGLISH 2", US817:FOX 27 (KLWY) Cheyenne/Scottsbluff
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/31565
+
+#EXTINF:-1 tvg-id="USA:-----|FOX|------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|FOX|------------------------------------.png" group-title="ENGLISH 2", USA:-----|FOX|------------------------------------
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/60610
 
 #EXTINF:-1 tvg-id="animal.planet.canada.ca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA004ANIMAL-PLANET.png" group-title="ENGLISH 2", CA004:Animal Planet HD
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/3065
