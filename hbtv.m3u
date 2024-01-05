@@ -365,12 +365,6 @@ https://cakal.click/yayinas.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="noimage.png" group-title="BAYER TV SPOR", A SPOR TRGOALSSPOR
 https://corsproxy.org/?https://cakal.click/yayinas.m3u8
 
-#EXTINF:-1 tvg-id="41" tvg-logo="noimage.png" group-title="BAYER TV SPOR", ATV TARAFTARİUM24SPOR
-https://cakal.click/yayinatv.m3u8
-
-#EXTINF:-1 tvg-id="18" tvg-logo="noimage.png" group-title="BAYER TV SPOR", ATV TRGOALSSPOR
-https://corsproxy.org/?https://cakal.click/yayinatv.m3u8
-
 #EXTINF:-1 tvg-id="29" tvg-logo="noimage.png" group-title="BAYER TV SPOR", BEIN MAX 1 TARAFTARİUM24SPOR
 https://cakal.click/yayinbm1.m3u8
 
