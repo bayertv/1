@@ -6755,6 +6755,45 @@ https://3.ultimate2019.com/stream/hls/890
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png" group-title="BAYER TV TR8 - GLOBAL", ZooMoo 🇺🇸[Pluto]
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOKU", Geister. Die Soldaten des vergessenen Krieges
+https://odysee.com/$/download/Geister-Die-Soldaten-des-vergessenen-Krieges/aad48f896736155df17a0a91bb962973d9bd18ab
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOKU", Die drei Großen des Zweiten Weltkriegs
+https://odysee.com/$/download/zweiter-weltkrieg-churchill-roosevelt-stalin/5dfb158a2c094ea87ee568c649512235779b1c18
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOKU", Demokratischer Faschismus
+https://odysee.com/$/download/Demokratischer-Faschismus/8495bd6bcac77349fb0e56413c0b24015d1e8acc
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOKU", Die Nationalisten der Ukraine
+https://odysee.com/$/download/von-faschismus-erzogen/08b9bd7931be2b1d3f744657750e2e5bbd0e17b8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOKU", Die Renaissance des Faschismus
+https://odysee.com/$/download/Renaissance/35535aea2639d41b200c41bd394e8d0d895894c6
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOKU", Einblicke in die russische Militäroperation
+https://odysee.com/$/download/Inside-Russian-Military-Operation/802d1438b09bbd36b88f5bd88b3a7a464ff8eefa
+
+#EXTINF:-1 tvg-id="https://odysee.com/$/download/Killing-Russian-Culture/5251fd91d11832aba5c6f791ce0ae1b18449b4c1" tvg-logo="noimage.png" group-title="DOKU", Die Tötung der russischen Kultur
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOKU", Russophobie
+https://odysee.com/$/download/russophobie/4ae96025a2b0efc080bf59202b395fa4e71f838c
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOKU", Die Befreiung von Asow-Stahl
+https://odysee.com/$/download/rt-doku-befreiung-von-asow-stahl/31860497539954c596eba623326fb2d8c9b18a26
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOKU", Warum ist die Sowjetunion zerfallen
+https://odysee.com/$/download/rt-doku-warum-die-sowjetunion-zerfallen/d39be8685d7415aa23b0705b8b881a44f8b6753a
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOKU", Karin Kneissl: Neue Heimat, neuer Weg
+https://odysee.com/$/download/Karin-Kneissl--Neue-Heimat,-neuer-Weg/8539e293be3c81a595334abc34cbb5c1a1dd725f
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOKU", Die Verbrennungsgruben
+https://odysee.com/$/download/whistleblower-tod-durch-feuer-die-verbrennungsgruben/4438550d0588e77d4623c6a8a40133d381ab6c07
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOKU", Dr. Donbass – Leben am Abgrund
+https://odysee.com/$/download/doktor-donbass-leben-am-abgrund/09de95c05968abdbbce9feaf2a5f5f965bea141b
+
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://i.imgur.com/YyXgiJe.png" group-title="DEUTSCH 1", 13TH STREET ʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/2791.m3u8
 
