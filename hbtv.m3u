@@ -5831,6 +5831,9 @@ http://103.161.34.2:8080/Alemfn/8weUUEEtwy/416386
 #EXTINF:-1 tvg-id="AfricanewsEnglish.cg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png" group-title="BAYER TV TR8 - GLOBAL", Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://w7.pngwing.com/pngs/791/633/png-transparent-al-jazeera-english-television-channel-doha-australian-food-television-text-logo-thumbnail.png" group-title="BAYER TV TR8 - GLOBAL", Al Jazeera English
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cubaonthehorizon.cofc.edu/wp-content/uploads/2017/03/marti-tv.jpg" group-title="BAYER TV TR8 - GLOBAL", CUBA I TELEMARTI HD
 http://th4.online:2095/RESTREAM65MIO/5747379/83512
 
@@ -5860,9 +5863,6 @@ https://ythls.armelin.one/channel/UCtzTaKI8AkiSjyzm1_JbMUg.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="BAYER TV TR8 - GLOBAL", ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="BAYER TV TR8 - GLOBAL", Al Jazeera English
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="AriseNews.uk" tvg-logo="https://i.imgur.com/B5IXKIb.png" group-title="BAYER TV TR8 - GLOBAL", Arise News (576p)
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
