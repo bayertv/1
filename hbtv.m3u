@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://i.imgur.com/kXijRrM.png" group-title="DEUTSCH 1", NAT GEO WILD ʳᵃʷ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1181.m3u8
 
+#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://i.imgur.com/XF3EfVK.png" group-title="DEUTSCH 1", NATIONAL GEOGRAPHIC ʳᵃʷ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1179.m3u8
+
 #EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://i.imgur.com/pz7oUZJ.png" group-title="DEUTSCH 1", DISCOVERY ʳᵃʷ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1185.m3u8
 
@@ -17,32 +20,83 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/404463.m3u8
 #EXTINF:-1 tvg-id="geotelevision.de" tvg-logo="https://i.imgur.com/GfiM4o8.png" group-title="DEUTSCH 1", GEO TV ʰᵉᵛᶜ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/135784.m3u8
 
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://i.imgur.com/eKEFmZI.png" group-title="DEUTSCH 1", KABEL EINS DOKU ᶠʰᵈ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1262.m3u8
+
 #EXTINF:-1 tvg-id="KABEL EINS DOKU AUSTRIA HEVC" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/kanal1doku.png" group-title="DEUTSCH 1", KABEL EINS DOKU AUSTRIA HEVC
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191843.m3u8
 
-#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-logo="https://i.imgur.com/UGEL5Ra.png" group-title="DEUTSCH 1", ↺SKY DOCUMENTARIES  ʰᵉᵛᶜ
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://i.imgur.com/Z0UjZlp.png" group-title="DEUTSCH 1", N-TV ᶠʰᵈ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/36330.m3u8
+
+#EXTINF:-1 tvg-id="n24austria.at" tvg-logo="http://focustv.xyz/files/ch/AUSTRA/N24_Doku_Austria.png" group-title="DEUTSCH 1", N24 DOKU AUSTRIA HEVC
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191870.m3u8
+
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-logo="https://i.imgur.com/NvkrAVp.png" group-title="DEUTSCH 1", SKY NATURE ʳᵃʷ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1173.m3u8
+
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-logo="https://i.imgur.com/6aWo78C.png" group-title="DEUTSCH 1", SKY DOCUMENTARIES ʳᵃʷ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1174.m3u8
+
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-logo="https://i.imgur.com/UGEL5Ra.png" group-title="DEUTSCH 1", SKY DOCUMENTARIES  ʰᵉᵛᶜ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/403391.m3u8
 
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://i.imgur.com/YyXgiJe.png" group-title="DEUTSCH 1", 13TH STREET ʰᵈ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/2791.m3u8
+#EXTINF:-1 tvg-id="TLC HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/TLC-HD_Logo_Germany.png" group-title="DEUTSCH 1", TLC HEVC
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191874.m3u8
 
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://i.imgur.com/Axv1kOV.png" group-title="DEUTSCH 1", 13TH STREET ʰᵉᵛᶜ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1194.m3u8
+#EXTINF:-1 tvg-id="welt.de" tvg-logo="https://i.imgur.com/SO6iI4I.png" group-title="DEUTSCH 1", WELT ᶠʰᵈ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/36332.m3u8
 
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://i.imgur.com/aJ46dYe.png" group-title="DEUTSCH 1", 13TH STREET ʳᵃʷ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1193.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-logo="https://i.imgur.com/uJPXkHO.png" group-title="DEUTSCH 1", ZDF ᶠʰᵈ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1236.m3u8
 
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://i.imgur.com/tMeBcjf.png" group-title="DEUTSCH 1", 3SAT ʰᵈ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1288.m3u8
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="https://i.imgur.com/yPlONuS.png" group-title="DEUTSCH 1", ZDF INFO ᶠʰᵈ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/160841.m3u8
 
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://i.imgur.com/jmmw1oT.png" group-title="DEUTSCH 1", 3SAT ᶠʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1287.m3u8
 
-#EXTINF:-1 tvg-id="arte.de" tvg-logo="https://i.imgur.com/Aqcig9H.png" group-title="DEUTSCH 1", ARTE ʰᵈ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1281.m3u8
+#EXTINF:-1 tvg-id="ard.de" tvg-logo="https://i.imgur.com/4meIyfc.png" group-title="DEUTSCH 1", ARD ᶠʰᵈ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1234.m3u8
+
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/n4Ynv5x.png" group-title="DEUTSCH 1", PHOENIX
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/36336.m3u8
+
+#EXTINF:-1 tvg-id="br.de" tvg-logo="https://i.imgur.com/I3ln2U3.png" group-title="DEUTSCH 1", BR FERNSEHEN ᶠʰᵈ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1302.m3u8
+
+#EXTINF:-1 tvg-id="orf1.de" tvg-logo="https://i.imgur.com/hsjFCP0.png" group-title="DEUTSCH 1", ORF 1 ʳᵃʷ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1164.m3u8
+
+#EXTINF:-1 tvg-id="orf2.de" tvg-logo="https://i.imgur.com/6yAQEHq.png" group-title="DEUTSCH 1", ORF 2 ʳᵃʷ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1166.m3u8
+
+#EXTINF:-1 tvg-id="ORF 3 ʳᵃʷ" tvg-logo="https://i.imgur.com/cSbw1b4.png" group-title="DEUTSCH 1", ORF 3 ʳᵃʷ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/402610.m3u8
+
+#EXTINF:-1 tvg-id="swrsr.de" tvg-logo="https://i.imgur.com/RL6fe00.png" group-title="DEUTSCH 1", SWR ᶠʰᵈ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1294.m3u8
+
+#EXTINF:-1 tvg-id="tiroltv.at" tvg-logo="http://focustv.xyz/files/ch/AUSTRA/TIROL_TV-min.png" group-title="DEUTSCH 1", TIROL TV HEVC
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191861.m3u8
 
 #EXTINF:-1 tvg-id="arte.de" tvg-logo="https://i.imgur.com/763qq40.png" group-title="DEUTSCH 1", ARTE ᶠʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1280.m3u8
+
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://i.imgur.com/YyXgiJe.png" group-title="DEUTSCH 1", 13TH STREET ʰᵈ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/2791.m3u8
+
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://i.imgur.com/aJ46dYe.png" group-title="DEUTSCH 1", 13TH STREET ʳᵃʷ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1193.m3u8
+
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://i.imgur.com/Axv1kOV.png" group-title="DEUTSCH 1", 13TH STREET ʰᵉᵛᶜ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1194.m3u8
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://i.imgur.com/tMeBcjf.png" group-title="DEUTSCH 1", 3SAT ʰᵈ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1288.m3u8
+
+#EXTINF:-1 tvg-id="arte.de" tvg-logo="https://i.imgur.com/Aqcig9H.png" group-title="DEUTSCH 1", ARTE ʰᵈ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1281.m3u8
 
 #EXTINF:-1 tvg-id="anixe.de" tvg-logo="https://i.imgur.com/QlkGrHS.png" group-title="DEUTSCH 1", ANIXE SERIE ʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1279.m3u8
@@ -67,9 +121,6 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1235.m3u8
 
 #EXTINF:-1 tvg-id="ard.de" tvg-logo="https://i.imgur.com/Oe6Qxwd.png" group-title="DEUTSCH 1", ARD ʳᵃʷ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1129.m3u8
-
-#EXTINF:-1 tvg-id="ard.de" tvg-logo="https://i.imgur.com/4meIyfc.png" group-title="DEUTSCH 1", ARD ᶠʰᵈ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1234.m3u8
 
 #EXTINF:-1 tvg-id="atv2.at" tvg-logo="http://focustv.xyz/files/ch/GERMANY/atv2_austria.png" group-title="DEUTSCH 1", ATV 2 HD
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191820.m3u8
@@ -169,9 +220,6 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/493892.m3u8
 
 #EXTINF:-1 tvg-id="br.de" tvg-logo="https://i.imgur.com/I3ln2U3.png" group-title="DEUTSCH 1", BR FERNSEHEN ʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1301.m3u8
-
-#EXTINF:-1 tvg-id="br.de" tvg-logo="https://i.imgur.com/I3ln2U3.png" group-title="DEUTSCH 1", BR FERNSEHEN ᶠʰᵈ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1302.m3u8
 
 #EXTINF:-1 tvg-id="3plus.ch" tvg-logo="http://focustv.xyz/files/ch/AUSTRA/3_plus_ch.png" group-title="DEUTSCH 1", CH: 3+ FHD
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/49446.m3u8
@@ -392,11 +440,11 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/252950.m3u8
 #EXTINF:-1 tvg-id="geotelevision.de" tvg-logo="https://i.imgur.com/GfiM4o8.png" group-title="DEUTSCH 1", DE: GEO Television FHD [RTL+]
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/253173.m3u8
 
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-logo="https://i.imgur.com/3GBXwmN.png" group-title="DEUTSCH 1", DE: NITRO FHD [RTL+]
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/253174.m3u8
-
 #EXTINF:-1 tvg-id="rtl2.de" tvg-logo="https://i.imgur.com/Pp2wGV8.png" group-title="DEUTSCH 1", DE: RTL 2 FHD [RTL+]
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/253170.m3u8
+
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-logo="https://i.imgur.com/3GBXwmN.png" group-title="DEUTSCH 1", DE: NITRO FHD [RTL+]
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/253174.m3u8
 
 #EXTINF:-1 tvg-id="rtlcrime.de" tvg-logo="https://i.imgur.com/k0MUTP8.png" group-title="DEUTSCH 1", DE: RTL CRIME FHD [RTL+]
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/253168.m3u8
@@ -530,9 +578,6 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1263.m3u8
 #EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://i.imgur.com/7xNXQgX.png" group-title="DEUTSCH 1", KABEL EINS DOKU ʳᵃʷ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1154.m3u8
 
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://i.imgur.com/eKEFmZI.png" group-title="DEUTSCH 1", KABEL EINS DOKU ᶠʰᵈ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1262.m3u8
-
 #EXTINF:-1 tvg-id="KABEL EINS HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2000px-Kabel_Eins_HD_2011.svg.png" group-title="DEUTSCH 1", KABEL EINS HD
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191834.m3u8
 
@@ -638,17 +683,8 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/36331.m3u8
 #EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://i.imgur.com/bcltmBa.png" group-title="DEUTSCH 1", N-TV ʳᵃʷ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1169.m3u8
 
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://i.imgur.com/Z0UjZlp.png" group-title="DEUTSCH 1", N-TV ᶠʰᵈ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/36330.m3u8
-
 #EXTINF:-1 tvg-id="n24austria.at" tvg-logo="http://focustv.xyz/files/ch/AUSTRA/N24_Doku_Austria.png" group-title="DEUTSCH 1", N24 DOKU AUSTRIA HD
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191871.m3u8
-
-#EXTINF:-1 tvg-id="n24austria.at" tvg-logo="http://focustv.xyz/files/ch/AUSTRA/N24_Doku_Austria.png" group-title="DEUTSCH 1", N24 DOKU AUSTRIA HEVC
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191870.m3u8
-
-#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://i.imgur.com/XF3EfVK.png" group-title="DEUTSCH 1", NATIONAL GEOGRAPHIC ʳᵃʷ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1179.m3u8
 
 #EXTINF:-1 tvg-id="ndr.de" tvg-logo="https://i.imgur.com/6wEnGD9.png" group-title="DEUTSCH 1", NDR FERNSEHEN ʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1298.m3u8
@@ -689,9 +725,6 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191812.m3u8
 #EXTINF:-1 tvg-id="orf1.at" tvg-logo="http://focustv.xyz/files/ch/AUSTRA/ORF1-min.png" group-title="DEUTSCH 1", ORF 1 HEVC
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191811.m3u8
 
-#EXTINF:-1 tvg-id="orf1.de" tvg-logo="https://i.imgur.com/hsjFCP0.png" group-title="DEUTSCH 1", ORF 1 ʳᵃʷ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1164.m3u8
-
 #EXTINF:-1 tvg-id="orf2.at" tvg-logo="http://focustv.xyz/files/ch/AUSTRA/ORF2HD-min.png" group-title="DEUTSCH 1", ORF 2 HD
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191814.m3u8
 
@@ -701,14 +734,11 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191813.m3u8
 #EXTINF:-1 tvg-id="ORF 2 NÖ HD" tvg-logo="noimage.png" group-title="DEUTSCH 1", ORF 2 NÖ HD
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/490945.m3u8
 
-#EXTINF:-1 tvg-id="orf2.de" tvg-logo="https://i.imgur.com/6yAQEHq.png" group-title="DEUTSCH 1", ORF 2 ʳᵃʷ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1166.m3u8
+#EXTINF:-1 tvg-id="orf2karnten.at" tvg-logo="http://focustv.xyz/files/ch/GERMANY/orf2-K.png" group-title="DEUTSCH 1", ORF 2K HD
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191864.m3u8
 
 #EXTINF:-1 tvg-id="orf2urgenland.at" tvg-logo="http://focustv.xyz/files/ch/GERMANY/orf2-B.png" group-title="DEUTSCH 1", ORF 2B HD
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191863.m3u8
-
-#EXTINF:-1 tvg-id="orf2karnten.at" tvg-logo="http://focustv.xyz/files/ch/GERMANY/orf2-K.png" group-title="DEUTSCH 1", ORF 2K HD
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191864.m3u8
 
 #EXTINF:-1 tvg-id="orf2oberosterreich.at" tvg-logo="http://focustv.xyz/files/ch/GERMANY/orf2-O.png" group-title="DEUTSCH 1", ORF 2O HD
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191865.m3u8
@@ -731,17 +761,11 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191816.m3u8
 #EXTINF:-1 tvg-id="orf3.at" tvg-logo="http://focustv.xyz/files/ch/AUSTRA/ORF_III_HD-min.png" group-title="DEUTSCH 1", ORF 3 HEVC
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191815.m3u8
 
-#EXTINF:-1 tvg-id="ORF 3 ʳᵃʷ" tvg-logo="https://i.imgur.com/cSbw1b4.png" group-title="DEUTSCH 1", ORF 3 ʳᵃʷ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/402610.m3u8
-
 #EXTINF:-1 tvg-id="ORF SPORT+" tvg-logo="https://i.imgur.com/MuWMqpn.png" group-title="DEUTSCH 1", ORF SPORT+
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/170186.m3u8
 
 #EXTINF:-1 tvg-id="ORF SPORT+ HD" tvg-logo="https://i.imgur.com/MuWMqpn.png" group-title="DEUTSCH 1", ORF SPORT+ HD
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/11096.m3u8
-
-#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/n4Ynv5x.png" group-title="DEUTSCH 1", PHOENIX
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/36336.m3u8
 
 #EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/0p0oyk5.png" group-title="DEUTSCH 1", PHOENIX ʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/195195.m3u8
@@ -1073,9 +1097,6 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1212.m3u8
 #EXTINF:-1 tvg-id="skycrimehd.de" tvg-logo="https://i.imgur.com/xV1Ww1e.png" group-title="DEUTSCH 1", SKY CRIME ʳᵃʷ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1211.m3u8
 
-#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-logo="https://i.imgur.com/6aWo78C.png" group-title="DEUTSCH 1", SKY DOCUMENTARIES ʳᵃʷ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1174.m3u8
-
 #EXTINF:-1 tvg-id="skykrimi.de" tvg-logo="https://i.imgur.com/4G0DMzn.png" group-title="DEUTSCH 1", SKY KRIMI ʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/2792.m3u8
 
@@ -1084,9 +1105,6 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1210.m3u8
 
 #EXTINF:-1 tvg-id="skykrimi.de" tvg-logo="https://i.imgur.com/zjtUZ7V.png" group-title="DEUTSCH 1", SKY KRIMI ʳᵃʷ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1209.m3u8
-
-#EXTINF:-1 tvg-id="skynaturehd.de" tvg-logo="https://i.imgur.com/NvkrAVp.png" group-title="DEUTSCH 1", SKY NATURE ʳᵃʷ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1173.m3u8
 
 #EXTINF:-1 tvg-id="SKY ONE ʰᵈ" tvg-logo="https://i.imgur.com/v9AlE6v.png" group-title="DEUTSCH 1", SKY ONE ʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/2839.m3u8
@@ -1412,9 +1430,6 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1296.m3u8
 #EXTINF:-1 tvg-id="swrsr.de" tvg-logo="https://i.imgur.com/RL6fe00.png" group-title="DEUTSCH 1", SWR ʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/195197.m3u8
 
-#EXTINF:-1 tvg-id="swrsr.de" tvg-logo="https://i.imgur.com/RL6fe00.png" group-title="DEUTSCH 1", SWR ᶠʰᵈ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1294.m3u8
-
 #EXTINF:-1 tvg-id="syfy.de" tvg-logo="https://i.imgur.com/zILQRbs.png" group-title="DEUTSCH 1", SYFY ʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/2825.m3u8
 
@@ -1445,14 +1460,8 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1286.m3u8
 #EXTINF:-1 tvg-id="tiroltv.at" tvg-logo="http://focustv.xyz/files/ch/AUSTRA/TIROL_TV-min.png" group-title="DEUTSCH 1", TIROL TV HD
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191862.m3u8
 
-#EXTINF:-1 tvg-id="tiroltv.at" tvg-logo="http://focustv.xyz/files/ch/AUSTRA/TIROL_TV-min.png" group-title="DEUTSCH 1", TIROL TV HEVC
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191861.m3u8
-
 #EXTINF:-1 tvg-id="TLC HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/TLC-HD_Logo_Germany.png" group-title="DEUTSCH 1", TLC HD
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191875.m3u8
-
-#EXTINF:-1 tvg-id="TLC HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/TLC-HD_Logo_Germany.png" group-title="DEUTSCH 1", TLC HEVC
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/191874.m3u8
 
 #EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://i.imgur.com/hGVgA8m.png" group-title="DEUTSCH 1", TLC ʳᵃʷ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1175.m3u8
@@ -1580,14 +1589,8 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/36333.m3u8
 #EXTINF:-1 tvg-id="welt.de" tvg-logo="https://i.imgur.com/zTWD1Vl.png" group-title="DEUTSCH 1", WELT ʳᵃʷ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1171.m3u8
 
-#EXTINF:-1 tvg-id="welt.de" tvg-logo="https://i.imgur.com/SO6iI4I.png" group-title="DEUTSCH 1", WELT ᶠʰᵈ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/36332.m3u8
-
 #EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="https://i.imgur.com/Odh7aLh.png" group-title="DEUTSCH 1", ZDF INFO ʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1266.m3u8
-
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="https://i.imgur.com/yPlONuS.png" group-title="DEUTSCH 1", ZDF INFO ᶠʰᵈ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/160841.m3u8
 
 #EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="https://i.imgur.com/BH94smj.png" group-title="DEUTSCH 1", ZDF NEO ʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1265.m3u8
@@ -1606,9 +1609,6 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1237.m3u8
 
 #EXTINF:-1 tvg-id="zdf.de" tvg-logo="https://i.imgur.com/DzAof0N.png" group-title="DEUTSCH 1", ZDF ʳᵃʷ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1131.m3u8
-
-#EXTINF:-1 tvg-id="zdf.de" tvg-logo="https://i.imgur.com/uJPXkHO.png" group-title="DEUTSCH 1", ZDF ᶠʰᵈ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1236.m3u8
 
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://i.imgur.com/YyXgiJe.png" group-title="DEUTSCH 1", ↺13TH STREET ᶠʰᵈ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/2790.m3u8
@@ -1664,11 +1664,11 @@ http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1159.m3u8
 #EXTINF:-1 tvg-id="orf1.de" tvg-logo="https://i.imgur.com/HhNNXLW.png" group-title="DEUTSCH 1", ↺ORF 1 ʰᵉᵛᶜ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1165.m3u8
 
-#EXTINF:-1 tvg-id="orf2.de" tvg-logo="https://i.imgur.com/9cFI4La.png" group-title="DEUTSCH 1", ↺ORF 2 ʰᵉᵛᶜ
-http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1167.m3u8
-
 #EXTINF:-1 tvg-id="↺ORF 3 ʰᵉᵛᶜ" tvg-logo="https://i.imgur.com/ne9rzsA.png" group-title="DEUTSCH 1", ↺ORF 3 ʰᵉᵛᶜ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1168.m3u8
+
+#EXTINF:-1 tvg-id="orf2.de" tvg-logo="https://i.imgur.com/9cFI4La.png" group-title="DEUTSCH 1", ↺ORF 2 ʰᵉᵛᶜ
+http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1167.m3u8
 
 #EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-logo="https://i.imgur.com/nUUCkaC.png" group-title="DEUTSCH 1", ↺PROSIEBEN MAXX ʰᵉᵛᶜ
 http://donnastv.live:8080/live/BuddyBoenen1611/4zFFA3BdzZ/1147.m3u8
