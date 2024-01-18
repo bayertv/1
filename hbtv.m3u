@@ -5513,14 +5513,50 @@ http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/413538
 #EXTINF:-1 tvg-id="✪✪✪✪✪ DE HEVC ✪✪✪✪✪" tvg-logo="noimage.png" group-title="DEUTSCH 5", ✪✪✪✪✪ DE HEVC ✪✪✪✪✪
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/97775
 
-#EXTINF:-1 tvg-id="[DE] 13TH  STREET HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] 13TH  STREET HD
-http://supersonictv.live:8080/334655/687789/84688
+#EXTINF:-1 tvg-id="[DE] NAT GEO HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] NAT GEO HD
+http://supersonictv.live:8080/334655/687789/84707
+
+#EXTINF:-1 tvg-id="[DE] NATIONAL GEOGRAPHIC WILD HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] NATIONAL GEOGRAPHIC WILD HD
+http://supersonictv.live:8080/334655/687789/84676
 
 #EXTINF:-1 tvg-id="[DE] 3SAT HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] 3SAT HD
 http://supersonictv.live:8080/334655/687789/84701
 
 #EXTINF:-1 tvg-id="[DE] ARD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] ARD
 http://supersonictv.live:8080/334655/687789/84693
+
+#EXTINF:-1 tvg-id="[DE] DISCOVERY CHANNEL" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] DISCOVERY CHANNEL
+http://supersonictv.live:8080/334655/687789/84705
+
+#EXTINF:-1 tvg-id="[DE] D MAX" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] D MAX
+http://supersonictv.live:8080/334655/687789/84694
+
+#EXTINF:-1 tvg-id="[DE] HISTORY HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] HISTORY HD
+http://supersonictv.live:8080/334655/687789/84681
+
+#EXTINF:-1 tvg-id="[DE] KABEL EINS  DOKU" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] KABEL EINS  DOKU
+http://supersonictv.live:8080/334655/687789/84699
+
+#EXTINF:-1 tvg-id="[DE] N-TV HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] N-TV HD
+http://supersonictv.live:8080/334655/687789/84677
+
+#EXTINF:-1 tvg-id="[DE] TLC HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] TLC HD
+http://supersonictv.live:8080/334655/687789/84695
+
+#EXTINF:-1 tvg-id="[DE] WELT HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] WELT HD
+http://supersonictv.live:8080/334655/687789/84711
+
+#EXTINF:-1 tvg-id="[DE] ZDF HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] ZDF HD
+http://supersonictv.live:8080/334655/687789/84702
+
+#EXTINF:-1 tvg-id="[DE] ZDF info HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] ZDF info HD
+http://supersonictv.live:8080/334655/687789/84653
+
+#EXTINF:-1 tvg-id="[DE] ZDF NEO HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] ZDF NEO HD
+http://supersonictv.live:8080/334655/687789/84654
+
+#EXTINF:-1 tvg-id="[DE] 13TH  STREET HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] 13TH  STREET HD
+http://supersonictv.live:8080/334655/687789/84688
 
 #EXTINF:-1 tvg-id="[DE] ARTE" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] ARTE
 http://supersonictv.live:8080/334655/687789/84710
@@ -5555,9 +5591,6 @@ http://supersonictv.live:8080/334655/687789/84733
 #EXTINF:-1 tvg-id="[DE] CLASSICA" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] CLASSICA
 http://supersonictv.live:8080/334655/687789/84687
 
-#EXTINF:-1 tvg-id="[DE] D MAX" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] D MAX
-http://supersonictv.live:8080/334655/687789/84694
-
 #EXTINF:-1 tvg-id="[DE] DAS ERSTE" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] DAS ERSTE
 http://supersonictv.live:8080/334655/687789/84721
 
@@ -5572,9 +5605,6 @@ http://supersonictv.live:8080/334655/687789/84756
 
 #EXTINF:-1 tvg-id="[DE] DAZN 2 HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] DAZN 2 HD
 http://supersonictv.live:8080/334655/687789/84737
-
-#EXTINF:-1 tvg-id="[DE] DISCOVERY CHANNEL" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] DISCOVERY CHANNEL
-http://supersonictv.live:8080/334655/687789/84705
 
 #EXTINF:-1 tvg-id="[DE] Disney Cinemagic" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] Disney Cinemagic
 http://supersonictv.live:8080/334655/687789/84696
@@ -5609,17 +5639,11 @@ http://supersonictv.live:8080/334655/687789/84714
 #EXTINF:-1 tvg-id="[DE] HEIMATKANAL" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] HEIMATKANAL
 http://supersonictv.live:8080/334655/687789/84689
 
-#EXTINF:-1 tvg-id="[DE] HISTORY HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] HISTORY HD
-http://supersonictv.live:8080/334655/687789/84681
-
 #EXTINF:-1 tvg-id="[DE] HR" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] HR
 http://supersonictv.live:8080/334655/687789/84780
 
 #EXTINF:-1 tvg-id="[DE] KABEL 1 HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] KABEL 1 HD
 http://supersonictv.live:8080/334655/687789/84680
-
-#EXTINF:-1 tvg-id="[DE] KABEL EINS  DOKU" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] KABEL EINS  DOKU
-http://supersonictv.live:8080/334655/687789/84699
 
 #EXTINF:-1 tvg-id="[DE] KIKA HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] KIKA HD
 http://supersonictv.live:8080/334655/687789/84679
@@ -5634,16 +5658,7 @@ http://supersonictv.live:8080/334655/687789/84715
 http://supersonictv.live:8080/334655/687789/84728
 
 #EXTINF:-1 tvg-id="[DE] N-TV HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] N-TV HD
-http://supersonictv.live:8080/334655/687789/84677
-
-#EXTINF:-1 tvg-id="[DE] N-TV HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] N-TV HD
 http://supersonictv.live:8080/334655/687789/84706
-
-#EXTINF:-1 tvg-id="[DE] NAT GEO HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] NAT GEO HD
-http://supersonictv.live:8080/334655/687789/84707
-
-#EXTINF:-1 tvg-id="[DE] NATIONAL GEOGRAPHIC WILD HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] NATIONAL GEOGRAPHIC WILD HD
-http://supersonictv.live:8080/334655/687789/84676
 
 #EXTINF:-1 tvg-id="[DE] Nick Jr" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] Nick Jr
 http://supersonictv.live:8080/334655/687789/84793
@@ -5753,9 +5768,6 @@ http://supersonictv.live:8080/334655/687789/84746
 #EXTINF:-1 tvg-id="[DE] TELEKOM DEL SPORT  2 HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] TELEKOM DEL SPORT  2 HD
 http://supersonictv.live:8080/334655/687789/84747
 
-#EXTINF:-1 tvg-id="[DE] TLC HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] TLC HD
-http://supersonictv.live:8080/334655/687789/84695
-
 #EXTINF:-1 tvg-id="[DE] TNT COMEDY HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] TNT COMEDY HD
 http://supersonictv.live:8080/334655/687789/84659
 
@@ -5777,20 +5789,17 @@ http://supersonictv.live:8080/334655/687789/84656
 #EXTINF:-1 tvg-id="[DE] VOX HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] VOX HD
 http://supersonictv.live:8080/334655/687789/84655
 
-#EXTINF:-1 tvg-id="[DE] WELT HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] WELT HD
-http://supersonictv.live:8080/334655/687789/84711
-
-#EXTINF:-1 tvg-id="[DE] ZDF HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] ZDF HD
-http://supersonictv.live:8080/334655/687789/84702
-
-#EXTINF:-1 tvg-id="[DE] ZDF info HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] ZDF info HD
-http://supersonictv.live:8080/334655/687789/84653
-
-#EXTINF:-1 tvg-id="[DE] ZDF NEO HD" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] ZDF NEO HD
-http://supersonictv.live:8080/334655/687789/84654
-
 #EXTINF:-1 tvg-id="[DE] Zee One" tvg-logo="noimage.png" group-title="DEUTSCH 6", [DE] Zee One
 http://supersonictv.live:8080/334655/687789/84788
+
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH 7", DE: Nat Geo Wild FHD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96497
+
+#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH 7", DE: Nat Geo FHD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96495
+
+#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH 7", DE: Nat Geo HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96496
 
 #EXTINF:-1 tvg-id="mtvgermany.de" tvg-logo="https://imagizer.imageshack.com/img922/3799/vQ8pQw.png" group-title="DEUTSCH 7", DE:  MTV HD
 http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96522
@@ -6487,15 +6496,6 @@ http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96513
 
 #EXTINF:-1 tvg-id="n24doku.de" tvg-logo="https://imagizer.imageshack.com/img922/4537/oo5oJX.png" group-title="DEUTSCH 7", DE: N24 DOKU
 http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96511
-
-#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH 7", DE: Nat Geo FHD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96495
-
-#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH 7", DE: Nat Geo HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96496
-
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH 7", DE: Nat Geo Wild FHD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96497
 
 #EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH 7", DE: Nat Geo Wild HD
 http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96498
