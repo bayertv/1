@@ -1379,11 +1379,11 @@ http://kmkus.wanicelife.com:8880/29us04073n01/adsf2323/2631
 #EXTINF:-1 tvg-id="kabel.1.doku.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE057SkyDisney.png" group-title="DEUTSCH 2", DE057:KABEL 1 DOKU
 http://kmkus.wanicelife.com:8880/29us04073n01/adsf2323/2626
 
-#EXTINF:-1 tvg-id="n24.doku.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE093SKYSELECT3.png" group-title="DEUTSCH 2", DE093:N24 DOKU
-http://kmkus.wanicelife.com:8880/29us04073n01/adsf2323/29191
-
 #EXTINF:-1 tvg-id="n.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE092SKYSELECT4.png" group-title="DEUTSCH 2", DE092:N-TV
 http://kmkus.wanicelife.com:8880/29us04073n01/adsf2323/29192
+
+#EXTINF:-1 tvg-id="n24.doku.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE093SKYSELECT3.png" group-title="DEUTSCH 2", DE093:N24 DOKU
+http://kmkus.wanicelife.com:8880/29us04073n01/adsf2323/29191
 
 #EXTINF:-1 tvg-id="phoenix.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE110CrimeInvestigationHD.png" group-title="DEUTSCH 2", DE110:PHOENIX
 http://kmkus.wanicelife.com:8880/29us04073n01/adsf2323/29174
@@ -2327,6 +2327,75 @@ http://kmkus.wanicelife.com:8880/29us04073n01/adsf2323/29023
 #EXTINF:-1 tvg-id="DE260:RTL 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE260SKYSELECTHD.png" group-title="DEUTSCH 2", DE260:RTL 2
 http://kmkus.wanicelife.com:8880/29us04073n01/adsf2323/29022
 
+#EXTINF:-1 tvg-id="nat.geo.wild.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE095SKYSELECT1.png" group-title="DEUTSCH 3", DE095:NAT GEO WILD
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29189
+
+#EXTINF:-1 tvg-id="nat.geo.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE094SKYSELECT2.png" group-title="DEUTSCH 3", DE094:NAT GEO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29190
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE003A&EDE.png" group-title="DEUTSCH 3", DE003:3 SAT
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/2680
+
+#EXTINF:-1 tvg-id="ard.alpha.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE006ArdAlpha.png" group-title="DEUTSCH 3", DE006:ARD ALPHA
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/2677
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE022Kabel1Classic.png" group-title="DEUTSCH 3", DE022:CRIME & INVESTIGATION
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/2661
+
+#EXTINF:-1 tvg-id="discovery.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE031NATGEOWildDE.png" group-title="DEUTSCH 3", DE031:DISCOVERY CHANNEL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/2652
+
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE037ProSieben.png" group-title="DEUTSCH 3", DE037:DMAX
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/2646
+
+#EXTINF:-1 tvg-id="geo.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE048Sixx.png" group-title="DEUTSCH 3", DE048:GEO TELEVISION
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/2635
+
+#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE051SkyBundesliga1.png" group-title="DEUTSCH 3", DE051:HGTV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/2632
+
+#EXTINF:-1 tvg-id="history.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE052SkyCinema.png" group-title="DEUTSCH 3", DE052:HISTORY CHANNEL
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/2631
+
+#EXTINF:-1 tvg-id="kabel.1.doku.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE057SkyDisney.png" group-title="DEUTSCH 3", DE057:KABEL 1 DOKU
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/2626
+
+#EXTINF:-1 tvg-id="n.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE092SKYSELECT4.png" group-title="DEUTSCH 3", DE092:N-TV
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29192
+
+#EXTINF:-1 tvg-id="n24.doku.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE093SKYSELECT3.png" group-title="DEUTSCH 3", DE093:N24 DOKU
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29191
+
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE110CrimeInvestigationHD.png" group-title="DEUTSCH 3", DE110:PHOENIX
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29174
+
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE112Sport1HD.png" group-title="DEUTSCH 3", DE112:PLANET
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29172
+
+#EXTINF:-1 tvg-id="sky.nature.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE163DeutschesMusikFernsehenHD.png" group-title="DEUTSCH 3", DE163:SKY NATURE
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29120
+
+#EXTINF:-1 tvg-id="toggo.plus.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE227ToggoPlus.png" group-title="DEUTSCH 3", DE227:SWR
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29055
+
+#EXTINF:-1 tvg-id="tlc.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE238TLCHD.png" group-title="DEUTSCH 3", DE238:TLC
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29044
+
+#EXTINF:-1 tvg-id="DE253:WELT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE253SkySelect11HD.png" group-title="DEUTSCH 3", DE253:WELT
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29029
+
+#EXTINF:-1 tvg-id="DE254:WELT DER WUNDER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE254SkySelect12HD.png" group-title="DEUTSCH 3", DE254:WELT DER WUNDER
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29028
+
+#EXTINF:-1 tvg-id="DE256:ZDF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE256SKYSELECT14HD.png" group-title="DEUTSCH 3", DE256:ZDF
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29026
+
+#EXTINF:-1 tvg-id="DE257:ZDF INFO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE257SKYSELECT15HD.png" group-title="DEUTSCH 3", DE257:ZDF INFO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29025
+
+#EXTINF:-1 tvg-id="DE258:ZDF NEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE258SKYSELECT16HD.png" group-title="DEUTSCH 3", DE258:ZDF NEO
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/29024
+
 #EXTINF:-1 tvg-id="AT001:4+" tvg-logo="noimage.png" group-title="DEUTSCH 3", AT001:4+
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/60485
 
@@ -2513,17 +2582,11 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/2682
 #EXTINF:-1 tvg-id="13th.street.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE0023SATHD.png" group-title="DEUTSCH 3", DE002:13TH STREET
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2681
 
-#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE003A&EDE.png" group-title="DEUTSCH 3", DE003:3 SAT
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/2680
-
 #EXTINF:-1 tvg-id="animal.planet.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE004AnimalPlanet.png" group-title="DEUTSCH 3", DE004:ANIMAL PLANET
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2679
 
 #EXTINF:-1 tvg-id="anixe.serie.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE005Anixe.png" group-title="DEUTSCH 3", DE005:ANIXE SERIES
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2678
-
-#EXTINF:-1 tvg-id="ard.alpha.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE006ArdAlpha.png" group-title="DEUTSCH 3", DE006:ARD ALPHA
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/2677
 
 #EXTINF:-1 tvg-id="ard.das.erste.fr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE007Arte.png" group-title="DEUTSCH 3", DE007:ARD DAS ERSTE
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2676
@@ -2570,9 +2633,6 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/2663
 #EXTINF:-1 tvg-id="comedy.central.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE021HistoryDE.png" group-title="DEUTSCH 3", DE021:COMEDY CENTRAL
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2662
 
-#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE022Kabel1Classic.png" group-title="DEUTSCH 3", DE022:CRIME & INVESTIGATION
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/2661
-
 #EXTINF:-1 tvg-id="das.erste.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE023Kabel1Doku.png" group-title="DEUTSCH 3", DE023:DAS ERSTE
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2660
 
@@ -2597,9 +2657,6 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/2654
 #EXTINF:-1 tvg-id="deutsches.musik.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/" group-title="DEUTSCH 3", DE030:DEUTSCHES MUSIK
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2653
 
-#EXTINF:-1 tvg-id="discovery.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE031NATGEOWildDE.png" group-title="DEUTSCH 3", DE031:DISCOVERY CHANNEL
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/2652
-
 #EXTINF:-1 tvg-id="disney.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE032NATGEODE.png" group-title="DEUTSCH 3", DE032:DISNEY CHANNEL
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2651
 
@@ -2614,9 +2671,6 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/2648
 
 #EXTINF:-1 tvg-id="phoenix.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE036Phoenix.png" group-title="DEUTSCH 3", DE036:DISNEY PLUS FILM
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2647
-
-#EXTINF:-1 tvg-id="dmax.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE037ProSieben.png" group-title="DEUTSCH 3", DE037:DMAX
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/2646
 
 #EXTINF:-1 tvg-id="dw.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE038ProSiebenMAXX.png" group-title="DEUTSCH 3", DE038:DW TV
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2645
@@ -2651,20 +2705,11 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/2637
 #EXTINF:-1 tvg-id="servus.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE047ServusTV.png" group-title="DEUTSCH 3", DE047:GAME OF THRONES CHANNEL
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2636
 
-#EXTINF:-1 tvg-id="geo.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE048Sixx.png" group-title="DEUTSCH 3", DE048:GEO TELEVISION
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/2635
-
 #EXTINF:-1 tvg-id="goldstar.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE049SkyArts.png" group-title="DEUTSCH 3", DE049:GOLDSTAR
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2634
 
 #EXTINF:-1 tvg-id="heimatkanal.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE050SkyAtlantic.png" group-title="DEUTSCH 3", DE050:HEIMAT KANAL
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2633
-
-#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE051SkyBundesliga1.png" group-title="DEUTSCH 3", DE051:HGTV
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/2632
-
-#EXTINF:-1 tvg-id="history.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE052SkyCinema.png" group-title="DEUTSCH 3", DE052:HISTORY CHANNEL
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/2631
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE053SkyCinema1.png" group-title="DEUTSCH 3", DE053:HR FERNSEHEN
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2630
@@ -2677,9 +2722,6 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/2628
 
 #EXTINF:-1 tvg-id="kabel.eins.classics.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE056SkyCinemaComedy.png" group-title="DEUTSCH 3", DE056:KABEL 1 CLASSICS
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2627
-
-#EXTINF:-1 tvg-id="kabel.1.doku.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE057SkyDisney.png" group-title="DEUTSCH 3", DE057:KABEL 1 DOKU
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/2626
 
 #EXTINF:-1 tvg-id="kika.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE058SkyDMAX.png" group-title="DEUTSCH 3", DE058:KIKA
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/2625
@@ -2786,18 +2828,6 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/29193
 #EXTINF:-1 tvg-id="n.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE092SKYSELECT4.png" group-title="DEUTSCH 3", DE092:N-TV
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29192
 
-#EXTINF:-1 tvg-id="n.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE092SKYSELECT4.png" group-title="DEUTSCH 3", DE092:N-TV
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29192
-
-#EXTINF:-1 tvg-id="n24.doku.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE093SKYSELECT3.png" group-title="DEUTSCH 3", DE093:N24 DOKU
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29191
-
-#EXTINF:-1 tvg-id="nat.geo.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE094SKYSELECT2.png" group-title="DEUTSCH 3", DE094:NAT GEO
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29190
-
-#EXTINF:-1 tvg-id="nat.geo.wild.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE095SKYSELECT1.png" group-title="DEUTSCH 3", DE095:NAT GEO WILD
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29189
-
 #EXTINF:-1 tvg-id="ndr.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/" group-title="DEUTSCH 3", DE096:NDR
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29188
 
@@ -2840,14 +2870,8 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/29176
 #EXTINF:-1 tvg-id="orf.sport.plus.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE109Classica.png" group-title="DEUTSCH 3", DE109:ORF SPORT+
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29175
 
-#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE110CrimeInvestigationHD.png" group-title="DEUTSCH 3", DE110:PHOENIX
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29174
-
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE111ZEEONE.png" group-title="DEUTSCH 3", DE111:PIRATES OF THE CARIBBEAN CHANNEL
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29173
-
-#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE112Sport1HD.png" group-title="DEUTSCH 3", DE112:PLANET
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29172
 
 #EXTINF:-1 tvg-id="prosieben.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE113Pro7FunHD.png" group-title="DEUTSCH 3", DE113:PRO 7
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29171
@@ -2998,9 +3022,6 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/29122
 
 #EXTINF:-1 tvg-id="sky.krimi.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE162DAZNBAR2HD.png" group-title="DEUTSCH 3", DE162:SKY KRIMI
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29121
-
-#EXTINF:-1 tvg-id="sky.nature.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE163DeutschesMusikFernsehenHD.png" group-title="DEUTSCH 3", DE163:SKY NATURE
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29120
 
 #EXTINF:-1 tvg-id="comedy.central.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE164VIVA/COMEDYCENTRAL.png" group-title="DEUTSCH 3", DE164:SKY NOSTALGIE
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29119
@@ -3194,9 +3215,6 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/29058
 #EXTINF:-1 tvg-id="nitro.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE226" group-title="DEUTSCH 3", DE226:SUPER RTL
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29056
 
-#EXTINF:-1 tvg-id="toggo.plus.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE227ToggoPlus.png" group-title="DEUTSCH 3", DE227:SWR
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29055
-
 #EXTINF:-1 tvg-id="DE228:SYFY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE228TelekomFussball1HD.png" group-title="DEUTSCH 3", DE228:SYFY
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29054
 
@@ -3226,9 +3244,6 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/29046
 
 #EXTINF:-1 tvg-id="DE237:THE LORD OF THE RINGS CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE237TelekomFussball4HD.png" group-title="DEUTSCH 3", DE237:THE LORD OF THE RINGS CHANNEL
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29045
-
-#EXTINF:-1 tvg-id="tlc.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE238TLCHD.png" group-title="DEUTSCH 3", DE238:TLC
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29044
 
 #EXTINF:-1 tvg-id="DE239:UFC FIGHT PASS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE239TelekomFussball5HD.png" group-title="DEUTSCH 3", DE239:UFC FIGHT PASS
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29043
@@ -3272,23 +3287,8 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/29031
 #EXTINF:-1 tvg-id="DE252:WDR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE252SkySelect10HD.png" group-title="DEUTSCH 3", DE252:WDR
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29030
 
-#EXTINF:-1 tvg-id="DE253:WELT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE253SkySelect11HD.png" group-title="DEUTSCH 3", DE253:WELT
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29029
-
-#EXTINF:-1 tvg-id="DE254:WELT DER WUNDER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE254SkySelect12HD.png" group-title="DEUTSCH 3", DE254:WELT DER WUNDER
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29028
-
 #EXTINF:-1 tvg-id="DE255:XITE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE255SKYSELECT13HD.png" group-title="DEUTSCH 3", DE255:XITE
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29027
-
-#EXTINF:-1 tvg-id="DE256:ZDF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE256SKYSELECT14HD.png" group-title="DEUTSCH 3", DE256:ZDF
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29026
-
-#EXTINF:-1 tvg-id="DE257:ZDF INFO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE257SKYSELECT15HD.png" group-title="DEUTSCH 3", DE257:ZDF INFO
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29025
-
-#EXTINF:-1 tvg-id="DE258:ZDF NEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE258SKYSELECT16HD.png" group-title="DEUTSCH 3", DE258:ZDF NEO
-http://abcnew.site:8880/29ca10293n08/asdfr34f34/29024
 
 #EXTINF:-1 tvg-id="DE259:BABY TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE259SKYSELECT17HD.png" group-title="DEUTSCH 3", DE259:BABY TV
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29023
@@ -3305,23 +3305,11 @@ http://ky-iptv.com:80/bkyungguru@pr/4600095044/182795.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", AT: 3 SAT FHD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/186147.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", AT: KABEL EINS DOKU
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/186161.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", AT: ORF 1 HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/186169.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", AT: ORF 2 HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/186170.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", AT: ORF 3 HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/186171.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: ARD Alpha
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/182589.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: BR HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182616.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: Crime+ Investigation HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182649.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: Discovery Channel FHD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/182660.ts
@@ -3329,11 +3317,20 @@ http://ky-iptv.com:80/bkyungguru@pr/4600095044/182660.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: DMAX FHD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/182666.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: DOKU N24 HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183070.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: HGTV HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/2422152.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: History HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182912.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", AT: KABEL EINS DOKU
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/186161.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: Kabel 1 DOKU FHD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/182738.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: DOKU N24 HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183070.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: N24 FHD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/182794.ts
@@ -3350,8 +3347,32 @@ http://ky-iptv.com:80/bkyungguru@pr/4600095044/183014.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: TLC FHD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/183036.ts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: Welt der Wunder TV
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183068.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: WELT FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183069.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: ZDF FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183073.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: ZDF Info HD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/183074.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: ZDF neo FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183075.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", AT: ORF 1 HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/186169.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", AT: ORF 2 HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/186170.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", AT: ORF 3 HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/186171.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: BR HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182616.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", AT: ATV HD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/186149.ts
@@ -3461,9 +3482,6 @@ http://ky-iptv.com:80/bkyungguru@pr/4600095044/182633.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: COMEDY CENTRAL FHD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/182648.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: Crime+ Investigation HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182649.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: DAS ERSTE FHD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/182650.ts
 
@@ -3523,12 +3541,6 @@ http://ky-iptv.com:80/bkyungguru@pr/4600095044/182708.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: Heimat kanal HD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/182712.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: HGTV HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/2422152.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: History HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182912.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: HR Fernsehen HD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/182716.ts
@@ -4031,12 +4043,6 @@ http://ky-iptv.com:80/bkyungguru@pr/4600095044/183064.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: WDR FHD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/183067.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: Welt der Wunder TV
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183068.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: WELT FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183069.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: World DAZN 1
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/1039307.ts
 
@@ -4046,44 +4052,14 @@ http://ky-iptv.com:80/bkyungguru@pr/4600095044/1039308.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: WWE HD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/183072.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: ZDF FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183073.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 4", DE: ZDF neo FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183075.ts
-
-#EXTINF:-1 tvg-id="[DE] DAZN 1 BAR HEVC" tvg-logo="noimage.png" group-title="DEUTSCH 5", [DE] DAZN 1 BAR HEVC
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/419424
-
-#EXTINF:-1 tvg-id="bild.de" tvg-logo="https://imagizer.imageshack.com/img924/9277/Jmv96K.png" group-title="DEUTSCH 5", DE | BILD
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/270432
-
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-logo="https://imagizer.imageshack.com/img922/3799/vQ8pQw.png" group-title="DEUTSCH 5", DE:  MTV HD
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96522
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://imagizer.imageshack.com/img924/1268/MBDOgn.png" group-title="DEUTSCH 5", DE: 3 sat HD
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96381
 
 #EXTINF:-1 tvg-id="DE: ARD-ALPHA HD" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: ARD-ALPHA HD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/421919
 
-#EXTINF:-1 tvg-id="DE: BLOOMBERG" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: BLOOMBERG
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/421920
-
-#EXTINF:-1 tvg-id="DE: CNBC" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: CNBC
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/421921
-
-#EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="https://imagizer.imageshack.com/img924/8503/wgOKkA.png" group-title="DEUTSCH 5", DE: Comedy Central HD
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96521
-
-#EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="https://imagizer.imageshack.com/img924/8503/wgOKkA.png" group-title="DEUTSCH 5", DE: Comedy Central HD+
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96520
-
 #EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-logo="https://imagizer.imageshack.com/img923/3961/YFnxBG.png" group-title="DEUTSCH 5", DE: Crime Investigation
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96514
-
-#EXTINF:-1 tvg-id="deluxemusic.de" tvg-logo="https://imagizer.imageshack.com/img922/3351/SSIGPX.png" group-title="DEUTSCH 5", DE: Deluxe Music HD
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96525
-
-#EXTINF:-1 tvg-id="deluxemusic.de" tvg-logo="https://imagizer.imageshack.com/img922/3351/SSIGPX.png" group-title="DEUTSCH 5", DE: Deluxe Music HD
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/259698
 
 #EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH 5", DE: Discovery FHD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96499
@@ -4097,14 +4073,8 @@ http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96504
 #EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH 5", DE: Dmax HD+
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96503
 
-#EXTINF:-1 tvg-id="DE: egoFM" tvg-logo="https://imagizer.imageshack.com/img924/3995/rIpXrq.png" group-title="DEUTSCH 5", DE: egoFM
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96530
-
-#EXTINF:-1 tvg-id="DE: egoFM" tvg-logo="https://imagizer.imageshack.com/img924/3995/rIpXrq.png" group-title="DEUTSCH 5", DE: egoFM
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/354744
-
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-logo="https://imagizer.imageshack.com/img922/455/pemvmA.png" group-title="DEUTSCH 5", DE: Entertainment. HD
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96526
+#EXTINF:-1 tvg-id="AT: DMAX" tvg-logo="noimage.png" group-title="DEUTSCH 5", AT: DMAX
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412621
 
 #EXTINF:-1 tvg-id="DE: GEO TELEVISION HD" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: GEO TELEVISION HD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/421924
@@ -4124,11 +4094,11 @@ http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96527
 #EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://imagizer.imageshack.com/img924/6895/gev4xt.png" group-title="DEUTSCH 5", DE: Kabel Eins Doku FHD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96505
 
+#EXTINF:-1 tvg-id="AT: KABEL EINS DOKU" tvg-logo="noimage.png" group-title="DEUTSCH 5", AT: KABEL EINS DOKU
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412612
+
 #EXTINF:-1 tvg-id="DE: MDR" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: MDR
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/421922
-
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-logo="https://imagizer.imageshack.com/img922/3799/vQ8pQw.png" group-title="DEUTSCH 5", DE: MTV
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96524
 
 #EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://imagizer.imageshack.com/img923/6172/npBGww.png" group-title="DEUTSCH 5", DE: N-tv FHD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96513
@@ -4151,11 +4121,23 @@ http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96498
 #EXTINF:-1 tvg-id="DE: NTV HD" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: NTV HD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/421923
 
+#EXTINF:-1 tvg-id="AT: N24 DOKU Austria" tvg-logo="noimage.png" group-title="DEUTSCH 5", AT: N24 DOKU Austria
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412613
+
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://imagizer.imageshack.com/img923/8954/7TGMy2.png" group-title="DEUTSCH 5", DE: Phoenix
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96441
+
+#EXTINF:-1 tvg-id="DE: Sky Nature HD" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: Sky Nature HD
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412059
+
 #EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-logo="https://imagizer.imageshack.com/img922/5941/UzYJg8.png" group-title="DEUTSCH 5", DE: Spiegel Geschichte HD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96517
 
 #EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-logo="https://imagizer.imageshack.com/img924/3508/xJnZPm.png" group-title="DEUTSCH 5", DE: Spiegel TV Wissen
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96518
+
+#EXTINF:-1 tvg-id="swrsr.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png" group-title="DEUTSCH 5", DE: SWR BW HD
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96445
 
 #EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://imagizer.imageshack.com/img923/3359/zXAv8y.png" group-title="DEUTSCH 5", DE: TLC HD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96448
@@ -4166,8 +4148,35 @@ http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96516
 #EXTINF:-1 tvg-id="welt.de" tvg-logo="https://imagizer.imageshack.com/img923/6107/59OvlL.png" group-title="DEUTSCH 5", DE: Welt FHD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96510
 
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-logo="https://imagizer.imageshack.com/img922/3799/vQ8pQw.png" group-title="DEUTSCH 5", DE:  MTV HD
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96522
+
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-logo="https://imagizer.imageshack.com/img922/455/pemvmA.png" group-title="DEUTSCH 5", DE: Entertainment. HD
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96526
+
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="https://imagizer.imageshack.com/img924/8503/wgOKkA.png" group-title="DEUTSCH 5", DE: Comedy Central HD+
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96520
+
+#EXTINF:-1 tvg-id="DE: CNBC" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: CNBC
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/421921
+
 #EXTINF:-1 tvg-id="Deutsches Musik Fernsehen" tvg-logo="noimage.png" group-title="DEUTSCH 5", Deutsches Musik Fernsehen
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/354746
+
+#EXTINF:-1 tvg-id="DE: egoFM" tvg-logo="https://imagizer.imageshack.com/img924/3995/rIpXrq.png" group-title="DEUTSCH 5", DE: egoFM
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96530
+
+#EXTINF:-1 tvg-id="DE: BLOOMBERG" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: BLOOMBERG
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/421920
+
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-logo="https://imagizer.imageshack.com/img922/3351/SSIGPX.png" group-title="DEUTSCH 5", DE: Deluxe Music HD
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/259698
+
+#EXTINF:-1 tvg-id="DE: egoFM" tvg-logo="https://imagizer.imageshack.com/img924/3995/rIpXrq.png" group-title="DEUTSCH 5", DE: egoFM
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/354744
+
+#EXTINF:-1 tvg-id="[DE] DAZN 1 BAR HEVC" tvg-logo="noimage.png" group-title="DEUTSCH 5", [DE] DAZN 1 BAR HEVC
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/419424
 
 #EXTINF:-1 tvg-id="[DE] DAZN 2 BAR HEVC" tvg-logo="noimage.png" group-title="DEUTSCH 5", [DE] DAZN 2 BAR HEVC
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/419425
@@ -4175,20 +4184,23 @@ http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/419425
 #EXTINF:-1 tvg-id="[DE] DAZN NBA FHD" tvg-logo="https://imagizer.imageshack.com/img924/4329/0K75dk.png" group-title="DEUTSCH 5", [DE] DAZN NBA FHD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/421655
 
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="https://imagizer.imageshack.com/img924/8503/wgOKkA.png" group-title="DEUTSCH 5", DE: Comedy Central HD
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96521
+
+#EXTINF:-1 tvg-id="bild.de" tvg-logo="https://imagizer.imageshack.com/img924/9277/Jmv96K.png" group-title="DEUTSCH 5", DE | BILD
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/270432
+
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-logo="https://imagizer.imageshack.com/img922/3351/SSIGPX.png" group-title="DEUTSCH 5", DE: Deluxe Music HD
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96525
+
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-logo="https://imagizer.imageshack.com/img922/3799/vQ8pQw.png" group-title="DEUTSCH 5", DE: MTV
+http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96524
+
 #EXTINF:-1 tvg-id="AT: ATV HD" tvg-logo="noimage.png" group-title="DEUTSCH 5", AT: ATV HD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412605
 
-#EXTINF:-1 tvg-id="AT: DMAX" tvg-logo="noimage.png" group-title="DEUTSCH 5", AT: DMAX
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412621
-
-#EXTINF:-1 tvg-id="AT: KABEL EINS DOKU" tvg-logo="noimage.png" group-title="DEUTSCH 5", AT: KABEL EINS DOKU
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412612
-
 #EXTINF:-1 tvg-id="AT: KRONE TV" tvg-logo="noimage.png" group-title="DEUTSCH 5", AT: KRONE TV
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412622
-
-#EXTINF:-1 tvg-id="AT: N24 DOKU Austria" tvg-logo="noimage.png" group-title="DEUTSCH 5", AT: N24 DOKU Austria
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412613
 
 #EXTINF:-1 tvg-id="AT: oe24 TV HD" tvg-logo="noimage.png" group-title="DEUTSCH 5", AT: oe24 TV HD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412610
@@ -4414,9 +4426,6 @@ http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412081
 
 #EXTINF:-1 tvg-id="DE: 13th STREET TH HD" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: 13th STREET TH HD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412080
-
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://imagizer.imageshack.com/img924/1268/MBDOgn.png" group-title="DEUTSCH 5", DE: 3 sat HD
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96381
 
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://imagizer.imageshack.com/img924/1268/MBDOgn.png" group-title="DEUTSCH 5", DE: 3 sat HEVC
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/413555
@@ -4860,9 +4869,6 @@ http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/413554
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/413567
 
 #EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://imagizer.imageshack.com/img923/8954/7TGMy2.png" group-title="DEUTSCH 5", DE: Phoenix
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96441
-
-#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://imagizer.imageshack.com/img923/8954/7TGMy2.png" group-title="DEUTSCH 5", DE: Phoenix
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/413568
 
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-logo="https://imagizer.imageshack.com/img923/7091/y62vld.png" group-title="DEUTSCH 5", DE: Pro 7 Fun HD
@@ -5168,9 +5174,6 @@ http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412058
 #EXTINF:-1 tvg-id="DE: Sky Krimi HD" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: Sky Krimi HD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412057
 
-#EXTINF:-1 tvg-id="DE: Sky Nature HD" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: Sky Nature HD
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412059
-
 #EXTINF:-1 tvg-id="DE: Sky ONE FHD" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: Sky ONE FHD
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412037
 
@@ -5401,9 +5404,6 @@ http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412009
 
 #EXTINF:-1 tvg-id="DE: SUPER RTL HD+" tvg-logo="noimage.png" group-title="DEUTSCH 5", DE: SUPER RTL HD+
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/412008
-
-#EXTINF:-1 tvg-id="swrsr.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png" group-title="DEUTSCH 5", DE: SWR BW HD
-http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/96445
 
 #EXTINF:-1 tvg-id="swrsr.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png" group-title="DEUTSCH 5", DE: SWR BW HEVC
 http://k4rayeltv.xyz:8080/KOEKSALWohnzimmer/w62yYsz98w/413571
