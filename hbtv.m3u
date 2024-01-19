@@ -359,11 +359,17 @@ http://new.cache-stream.workers.dev/stream/UCmMPdW0rtbEI_XyIsMlMnqg/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", ZEYNO TV
 https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
 
-#EXTINF:-1 tvg-id="spor.smart.2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR017SSPORTHD(1).png" group-title="TR BELGESEL", TR017:ANIMAL PLANET
-http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/33052
-
 #EXTINF:-1 tvg-id="bbc.earth.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DK/DK004.png" group-title="TR BELGESEL", TR024:BBC EARTH
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/33045
+
+#EXTINF:-1 tvg-id="bein.gurme.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR029NICKELODEON.png" group-title="TR BELGESEL", TR029:BEIN GURME
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/33040
+
+#EXTINF:-1 tvg-id="bein.iz.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR030NICKELODEONHD.png" group-title="TR BELGESEL", TR030:BEIN IZ TV
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/33039
+
+#EXTINF:-1 tvg-id="da.vinci.learning.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR062FOXTVHD.png" group-title="TR BELGESEL", TR062:DA VINCI LEARNING
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/33007
 
 #EXTINF:-1 tvg-id="discovery.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR065FBTVHD.png" group-title="TR BELGESEL", TR065:DISCOVERY CHANNEL
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/33004
@@ -374,8 +380,17 @@ http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/33003
 #EXTINF:-1 tvg-id="discovery.science.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR067EUROSPORT2HD.png" group-title="TR BELGESEL", TR067:DISCOVERY SCIENCE
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/33002
 
+#EXTINF:-1 tvg-id="TR071:DMAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR071DOSTTV.png" group-title="TR BELGESEL", TR071:DMAX
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/32998
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR072DISNEYXD/DUCK.png" group-title="TR BELGESEL", TR072:DOCUBOX
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/32997
+
 #EXTINF:-1 tvg-id="history.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR122TRTTurk.png" group-title="TR BELGESEL", TR122:HISTORY CHANNEL
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/32947
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR145beINMOVIESFAMILY.png" group-title="TR BELGESEL", TR145:KOY TV
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/32924
 
 #EXTINF:-1 tvg-id="love.nature.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR156ArtitvHDKU.png" group-title="TR BELGESEL", TR156:LOVE NATURE
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/32913
@@ -385,6 +400,9 @@ http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/32899
 
 #EXTINF:-1 tvg-id="nat.geo.wild.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR171beINIZHD.png" group-title="TR BELGESEL", TR171:NAT GEO WILD
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/32898
+
+#EXTINF:-1 tvg-id="discovery.science.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR223DiscoveryScienceHD.png" group-title="TR BELGESEL", TR223:TARIM TV
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/32846
 
 #EXTINF:-1 tvg-id="tgrt.belgesel.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR229" group-title="TR BELGESEL", TR229:TGRT BELGESEL
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/32840
@@ -2174,8 +2192,17 @@ https://odysee.com/$/download/whistleblower-tod-durch-feuer-die-verbrennungsgrub
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTIONS", Dr. Donbass – Leben am Abgrund
 https://odysee.com/$/download/doktor-donbass-leben-am-abgrund/09de95c05968abdbbce9feaf2a5f5f965bea141b
 
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE003A&EDE.png" group-title="DEUTSCH DOKU", DE003:3 SAT
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/2680
+
 #EXTINF:-1 tvg-id="animal.planet.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE004AnimalPlanet.png" group-title="DEUTSCH DOKU", DE004:ANIMAL PLANET
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/2679
+
+#EXTINF:-1 tvg-id="ard.alpha.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE006ArdAlpha.png" group-title="DEUTSCH DOKU", DE006:ARD ALPHA
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/2677
+
+#EXTINF:-1 tvg-id="arte.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE008AXNDE.png" group-title="DEUTSCH DOKU", DE008:ARTE
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/2675
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE022Kabel1Classic.png" group-title="DEUTSCH DOKU", DE022:CRIME & INVESTIGATION
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/2661
@@ -2186,11 +2213,32 @@ http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/2652
 #EXTINF:-1 tvg-id="dmax.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE037ProSieben.png" group-title="DEUTSCH DOKU", DE037:DMAX
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/2646
 
+#EXTINF:-1 tvg-id="geo.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE048Sixx.png" group-title="DEUTSCH DOKU", DE048:GEO TELEVISION
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/2635
+
 #EXTINF:-1 tvg-id="hgtv.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE051SkyBundesliga1.png" group-title="DEUTSCH DOKU", DE051:HGTV
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/2632
 
 #EXTINF:-1 tvg-id="history.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE052SkyCinema.png" group-title="DEUTSCH DOKU", DE052:HISTORY CHANNEL
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/2631
+
+#EXTINF:-1 tvg-id="jukebox.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE054SkyCinema24.png" group-title="DEUTSCH DOKU", DE054:JUKEBOX
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/2629
+
+#EXTINF:-1 tvg-id="kabel.1.doku.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE057SkyDisney.png" group-title="DEUTSCH DOKU", DE057:KABEL 1 DOKU
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/2626
+
+#EXTINF:-1 tvg-id="mdr.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE080SkySport8HD(DuringGamesonly).png" group-title="DEUTSCH DOKU", DE080:MDR
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29204
+
+#EXTINF:-1 tvg-id="DE091:NTV HEVC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE091SKYSELECT5.png" group-title="DEUTSCH DOKU", DE091:NTV HEVC
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29193
+
+#EXTINF:-1 tvg-id="n.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE092SKYSELECT4.png" group-title="DEUTSCH DOKU", DE092:N-TV
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29192
+
+#EXTINF:-1 tvg-id="n24.doku.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE093SKYSELECT3.png" group-title="DEUTSCH DOKU", DE093:N24 DOKU
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29191
 
 #EXTINF:-1 tvg-id="nat.geo.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE094SKYSELECT2.png" group-title="DEUTSCH DOKU", DE094:NAT GEO
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29190
@@ -2198,14 +2246,44 @@ http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29190
 #EXTINF:-1 tvg-id="nat.geo.wild.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE095SKYSELECT1.png" group-title="DEUTSCH DOKU", DE095:NAT GEO WILD
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29189
 
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE110CrimeInvestigationHD.png" group-title="DEUTSCH DOKU", DE110:PHOENIX
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29174
+
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE112Sport1HD.png" group-title="DEUTSCH DOKU", DE112:PLANET
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29172
+
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE143SkyGermanySport11HD.png" group-title="DEUTSCH DOKU", DE143:SKY ARTS
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29141
 
 #EXTINF:-1 tvg-id="sky.nature.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE163DeutschesMusikFernsehenHD.png" group-title="DEUTSCH DOKU", DE163:SKY NATURE
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29120
 
+#EXTINF:-1 tvg-id="qvc.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/" group-title="DEUTSCH DOKU", DE217:SPIEGEL GESCHICHTE
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29065
+
+#EXTINF:-1 tvg-id="DE218:SPIEGEL WISSEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE218RAN1HD.png" group-title="DEUTSCH DOKU", DE218:SPIEGEL WISSEN
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29064
+
+#EXTINF:-1 tvg-id="toggo.plus.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE227ToggoPlus.png" group-title="DEUTSCH DOKU", DE227:SWR
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29055
+
 #EXTINF:-1 tvg-id="tlc.de" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE238TLCHD.png" group-title="DEUTSCH DOKU", DE238:TLC
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29044
+
+#EXTINF:-1 tvg-id="DE253:WELT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE253SkySelect11HD.png" group-title="DEUTSCH DOKU", DE253:WELT
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29029
+
+#EXTINF:-1 tvg-id="DE254:WELT DER WUNDER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE254SkySelect12HD.png" group-title="DEUTSCH DOKU", DE254:WELT DER WUNDER
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29028
+
+#EXTINF:-1 tvg-id="DE256:ZDF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE256SKYSELECT14HD.png" group-title="DEUTSCH DOKU", DE256:ZDF
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29026
+
+#EXTINF:-1 tvg-id="DE257:ZDF INFO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE257SKYSELECT15HD.png" group-title="DEUTSCH DOKU", DE257:ZDF INFO
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29025
+
+#EXTINF:-1 tvg-id="DE258:ZDF NEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE258SKYSELECT16HD.png" group-title="DEUTSCH DOKU", DE258:ZDF NEO
+http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/29024
 
 #EXTINF:-1 tvg-id="AT001:4+" tvg-logo="noimage.png" group-title="DEUTSCH OTHERS", AT001:4+
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/60485
