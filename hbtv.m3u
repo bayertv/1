@@ -365,8 +365,14 @@ https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://w7.pngwing.com/pngs/791/633/png-transparent-al-jazeera-english-television-channel-doha-australian-food-television-text-logo-thumbnail.png" group-title="BAYER TV TR1 - GLOBAL", Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cubaonthehorizon.cofc.edu/wp-content/uploads/2017/03/marti-tv.jpg" group-title="BAYER TV TR1 - GLOBAL", CUBA I TELEMARTI HD
-http://th4.online:2095/RESTREAM65MIO/5747379/83512
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8rKNuS6.png" group-title="BAYER TV TR1 - GLOBAL", BRItCS English
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Y7E5OTy.png" group-title="BAYER TV TR1 - GLOBAL", CUBA I TELEMARTI HD
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="BAYER TV TR1 - GLOBAL", CUBA Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_News_logo.svg/2560px-BBC_News_logo.svg.png" group-title="BAYER TV TR1 - GLOBAL", BBC News  🇬🇧
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
