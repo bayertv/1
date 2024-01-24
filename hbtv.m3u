@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KRT TV
 http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
@@ -1345,6 +1346,9 @@ https://odysee.com/$/download/UKR-FAKE-FULL_/b9638cc03abee5beb0ad61711b9aa568472
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTATIONS", deneme
 https://www.youtube.com/live/-HJwrahoMsQ?si=hu-LvNpbTRIHH8as
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTATIONS", cc
+https://www.youtube.com/watch?v=ADsykVqPAik
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS", Karin Kneissl: Neue Heimat, neuer Weg
 https://odysee.com/$/download/Karin-Kneissl--Neue-Heimat,-neuer-Weg/8539e293be3c81a595334abc34cbb5c1a1dd725f
