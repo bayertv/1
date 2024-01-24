@@ -1343,6 +1343,588 @@ http://ekl.touch78.xyz:80/live/mstfclk23.01m11/Hkvsg23.01.23/126814.ts
 #EXTINF:-1 tvg-id="Yaban TV HD" tvg-logo="http://logo.apk-red.com/news/yaban-hd.png" group-title="BAYER TV TR1 BELGESEL", Yaban TV HD
 http://ekl.touch78.xyz:80/live/mstfclk23.01m11/Hkvsg23.01.23/296183.ts
 
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="https://imagizer.imageshack.com/img924/5792/w7Z43l.png" group-title="BAYER TV 2 TR BELGESEL", TR: Animal Planet HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/374325
+
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="BAYER TV 2 TR BELGESEL", TR: BBC Earth HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/374326
+
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://http://logo.bosstv.live/Logo/TR/BELGESEL/HD/BBC.EARTH.png" group-title="BAYER TV 2 TR BELGESEL", TR: BBC Earth HD+
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243198
+
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="https://imagizer.imageshack.com/img923/8864/y4o8k9.png" group-title="BAYER TV 2 TR BELGESEL", TR: beiN GURME HD+
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/374327
+
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="https://imagizer.imageshack.com/img924/7783/uqZnwv.png" group-title="BAYER TV 2 TR BELGESEL", TR: beIN IZ HD+
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243201
+
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="BAYER TV 2 TR BELGESEL", TR: DISCOVERY CHANNEL HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243203
+
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="BAYER TV 2 TR BELGESEL", TR: DISCOVERY CHANNEL HD+
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243202
+
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.ID.png" group-title="BAYER TV 2 TR BELGESEL", TR: DISCOVERY IDX
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243204
+
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.IDX.png" group-title="BAYER TV 2 TR BELGESEL", TR: DISCOVERY IDX HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243205
+
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="https://imagizer.imageshack.com/img923/8707/A5PJiA.png" group-title="BAYER TV 2 TR BELGESEL", TR: DISCOVERY SCIENCE FHD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/259820
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="BAYER TV 2 TR BELGESEL", TR: DMAX HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243217
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="BAYER TV 2 TR BELGESEL", TR: DMAX HD+
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243216
+
+#EXTINF:-1 tvg-id="docubox.tr" tvg-logo="https://imagizer.imageshack.com/img922/3328/OzEnhL.png" group-title="BAYER TV 2 TR BELGESEL", TR: DOCUBOX HD+
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243210
+
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/2494/TJumUL.png" group-title="BAYER TV 2 TR BELGESEL", TR: History FHD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243209
+
+#EXTINF:-1 tvg-id="TR: KÖY TV" tvg-logo="https://imagizer.imageshack.com/img924/4149/fgdaHp.png" group-title="BAYER TV 2 TR BELGESEL", TR: KÖY TV
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/374330
+
+#EXTINF:-1 tvg-id="TR: LOVE NATURE HD+" tvg-logo="https://imagizer.imageshack.com/img923/7798/YecNuV.png" group-title="BAYER TV 2 TR BELGESEL", TR: LOVE NATURE HD+
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243213
+
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://imagizer.imageshack.com/img922/6835/sjXSTE.png" group-title="BAYER TV 2 TR BELGESEL", TR: Nat Geo Wild HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243221
+
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="BAYER TV 2 TR BELGESEL", TR: National Geographic HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243219
+
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="BAYER TV 2 TR BELGESEL", TR: National Geographic HD+
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243218
+
+#EXTINF:-1 tvg-id="TR: TARIH TV HD" tvg-logo="noimage.png" group-title="BAYER TV 2 TR BELGESEL", TR: TARIH TV HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/421982
+
+#EXTINF:-1 tvg-id="TR: TARIM TV" tvg-logo="noimage.png" group-title="BAYER TV 2 TR BELGESEL", TR: TARIM TV
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/374329
+
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://imagizer.imageshack.com/img924/4360/bCtOv4.png" group-title="BAYER TV 2 TR BELGESEL", TR: TGRT BELGESEL
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243212
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="BAYER TV 2 TR BELGESEL", TR: TLC TV HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/374324
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="BAYER TV 2 TR BELGESEL", TR: TLC TV HD+
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243194
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV 2 TR BELGESEL", TR: TRT Belgesel HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243223
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV 2 TR BELGESEL", TR: TRT BELGESEL HD+
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243222
+
+#EXTINF:-1 tvg-id="TR: ViASAT EXPLORER" tvg-logo="noimage.png" group-title="BAYER TV 2 TR BELGESEL", TR: ViASAT EXPLORER
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/416422
+
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="BAYER TV 2 TR BELGESEL", TR: VIASAT HISTORY HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243207
+
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="BAYER TV 2 TR BELGESEL", TR: ViASAT HiSTORY HD+
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243206
+
+#EXTINF:-1 tvg-id="TR: VIASAT NATURE HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/VIASAT.NATURE.png" group-title="BAYER TV 2 TR BELGESEL", TR: VIASAT NATURE HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/226120
+
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: ANIMAL PLANET HD
+http://802526775262750205.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750205.ts
+
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: BBC EARTH FHD
+http://802526775262743009.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/743009.ts
+
+#EXTINF:-1 tvg-id="TR: BBC EARTH LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: BBC EARTH LOCAL FHD
+http://802526775262750213.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750213.ts
+
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: BEIN GURME FHD
+http://802526775262750218.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750218.ts
+
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: BEIN IZ TV FHD
+http://802526775262759535.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/759535.ts
+
+#EXTINF:-1 tvg-id="TR: DA VINCI KIDS HD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DA VINCI KIDS HD
+http://802526775262745101.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/745101.ts
+
+#EXTINF:-1 tvg-id="DiscoveryChannelHD.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DISCOVERY CHANNEL FHD
+http://802526775262750259.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750259.ts
+
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DISCOVERY FHD
+http://802526775262722783.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/722783.ts
+
+#EXTINF:-1 tvg-id="TR: DISCOVERY IDX FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DISCOVERY IDX FHD
+http://802526775262747691.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/747691.ts
+
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DISCOVERY SCIENCE FHD
+http://802526775262750260.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750260.ts
+
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DISCOVERY SCIENCE HD
+http://802526775262766281.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/766281.ts
+
+#EXTINF:-1 tvg-id="TR: DISCOVERY TURBO EXTRA HD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DISCOVERY TURBO EXTRA HD
+http://802526775262761578.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/761578.ts
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://live.phenixiptv.com:8080/images/3le2N7tRE72s9RnwlSKUzqCQrkL_IBjq5J0izRfRQxMkfOGO9BrDWBHZRA65TC4fAFDWQkinA5_Jpre-hPKcZw.png" group-title="BAYER TV TR 3 BELGESEL", TR: DMAX HD
+http://802526775262308173.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/308173.ts
+
+#EXTINF:-1 tvg-id="DocuBox.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DOCUBOX FHD
+http://802526775262731023.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/731023.ts
+
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: HISTORY FHD
+http://802526775262762404.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/762404.ts
+
+#EXTINF:-1 tvg-id="LoveNature.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: LOVE NATURE FHD
+http://802526775262760501.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760501.ts
+
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: NAT GEO FHD
+http://802526775262762407.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/762407.ts
+
+#EXTINF:-1 tvg-id="TR: NAT GEO LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: NAT GEO LOCAL FHD
+http://802526775262750374.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750374.ts
+
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: NAT GEO WILD FHD
+http://802526775262747092.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/747092.ts
+
+#EXTINF:-1 tvg-id="TR: NAT GEO WILD FHD LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: NAT GEO WILD FHD LOCAL FHD
+http://802526775262765945.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/765945.ts
+
+#EXTINF:-1 tvg-id="NationalGeographicHD.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: NATIONAL GEOGRAPHIC FHD
+http://802526775262760528.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760528.ts
+
+#EXTINF:-1 tvg-id="TR: TGRT BELGESEL SD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: TGRT BELGESEL SD
+http://802526775262760571.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760571.ts
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: TLC HD
+http://802526775262760582.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760582.ts
+
+#EXTINF:-1 tvg-id="TR: TLC HD TR FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: TLC HD TR FHD
+http://802526775262750430.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750430.ts
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: TRT BELGESEL HD
+http://802526775262760590.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760590.ts
+
+#EXTINF:-1 tvg-id="TR: TRT BELGESEL LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: TRT BELGESEL LOCAL FHD
+http://802526775262750437.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750437.ts
+
+#EXTINF:-1 tvg-id="VIASATEXPLORE.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: VIASAT EXPLORE SD
+http://802526775262760620.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760620.ts
+
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: VIASAT HISTORY HD
+http://802526775262760621.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760621.ts
+
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: ANIMAL PLANET FHD
+http://939770413741750205.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750205.ts
+
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: BBC EARTH FHD
+http://939770413741743009.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/743009.ts
+
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: BEIN GURME FHD
+http://939770413741750218.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750218.ts
+
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: BEIN IZ FHD
+http://939770413741768088.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/768088.ts
+
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: BEIN IZ TV FHD
+http://939770413741759535.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/759535.ts
+
+#EXTINF:-1 tvg-id="TR: DA VINCI KIDS FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DA VINCI KIDS FHD
+http://939770413741745101.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/745101.ts
+
+#EXTINF:-1 tvg-id="DiscoveryChannelHD.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DISCOVERY CHANNEL FHD
+http://939770413741750259.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750259.ts
+
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DISCOVERY FHD
+http://939770413741722783.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/722783.ts
+
+#EXTINF:-1 tvg-id="TR: DISCOVERY IDX FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DISCOVERY IDX FHD
+http://939770413741747691.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/747691.ts
+
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DISCOVERY SCIENCE HD
+http://939770413741750260.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750260.ts
+
+#EXTINF:-1 tvg-id="TR: DISCOVERY TURBO EXTRA HD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DISCOVERY TURBO EXTRA HD
+http://939770413741761578.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/761578.ts
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://live.phenixiptv.com:8080/images/3le2N7tRE72s9RnwlSKUzqCQrkL_IBjq5J0izRfRQxMkfOGO9BrDWBHZRA65TC4fAFDWQkinA5_Jpre-hPKcZw.png" group-title="BAYER TV TR 4 BELGESEL", TR: DMAX HD
+http://939770413741308173.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/308173.ts
+
+#EXTINF:-1 tvg-id="DocuBox.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DOCUBOX FHD
+http://939770413741731023.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/731023.ts
+
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: HISTORY FHD
+http://939770413741762404.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/762404.ts
+
+#EXTINF:-1 tvg-id="TR: KOY TV SD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: KOY TV SD
+http://939770413741760497.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760497.ts
+
+#EXTINF:-1 tvg-id="LoveNature.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: LOVE NATURE FHD
+http://939770413741760501.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760501.ts
+
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: NATIONAL GEOGRAPHIC FHD
+http://939770413741762407.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/762407.ts
+
+#EXTINF:-1 tvg-id="NationalGeographicHD.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: NATIONAL GEOGRAPHIC HD
+http://939770413741760528.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760528.ts
+
+#EXTINF:-1 tvg-id="TR: NATIONAL GEOGRAPHIC LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: NATIONAL GEOGRAPHIC LOCAL FHD
+http://939770413741750374.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750374.ts
+
+#EXTINF:-1 tvg-id="TR: NATIONAL GEOGRAPHIC WILD FHD LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: NATIONAL GEOGRAPHIC WILD FHD LOCAL FHD
+http://939770413741765945.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/765945.ts
+
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: NATIONAL GEOGRAPHIC WILD HD
+http://939770413741747092.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/747092.ts
+
+#EXTINF:-1 tvg-id="TR: TGRT BELGESEL SD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: TGRT BELGESEL SD
+http://939770413741760571.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760571.ts
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: TLC HD
+http://939770413741760582.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760582.ts
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: TRT BELGESEL HD
+http://939770413741760590.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760590.ts
+
+#EXTINF:-1 tvg-id="TR: TRT BELGESEL LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: TRT BELGESEL LOCAL FHD
+http://939770413741750437.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750437.ts
+
+#EXTINF:-1 tvg-id="VIASATEXPLORE.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: VIASAT EXPLORE SD
+http://939770413741760620.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760620.ts
+
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: VIASAT HISTORY FHD
+http://939770413741760621.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760621.ts
+
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="https://imagizer.imageshack.com/img924/5792/w7Z43l.png" group-title="BAYER TV TR 5 BELGESEL", TR: Animal Planet HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/374325
+
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="BAYER TV TR 5 BELGESEL", TR: BBC Earth HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/374326
+
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://http://logo.bosstv.live/Logo/TR/BELGESEL/HD/BBC.EARTH.png" group-title="BAYER TV TR 5 BELGESEL", TR: BBC Earth HD+
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243198
+
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="https://imagizer.imageshack.com/img923/8864/y4o8k9.png" group-title="BAYER TV TR 5 BELGESEL", TR: beiN GURME HD+
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/374327
+
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="https://imagizer.imageshack.com/img924/7783/uqZnwv.png" group-title="BAYER TV TR 5 BELGESEL", TR: beIN IZ HD+
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243201
+
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="BAYER TV TR 5 BELGESEL", TR: DISCOVERY CHANNEL HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243203
+
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="BAYER TV TR 5 BELGESEL", TR: DISCOVERY CHANNEL HD+
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243202
+
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.ID.png" group-title="BAYER TV TR 5 BELGESEL", TR: DISCOVERY IDX
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243204
+
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.IDX.png" group-title="BAYER TV TR 5 BELGESEL", TR: DISCOVERY IDX HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243205
+
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="https://imagizer.imageshack.com/img923/8707/A5PJiA.png" group-title="BAYER TV TR 5 BELGESEL", TR: DISCOVERY SCIENCE FHD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/259820
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="BAYER TV TR 5 BELGESEL", TR: DMAX HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243217
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="BAYER TV TR 5 BELGESEL", TR: DMAX HD+
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243216
+
+#EXTINF:-1 tvg-id="docubox.tr" tvg-logo="https://imagizer.imageshack.com/img922/3328/OzEnhL.png" group-title="BAYER TV TR 5 BELGESEL", TR: DOCUBOX HD+
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243210
+
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/2494/TJumUL.png" group-title="BAYER TV TR 5 BELGESEL", TR: History FHD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243209
+
+#EXTINF:-1 tvg-id="TR: KÖY TV" tvg-logo="https://imagizer.imageshack.com/img924/4149/fgdaHp.png" group-title="BAYER TV TR 5 BELGESEL", TR: KÖY TV
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/374330
+
+#EXTINF:-1 tvg-id="TR: LOVE NATURE HD+" tvg-logo="https://imagizer.imageshack.com/img923/7798/YecNuV.png" group-title="BAYER TV TR 5 BELGESEL", TR: LOVE NATURE HD+
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243213
+
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://imagizer.imageshack.com/img922/6835/sjXSTE.png" group-title="BAYER TV TR 5 BELGESEL", TR: Nat Geo Wild HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243221
+
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="BAYER TV TR 5 BELGESEL", TR: National Geographic HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243219
+
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="BAYER TV TR 5 BELGESEL", TR: National Geographic HD+
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243218
+
+#EXTINF:-1 tvg-id="TR: TARIH TV HD" tvg-logo="noimage.png" group-title="BAYER TV TR 5 BELGESEL", TR: TARIH TV HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/421982
+
+#EXTINF:-1 tvg-id="TR: TARIM TV" tvg-logo="noimage.png" group-title="BAYER TV TR 5 BELGESEL", TR: TARIM TV
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/374329
+
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://imagizer.imageshack.com/img924/4360/bCtOv4.png" group-title="BAYER TV TR 5 BELGESEL", TR: TGRT BELGESEL
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243212
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="BAYER TV TR 5 BELGESEL", TR: TLC TV HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/374324
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="BAYER TV TR 5 BELGESEL", TR: TLC TV HD+
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243194
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV TR 5 BELGESEL", TR: TRT Belgesel HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243223
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV TR 5 BELGESEL", TR: TRT BELGESEL HD+
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243222
+
+#EXTINF:-1 tvg-id="TR: ViASAT EXPLORER" tvg-logo="noimage.png" group-title="BAYER TV TR 5 BELGESEL", TR: ViASAT EXPLORER
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/416422
+
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="BAYER TV TR 5 BELGESEL", TR: VIASAT HISTORY HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243207
+
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="BAYER TV TR 5 BELGESEL", TR: ViASAT HiSTORY HD+
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243206
+
+#EXTINF:-1 tvg-id="TR: VIASAT NATURE HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/VIASAT.NATURE.png" group-title="BAYER TV TR 5 BELGESEL", TR: VIASAT NATURE HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/226120
+
+#EXTINF:-1 tvg-id="Bbc Earth Hd" tvg-logo="https://kanallogo2.com/images/belgesel/bbc-earth-hd.png" group-title="BAYER TV TR 6 BELGESEL", Bbc Earth Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/1287.ts
+
+#EXTINF:-1 tvg-id="beIN Gurme Hd" tvg-logo="https://kanallogo2.com/images/belgesel/bein-gurme.png" group-title="BAYER TV TR 6 BELGESEL", beIN Gurme Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/20129.ts
+
+#EXTINF:-1 tvg-id="beIN H&E Hd" tvg-logo="https://kanallogo2.com/images/belgesel/bein-home-entertainment.png" group-title="BAYER TV TR 6 BELGESEL", beIN H&E Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/139675.ts
+
+#EXTINF:-1 tvg-id="dt.318" tvg-logo="https://kanallogo2.com/images/belgesel/bein-iz-hd.png" group-title="BAYER TV TR 6 BELGESEL", Bein Iz Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/212.ts
+
+#EXTINF:-1 tvg-id="Da Vinci Learnning Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Da-Vinci-Learning.png" group-title="BAYER TV TR 6 BELGESEL", Da Vinci Learnning Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/102757.ts
+
+#EXTINF:-1 tvg-id="Discovery.tr" tvg-logo="https://kanallogo2.com/images/belgesel/discovery-channel-hd.png" group-title="BAYER TV TR 6 BELGESEL", Discovery Channel Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/184.ts
+
+#EXTINF:-1 tvg-id="Discovery ID Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Discovery-ID.png" group-title="BAYER TV TR 6 BELGESEL", Discovery ID Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/102455.ts
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://kanallogo2.com/images/belgesel/dmax.png" group-title="BAYER TV TR 6 BELGESEL", Dmax Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/59.ts
+
+#EXTINF:-1 tvg-id="History Channel Hd" tvg-logo="https://kanallogo2.com/images/belgesel/History-Channel.png" group-title="BAYER TV TR 6 BELGESEL", History Channel Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/146414.ts
+
+#EXTINF:-1 tvg-id="History Premier Hd" tvg-logo="http://raostvip.com:8080/images/7100c51a4401ac3aa93cff22297f0de5.png" group-title="BAYER TV TR 6 BELGESEL", History Premier Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/68608.ts
+
+#EXTINF:-1 tvg-id="Love Nature Hd" tvg-logo="https://kanallogo2.com/images/belgesel/love-nature.png" group-title="BAYER TV TR 6 BELGESEL", Love Nature Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/133947.ts
+
+#EXTINF:-1 tvg-id="nationalgeographic.tr" tvg-logo="https://kanallogo2.com/images/belgesel/national-geographic.png" group-title="BAYER TV TR 6 BELGESEL", National Geographic Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/2073.ts
+
+#EXTINF:-1 tvg-id="National Geographic Wild Hd" tvg-logo="https://kanallogo2.com/images/belgesel/nat-geo-wild-hd.png" group-title="BAYER TV TR 6 BELGESEL", National Geographic Wild Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/169.ts
+
+#EXTINF:-1 tvg-id="Tarih TV Hd" tvg-logo="noimage.png" group-title="BAYER TV TR 6 BELGESEL", Tarih TV Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/193709.ts
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://kanallogo2.com/images/belgesel/trt-belgesel-hd.png" group-title="BAYER TV TR 6 BELGESEL", TRT Belgesel Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/147.ts
+
+#EXTINF:-1 tvg-id="Viasat Explore Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Viasat-Explore.png" group-title="BAYER TV TR 6 BELGESEL", Viasat Explore Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/117491.ts
+
+#EXTINF:-1 tvg-id="Viasat history Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Viasat-History.png" group-title="BAYER TV TR 6 BELGESEL", Viasat history Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/178.ts
+
+#EXTINF:-1 tvg-id="Viasat Nature Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Viasat-Nature.png" group-title="BAYER TV TR 6 BELGESEL", Viasat Nature Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/102462.ts
+
+#EXTINF:-1 tvg-id="Yaban Tv Hd" tvg-logo="https://kanallogo2.com/images/belgesel/yaban-tv.png" group-title="BAYER TV TR 6 BELGESEL", Yaban Tv Hd
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/120750.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: Animal Planet HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221070.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: BBC Earth HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221068.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: beIN Gurme FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221057.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: beIN IZ HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221166.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: Da Vinci Kids HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221115.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: Discovery Channel HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221065.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: Discovery ID HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221067.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: Discovery Science HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221066.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: DMAX HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221072.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: History HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221069.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: IZTV HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221071.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: KOY TV
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221138.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: Nat Geo Wild HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221062.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: national geo people HDi
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221064.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: national geographic HDi
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221063.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: TLC HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221080.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: TRT Belgesel HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221061.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: YABAN TV HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/221060.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR017:ANIMAL PLANET
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33052
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR024:BBC EARTH
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33045
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR029:BEIN GURME
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33040
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR030:BEIN IZ TV
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33039
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR060:CIFTCI TV
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33009
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR062:DA VINCI LEARNING
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33007
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR065:DISCOVERY CHANNEL
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33004
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR066:DISCOVERY ID
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33003
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR067:DISCOVERY SCIENCE
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33002
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR071:DMAX
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32998
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR072:DOCUBOX
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32997
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR122:HISTORY CHANNEL
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32947
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR145:KOY TV
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32924
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR156:LOVE NATURE
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32913
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR170:NAT GEO
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32899
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR171:NAT GEO WILD
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32898
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR192:SCIENCE & VICE
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32877
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR229:TGRT BELGESEL
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32840
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR237:TLC
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32832
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR242:TRT BELGESEL
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32827
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR267:VIASAT EXPLORE
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32802
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR268:VIASAT HISTORY
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32801
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR272:YABAN TV
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32797
+
+#EXTINF:-1 tvg-id="Bbc Earth Hd" tvg-logo="https://kanallogo2.com/images/belgesel/bbc-earth-hd.png" group-title="BAYER TV TR 9 BELGESEL", Bbc Earth Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/1287.m3u8
+
+#EXTINF:-1 tvg-id="beIN Gurme Hd" tvg-logo="https://kanallogo2.com/images/belgesel/bein-gurme.png" group-title="BAYER TV TR 9 BELGESEL", beIN Gurme Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/20129.m3u8
+
+#EXTINF:-1 tvg-id="beIN H&E Hd" tvg-logo="https://kanallogo2.com/images/belgesel/bein-home-entertainment.png" group-title="BAYER TV TR 9 BELGESEL", beIN H&E Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/139675.m3u8
+
+#EXTINF:-1 tvg-id="dt.318" tvg-logo="https://kanallogo2.com/images/belgesel/bein-iz-hd.png" group-title="BAYER TV TR 9 BELGESEL", Bein Iz Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/212.m3u8
+
+#EXTINF:-1 tvg-id="Da Vinci Learnning Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Da-Vinci-Learning.png" group-title="BAYER TV TR 9 BELGESEL", Da Vinci Learnning Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/102757.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.tr" tvg-logo="https://kanallogo2.com/images/belgesel/discovery-channel-hd.png" group-title="BAYER TV TR 9 BELGESEL", Discovery Channel Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/184.m3u8
+
+#EXTINF:-1 tvg-id="Discovery ID Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Discovery-ID.png" group-title="BAYER TV TR 9 BELGESEL", Discovery ID Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/102455.m3u8
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://kanallogo2.com/images/belgesel/dmax.png" group-title="BAYER TV TR 9 BELGESEL", Dmax Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/59.m3u8
+
+#EXTINF:-1 tvg-id="History Channel Hd" tvg-logo="https://kanallogo2.com/images/belgesel/History-Channel.png" group-title="BAYER TV TR 9 BELGESEL", History Channel Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/146414.m3u8
+
+#EXTINF:-1 tvg-id="History Premier Hd" tvg-logo="http://raostvip.com:8080/images/7100c51a4401ac3aa93cff22297f0de5.png" group-title="BAYER TV TR 9 BELGESEL", History Premier Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/68608.m3u8
+
+#EXTINF:-1 tvg-id="Love Nature Hd" tvg-logo="https://kanallogo2.com/images/belgesel/love-nature.png" group-title="BAYER TV TR 9 BELGESEL", Love Nature Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/133947.m3u8
+
+#EXTINF:-1 tvg-id="nationalgeographic.tr" tvg-logo="https://kanallogo2.com/images/belgesel/national-geographic.png" group-title="BAYER TV TR 9 BELGESEL", National Geographic Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/2073.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic Wild Hd" tvg-logo="https://kanallogo2.com/images/belgesel/nat-geo-wild-hd.png" group-title="BAYER TV TR 9 BELGESEL", National Geographic Wild Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/169.m3u8
+
+#EXTINF:-1 tvg-id="Tarih TV Hd" tvg-logo="noimage.png" group-title="BAYER TV TR 9 BELGESEL", Tarih TV Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/193709.m3u8
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://kanallogo2.com/images/belgesel/trt-belgesel-hd.png" group-title="BAYER TV TR 9 BELGESEL", TRT Belgesel Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/147.m3u8
+
+#EXTINF:-1 tvg-id="Viasat Explore Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Viasat-Explore.png" group-title="BAYER TV TR 9 BELGESEL", Viasat Explore Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/117491.m3u8
+
+#EXTINF:-1 tvg-id="Viasat history Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Viasat-History.png" group-title="BAYER TV TR 9 BELGESEL", Viasat history Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/178.m3u8
+
+#EXTINF:-1 tvg-id="Viasat Nature Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Viasat-Nature.png" group-title="BAYER TV TR 9 BELGESEL", Viasat Nature Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/102462.m3u8
+
+#EXTINF:-1 tvg-id="Yaban Tv Hd" tvg-logo="https://kanallogo2.com/images/belgesel/yaban-tv.png" group-title="BAYER TV TR 9 BELGESEL", Yaban Tv Hd
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/120750.m3u8
+
 #EXTINF:-1 tvg-id="1 Ordu TV" tvg-logo="http://logo.apk-red.com/lg/ordutv.png" group-title="BAYER TV TR1 OTHERS", 1 Ordu TV
 http://ekl.touch78.xyz:80/live/mstfclk23.01m11/Hkvsg23.01.23/296089.ts
 
@@ -2065,96 +2647,6 @@ http://ekl.touch78.xyz:80/live/mstfclk23.01m11/Hkvsg23.01.23/236981.ts
 
 #EXTINF:-1 tvg-id="Zarok Tv HD" tvg-logo="http://logo.apk-red.com/lg/zarok.jpg" group-title="BAYER TV TR1 OTHERS", Zarok Tv HD
 http://ekl.touch78.xyz:80/live/mstfclk23.01m11/Hkvsg23.01.23/236962.ts
-
-#EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="https://imagizer.imageshack.com/img924/5792/w7Z43l.png" group-title="BAYER TV 2 TR BELGESEL", TR: Animal Planet HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/374325
-
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="BAYER TV 2 TR BELGESEL", TR: BBC Earth HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/374326
-
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://http://logo.bosstv.live/Logo/TR/BELGESEL/HD/BBC.EARTH.png" group-title="BAYER TV 2 TR BELGESEL", TR: BBC Earth HD+
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243198
-
-#EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="https://imagizer.imageshack.com/img923/8864/y4o8k9.png" group-title="BAYER TV 2 TR BELGESEL", TR: beiN GURME HD+
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/374327
-
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="https://imagizer.imageshack.com/img924/7783/uqZnwv.png" group-title="BAYER TV 2 TR BELGESEL", TR: beIN IZ HD+
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243201
-
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="BAYER TV 2 TR BELGESEL", TR: DISCOVERY CHANNEL HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243203
-
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="BAYER TV 2 TR BELGESEL", TR: DISCOVERY CHANNEL HD+
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243202
-
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.ID.png" group-title="BAYER TV 2 TR BELGESEL", TR: DISCOVERY IDX
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243204
-
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.IDX.png" group-title="BAYER TV 2 TR BELGESEL", TR: DISCOVERY IDX HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243205
-
-#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="https://imagizer.imageshack.com/img923/8707/A5PJiA.png" group-title="BAYER TV 2 TR BELGESEL", TR: DISCOVERY SCIENCE FHD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/259820
-
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="BAYER TV 2 TR BELGESEL", TR: DMAX HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243217
-
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="BAYER TV 2 TR BELGESEL", TR: DMAX HD+
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243216
-
-#EXTINF:-1 tvg-id="docubox.tr" tvg-logo="https://imagizer.imageshack.com/img922/3328/OzEnhL.png" group-title="BAYER TV 2 TR BELGESEL", TR: DOCUBOX HD+
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243210
-
-#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/2494/TJumUL.png" group-title="BAYER TV 2 TR BELGESEL", TR: History FHD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243209
-
-#EXTINF:-1 tvg-id="TR: KÖY TV" tvg-logo="https://imagizer.imageshack.com/img924/4149/fgdaHp.png" group-title="BAYER TV 2 TR BELGESEL", TR: KÖY TV
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/374330
-
-#EXTINF:-1 tvg-id="TR: LOVE NATURE HD+" tvg-logo="https://imagizer.imageshack.com/img923/7798/YecNuV.png" group-title="BAYER TV 2 TR BELGESEL", TR: LOVE NATURE HD+
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243213
-
-#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://imagizer.imageshack.com/img922/6835/sjXSTE.png" group-title="BAYER TV 2 TR BELGESEL", TR: Nat Geo Wild HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243221
-
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="BAYER TV 2 TR BELGESEL", TR: National Geographic HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243219
-
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="BAYER TV 2 TR BELGESEL", TR: National Geographic HD+
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243218
-
-#EXTINF:-1 tvg-id="TR: TARIH TV HD" tvg-logo="noimage.png" group-title="BAYER TV 2 TR BELGESEL", TR: TARIH TV HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/421982
-
-#EXTINF:-1 tvg-id="TR: TARIM TV" tvg-logo="noimage.png" group-title="BAYER TV 2 TR BELGESEL", TR: TARIM TV
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/374329
-
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://imagizer.imageshack.com/img924/4360/bCtOv4.png" group-title="BAYER TV 2 TR BELGESEL", TR: TGRT BELGESEL
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243212
-
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="BAYER TV 2 TR BELGESEL", TR: TLC TV HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/374324
-
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="BAYER TV 2 TR BELGESEL", TR: TLC TV HD+
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243194
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV 2 TR BELGESEL", TR: TRT Belgesel HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243223
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV 2 TR BELGESEL", TR: TRT BELGESEL HD+
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243222
-
-#EXTINF:-1 tvg-id="TR: ViASAT EXPLORER" tvg-logo="noimage.png" group-title="BAYER TV 2 TR BELGESEL", TR: ViASAT EXPLORER
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/416422
-
-#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="BAYER TV 2 TR BELGESEL", TR: VIASAT HISTORY HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243207
-
-#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="BAYER TV 2 TR BELGESEL", TR: ViASAT HiSTORY HD+
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/243206
-
-#EXTINF:-1 tvg-id="TR: VIASAT NATURE HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/VIASAT.NATURE.png" group-title="BAYER TV 2 TR BELGESEL", TR: VIASAT NATURE HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/226120
 
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="BAYER TV 2 TR OTHERS", [TR] BeIN SPORTS 1 4K HECV
 http://103.161.34.2:8080/aluuhems/HZgsB2hutE/428029
@@ -3097,90 +3589,6 @@ http://103.161.34.2:8080/aluuhems/HZgsB2hutE/412957
 
 #EXTINF:-1 tvg-id="✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪" tvg-logo="noimage.png" group-title="BAYER TV 2 TR OTHERS", ✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪
 http://103.161.34.2:8080/aluuhems/HZgsB2hutE/97391
-
-#EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: ANIMAL PLANET HD
-http://802526775262750205.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750205.ts
-
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: BBC EARTH FHD
-http://802526775262743009.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/743009.ts
-
-#EXTINF:-1 tvg-id="TR: BBC EARTH LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: BBC EARTH LOCAL FHD
-http://802526775262750213.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750213.ts
-
-#EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: BEIN GURME FHD
-http://802526775262750218.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750218.ts
-
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: BEIN IZ TV FHD
-http://802526775262759535.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/759535.ts
-
-#EXTINF:-1 tvg-id="TR: DA VINCI KIDS HD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DA VINCI KIDS HD
-http://802526775262745101.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/745101.ts
-
-#EXTINF:-1 tvg-id="DiscoveryChannelHD.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DISCOVERY CHANNEL FHD
-http://802526775262750259.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750259.ts
-
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DISCOVERY FHD
-http://802526775262722783.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/722783.ts
-
-#EXTINF:-1 tvg-id="TR: DISCOVERY IDX FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DISCOVERY IDX FHD
-http://802526775262747691.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/747691.ts
-
-#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DISCOVERY SCIENCE FHD
-http://802526775262750260.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750260.ts
-
-#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DISCOVERY SCIENCE HD
-http://802526775262766281.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/766281.ts
-
-#EXTINF:-1 tvg-id="TR: DISCOVERY TURBO EXTRA HD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DISCOVERY TURBO EXTRA HD
-http://802526775262761578.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/761578.ts
-
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://live.phenixiptv.com:8080/images/3le2N7tRE72s9RnwlSKUzqCQrkL_IBjq5J0izRfRQxMkfOGO9BrDWBHZRA65TC4fAFDWQkinA5_Jpre-hPKcZw.png" group-title="BAYER TV TR 3 BELGESEL", TR: DMAX HD
-http://802526775262308173.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/308173.ts
-
-#EXTINF:-1 tvg-id="DocuBox.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: DOCUBOX FHD
-http://802526775262731023.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/731023.ts
-
-#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: HISTORY FHD
-http://802526775262762404.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/762404.ts
-
-#EXTINF:-1 tvg-id="LoveNature.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: LOVE NATURE FHD
-http://802526775262760501.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760501.ts
-
-#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: NAT GEO FHD
-http://802526775262762407.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/762407.ts
-
-#EXTINF:-1 tvg-id="TR: NAT GEO LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: NAT GEO LOCAL FHD
-http://802526775262750374.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750374.ts
-
-#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: NAT GEO WILD FHD
-http://802526775262747092.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/747092.ts
-
-#EXTINF:-1 tvg-id="TR: NAT GEO WILD FHD LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: NAT GEO WILD FHD LOCAL FHD
-http://802526775262765945.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/765945.ts
-
-#EXTINF:-1 tvg-id="NationalGeographicHD.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: NATIONAL GEOGRAPHIC FHD
-http://802526775262760528.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760528.ts
-
-#EXTINF:-1 tvg-id="TR: TGRT BELGESEL SD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: TGRT BELGESEL SD
-http://802526775262760571.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760571.ts
-
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: TLC HD
-http://802526775262760582.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760582.ts
-
-#EXTINF:-1 tvg-id="TR: TLC HD TR FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: TLC HD TR FHD
-http://802526775262750430.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750430.ts
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: TRT BELGESEL HD
-http://802526775262760590.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760590.ts
-
-#EXTINF:-1 tvg-id="TR: TRT BELGESEL LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: TRT BELGESEL LOCAL FHD
-http://802526775262750437.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750437.ts
-
-#EXTINF:-1 tvg-id="VIASATEXPLORE.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: VIASAT EXPLORE SD
-http://802526775262760620.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760620.ts
-
-#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 BELGESEL", TR: VIASAT HISTORY HD
-http://802526775262760621.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760621.ts
 
 #EXTINF:-1 tvg-id="TR: 24 TV HD LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 3 OTHERS", TR: 24 TV HD LOCAL FHD
 http://802526775262750174.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/750174.ts
@@ -4178,87 +4586,6 @@ http://802526775262760626.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760626.ts
 #EXTINF:-1 tvg-id="ÜlkeTVHD.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 3 OTHERS", TR: ÜLKE TV HD
 http://802526775262760627.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760627.ts
 
-#EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: ANIMAL PLANET FHD
-http://939770413741750205.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750205.ts
-
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: BBC EARTH FHD
-http://939770413741743009.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/743009.ts
-
-#EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: BEIN GURME FHD
-http://939770413741750218.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750218.ts
-
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: BEIN IZ FHD
-http://939770413741768088.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/768088.ts
-
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: BEIN IZ TV FHD
-http://939770413741759535.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/759535.ts
-
-#EXTINF:-1 tvg-id="TR: DA VINCI KIDS FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DA VINCI KIDS FHD
-http://939770413741745101.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/745101.ts
-
-#EXTINF:-1 tvg-id="DiscoveryChannelHD.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DISCOVERY CHANNEL FHD
-http://939770413741750259.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750259.ts
-
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DISCOVERY FHD
-http://939770413741722783.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/722783.ts
-
-#EXTINF:-1 tvg-id="TR: DISCOVERY IDX FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DISCOVERY IDX FHD
-http://939770413741747691.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/747691.ts
-
-#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DISCOVERY SCIENCE HD
-http://939770413741750260.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750260.ts
-
-#EXTINF:-1 tvg-id="TR: DISCOVERY TURBO EXTRA HD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DISCOVERY TURBO EXTRA HD
-http://939770413741761578.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/761578.ts
-
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://live.phenixiptv.com:8080/images/3le2N7tRE72s9RnwlSKUzqCQrkL_IBjq5J0izRfRQxMkfOGO9BrDWBHZRA65TC4fAFDWQkinA5_Jpre-hPKcZw.png" group-title="BAYER TV TR 4 BELGESEL", TR: DMAX HD
-http://939770413741308173.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/308173.ts
-
-#EXTINF:-1 tvg-id="DocuBox.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: DOCUBOX FHD
-http://939770413741731023.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/731023.ts
-
-#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: HISTORY FHD
-http://939770413741762404.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/762404.ts
-
-#EXTINF:-1 tvg-id="TR: KOY TV SD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: KOY TV SD
-http://939770413741760497.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760497.ts
-
-#EXTINF:-1 tvg-id="LoveNature.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: LOVE NATURE FHD
-http://939770413741760501.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760501.ts
-
-#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: NATIONAL GEOGRAPHIC FHD
-http://939770413741762407.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/762407.ts
-
-#EXTINF:-1 tvg-id="NationalGeographicHD.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: NATIONAL GEOGRAPHIC HD
-http://939770413741760528.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760528.ts
-
-#EXTINF:-1 tvg-id="TR: NATIONAL GEOGRAPHIC LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: NATIONAL GEOGRAPHIC LOCAL FHD
-http://939770413741750374.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750374.ts
-
-#EXTINF:-1 tvg-id="TR: NATIONAL GEOGRAPHIC WILD FHD LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: NATIONAL GEOGRAPHIC WILD FHD LOCAL FHD
-http://939770413741765945.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/765945.ts
-
-#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: NATIONAL GEOGRAPHIC WILD HD
-http://939770413741747092.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/747092.ts
-
-#EXTINF:-1 tvg-id="TR: TGRT BELGESEL SD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: TGRT BELGESEL SD
-http://939770413741760571.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760571.ts
-
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: TLC HD
-http://939770413741760582.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760582.ts
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: TRT BELGESEL HD
-http://939770413741760590.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760590.ts
-
-#EXTINF:-1 tvg-id="TR: TRT BELGESEL LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: TRT BELGESEL LOCAL FHD
-http://939770413741750437.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750437.ts
-
-#EXTINF:-1 tvg-id="VIASATEXPLORE.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: VIASAT EXPLORE SD
-http://939770413741760620.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760620.ts
-
-#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 BELGESEL", TR: VIASAT HISTORY FHD
-http://939770413741760621.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760621.ts
-
 #EXTINF:-1 tvg-id="TR: 24 TV HD LOCAL FHD" tvg-logo="noimage.png" group-title="BAYER TV TR 4 OTHERS", TR: 24 TV HD LOCAL FHD
 http://939770413741750174.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/750174.ts
 
@@ -5237,96 +5564,6 @@ http://939770413741760626.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760626.ts
 #EXTINF:-1 tvg-id="ÜlkeTVHD.tr" tvg-logo="noimage.png" group-title="BAYER TV TR 4 OTHERS", TR: ÜLKE TV FHD
 http://939770413741760627.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760627.ts
 
-#EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="https://imagizer.imageshack.com/img924/5792/w7Z43l.png" group-title="BAYER TV TR 5 BELGESEL", TR: Animal Planet HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/374325
-
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="BAYER TV TR 5 BELGESEL", TR: BBC Earth HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/374326
-
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://http://logo.bosstv.live/Logo/TR/BELGESEL/HD/BBC.EARTH.png" group-title="BAYER TV TR 5 BELGESEL", TR: BBC Earth HD+
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243198
-
-#EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="https://imagizer.imageshack.com/img923/8864/y4o8k9.png" group-title="BAYER TV TR 5 BELGESEL", TR: beiN GURME HD+
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/374327
-
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="https://imagizer.imageshack.com/img924/7783/uqZnwv.png" group-title="BAYER TV TR 5 BELGESEL", TR: beIN IZ HD+
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243201
-
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="BAYER TV TR 5 BELGESEL", TR: DISCOVERY CHANNEL HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243203
-
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="BAYER TV TR 5 BELGESEL", TR: DISCOVERY CHANNEL HD+
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243202
-
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.ID.png" group-title="BAYER TV TR 5 BELGESEL", TR: DISCOVERY IDX
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243204
-
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.IDX.png" group-title="BAYER TV TR 5 BELGESEL", TR: DISCOVERY IDX HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243205
-
-#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="https://imagizer.imageshack.com/img923/8707/A5PJiA.png" group-title="BAYER TV TR 5 BELGESEL", TR: DISCOVERY SCIENCE FHD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/259820
-
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="BAYER TV TR 5 BELGESEL", TR: DMAX HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243217
-
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="BAYER TV TR 5 BELGESEL", TR: DMAX HD+
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243216
-
-#EXTINF:-1 tvg-id="docubox.tr" tvg-logo="https://imagizer.imageshack.com/img922/3328/OzEnhL.png" group-title="BAYER TV TR 5 BELGESEL", TR: DOCUBOX HD+
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243210
-
-#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/2494/TJumUL.png" group-title="BAYER TV TR 5 BELGESEL", TR: History FHD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243209
-
-#EXTINF:-1 tvg-id="TR: KÖY TV" tvg-logo="https://imagizer.imageshack.com/img924/4149/fgdaHp.png" group-title="BAYER TV TR 5 BELGESEL", TR: KÖY TV
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/374330
-
-#EXTINF:-1 tvg-id="TR: LOVE NATURE HD+" tvg-logo="https://imagizer.imageshack.com/img923/7798/YecNuV.png" group-title="BAYER TV TR 5 BELGESEL", TR: LOVE NATURE HD+
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243213
-
-#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://imagizer.imageshack.com/img922/6835/sjXSTE.png" group-title="BAYER TV TR 5 BELGESEL", TR: Nat Geo Wild HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243221
-
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="BAYER TV TR 5 BELGESEL", TR: National Geographic HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243219
-
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="BAYER TV TR 5 BELGESEL", TR: National Geographic HD+
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243218
-
-#EXTINF:-1 tvg-id="TR: TARIH TV HD" tvg-logo="noimage.png" group-title="BAYER TV TR 5 BELGESEL", TR: TARIH TV HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/421982
-
-#EXTINF:-1 tvg-id="TR: TARIM TV" tvg-logo="noimage.png" group-title="BAYER TV TR 5 BELGESEL", TR: TARIM TV
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/374329
-
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://imagizer.imageshack.com/img924/4360/bCtOv4.png" group-title="BAYER TV TR 5 BELGESEL", TR: TGRT BELGESEL
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243212
-
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="BAYER TV TR 5 BELGESEL", TR: TLC TV HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/374324
-
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="BAYER TV TR 5 BELGESEL", TR: TLC TV HD+
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243194
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV TR 5 BELGESEL", TR: TRT Belgesel HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243223
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV TR 5 BELGESEL", TR: TRT BELGESEL HD+
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243222
-
-#EXTINF:-1 tvg-id="TR: ViASAT EXPLORER" tvg-logo="noimage.png" group-title="BAYER TV TR 5 BELGESEL", TR: ViASAT EXPLORER
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/416422
-
-#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="BAYER TV TR 5 BELGESEL", TR: VIASAT HISTORY HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243207
-
-#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="BAYER TV TR 5 BELGESEL", TR: ViASAT HiSTORY HD+
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/243206
-
-#EXTINF:-1 tvg-id="TR: VIASAT NATURE HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/VIASAT.NATURE.png" group-title="BAYER TV TR 5 BELGESEL", TR: VIASAT NATURE HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/226120
-
 #EXTINF:-1 tvg-id="[TR] EXXEN SPORTS 3 FHD" tvg-logo="https://imagizer.imageshack.com/img924/4747/FKbQmS.png" group-title="BAYER TV TR 5 OTHERS", [TR] EXXEN SPORTS 3 FHD
 http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/256705
 
@@ -6163,63 +6400,6 @@ http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/277910
 
 #EXTINF:-1 tvg-id="TR| TRT SPOR 2 HD" tvg-logo="noimage.png" group-title="BAYER TV TR 5 OTHERS", TR| TRT SPOR 2 HD
 http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/277911
-
-#EXTINF:-1 tvg-id="Bbc Earth Hd" tvg-logo="https://kanallogo2.com/images/belgesel/bbc-earth-hd.png" group-title="BAYER TV TR 6 BELGESEL", Bbc Earth Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/1287.ts
-
-#EXTINF:-1 tvg-id="beIN Gurme Hd" tvg-logo="https://kanallogo2.com/images/belgesel/bein-gurme.png" group-title="BAYER TV TR 6 BELGESEL", beIN Gurme Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/20129.ts
-
-#EXTINF:-1 tvg-id="beIN H&E Hd" tvg-logo="https://kanallogo2.com/images/belgesel/bein-home-entertainment.png" group-title="BAYER TV TR 6 BELGESEL", beIN H&E Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/139675.ts
-
-#EXTINF:-1 tvg-id="dt.318" tvg-logo="https://kanallogo2.com/images/belgesel/bein-iz-hd.png" group-title="BAYER TV TR 6 BELGESEL", Bein Iz Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/212.ts
-
-#EXTINF:-1 tvg-id="Da Vinci Learnning Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Da-Vinci-Learning.png" group-title="BAYER TV TR 6 BELGESEL", Da Vinci Learnning Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/102757.ts
-
-#EXTINF:-1 tvg-id="Discovery.tr" tvg-logo="https://kanallogo2.com/images/belgesel/discovery-channel-hd.png" group-title="BAYER TV TR 6 BELGESEL", Discovery Channel Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/184.ts
-
-#EXTINF:-1 tvg-id="Discovery ID Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Discovery-ID.png" group-title="BAYER TV TR 6 BELGESEL", Discovery ID Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/102455.ts
-
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://kanallogo2.com/images/belgesel/dmax.png" group-title="BAYER TV TR 6 BELGESEL", Dmax Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/59.ts
-
-#EXTINF:-1 tvg-id="History Channel Hd" tvg-logo="https://kanallogo2.com/images/belgesel/History-Channel.png" group-title="BAYER TV TR 6 BELGESEL", History Channel Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/146414.ts
-
-#EXTINF:-1 tvg-id="History Premier Hd" tvg-logo="http://raostvip.com:8080/images/7100c51a4401ac3aa93cff22297f0de5.png" group-title="BAYER TV TR 6 BELGESEL", History Premier Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/68608.ts
-
-#EXTINF:-1 tvg-id="Love Nature Hd" tvg-logo="https://kanallogo2.com/images/belgesel/love-nature.png" group-title="BAYER TV TR 6 BELGESEL", Love Nature Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/133947.ts
-
-#EXTINF:-1 tvg-id="nationalgeographic.tr" tvg-logo="https://kanallogo2.com/images/belgesel/national-geographic.png" group-title="BAYER TV TR 6 BELGESEL", National Geographic Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/2073.ts
-
-#EXTINF:-1 tvg-id="National Geographic Wild Hd" tvg-logo="https://kanallogo2.com/images/belgesel/nat-geo-wild-hd.png" group-title="BAYER TV TR 6 BELGESEL", National Geographic Wild Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/169.ts
-
-#EXTINF:-1 tvg-id="Tarih TV Hd" tvg-logo="noimage.png" group-title="BAYER TV TR 6 BELGESEL", Tarih TV Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/193709.ts
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://kanallogo2.com/images/belgesel/trt-belgesel-hd.png" group-title="BAYER TV TR 6 BELGESEL", TRT Belgesel Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/147.ts
-
-#EXTINF:-1 tvg-id="Viasat Explore Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Viasat-Explore.png" group-title="BAYER TV TR 6 BELGESEL", Viasat Explore Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/117491.ts
-
-#EXTINF:-1 tvg-id="Viasat history Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Viasat-History.png" group-title="BAYER TV TR 6 BELGESEL", Viasat history Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/178.ts
-
-#EXTINF:-1 tvg-id="Viasat Nature Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Viasat-Nature.png" group-title="BAYER TV TR 6 BELGESEL", Viasat Nature Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/102462.ts
-
-#EXTINF:-1 tvg-id="Yaban Tv Hd" tvg-logo="https://kanallogo2.com/images/belgesel/yaban-tv.png" group-title="BAYER TV TR 6 BELGESEL", Yaban Tv Hd
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/120750.ts
 
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://kanallogo2.com/images/ulusal/360.png" group-title="BAYER TV TR 6 OTHERS", 360 Hd
 http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/8205.ts
@@ -7793,129 +7973,6 @@ http://ky-iptv.com:80/bkyungguru@pr/4600095044/221132.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 OTHERS", TR: Ülke TV HD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/221083.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: Animal Planet HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221070.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: BBC Earth HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221068.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: beIN Gurme FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221057.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: beIN IZ HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221166.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: Da Vinci Kids HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221115.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: Discovery Channel HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221065.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: Discovery ID HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221067.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: Discovery Science HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221066.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: DMAX HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221072.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: History HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221069.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: IZTV HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221071.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: KOY TV
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221138.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: Nat Geo Wild HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221062.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: national geo people HDi
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221064.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: national geographic HDi
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221063.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: TLC HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221080.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: TRT Belgesel HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221061.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 7 BELGESEL", TR: YABAN TV HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/221060.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR017:ANIMAL PLANET
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33052
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR024:BBC EARTH
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33045
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR029:BEIN GURME
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33040
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR030:BEIN IZ TV
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33039
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR060:CIFTCI TV
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33009
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR062:DA VINCI LEARNING
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33007
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR065:DISCOVERY CHANNEL
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33004
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR066:DISCOVERY ID
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33003
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR067:DISCOVERY SCIENCE
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33002
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR071:DMAX
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32998
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR072:DOCUBOX
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32997
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR122:HISTORY CHANNEL
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32947
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR145:KOY TV
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32924
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR156:LOVE NATURE
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32913
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR170:NAT GEO
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32899
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR171:NAT GEO WILD
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32898
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR192:SCIENCE & VICE
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32877
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR229:TGRT BELGESEL
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32840
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR237:TLC
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32832
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR242:TRT BELGESEL
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32827
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR267:VIASAT EXPLORE
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32802
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR268:VIASAT HISTORY
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32801
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 BELGESEL", TR272:YABAN TV
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32797
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 OTHERS", TR001:24
 http://newlife3.wanicelife.com:8880/12mmk010141/56183996/33068
 
@@ -8737,63 +8794,6 @@ http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32794
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR 8 OTHERS", TR276:YOL TV
 http://newlife3.wanicelife.com:8880/12mmk010141/56183996/32793
-
-#EXTINF:-1 tvg-id="Bbc Earth Hd" tvg-logo="https://kanallogo2.com/images/belgesel/bbc-earth-hd.png" group-title="BAYER TV TR 9 BELGESEL", Bbc Earth Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/1287.m3u8
-
-#EXTINF:-1 tvg-id="beIN Gurme Hd" tvg-logo="https://kanallogo2.com/images/belgesel/bein-gurme.png" group-title="BAYER TV TR 9 BELGESEL", beIN Gurme Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/20129.m3u8
-
-#EXTINF:-1 tvg-id="beIN H&E Hd" tvg-logo="https://kanallogo2.com/images/belgesel/bein-home-entertainment.png" group-title="BAYER TV TR 9 BELGESEL", beIN H&E Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/139675.m3u8
-
-#EXTINF:-1 tvg-id="dt.318" tvg-logo="https://kanallogo2.com/images/belgesel/bein-iz-hd.png" group-title="BAYER TV TR 9 BELGESEL", Bein Iz Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/212.m3u8
-
-#EXTINF:-1 tvg-id="Da Vinci Learnning Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Da-Vinci-Learning.png" group-title="BAYER TV TR 9 BELGESEL", Da Vinci Learnning Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/102757.m3u8
-
-#EXTINF:-1 tvg-id="Discovery.tr" tvg-logo="https://kanallogo2.com/images/belgesel/discovery-channel-hd.png" group-title="BAYER TV TR 9 BELGESEL", Discovery Channel Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/184.m3u8
-
-#EXTINF:-1 tvg-id="Discovery ID Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Discovery-ID.png" group-title="BAYER TV TR 9 BELGESEL", Discovery ID Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/102455.m3u8
-
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://kanallogo2.com/images/belgesel/dmax.png" group-title="BAYER TV TR 9 BELGESEL", Dmax Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/59.m3u8
-
-#EXTINF:-1 tvg-id="History Channel Hd" tvg-logo="https://kanallogo2.com/images/belgesel/History-Channel.png" group-title="BAYER TV TR 9 BELGESEL", History Channel Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/146414.m3u8
-
-#EXTINF:-1 tvg-id="History Premier Hd" tvg-logo="http://raostvip.com:8080/images/7100c51a4401ac3aa93cff22297f0de5.png" group-title="BAYER TV TR 9 BELGESEL", History Premier Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/68608.m3u8
-
-#EXTINF:-1 tvg-id="Love Nature Hd" tvg-logo="https://kanallogo2.com/images/belgesel/love-nature.png" group-title="BAYER TV TR 9 BELGESEL", Love Nature Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/133947.m3u8
-
-#EXTINF:-1 tvg-id="nationalgeographic.tr" tvg-logo="https://kanallogo2.com/images/belgesel/national-geographic.png" group-title="BAYER TV TR 9 BELGESEL", National Geographic Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/2073.m3u8
-
-#EXTINF:-1 tvg-id="National Geographic Wild Hd" tvg-logo="https://kanallogo2.com/images/belgesel/nat-geo-wild-hd.png" group-title="BAYER TV TR 9 BELGESEL", National Geographic Wild Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/169.m3u8
-
-#EXTINF:-1 tvg-id="Tarih TV Hd" tvg-logo="noimage.png" group-title="BAYER TV TR 9 BELGESEL", Tarih TV Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/193709.m3u8
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://kanallogo2.com/images/belgesel/trt-belgesel-hd.png" group-title="BAYER TV TR 9 BELGESEL", TRT Belgesel Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/147.m3u8
-
-#EXTINF:-1 tvg-id="Viasat Explore Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Viasat-Explore.png" group-title="BAYER TV TR 9 BELGESEL", Viasat Explore Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/117491.m3u8
-
-#EXTINF:-1 tvg-id="Viasat history Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Viasat-History.png" group-title="BAYER TV TR 9 BELGESEL", Viasat history Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/178.m3u8
-
-#EXTINF:-1 tvg-id="Viasat Nature Hd" tvg-logo="https://kanallogo2.com/images/belgesel/Viasat-Nature.png" group-title="BAYER TV TR 9 BELGESEL", Viasat Nature Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/102462.m3u8
-
-#EXTINF:-1 tvg-id="Yaban Tv Hd" tvg-logo="https://kanallogo2.com/images/belgesel/yaban-tv.png" group-title="BAYER TV TR 9 BELGESEL", Yaban Tv Hd
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/120750.m3u8
 
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://kanallogo2.com/images/ulusal/360.png" group-title="BAYER TV TR 9 OTHERS", 360 Hd
 http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/8205.m3u8
@@ -9691,6 +9691,648 @@ http://ekl.touch78.xyz:80/live/mstfclk23.01m11/Hkvsg23.01.23/309314.ts
 
 #EXTINF:-1 tvg-id="DE: WELT DER WUNDER" tvg-logo="noimage.png" group-title="DEUTSCH 1 DOKU", DE: WELT DER WUNDER
 http://ekl.touch78.xyz:80/live/mstfclk23.01m11/Hkvsg23.01.23/309315.ts
+
+#EXTINF:-1 tvg-id="bild.de" tvg-logo="https://imagizer.imageshack.com/img924/9277/Jmv96K.png" group-title="DEUTSCH  2 DOKU", DE | BILD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/270432
+
+#EXTINF:-1 tvg-id="DE: ARD-ALPHA HD" tvg-logo="noimage.png" group-title="DEUTSCH  2 DOKU", DE: ARD-ALPHA HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/421919
+
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-logo="https://imagizer.imageshack.com/img923/3961/YFnxBG.png" group-title="DEUTSCH  2 DOKU", DE: Crime Investigation
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96514
+
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH  2 DOKU", DE: Discovery FHD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96499
+
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH  2 DOKU", DE: Discovery HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96500
+
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH  2 DOKU", DE: Dmax HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96504
+
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH  2 DOKU", DE: Dmax HD+
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96503
+
+#EXTINF:-1 tvg-id="DE: GEO TELEVISION HD" tvg-logo="noimage.png" group-title="DEUTSCH  2 DOKU", DE: GEO TELEVISION HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/421924
+
+#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="https://imagizer.imageshack.com/img924/1241/SpQTvB.png" group-title="DEUTSCH  2 DOKU", DE: HGTV
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96507
+
+#EXTINF:-1 tvg-id="history.de" tvg-logo="https://imagizer.imageshack.com/img922/5621/ixGyU9.png" group-title="DEUTSCH  2 DOKU", DE: History FHD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96501
+
+#EXTINF:-1 tvg-id="history.de" tvg-logo="https://imagizer.imageshack.com/img922/5621/ixGyU9.png" group-title="DEUTSCH  2 DOKU", DE: History HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96502
+
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://imagizer.imageshack.com/img924/6895/gev4xt.png" group-title="DEUTSCH  2 DOKU", DE: Kabel Eins Doku FHD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96505
+
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://imagizer.imageshack.com/img923/6172/npBGww.png" group-title="DEUTSCH  2 DOKU", DE: N-tv FHD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96513
+
+#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="https://imagizer.imageshack.com/img922/4537/oo5oJX.png" group-title="DEUTSCH  2 DOKU", DE: N24 DOKU
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96511
+
+#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH  2 DOKU", DE: Nat Geo FHD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96495
+
+#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH  2 DOKU", DE: Nat Geo HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96496
+
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH  2 DOKU", DE: Nat Geo Wild FHD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96497
+
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH  2 DOKU", DE: Nat Geo Wild HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96498
+
+#EXTINF:-1 tvg-id="DE: NTV HD" tvg-logo="noimage.png" group-title="DEUTSCH  2 DOKU", DE: NTV HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/421923
+
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-logo="https://imagizer.imageshack.com/img922/5941/UzYJg8.png" group-title="DEUTSCH  2 DOKU", DE: Spiegel Geschichte HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96517
+
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-logo="https://imagizer.imageshack.com/img924/3508/xJnZPm.png" group-title="DEUTSCH  2 DOKU", DE: Spiegel TV Wissen
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96518
+
+#EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://imagizer.imageshack.com/img923/3359/zXAv8y.png" group-title="DEUTSCH  2 DOKU", DE: TLC HD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96448
+
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-logo="https://imagizer.imageshack.com/img923/2498/fijkdE.png" group-title="DEUTSCH  2 DOKU", DE: Welt der Wunder
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96516
+
+#EXTINF:-1 tvg-id="welt.de" tvg-logo="https://imagizer.imageshack.com/img923/6107/59OvlL.png" group-title="DEUTSCH  2 DOKU", DE: Welt FHD
+http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96510
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: 3SAT HD
+http://802526775262660198.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/660198.ts
+
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: ANIMAL PLANET HD
+http://802526775262526262.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/526262.ts
+
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: ARD ALPHA HD
+http://802526775262636026.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/636026.ts
+
+#EXTINF:-1 tvg-id="arte.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: ARTE HD
+http://802526775262742913.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/742913.ts
+
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: DISCOVERY CHANNEL FHD
+http://802526775262751455.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/751455.ts
+
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: DMAX HEVC
+http://802526775262764947.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/764947.ts
+
+#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: HGTV HD
+http://802526775262751478.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/751478.ts
+
+#EXTINF:-1 tvg-id="history.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: HISTORY FHD
+http://802526775262766506.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/766506.ts
+
+#EXTINF:-1 tvg-id="history.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: HISTORY HD
+http://802526775262681847.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/681847.ts
+
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: KABEL 1 DOKU HD
+http://802526775262666479.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/666479.ts
+
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: N-TV HD
+http://802526775262725095.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/725095.ts
+
+#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: N24 DOKU FHD
+http://802526775262751507.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/751507.ts
+
+#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: N24 DOKU SD
+http://802526775262764949.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/764949.ts
+
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: NAT GEO WILD FHD
+http://802526775262693397.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/693397.ts
+
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: NAT GEO WILD HD
+http://802526775262767092.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/767092.ts
+
+#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: NATIONAL GEOGRAPHIC FHD
+http://802526775262760293.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760293.ts
+
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: PHOENIX HD
+http://802526775262763639.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/763639.ts
+
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: PLANET FHD
+http://802526775262765217.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/765217.ts
+
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: SKY DOCUMENTARIES HD
+http://802526775262760341.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760341.ts
+
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: SKY NATURE HD
+http://802526775262760343.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760343.ts
+
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: SPIEGEL GESCHICHTE HD
+http://802526775262760390.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760390.ts
+
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: SPIEGEL TV WISSEN HD
+http://802526775262751625.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/751625.ts
+
+#EXTINF:-1 tvg-id="tlc.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: TLC SD
+http://802526775262760400.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760400.ts
+
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: WELT DER WUNDER FHD
+http://802526775262765232.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/765232.ts
+
+#EXTINF:-1 tvg-id="welt.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: WELT HD
+http://802526775262746760.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/746760.ts
+
+#EXTINF:-1 tvg-id="zdf.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: ZDF HD
+http://802526775262696004.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/696004.ts
+
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: ZDF INFO HD
+http://802526775262726827.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/726827.ts
+
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: ZDF NEO HD
+http://802526775262611590.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/611590.ts
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: 3SAT HD
+http://939770413741660198.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/660198.ts
+
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ANIMAL PLANET FHD
+http://939770413741767939.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/767939.ts
+
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ANIMAL PLANET HD
+http://939770413741526262.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/526262.ts
+
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ARD ALPHA HD
+http://939770413741636026.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/636026.ts
+
+#EXTINF:-1 tvg-id="arte.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ARTE FHD
+http://939770413741742913.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/742913.ts
+
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: CRIME & INVESTIGATION SD
+http://939770413741751444.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/751444.ts
+
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: DISCOVERY CHANNEL FHD
+http://939770413741751455.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/751455.ts
+
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: DISCOVERY FHD
+http://939770413741746717.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/746717.ts
+
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: DMAX HEVC
+http://939770413741764947.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/764947.ts
+
+#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: HGTV HD
+http://939770413741751478.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/751478.ts
+
+#EXTINF:-1 tvg-id="history.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: HISTORY FHD
+http://939770413741768694.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/768694.ts
+
+#EXTINF:-1 tvg-id="history.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: HISTORY HD
+http://939770413741681847.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/681847.ts
+
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: KABEL 1 DOKU SD
+http://939770413741666479.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/666479.ts
+
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: KABEL EINS DOKU FHD
+http://939770413741751487.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/751487.ts
+
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: N-TV HD
+http://939770413741725095.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/725095.ts
+
+#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: N24 DOKU SD
+http://939770413741751507.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/751507.ts
+
+#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: NATIONAL GEOGRAPHIC FHD
+http://939770413741760293.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760293.ts
+
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: NATIONAL GEOGRAPHIC WILD FHD
+http://939770413741768696.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/768696.ts
+
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: NATIONAL GEOGRAPHIC WILD HEVC
+http://939770413741693397.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/693397.ts
+
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: PHOENIX HD
+http://939770413741763639.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/763639.ts
+
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: PLANET FHD
+http://939770413741765217.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/765217.ts
+
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SKY CRIME HD
+http://939770413741760339.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760339.ts
+
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SKY DOCUMENTARIES FHD
+http://939770413741760341.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760341.ts
+
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-logo="http://files.rednetcontent.com/chlogo2/German/Sky_Krimi_HD_DE_Logo_2017.png" group-title="DEUTSCH 4 DOKU", DE: SKY KRIMI FHD
+http://939770413741521547.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/521547.ts
+
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SKY NATURE HD
+http://939770413741760343.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760343.ts
+
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SPIEGEL GESCHICHTE HD
+http://939770413741760390.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760390.ts
+
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SPIEGEL TV WISSEN HD
+http://939770413741751625.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/751625.ts
+
+#EXTINF:-1 tvg-id="tlc.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: TLC SD
+http://939770413741760400.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760400.ts
+
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: WELT DER WUNDER FHD
+http://939770413741765232.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/765232.ts
+
+#EXTINF:-1 tvg-id="welt.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: WELT HD
+http://939770413741746760.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/746760.ts
+
+#EXTINF:-1 tvg-id="zdf.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ZDF HD
+http://939770413741696004.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/696004.ts
+
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ZDF INFO HD
+http://939770413741726827.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/726827.ts
+
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ZDF NEO HD
+http://939770413741611590.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/611590.ts
+
+#EXTINF:-1 tvg-id="bild.de" tvg-logo="https://imagizer.imageshack.com/img924/9277/Jmv96K.png" group-title="DEUTSCH 5 DOKU", DE | BILD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/270432
+
+#EXTINF:-1 tvg-id="DE: ARD-ALPHA HD" tvg-logo="noimage.png" group-title="DEUTSCH 5 DOKU", DE: ARD-ALPHA HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/421919
+
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-logo="https://imagizer.imageshack.com/img923/3961/YFnxBG.png" group-title="DEUTSCH 5 DOKU", DE: Crime Investigation
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96514
+
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH 5 DOKU", DE: Discovery FHD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96499
+
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH 5 DOKU", DE: Discovery HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96500
+
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH 5 DOKU", DE: Dmax HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96504
+
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH 5 DOKU", DE: Dmax HD+
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96503
+
+#EXTINF:-1 tvg-id="DE: GEO TELEVISION HD" tvg-logo="noimage.png" group-title="DEUTSCH 5 DOKU", DE: GEO TELEVISION HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/421924
+
+#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="https://imagizer.imageshack.com/img924/1241/SpQTvB.png" group-title="DEUTSCH 5 DOKU", DE: HGTV
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96507
+
+#EXTINF:-1 tvg-id="history.de" tvg-logo="https://imagizer.imageshack.com/img922/5621/ixGyU9.png" group-title="DEUTSCH 5 DOKU", DE: History FHD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96501
+
+#EXTINF:-1 tvg-id="history.de" tvg-logo="https://imagizer.imageshack.com/img922/5621/ixGyU9.png" group-title="DEUTSCH 5 DOKU", DE: History HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96502
+
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://imagizer.imageshack.com/img924/6895/gev4xt.png" group-title="DEUTSCH 5 DOKU", DE: Kabel Eins Doku FHD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96505
+
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://imagizer.imageshack.com/img923/6172/npBGww.png" group-title="DEUTSCH 5 DOKU", DE: N-tv FHD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96513
+
+#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="https://imagizer.imageshack.com/img922/4537/oo5oJX.png" group-title="DEUTSCH 5 DOKU", DE: N24 DOKU
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96511
+
+#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH 5 DOKU", DE: Nat Geo FHD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96495
+
+#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH 5 DOKU", DE: Nat Geo HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96496
+
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH 5 DOKU", DE: Nat Geo Wild FHD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96497
+
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH 5 DOKU", DE: Nat Geo Wild HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96498
+
+#EXTINF:-1 tvg-id="DE: NTV HD" tvg-logo="noimage.png" group-title="DEUTSCH 5 DOKU", DE: NTV HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/421923
+
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-logo="https://imagizer.imageshack.com/img922/5941/UzYJg8.png" group-title="DEUTSCH 5 DOKU", DE: Spiegel Geschichte HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96517
+
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-logo="https://imagizer.imageshack.com/img924/3508/xJnZPm.png" group-title="DEUTSCH 5 DOKU", DE: Spiegel TV Wissen
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96518
+
+#EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://imagizer.imageshack.com/img923/3359/zXAv8y.png" group-title="DEUTSCH 5 DOKU", DE: TLC HD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96448
+
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-logo="https://imagizer.imageshack.com/img923/2498/fijkdE.png" group-title="DEUTSCH 5 DOKU", DE: Welt der Wunder
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96516
+
+#EXTINF:-1 tvg-id="welt.de" tvg-logo="https://imagizer.imageshack.com/img923/6107/59OvlL.png" group-title="DEUTSCH 5 DOKU", DE: Welt FHD
+http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96510
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/60f4478d63bf2836cd6be065e60c6ab4.png" group-title="DEUTSCH 6 DOKU", DE: 3sat
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242421.ts
+
+#EXTINF:-1 tvg-id="DE: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8a3416d40631ad2d244f18f3809f255c.png" group-title="DEUTSCH 6 DOKU", DE: ANIMAL PLANET
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242205.ts
+
+#EXTINF:-1 tvg-id="DE: ANIXE+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4f6b57164b9bb2a5769224e17207369.png" group-title="DEUTSCH 6 DOKU", DE: ANIXE+
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242199.ts
+
+#EXTINF:-1 tvg-id="DE: ARD Alpha" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/832d4632ab0874f179f9225429e22632.png" group-title="DEUTSCH 6 DOKU", DE: ARD Alpha
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242397.ts
+
+#EXTINF:-1 tvg-id="arte.de" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5a688cd1f8d9c6aaee8cd4bbd094497.png" group-title="DEUTSCH 6 DOKU", DE: Arte
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242419.ts
+
+#EXTINF:-1 tvg-id="DE: bergblick" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c23bf82567280b3cbfa3f5d2a32dc5fd.png" group-title="DEUTSCH 6 DOKU", DE: bergblick
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242206.ts
+
+#EXTINF:-1 tvg-id="DE: Bon Gusto" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3c97f2b1e0dfc980ecd9e928710ccdbe.png" group-title="DEUTSCH 6 DOKU", DE: Bon Gusto
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242198.ts
+
+#EXTINF:-1 tvg-id="DE: Crime+ Investigation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1e6d7e1968524d60a190f8d44a2df9dc.png" group-title="DEUTSCH 6 DOKU", DE: Crime+ Investigation
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242249.ts
+
+#EXTINF:-1 tvg-id="DE: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b59daee919a2ee113b40f9b24de2dbf.png" group-title="DEUTSCH 6 DOKU", DE: Discovery World
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242197.ts
+
+#EXTINF:-1 tvg-id="DE: Disney+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e3a910620967cfcc35c6f1a34b1cec42.png" group-title="DEUTSCH 6 DOKU", DE: Disney+
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242195.ts
+
+#EXTINF:-1 tvg-id="DE: DMAX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3787cdd95740aba077bab2663e9ffc0f.png" group-title="DEUTSCH 6 DOKU", DE: DMAX
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242196.ts
+
+#EXTINF:-1 tvg-id="DE: Geo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a970020b74eb6222254ec1b380e8f69f.png" group-title="DEUTSCH 6 DOKU", DE: Geo TV
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242448.ts
+
+#EXTINF:-1 tvg-id="DE: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dc7be151c538427f9a7133a439c920ea.png" group-title="DEUTSCH 6 DOKU", DE: HGTV
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242451.ts
+
+#EXTINF:-1 tvg-id="DE: History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/12130227dd9613bf9b7854425506d572.png" group-title="DEUTSCH 6 DOKU", DE: History
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242194.ts
+
+#EXTINF:-1 tvg-id="DE: Kabel Eins Doku" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="DEUTSCH 6 DOKU", DE: Kabel Eins Doku
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242416.ts
+
+#EXTINF:-1 tvg-id="DE: Kultur MD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/94d467fd9738a7cb7f3381a6b11f14ba.png" group-title="DEUTSCH 6 DOKU", DE: Kultur MD
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242192.ts
+
+#EXTINF:-1 tvg-id="DE: Kultur MD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/94d467fd9738a7cb7f3381a6b11f14ba.png" group-title="DEUTSCH 6 DOKU", DE: Kultur MD
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242193.ts
+
+#EXTINF:-1 tvg-id="DE: N24 Doku" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c5b96d08b092c4bb4d477822e94734b4.png" group-title="DEUTSCH 6 DOKU", DE: N24 Doku
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242191.ts
+
+#EXTINF:-1 tvg-id="DE: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fda277026dd8335ac1b6a11449b61647.png" group-title="DEUTSCH 6 DOKU", DE: NAT GEO
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242203.ts
+
+#EXTINF:-1 tvg-id="DE: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c344750df844e52566025f42daf2f813.png" group-title="DEUTSCH 6 DOKU", DE: NAT GEO Wild
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242204.ts
+
+#EXTINF:-1 tvg-id="DE: Sky Documentaries" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0b02c2eeecd6f6c5722d40f8ff70f6c7.png" group-title="DEUTSCH 6 DOKU", DE: Sky Documentaries
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242208.ts
+
+#EXTINF:-1 tvg-id="DE: Sky Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dbfd4a1361e27a67aaa7b3a64781850c.png" group-title="DEUTSCH 6 DOKU", DE: Sky Nature
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242207.ts
+
+#EXTINF:-1 tvg-id="DE: Spiegel Geschichte" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/784f890f04a5d004128b527fb3b66f09.png" group-title="DEUTSCH 6 DOKU", DE: Spiegel Geschichte
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242201.ts
+
+#EXTINF:-1 tvg-id="DE: Spiegel TV Wissen" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/99327f657d95212ff8ca347f73f7eab0.png" group-title="DEUTSCH 6 DOKU", DE: Spiegel TV Wissen
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242522.ts
+
+#EXTINF:-1 tvg-id="DE: SWR Fernsehen" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ba34a2aaffa62156c0d73b894b8818d4.png" group-title="DEUTSCH 6 DOKU", DE: SWR Fernsehen
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242202.ts
+
+#EXTINF:-1 tvg-id="DE: TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/234d55ac82eafc838dc49835335c82a7.jfif" group-title="DEUTSCH 6 DOKU", DE: TLC
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242529.ts
+
+#EXTINF:-1 tvg-id="DE: Welt" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/466a05dca5843cf9c8a74a457af829a4.png" group-title="DEUTSCH 6 DOKU", DE: Welt
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242234.ts
+
+#EXTINF:-1 tvg-id="DE: Welt der Wunder TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/834de0d76be26d5220d27629a30e02f8.png" group-title="DEUTSCH 6 DOKU", DE: Welt der Wunder TV
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242539.ts
+
+#EXTINF:-1 tvg-id="DE: ZDF" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" group-title="DEUTSCH 6 DOKU", DE: ZDF
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242399.ts
+
+#EXTINF:-1 tvg-id="DE: ZDF Info" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" group-title="DEUTSCH 6 DOKU", DE: ZDF Info
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242400.ts
+
+#EXTINF:-1 tvg-id="DE: ZDF Neo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" group-title="DEUTSCH 6 DOKU", DE: ZDF Neo
+http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242401.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", AT: 3 SAT FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/186147.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: ARD Alpha
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182589.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: ARTE HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182592.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Crime+ Investigation HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182649.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Discovery Channel FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182660.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: DMAX FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182666.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: DOKU N24 HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183070.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: HGTV HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/2422152.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: History HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182912.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Kabel 1 DOKU FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182738.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: N-TV FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182792.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: N24 FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182794.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: NAT GEO FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182795.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: NAT GEO Wild FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182796.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Phoenix HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182820.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: PLANET FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182821.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Sky Krimi FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/182916.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: SPIEGEL GESCHICHTE
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/2107292.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Spiegel Geschichte HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183000.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: SPIEGEL TV WISSEN HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183001.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: SWR BW
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183012.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: SWR HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183014.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: TLC FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183036.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Welt der Wunder TV
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183068.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: WELT FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183069.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: ZDF FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183073.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: ZDF Info HD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183074.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: ZDF neo FHD
+http://ky-iptv.com:80/bkyungguru@pr/4600095044/183075.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE003:3 SAT
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2680
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE004:ANIMAL PLANET
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2679
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE006:ARD ALPHA
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2677
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE008:ARTE
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2675
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE031:DISCOVERY CHANNEL
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2652
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE037:DMAX
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2646
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE048:GEO TELEVISION
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2635
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE051:HGTV
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2632
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE052:HISTORY CHANNEL
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2631
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE057:KABEL 1 DOKU
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2626
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE091:NTV HEVC
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29193
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE092:N-TV
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29192
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE093:N24 DOKU
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29191
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE094:NAT GEO
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29190
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE095:NAT GEO WILD
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29189
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE110:PHOENIX
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29174
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE112:PLANET
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29172
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE162:SKY KRIMI
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29121
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE163:SKY NATURE
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29120
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE217:SPIEGEL GESCHICHTE
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29065
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE218:SPIEGEL WISSEN
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29064
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE227:SWR
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29055
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE238:TLC
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29044
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE253:WELT
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29029
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE254:WELT DER WUNDER
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29028
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE256:ZDF
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29026
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE257:ZDF INFO
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29025
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE258:ZDF NEO
+http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29024
+
+#EXTINF:-1 tvg-id="DE: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8a3416d40631ad2d244f18f3809f255c.png" group-title="DEUTSCH 9 DOKU", DE: ANIMAL PLANET
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242205.m3u8
+
+#EXTINF:-1 tvg-id="DE: ANIXE+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4f6b57164b9bb2a5769224e17207369.png" group-title="DEUTSCH 9 DOKU", DE: ANIXE+
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242199.m3u8
+
+#EXTINF:-1 tvg-id="DE: bergblick" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c23bf82567280b3cbfa3f5d2a32dc5fd.png" group-title="DEUTSCH 9 DOKU", DE: bergblick
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242206.m3u8
+
+#EXTINF:-1 tvg-id="DE: Bon Gusto" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3c97f2b1e0dfc980ecd9e928710ccdbe.png" group-title="DEUTSCH 9 DOKU", DE: Bon Gusto
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242198.m3u8
+
+#EXTINF:-1 tvg-id="DE: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b59daee919a2ee113b40f9b24de2dbf.png" group-title="DEUTSCH 9 DOKU", DE: Discovery World
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242197.m3u8
+
+#EXTINF:-1 tvg-id="DE: Disney+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e3a910620967cfcc35c6f1a34b1cec42.png" group-title="DEUTSCH 9 DOKU", DE: Disney+
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242195.m3u8
+
+#EXTINF:-1 tvg-id="DE: DMAX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3787cdd95740aba077bab2663e9ffc0f.png" group-title="DEUTSCH 9 DOKU", DE: DMAX
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242196.m3u8
+
+#EXTINF:-1 tvg-id="DE: E!" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e243dcf36410048af7727bb85fdb70e4.png" group-title="DEUTSCH 9 DOKU", DE: E!
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242200.m3u8
+
+#EXTINF:-1 tvg-id="DE: History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/12130227dd9613bf9b7854425506d572.png" group-title="DEUTSCH 9 DOKU", DE: History
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242194.m3u8
+
+#EXTINF:-1 tvg-id="DE: Kultur MD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/94d467fd9738a7cb7f3381a6b11f14ba.png" group-title="DEUTSCH 9 DOKU", DE: Kultur MD
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242192.m3u8
+
+#EXTINF:-1 tvg-id="DE: Kultur MD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/94d467fd9738a7cb7f3381a6b11f14ba.png" group-title="DEUTSCH 9 DOKU", DE: Kultur MD
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242193.m3u8
+
+#EXTINF:-1 tvg-id="DE: N24 Doku" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c5b96d08b092c4bb4d477822e94734b4.png" group-title="DEUTSCH 9 DOKU", DE: N24 Doku
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242191.m3u8
+
+#EXTINF:-1 tvg-id="DE: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fda277026dd8335ac1b6a11449b61647.png" group-title="DEUTSCH 9 DOKU", DE: NAT GEO
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242203.m3u8
+
+#EXTINF:-1 tvg-id="DE: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c344750df844e52566025f42daf2f813.png" group-title="DEUTSCH 9 DOKU", DE: NAT GEO Wild
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242204.m3u8
+
+#EXTINF:-1 tvg-id="DE: Sky Documentaries" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0b02c2eeecd6f6c5722d40f8ff70f6c7.png" group-title="DEUTSCH 9 DOKU", DE: Sky Documentaries
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242208.m3u8
+
+#EXTINF:-1 tvg-id="DE: Sky Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dbfd4a1361e27a67aaa7b3a64781850c.png" group-title="DEUTSCH 9 DOKU", DE: Sky Nature
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242207.m3u8
+
+#EXTINF:-1 tvg-id="DE: Spiegel Geschichte" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/784f890f04a5d004128b527fb3b66f09.png" group-title="DEUTSCH 9 DOKU", DE: Spiegel Geschichte
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242201.m3u8
+
+#EXTINF:-1 tvg-id="DE: SWR Fernsehen" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ba34a2aaffa62156c0d73b894b8818d4.png" group-title="DEUTSCH 9 DOKU", DE: SWR Fernsehen
+http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242202.m3u8
 
 #EXTINF:-1 tvg-id="AT: ATV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/79bd252e698ff7189c135c93baced6ca.png" group-title="DEUTSCH 1 OTHERS", AT: ATV
 http://ekl.touch78.xyz:80/live/mstfclk23.01m11/Hkvsg23.01.23/307083.ts
@@ -11330,78 +11972,6 @@ http://ekl.touch78.xyz:80/live/mstfclk23.01m11/Hkvsg23.01.23/309045.ts
 #EXTINF:-1 tvg-id="Sinemix Thriller" tvg-logo="noimage.png" group-title="DEUTSCH 1 OTHERS", Sinemix Thriller
 http://ekl.touch78.xyz:80/live/mstfclk23.01m11/Hkvsg23.01.23/309047.ts
 
-#EXTINF:-1 tvg-id="bild.de" tvg-logo="https://imagizer.imageshack.com/img924/9277/Jmv96K.png" group-title="DEUTSCH  2 DOKU", DE | BILD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/270432
-
-#EXTINF:-1 tvg-id="DE: ARD-ALPHA HD" tvg-logo="noimage.png" group-title="DEUTSCH  2 DOKU", DE: ARD-ALPHA HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/421919
-
-#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-logo="https://imagizer.imageshack.com/img923/3961/YFnxBG.png" group-title="DEUTSCH  2 DOKU", DE: Crime Investigation
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96514
-
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH  2 DOKU", DE: Discovery FHD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96499
-
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH  2 DOKU", DE: Discovery HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96500
-
-#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH  2 DOKU", DE: Dmax HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96504
-
-#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH  2 DOKU", DE: Dmax HD+
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96503
-
-#EXTINF:-1 tvg-id="DE: GEO TELEVISION HD" tvg-logo="noimage.png" group-title="DEUTSCH  2 DOKU", DE: GEO TELEVISION HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/421924
-
-#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="https://imagizer.imageshack.com/img924/1241/SpQTvB.png" group-title="DEUTSCH  2 DOKU", DE: HGTV
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96507
-
-#EXTINF:-1 tvg-id="history.de" tvg-logo="https://imagizer.imageshack.com/img922/5621/ixGyU9.png" group-title="DEUTSCH  2 DOKU", DE: History FHD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96501
-
-#EXTINF:-1 tvg-id="history.de" tvg-logo="https://imagizer.imageshack.com/img922/5621/ixGyU9.png" group-title="DEUTSCH  2 DOKU", DE: History HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96502
-
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://imagizer.imageshack.com/img924/6895/gev4xt.png" group-title="DEUTSCH  2 DOKU", DE: Kabel Eins Doku FHD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96505
-
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://imagizer.imageshack.com/img923/6172/npBGww.png" group-title="DEUTSCH  2 DOKU", DE: N-tv FHD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96513
-
-#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="https://imagizer.imageshack.com/img922/4537/oo5oJX.png" group-title="DEUTSCH  2 DOKU", DE: N24 DOKU
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96511
-
-#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH  2 DOKU", DE: Nat Geo FHD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96495
-
-#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH  2 DOKU", DE: Nat Geo HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96496
-
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH  2 DOKU", DE: Nat Geo Wild FHD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96497
-
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH  2 DOKU", DE: Nat Geo Wild HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96498
-
-#EXTINF:-1 tvg-id="DE: NTV HD" tvg-logo="noimage.png" group-title="DEUTSCH  2 DOKU", DE: NTV HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/421923
-
-#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-logo="https://imagizer.imageshack.com/img922/5941/UzYJg8.png" group-title="DEUTSCH  2 DOKU", DE: Spiegel Geschichte HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96517
-
-#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-logo="https://imagizer.imageshack.com/img924/3508/xJnZPm.png" group-title="DEUTSCH  2 DOKU", DE: Spiegel TV Wissen
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96518
-
-#EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://imagizer.imageshack.com/img923/3359/zXAv8y.png" group-title="DEUTSCH  2 DOKU", DE: TLC HD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96448
-
-#EXTINF:-1 tvg-id="weltderwunder.de" tvg-logo="https://imagizer.imageshack.com/img923/2498/fijkdE.png" group-title="DEUTSCH  2 DOKU", DE: Welt der Wunder
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96516
-
-#EXTINF:-1 tvg-id="welt.de" tvg-logo="https://imagizer.imageshack.com/img923/6107/59OvlL.png" group-title="DEUTSCH  2 DOKU", DE: Welt FHD
-http://103.161.34.2:8080/aluuhems/HZgsB2hutE/96510
-
 #EXTINF:-1 tvg-id="[DE] DAZN 1 BAR HEVC" tvg-logo="noimage.png" group-title="DEUTSCH 2 OTHERS", [DE] DAZN 1 BAR HEVC
 http://103.161.34.2:8080/aluuhems/HZgsB2hutE/419424
 
@@ -12848,90 +13418,6 @@ http://103.161.34.2:8080/aluuhems/HZgsB2hutE/233864
 #EXTINF:-1 tvg-id="rtlup.de" tvg-logo="https://imagizer.imageshack.com/img923/5040/mPDjHw.png" group-title="DEUTSCH 2 OTHERS", |DE| RTL UP
 http://103.161.34.2:8080/aluuhems/HZgsB2hutE/413538
 
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: 3SAT HD
-http://802526775262660198.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/660198.ts
-
-#EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: ANIMAL PLANET HD
-http://802526775262526262.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/526262.ts
-
-#EXTINF:-1 tvg-id="ardalpha.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: ARD ALPHA HD
-http://802526775262636026.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/636026.ts
-
-#EXTINF:-1 tvg-id="arte.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: ARTE HD
-http://802526775262742913.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/742913.ts
-
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: DISCOVERY CHANNEL FHD
-http://802526775262751455.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/751455.ts
-
-#EXTINF:-1 tvg-id="dmax.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: DMAX HEVC
-http://802526775262764947.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/764947.ts
-
-#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: HGTV HD
-http://802526775262751478.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/751478.ts
-
-#EXTINF:-1 tvg-id="history.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: HISTORY FHD
-http://802526775262766506.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/766506.ts
-
-#EXTINF:-1 tvg-id="history.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: HISTORY HD
-http://802526775262681847.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/681847.ts
-
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: KABEL 1 DOKU HD
-http://802526775262666479.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/666479.ts
-
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: N-TV HD
-http://802526775262725095.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/725095.ts
-
-#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: N24 DOKU FHD
-http://802526775262751507.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/751507.ts
-
-#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: N24 DOKU SD
-http://802526775262764949.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/764949.ts
-
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: NAT GEO WILD FHD
-http://802526775262693397.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/693397.ts
-
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: NAT GEO WILD HD
-http://802526775262767092.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/767092.ts
-
-#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: NATIONAL GEOGRAPHIC FHD
-http://802526775262760293.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760293.ts
-
-#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: PHOENIX HD
-http://802526775262763639.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/763639.ts
-
-#EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: PLANET FHD
-http://802526775262765217.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/765217.ts
-
-#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: SKY DOCUMENTARIES HD
-http://802526775262760341.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760341.ts
-
-#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: SKY NATURE HD
-http://802526775262760343.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760343.ts
-
-#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: SPIEGEL GESCHICHTE HD
-http://802526775262760390.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760390.ts
-
-#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: SPIEGEL TV WISSEN HD
-http://802526775262751625.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/751625.ts
-
-#EXTINF:-1 tvg-id="tlc.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: TLC SD
-http://802526775262760400.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/760400.ts
-
-#EXTINF:-1 tvg-id="weltderwunder.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: WELT DER WUNDER FHD
-http://802526775262765232.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/765232.ts
-
-#EXTINF:-1 tvg-id="welt.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: WELT HD
-http://802526775262746760.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/746760.ts
-
-#EXTINF:-1 tvg-id="zdf.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: ZDF HD
-http://802526775262696004.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/696004.ts
-
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: ZDF INFO HD
-http://802526775262726827.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/726827.ts
-
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 DOKU", DE: ZDF NEO HD
-http://802526775262611590.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/611590.ts
-
 #EXTINF:-1 tvg-id="atv2.at" tvg-logo="http://fanc.tmsimg.com/assets/s101672_ll_h3_aa.png" group-title="DEUTSCH 3 OTHERS", AT: ATV 2 FHD
 http://802526775262736112.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/736112.ts
 
@@ -14374,105 +14860,6 @@ http://802526775262726827.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/726827.ts
 
 #EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="noimage.png" group-title="DEUTSCH 3 OTHERS", DE: ZDF NEO HD
 http://802526775262611590.ofd112.xyz:80/play/TK3GD4SRRR/HGHJK12354/611590.ts
-
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: 3SAT HD
-http://939770413741660198.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/660198.ts
-
-#EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ANIMAL PLANET FHD
-http://939770413741767939.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/767939.ts
-
-#EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ANIMAL PLANET HD
-http://939770413741526262.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/526262.ts
-
-#EXTINF:-1 tvg-id="ardalpha.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ARD ALPHA HD
-http://939770413741636026.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/636026.ts
-
-#EXTINF:-1 tvg-id="arte.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ARTE FHD
-http://939770413741742913.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/742913.ts
-
-#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: CRIME & INVESTIGATION SD
-http://939770413741751444.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/751444.ts
-
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: DISCOVERY CHANNEL FHD
-http://939770413741751455.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/751455.ts
-
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: DISCOVERY FHD
-http://939770413741746717.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/746717.ts
-
-#EXTINF:-1 tvg-id="dmax.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: DMAX HEVC
-http://939770413741764947.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/764947.ts
-
-#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: HGTV HD
-http://939770413741751478.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/751478.ts
-
-#EXTINF:-1 tvg-id="history.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: HISTORY FHD
-http://939770413741768694.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/768694.ts
-
-#EXTINF:-1 tvg-id="history.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: HISTORY HD
-http://939770413741681847.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/681847.ts
-
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: KABEL 1 DOKU SD
-http://939770413741666479.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/666479.ts
-
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: KABEL EINS DOKU FHD
-http://939770413741751487.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/751487.ts
-
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: N-TV HD
-http://939770413741725095.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/725095.ts
-
-#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: N24 DOKU SD
-http://939770413741751507.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/751507.ts
-
-#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: NATIONAL GEOGRAPHIC FHD
-http://939770413741760293.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760293.ts
-
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: NATIONAL GEOGRAPHIC WILD FHD
-http://939770413741768696.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/768696.ts
-
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: NATIONAL GEOGRAPHIC WILD HEVC
-http://939770413741693397.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/693397.ts
-
-#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: PHOENIX HD
-http://939770413741763639.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/763639.ts
-
-#EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: PLANET FHD
-http://939770413741765217.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/765217.ts
-
-#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SKY CRIME HD
-http://939770413741760339.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760339.ts
-
-#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SKY DOCUMENTARIES FHD
-http://939770413741760341.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760341.ts
-
-#EXTINF:-1 tvg-id="skykrimi.de" tvg-logo="http://files.rednetcontent.com/chlogo2/German/Sky_Krimi_HD_DE_Logo_2017.png" group-title="DEUTSCH 4 DOKU", DE: SKY KRIMI FHD
-http://939770413741521547.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/521547.ts
-
-#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SKY NATURE HD
-http://939770413741760343.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760343.ts
-
-#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SPIEGEL GESCHICHTE HD
-http://939770413741760390.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760390.ts
-
-#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SPIEGEL TV WISSEN HD
-http://939770413741751625.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/751625.ts
-
-#EXTINF:-1 tvg-id="tlc.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: TLC SD
-http://939770413741760400.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/760400.ts
-
-#EXTINF:-1 tvg-id="weltderwunder.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: WELT DER WUNDER FHD
-http://939770413741765232.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/765232.ts
-
-#EXTINF:-1 tvg-id="welt.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: WELT HD
-http://939770413741746760.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/746760.ts
-
-#EXTINF:-1 tvg-id="zdf.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ZDF HD
-http://939770413741696004.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/696004.ts
-
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ZDF INFO HD
-http://939770413741726827.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/726827.ts
-
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ZDF NEO HD
-http://939770413741611590.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/611590.ts
 
 #EXTINF:-1 tvg-id="atv2.at" tvg-logo="http://fanc.tmsimg.com/assets/s101672_ll_h3_aa.png" group-title="DEUTSCH 4 OTHERS", AT: ATV 2 FHD
 http://939770413741736112.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/736112.ts
@@ -15968,78 +16355,6 @@ http://939770413741726827.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/726827.ts
 #EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 OTHERS", DE: ZDF NEO HD
 http://939770413741611590.ofd0120.xyz:80/play/vi826689/48GHCW4@4Mt/611590.ts
 
-#EXTINF:-1 tvg-id="bild.de" tvg-logo="https://imagizer.imageshack.com/img924/9277/Jmv96K.png" group-title="DEUTSCH 5 DOKU", DE | BILD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/270432
-
-#EXTINF:-1 tvg-id="DE: ARD-ALPHA HD" tvg-logo="noimage.png" group-title="DEUTSCH 5 DOKU", DE: ARD-ALPHA HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/421919
-
-#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-logo="https://imagizer.imageshack.com/img923/3961/YFnxBG.png" group-title="DEUTSCH 5 DOKU", DE: Crime Investigation
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96514
-
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH 5 DOKU", DE: Discovery FHD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96499
-
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH 5 DOKU", DE: Discovery HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96500
-
-#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH 5 DOKU", DE: Dmax HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96504
-
-#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH 5 DOKU", DE: Dmax HD+
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96503
-
-#EXTINF:-1 tvg-id="DE: GEO TELEVISION HD" tvg-logo="noimage.png" group-title="DEUTSCH 5 DOKU", DE: GEO TELEVISION HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/421924
-
-#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="https://imagizer.imageshack.com/img924/1241/SpQTvB.png" group-title="DEUTSCH 5 DOKU", DE: HGTV
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96507
-
-#EXTINF:-1 tvg-id="history.de" tvg-logo="https://imagizer.imageshack.com/img922/5621/ixGyU9.png" group-title="DEUTSCH 5 DOKU", DE: History FHD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96501
-
-#EXTINF:-1 tvg-id="history.de" tvg-logo="https://imagizer.imageshack.com/img922/5621/ixGyU9.png" group-title="DEUTSCH 5 DOKU", DE: History HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96502
-
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://imagizer.imageshack.com/img924/6895/gev4xt.png" group-title="DEUTSCH 5 DOKU", DE: Kabel Eins Doku FHD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96505
-
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://imagizer.imageshack.com/img923/6172/npBGww.png" group-title="DEUTSCH 5 DOKU", DE: N-tv FHD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96513
-
-#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="https://imagizer.imageshack.com/img922/4537/oo5oJX.png" group-title="DEUTSCH 5 DOKU", DE: N24 DOKU
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96511
-
-#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH 5 DOKU", DE: Nat Geo FHD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96495
-
-#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH 5 DOKU", DE: Nat Geo HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96496
-
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH 5 DOKU", DE: Nat Geo Wild FHD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96497
-
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH 5 DOKU", DE: Nat Geo Wild HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96498
-
-#EXTINF:-1 tvg-id="DE: NTV HD" tvg-logo="noimage.png" group-title="DEUTSCH 5 DOKU", DE: NTV HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/421923
-
-#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-logo="https://imagizer.imageshack.com/img922/5941/UzYJg8.png" group-title="DEUTSCH 5 DOKU", DE: Spiegel Geschichte HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96517
-
-#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-logo="https://imagizer.imageshack.com/img924/3508/xJnZPm.png" group-title="DEUTSCH 5 DOKU", DE: Spiegel TV Wissen
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96518
-
-#EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://imagizer.imageshack.com/img923/3359/zXAv8y.png" group-title="DEUTSCH 5 DOKU", DE: TLC HD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96448
-
-#EXTINF:-1 tvg-id="weltderwunder.de" tvg-logo="https://imagizer.imageshack.com/img923/2498/fijkdE.png" group-title="DEUTSCH 5 DOKU", DE: Welt der Wunder
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96516
-
-#EXTINF:-1 tvg-id="welt.de" tvg-logo="https://imagizer.imageshack.com/img923/6107/59OvlL.png" group-title="DEUTSCH 5 DOKU", DE: Welt FHD
-http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/96510
-
 #EXTINF:-1 tvg-id="AT: ATV HD" tvg-logo="noimage.png" group-title="DEUTSCH 5 OTHERS", AT: ATV HD
 http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/412605
 
@@ -17017,99 +17332,6 @@ http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/284466
 
 #EXTINF:-1 tvg-id="skysporttopevent.de" tvg-logo="https://imagizer.imageshack.com/img922/9719/ja3z4j.png" group-title="DEUTSCH 5 OTHERS", DE: Sky Sport Top Event HD+
 http://icetv.online:8080/xjfpvvWzmCVf/sqMfyXLnGSbP/284465
-
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/60f4478d63bf2836cd6be065e60c6ab4.png" group-title="DEUTSCH 6 DOKU", DE: 3sat
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242421.ts
-
-#EXTINF:-1 tvg-id="DE: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8a3416d40631ad2d244f18f3809f255c.png" group-title="DEUTSCH 6 DOKU", DE: ANIMAL PLANET
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242205.ts
-
-#EXTINF:-1 tvg-id="DE: ANIXE+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4f6b57164b9bb2a5769224e17207369.png" group-title="DEUTSCH 6 DOKU", DE: ANIXE+
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242199.ts
-
-#EXTINF:-1 tvg-id="DE: ARD Alpha" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/832d4632ab0874f179f9225429e22632.png" group-title="DEUTSCH 6 DOKU", DE: ARD Alpha
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242397.ts
-
-#EXTINF:-1 tvg-id="arte.de" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5a688cd1f8d9c6aaee8cd4bbd094497.png" group-title="DEUTSCH 6 DOKU", DE: Arte
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242419.ts
-
-#EXTINF:-1 tvg-id="DE: bergblick" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c23bf82567280b3cbfa3f5d2a32dc5fd.png" group-title="DEUTSCH 6 DOKU", DE: bergblick
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242206.ts
-
-#EXTINF:-1 tvg-id="DE: Bon Gusto" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3c97f2b1e0dfc980ecd9e928710ccdbe.png" group-title="DEUTSCH 6 DOKU", DE: Bon Gusto
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242198.ts
-
-#EXTINF:-1 tvg-id="DE: Crime+ Investigation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1e6d7e1968524d60a190f8d44a2df9dc.png" group-title="DEUTSCH 6 DOKU", DE: Crime+ Investigation
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242249.ts
-
-#EXTINF:-1 tvg-id="DE: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b59daee919a2ee113b40f9b24de2dbf.png" group-title="DEUTSCH 6 DOKU", DE: Discovery World
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242197.ts
-
-#EXTINF:-1 tvg-id="DE: Disney+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e3a910620967cfcc35c6f1a34b1cec42.png" group-title="DEUTSCH 6 DOKU", DE: Disney+
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242195.ts
-
-#EXTINF:-1 tvg-id="DE: DMAX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3787cdd95740aba077bab2663e9ffc0f.png" group-title="DEUTSCH 6 DOKU", DE: DMAX
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242196.ts
-
-#EXTINF:-1 tvg-id="DE: Geo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a970020b74eb6222254ec1b380e8f69f.png" group-title="DEUTSCH 6 DOKU", DE: Geo TV
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242448.ts
-
-#EXTINF:-1 tvg-id="DE: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dc7be151c538427f9a7133a439c920ea.png" group-title="DEUTSCH 6 DOKU", DE: HGTV
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242451.ts
-
-#EXTINF:-1 tvg-id="DE: History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/12130227dd9613bf9b7854425506d572.png" group-title="DEUTSCH 6 DOKU", DE: History
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242194.ts
-
-#EXTINF:-1 tvg-id="DE: Kabel Eins Doku" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="DEUTSCH 6 DOKU", DE: Kabel Eins Doku
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242416.ts
-
-#EXTINF:-1 tvg-id="DE: Kultur MD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/94d467fd9738a7cb7f3381a6b11f14ba.png" group-title="DEUTSCH 6 DOKU", DE: Kultur MD
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242192.ts
-
-#EXTINF:-1 tvg-id="DE: Kultur MD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/94d467fd9738a7cb7f3381a6b11f14ba.png" group-title="DEUTSCH 6 DOKU", DE: Kultur MD
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242193.ts
-
-#EXTINF:-1 tvg-id="DE: N24 Doku" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c5b96d08b092c4bb4d477822e94734b4.png" group-title="DEUTSCH 6 DOKU", DE: N24 Doku
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242191.ts
-
-#EXTINF:-1 tvg-id="DE: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fda277026dd8335ac1b6a11449b61647.png" group-title="DEUTSCH 6 DOKU", DE: NAT GEO
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242203.ts
-
-#EXTINF:-1 tvg-id="DE: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c344750df844e52566025f42daf2f813.png" group-title="DEUTSCH 6 DOKU", DE: NAT GEO Wild
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242204.ts
-
-#EXTINF:-1 tvg-id="DE: Sky Documentaries" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0b02c2eeecd6f6c5722d40f8ff70f6c7.png" group-title="DEUTSCH 6 DOKU", DE: Sky Documentaries
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242208.ts
-
-#EXTINF:-1 tvg-id="DE: Sky Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dbfd4a1361e27a67aaa7b3a64781850c.png" group-title="DEUTSCH 6 DOKU", DE: Sky Nature
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242207.ts
-
-#EXTINF:-1 tvg-id="DE: Spiegel Geschichte" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/784f890f04a5d004128b527fb3b66f09.png" group-title="DEUTSCH 6 DOKU", DE: Spiegel Geschichte
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242201.ts
-
-#EXTINF:-1 tvg-id="DE: Spiegel TV Wissen" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/99327f657d95212ff8ca347f73f7eab0.png" group-title="DEUTSCH 6 DOKU", DE: Spiegel TV Wissen
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242522.ts
-
-#EXTINF:-1 tvg-id="DE: SWR Fernsehen" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ba34a2aaffa62156c0d73b894b8818d4.png" group-title="DEUTSCH 6 DOKU", DE: SWR Fernsehen
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242202.ts
-
-#EXTINF:-1 tvg-id="DE: TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/234d55ac82eafc838dc49835335c82a7.jfif" group-title="DEUTSCH 6 DOKU", DE: TLC
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242529.ts
-
-#EXTINF:-1 tvg-id="DE: Welt" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/466a05dca5843cf9c8a74a457af829a4.png" group-title="DEUTSCH 6 DOKU", DE: Welt
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242234.ts
-
-#EXTINF:-1 tvg-id="DE: Welt der Wunder TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/834de0d76be26d5220d27629a30e02f8.png" group-title="DEUTSCH 6 DOKU", DE: Welt der Wunder TV
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242539.ts
-
-#EXTINF:-1 tvg-id="DE: ZDF" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" group-title="DEUTSCH 6 DOKU", DE: ZDF
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242399.ts
-
-#EXTINF:-1 tvg-id="DE: ZDF Info" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" group-title="DEUTSCH 6 DOKU", DE: ZDF Info
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242400.ts
-
-#EXTINF:-1 tvg-id="DE: ZDF Neo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" group-title="DEUTSCH 6 DOKU", DE: ZDF Neo
-http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242401.ts
 
 #EXTINF:-1 tvg-id="AT: ATV" tvg-logo="noimage.png" group-title="DEUTSCH 6 OTHERS", AT: ATV
 http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/238674.ts
@@ -18395,90 +18617,6 @@ http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242225.ts
 #EXTINF:-1 tvg-id="DE: Welt" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/466a05dca5843cf9c8a74a457af829a4.png" group-title="DEUTSCH 6 OTHERS", DE: Welt
 http://ipkalite.xyz:80/live/fatih.polis/14.2.2023/242234.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", AT: 3 SAT FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/186147.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: ARD Alpha
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182589.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: ARTE HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182592.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Crime+ Investigation HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182649.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Discovery Channel FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182660.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: DMAX FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182666.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: DOKU N24 HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183070.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: HGTV HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/2422152.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: History HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182912.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Kabel 1 DOKU FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182738.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: N-TV FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182792.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: N24 FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182794.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: NAT GEO FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182795.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: NAT GEO Wild FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182796.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Phoenix HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182820.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: PLANET FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182821.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Sky Krimi FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/182916.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: SPIEGEL GESCHICHTE
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/2107292.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Spiegel Geschichte HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183000.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: SPIEGEL TV WISSEN HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183001.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: SWR BW
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183012.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: SWR HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183014.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: TLC FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183036.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Welt der Wunder TV
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183068.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: WELT FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183069.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: ZDF FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183073.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: ZDF Info HD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183074.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: ZDF neo FHD
-http://ky-iptv.com:80/bkyungguru@pr/4600095044/183075.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 OTHERS", AT: 3 SAT FHD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/186147.ts
 
@@ -19234,90 +19372,6 @@ http://ky-iptv.com:80/bkyungguru@pr/4600095044/183074.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 7 OTHERS", DE: ZDF neo FHD
 http://ky-iptv.com:80/bkyungguru@pr/4600095044/183075.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE003:3 SAT
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2680
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE004:ANIMAL PLANET
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2679
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE006:ARD ALPHA
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2677
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE008:ARTE
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2675
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE031:DISCOVERY CHANNEL
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2652
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE037:DMAX
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2646
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE048:GEO TELEVISION
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2635
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE051:HGTV
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2632
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE052:HISTORY CHANNEL
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2631
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE057:KABEL 1 DOKU
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/2626
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE091:NTV HEVC
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29193
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE092:N-TV
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29192
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE093:N24 DOKU
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29191
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE094:NAT GEO
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29190
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE095:NAT GEO WILD
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29189
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE110:PHOENIX
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29174
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE112:PLANET
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29172
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE162:SKY KRIMI
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29121
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE163:SKY NATURE
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29120
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE217:SPIEGEL GESCHICHTE
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29065
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE218:SPIEGEL WISSEN
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29064
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE227:SWR
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29055
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE238:TLC
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29044
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE253:WELT
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29029
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE254:WELT DER WUNDER
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29028
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE256:ZDF
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29026
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE257:ZDF INFO
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29025
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 DOKU", DE258:ZDF NEO
-http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29024
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 OTHERS", AT001:4+
 http://newlife3.wanicelife.com:8880/12mmk010141/56183996/60485
@@ -20275,60 +20329,6 @@ http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29023
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DEUTSCH 8 OTHERS", DE260:RTL 2
 http://newlife3.wanicelife.com:8880/12mmk010141/56183996/29022
-
-#EXTINF:-1 tvg-id="DE: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8a3416d40631ad2d244f18f3809f255c.png" group-title="DEUTSCH 9 DOKU", DE: ANIMAL PLANET
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242205.m3u8
-
-#EXTINF:-1 tvg-id="DE: ANIXE+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4f6b57164b9bb2a5769224e17207369.png" group-title="DEUTSCH 9 DOKU", DE: ANIXE+
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242199.m3u8
-
-#EXTINF:-1 tvg-id="DE: bergblick" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c23bf82567280b3cbfa3f5d2a32dc5fd.png" group-title="DEUTSCH 9 DOKU", DE: bergblick
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242206.m3u8
-
-#EXTINF:-1 tvg-id="DE: Bon Gusto" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3c97f2b1e0dfc980ecd9e928710ccdbe.png" group-title="DEUTSCH 9 DOKU", DE: Bon Gusto
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242198.m3u8
-
-#EXTINF:-1 tvg-id="DE: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b59daee919a2ee113b40f9b24de2dbf.png" group-title="DEUTSCH 9 DOKU", DE: Discovery World
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242197.m3u8
-
-#EXTINF:-1 tvg-id="DE: Disney+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e3a910620967cfcc35c6f1a34b1cec42.png" group-title="DEUTSCH 9 DOKU", DE: Disney+
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242195.m3u8
-
-#EXTINF:-1 tvg-id="DE: DMAX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3787cdd95740aba077bab2663e9ffc0f.png" group-title="DEUTSCH 9 DOKU", DE: DMAX
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242196.m3u8
-
-#EXTINF:-1 tvg-id="DE: E!" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e243dcf36410048af7727bb85fdb70e4.png" group-title="DEUTSCH 9 DOKU", DE: E!
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242200.m3u8
-
-#EXTINF:-1 tvg-id="DE: History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/12130227dd9613bf9b7854425506d572.png" group-title="DEUTSCH 9 DOKU", DE: History
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242194.m3u8
-
-#EXTINF:-1 tvg-id="DE: Kultur MD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/94d467fd9738a7cb7f3381a6b11f14ba.png" group-title="DEUTSCH 9 DOKU", DE: Kultur MD
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242192.m3u8
-
-#EXTINF:-1 tvg-id="DE: Kultur MD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/94d467fd9738a7cb7f3381a6b11f14ba.png" group-title="DEUTSCH 9 DOKU", DE: Kultur MD
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242193.m3u8
-
-#EXTINF:-1 tvg-id="DE: N24 Doku" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c5b96d08b092c4bb4d477822e94734b4.png" group-title="DEUTSCH 9 DOKU", DE: N24 Doku
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242191.m3u8
-
-#EXTINF:-1 tvg-id="DE: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fda277026dd8335ac1b6a11449b61647.png" group-title="DEUTSCH 9 DOKU", DE: NAT GEO
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242203.m3u8
-
-#EXTINF:-1 tvg-id="DE: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c344750df844e52566025f42daf2f813.png" group-title="DEUTSCH 9 DOKU", DE: NAT GEO Wild
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242204.m3u8
-
-#EXTINF:-1 tvg-id="DE: Sky Documentaries" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0b02c2eeecd6f6c5722d40f8ff70f6c7.png" group-title="DEUTSCH 9 DOKU", DE: Sky Documentaries
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242208.m3u8
-
-#EXTINF:-1 tvg-id="DE: Sky Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dbfd4a1361e27a67aaa7b3a64781850c.png" group-title="DEUTSCH 9 DOKU", DE: Sky Nature
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242207.m3u8
-
-#EXTINF:-1 tvg-id="DE: Spiegel Geschichte" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/784f890f04a5d004128b527fb3b66f09.png" group-title="DEUTSCH 9 DOKU", DE: Spiegel Geschichte
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242201.m3u8
-
-#EXTINF:-1 tvg-id="DE: SWR Fernsehen" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ba34a2aaffa62156c0d73b894b8818d4.png" group-title="DEUTSCH 9 DOKU", DE: SWR Fernsehen
-http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/242202.m3u8
 
 #EXTINF:-1 tvg-id="AT: ATV" tvg-logo="noimage.png" group-title="DEUTSCH 9 OTHERS", AT: ATV
 http://rs.56484153.xyz:80/live/mertnl/SbHwRXyRux/238674.m3u8
