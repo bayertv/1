@@ -2,104 +2,131 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61951f4c866ac31a807822e8" group-title="BAYER TV TR1", KRT TV
 http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", CNN TURK HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="BAYER TV TR1", 24 TV HD
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" group-title="BAYER TV TR1", BLOOMBERG HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="BAYER TV TR1", CNN TURK HD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="BAYER TV TR1", DHA Canlı 1
+http://stream.tvcdn.net/haber/dha-canli-1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="BAYER TV TR1", DHA Canlı 2
+http://stream.tvcdn.net/haber/dha-canli-2.m3u8
+
+#EXTINF:-1 tvg-id="FlashTV.tr" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="BAYER TV TR1", FLASH HABER
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="BAYER TV TR1", HABERTÜRK
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", HALK TV
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="BAYER TV TR1", HABER GLOBAL
+https://haberglobal.blutv.com/blutv_haberglobal2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="BAYER TV TR1", HALK TV
 https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", NTV HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="BAYER TV TR1", NTV HD
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", SÖZCÜ TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="BAYER TV TR1", SÖZCÜ TV
 https://szctv.blutv.com/blutv_szctv/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TELE 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="BAYER TV TR1", TBMM TV
+http://stream.tvcdn.net/haber/tbmm-tv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="BAYER TV TR1", TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="BAYER TV TR1", TGRT HABER HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="BAYER TV TR1", TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png" group-title="BAYER TV TR1", TURK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="BAYER TV TR1", TV 100
+https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="BAYER TV TR1", TVNET
+http://stream.tvcdn.net/haber/tvnet.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="BAYER TV TR1", ULUSAL KANAL
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/85/index.m3u8
+
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="BAYER TV TR1", Ülke TV
+http://stream.tvcdn.net/haber/ulke-tv.m3u8
+
+#EXTINF:-1 tvg-id="YOLTV.de" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="BAYER TV TR1", Yol TV
+http://stream.tvcdn.net/haber/yol-tv.m3u8
+
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="BAYER TV TR1", a2
+http://stream.tvcdn.net/eglence/a2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="BAYER TV TR1", ATV
 http://stream.tvcdn.net/ulusal/atv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EURO D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="BAYER TV TR1", ATV AVRUPA
+https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", FOX TV FHD
-https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="BAYER TV TR1", DMAX
+http://stream.tvcdn.net/eglence/dmax.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", FOX TV HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/8eb0d399-57c3-460f-99fd-609e9652d8aa.png" group-title="BAYER TV TR1", FOX TV HD
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL 7 AVRUPA FHD
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL 7 FHD
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL 7 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="BAYER TV TR1", KANAL 7 HD
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL D FHD
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="BAYER TV TR1", KANAL 7 AVRUPA
+http://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL D HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="BAYER TV TR1", KANAL D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", SHOW TV FHD
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="BAYER TV TR1", EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", SHOW TV HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="BAYER TV TR1", SHOW TV HD
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", SHOW T�RK
-https://showturk.blutv.com/blutv_showturk2/live.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png" group-title="BAYER TV TR1", SHOW TURK
+https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", STAR TV HD
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="BAYER TV TR1", Show Max
+http://stream.tvcdn.net/eglence/show-max.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="BAYER TV TR1", STAR TV
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TEVE 2 FHD
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="BAYER TV TR1", EUROSTAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TEVE 2 FHD YEDEK
-https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/34/index.m3u8
+#EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="BAYER TV TR1", EUROSTAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="BAYER TV TR1", teve2
+http://stream.tvcdn.net/eglence/teve2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TLC HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TV 8 FHD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="BAYER TV TR1", TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TV 8.5 FHD
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:-1 tvg-id="TV8International.tr" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="BAYER TV TR1", TV 8 INT
+https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", 24 TV HD
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", 360 TV HD
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", 360 TV HD YEDEK
-https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", A HABER
-http://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", A HABER
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", A SPOR
-http://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", AFYON T�RK
-https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", AGRO TV
-https://yayin30.haber100.com/live/agrotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", AKiT TV HD
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="BAYER TV TR1", TV8.5
+http://stream.tvcdn.net/eglence/tv8-5.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", AMED TV DiYARBAKIR
 http://live.amedradyotv.net:2020/hls/ferat.m3u8
@@ -158,7 +185,7 @@ https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", DREAM TURK HD
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", D�ZG�N TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EBA iLKOKUL
@@ -185,6 +212,9 @@ https://yayin30.haber100.com/live/sehirekrani/chunklist_w1128481069.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EURO 90 CHANNEL
 https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EZO TV
 https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
 
@@ -196,6 +226,9 @@ http://media.finest.tv/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", FLASH HABER HD
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", FOX TV FHD
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
@@ -221,11 +254,20 @@ http://new.cache-stream.workers.dev/stream/UCVebw64Db0yhrPkVk-D8F6w/live.m3u8?ap
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL 56
 https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL 7 AVRUPA FHD
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL 7 FHD
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL AVRUPA FHD
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL B
 https://kanalb.blutv.com/blutv_kanalb2/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL D FHD
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL GiRESUN
 https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
@@ -257,6 +299,12 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", ORDU BEL TV
 https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", SHOW TV FHD
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", SHOW TÜRK
+https://showturk.blutv.com/blutv_showturk2/live.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", SILA TV
 https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
 
@@ -272,6 +320,12 @@ https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TEVE 2 FHD
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TEVE 2 FHD YEDEK
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/34/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TiViTURK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
@@ -283,9 +337,6 @@ https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TRT 1 FHD YEDEK
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TRT 1 HD YEDEK
 https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
@@ -335,6 +386,9 @@ http://stream.taksimbilisim.com:1935/tv1/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TV 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TV 8.5 FHD
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TV 90
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
@@ -346,9 +400,6 @@ https://tv4.blutv.com/blutv_tv4/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", ULKE TV HD
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", ULUSAL KANAL
-https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/85/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", VAN GOLU TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
@@ -5555,6 +5606,129 @@ http://plus7545rs.xyz:80/live/Memo@almn/23eylul@2022/242400.ts
 #EXTINF:-1 tvg-id="DE: ZDF Neo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" group-title="DEUTSCH  6 DOKU", DE: ZDF Neo
 http://plus7545rs.xyz:80/live/Memo@almn/23eylul@2022/242401.ts
 
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://imagizer.imageshack.com/img924/1268/MBDOgn.png" group-title="DEUTSCH 7 DOKU", DE: 3 sat HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96381
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://imagizer.imageshack.com/img924/1268/MBDOgn.png" group-title="DEUTSCH 7 DOKU", DE: 3 sat HEVC
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413555
+
+#EXTINF:-1 tvg-id="DE: ARD-ALPHA HD" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: ARD-ALPHA HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/421919
+
+#EXTINF:-1 tvg-id="arte.de" tvg-logo="https://imagizer.imageshack.com/img922/6632/Rjz9uU.png" group-title="DEUTSCH 7 DOKU", DE: arte HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96435
+
+#EXTINF:-1 tvg-id="arte.de" tvg-logo="https://imagizer.imageshack.com/img922/6632/Rjz9uU.png" group-title="DEUTSCH 7 DOKU", DE: arte HEVC
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413563
+
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-logo="https://imagizer.imageshack.com/img923/3961/YFnxBG.png" group-title="DEUTSCH 7 DOKU", DE: Crime Investigation
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96514
+
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH 7 DOKU", DE: Discovery FHD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96499
+
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH 7 DOKU", DE: Discovery HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96500
+
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH 7 DOKU", DE: Dmax HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96504
+
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH 7 DOKU", DE: Dmax HD+
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96503
+
+#EXTINF:-1 tvg-id="DE: GEO TELEVISION HD" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: GEO TELEVISION HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/421924
+
+#EXTINF:-1 tvg-id="DE: GERMANY BOX DOCUMENTARY" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: GERMANY BOX DOCUMENTARY
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/425956
+
+#EXTINF:-1 tvg-id="DE: GERMANY BOX SCIENCE" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: GERMANY BOX SCIENCE
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/425960
+
+#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="https://imagizer.imageshack.com/img924/1241/SpQTvB.png" group-title="DEUTSCH 7 DOKU", DE: HGTV
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96507
+
+#EXTINF:-1 tvg-id="history.de" tvg-logo="https://imagizer.imageshack.com/img922/5621/ixGyU9.png" group-title="DEUTSCH 7 DOKU", DE: History FHD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96501
+
+#EXTINF:-1 tvg-id="history.de" tvg-logo="https://imagizer.imageshack.com/img922/5621/ixGyU9.png" group-title="DEUTSCH 7 DOKU", DE: History HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96502
+
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://imagizer.imageshack.com/img924/6895/gev4xt.png" group-title="DEUTSCH 7 DOKU", DE: Kabel Eins Doku FHD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96505
+
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://imagizer.imageshack.com/img923/6172/npBGww.png" group-title="DEUTSCH 7 DOKU", DE: N-tv FHD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96513
+
+#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="https://imagizer.imageshack.com/img922/4537/oo5oJX.png" group-title="DEUTSCH 7 DOKU", DE: N24 DOKU
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96511
+
+#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH 7 DOKU", DE: Nat Geo FHD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96495
+
+#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH 7 DOKU", DE: Nat Geo HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96496
+
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH 7 DOKU", DE: Nat Geo Wild FHD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96497
+
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH 7 DOKU", DE: Nat Geo Wild HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96498
+
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://imagizer.imageshack.com/img923/8954/7TGMy2.png" group-title="DEUTSCH 7 DOKU", DE: Phoenix
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96441
+
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://imagizer.imageshack.com/img923/8954/7TGMy2.png" group-title="DEUTSCH 7 DOKU", DE: Phoenix
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413568
+
+#EXTINF:-1 tvg-id="DE: Sky Krimi FHD" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Sky Krimi FHD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/412058
+
+#EXTINF:-1 tvg-id="DE: Sky Krimi HD" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Sky Krimi HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/412057
+
+#EXTINF:-1 tvg-id="DE: Sky Nature HD" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Sky Nature HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/412059
+
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-logo="https://imagizer.imageshack.com/img922/5941/UzYJg8.png" group-title="DEUTSCH 7 DOKU", DE: Spiegel Geschichte HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96517
+
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-logo="https://imagizer.imageshack.com/img924/3508/xJnZPm.png" group-title="DEUTSCH 7 DOKU", DE: Spiegel TV Wissen
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96518
+
+#EXTINF:-1 tvg-id="swrsr.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png" group-title="DEUTSCH 7 DOKU", DE: SWR BW HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96445
+
+#EXTINF:-1 tvg-id="swrsr.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png" group-title="DEUTSCH 7 DOKU", DE: SWR BW HEVC
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413571
+
+#EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://imagizer.imageshack.com/img923/3359/zXAv8y.png" group-title="DEUTSCH 7 DOKU", DE: TLC HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96448
+
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-logo="https://imagizer.imageshack.com/img923/2498/fijkdE.png" group-title="DEUTSCH 7 DOKU", DE: Welt der Wunder
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96516
+
+#EXTINF:-1 tvg-id="welt.de" tvg-logo="https://imagizer.imageshack.com/img923/6107/59OvlL.png" group-title="DEUTSCH 7 DOKU", DE: Welt FHD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96510
+
+#EXTINF:-1 tvg-id="zdf.de" tvg-logo="https://imagizer.imageshack.com/img922/5704/vv94QR.png" group-title="DEUTSCH 7 DOKU", DE: ZDF HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96371
+
+#EXTINF:-1 tvg-id="zdf.de" tvg-logo="https://imagizer.imageshack.com/img922/5704/vv94QR.png" group-title="DEUTSCH 7 DOKU", DE: ZDF HEVC
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413534
+
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="https://imagizer.imageshack.com/img923/2205/y5snEe.png" group-title="DEUTSCH 7 DOKU", DE: ZDFinfo HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96372
+
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="https://imagizer.imageshack.com/img923/2205/y5snEe.png" group-title="DEUTSCH 7 DOKU", DE: ZDFinfo HEVC
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413548
+
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="https://imagizer.imageshack.com/img922/9356/63qsjG.png" group-title="DEUTSCH 7 DOKU", DE: ZDFneo HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96373
+
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="https://imagizer.imageshack.com/img922/9356/63qsjG.png" group-title="DEUTSCH 7 DOKU", DE: ZDFneo HEVC
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413549
+
 #EXTINF:-1 tvg-id="AT: ATV" tvg-logo="noimage.png" group-title="DEUTSCH 6 OTHERS", AT: ATV
 http://plus7545rs.xyz:80/live/Memo@almn/23eylul@2022/238674.ts
 
@@ -6790,129 +6964,6 @@ http://plus7545rs.xyz:80/live/Memo@almn/23eylul@2022/242288.ts
 
 #EXTINF:-1 tvg-id="DE: Wedo movies" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DEUTSCH 6 OTHERS", DE: Wedo movies
 http://plus7545rs.xyz:80/live/Memo@almn/23eylul@2022/242289.ts
-
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://imagizer.imageshack.com/img924/1268/MBDOgn.png" group-title="DEUTSCH 7 DOKU", DE: 3 sat HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96381
-
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://imagizer.imageshack.com/img924/1268/MBDOgn.png" group-title="DEUTSCH 7 DOKU", DE: 3 sat HEVC
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413555
-
-#EXTINF:-1 tvg-id="DE: ARD-ALPHA HD" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: ARD-ALPHA HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/421919
-
-#EXTINF:-1 tvg-id="arte.de" tvg-logo="https://imagizer.imageshack.com/img922/6632/Rjz9uU.png" group-title="DEUTSCH 7 DOKU", DE: arte HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96435
-
-#EXTINF:-1 tvg-id="arte.de" tvg-logo="https://imagizer.imageshack.com/img922/6632/Rjz9uU.png" group-title="DEUTSCH 7 DOKU", DE: arte HEVC
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413563
-
-#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-logo="https://imagizer.imageshack.com/img923/3961/YFnxBG.png" group-title="DEUTSCH 7 DOKU", DE: Crime Investigation
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96514
-
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH 7 DOKU", DE: Discovery FHD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96499
-
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="https://imagizer.imageshack.com/img924/6470/U4dy6Y.png" group-title="DEUTSCH 7 DOKU", DE: Discovery HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96500
-
-#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH 7 DOKU", DE: Dmax HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96504
-
-#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://imagizer.imageshack.com/img923/310/AzEOb2.png" group-title="DEUTSCH 7 DOKU", DE: Dmax HD+
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96503
-
-#EXTINF:-1 tvg-id="DE: GEO TELEVISION HD" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: GEO TELEVISION HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/421924
-
-#EXTINF:-1 tvg-id="DE: GERMANY BOX DOCUMENTARY" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: GERMANY BOX DOCUMENTARY
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/425956
-
-#EXTINF:-1 tvg-id="DE: GERMANY BOX SCIENCE" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: GERMANY BOX SCIENCE
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/425960
-
-#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="https://imagizer.imageshack.com/img924/1241/SpQTvB.png" group-title="DEUTSCH 7 DOKU", DE: HGTV
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96507
-
-#EXTINF:-1 tvg-id="history.de" tvg-logo="https://imagizer.imageshack.com/img922/5621/ixGyU9.png" group-title="DEUTSCH 7 DOKU", DE: History FHD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96501
-
-#EXTINF:-1 tvg-id="history.de" tvg-logo="https://imagizer.imageshack.com/img922/5621/ixGyU9.png" group-title="DEUTSCH 7 DOKU", DE: History HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96502
-
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://imagizer.imageshack.com/img924/6895/gev4xt.png" group-title="DEUTSCH 7 DOKU", DE: Kabel Eins Doku FHD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96505
-
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://imagizer.imageshack.com/img923/6172/npBGww.png" group-title="DEUTSCH 7 DOKU", DE: N-tv FHD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96513
-
-#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="https://imagizer.imageshack.com/img922/4537/oo5oJX.png" group-title="DEUTSCH 7 DOKU", DE: N24 DOKU
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96511
-
-#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH 7 DOKU", DE: Nat Geo FHD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96495
-
-#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="https://imagizer.imageshack.com/img924/9811/GbEJUH.png" group-title="DEUTSCH 7 DOKU", DE: Nat Geo HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96496
-
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH 7 DOKU", DE: Nat Geo Wild FHD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96497
-
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH 7 DOKU", DE: Nat Geo Wild HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96498
-
-#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://imagizer.imageshack.com/img923/8954/7TGMy2.png" group-title="DEUTSCH 7 DOKU", DE: Phoenix
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96441
-
-#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://imagizer.imageshack.com/img923/8954/7TGMy2.png" group-title="DEUTSCH 7 DOKU", DE: Phoenix
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413568
-
-#EXTINF:-1 tvg-id="DE: Sky Krimi FHD" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Sky Krimi FHD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/412058
-
-#EXTINF:-1 tvg-id="DE: Sky Krimi HD" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Sky Krimi HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/412057
-
-#EXTINF:-1 tvg-id="DE: Sky Nature HD" tvg-logo="noimage.png" group-title="DEUTSCH 7 DOKU", DE: Sky Nature HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/412059
-
-#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-logo="https://imagizer.imageshack.com/img922/5941/UzYJg8.png" group-title="DEUTSCH 7 DOKU", DE: Spiegel Geschichte HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96517
-
-#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-logo="https://imagizer.imageshack.com/img924/3508/xJnZPm.png" group-title="DEUTSCH 7 DOKU", DE: Spiegel TV Wissen
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96518
-
-#EXTINF:-1 tvg-id="swrsr.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png" group-title="DEUTSCH 7 DOKU", DE: SWR BW HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96445
-
-#EXTINF:-1 tvg-id="swrsr.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png" group-title="DEUTSCH 7 DOKU", DE: SWR BW HEVC
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413571
-
-#EXTINF:-1 tvg-id="tlc.de" tvg-logo="https://imagizer.imageshack.com/img923/3359/zXAv8y.png" group-title="DEUTSCH 7 DOKU", DE: TLC HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96448
-
-#EXTINF:-1 tvg-id="weltderwunder.de" tvg-logo="https://imagizer.imageshack.com/img923/2498/fijkdE.png" group-title="DEUTSCH 7 DOKU", DE: Welt der Wunder
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96516
-
-#EXTINF:-1 tvg-id="welt.de" tvg-logo="https://imagizer.imageshack.com/img923/6107/59OvlL.png" group-title="DEUTSCH 7 DOKU", DE: Welt FHD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96510
-
-#EXTINF:-1 tvg-id="zdf.de" tvg-logo="https://imagizer.imageshack.com/img922/5704/vv94QR.png" group-title="DEUTSCH 7 DOKU", DE: ZDF HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96371
-
-#EXTINF:-1 tvg-id="zdf.de" tvg-logo="https://imagizer.imageshack.com/img922/5704/vv94QR.png" group-title="DEUTSCH 7 DOKU", DE: ZDF HEVC
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413534
-
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="https://imagizer.imageshack.com/img923/2205/y5snEe.png" group-title="DEUTSCH 7 DOKU", DE: ZDFinfo HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96372
-
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="https://imagizer.imageshack.com/img923/2205/y5snEe.png" group-title="DEUTSCH 7 DOKU", DE: ZDFinfo HEVC
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413548
-
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="https://imagizer.imageshack.com/img922/9356/63qsjG.png" group-title="DEUTSCH 7 DOKU", DE: ZDFneo HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96373
-
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="https://imagizer.imageshack.com/img922/9356/63qsjG.png" group-title="DEUTSCH 7 DOKU", DE: ZDFneo HEVC
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413549
 
 #EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="https://imagizer.imageshack.com/img924/6679/8JIwGs.png" group-title="DEUTSCH 7 OTHERS", DE: Nat Geo Wild FHD
 http://103.161.34.2:8080/Alemfn/8weUUEEtwy/96497
@@ -11483,6 +11534,108 @@ http://plus7545rs.xyz:80/live/Memo@almn/23eylul@2022/102462.ts
 #EXTINF:-1 tvg-id="Yaban Tv Hd" tvg-logo="https://kanallogo2.com/images/belgesel/yaban-tv.png" group-title="BAYER TV 6 TR BELGESEL", Yaban Tv Hd
 http://plus7545rs.xyz:80/live/Memo@almn/23eylul@2022/120750.ts
 
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="https://imagizer.imageshack.com/img924/5792/w7Z43l.png" group-title="BAYER TV TR7 BELGESEL", TR: Animal Planet HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/374325
+
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="BAYER TV TR7 BELGESEL", TR: BBC Earth HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/374326
+
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://http://logo.bosstv.live/Logo/TR/BELGESEL/HD/BBC.EARTH.png" group-title="BAYER TV TR7 BELGESEL", TR: BBC Earth HD+
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243198
+
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="https://imagizer.imageshack.com/img924/7783/uqZnwv.png" group-title="BAYER TV TR7 BELGESEL", TR: beIN IZ HD+
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243201
+
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="BAYER TV TR7 BELGESEL", TR: DISCOVERY CHANNEL HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243203
+
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="BAYER TV TR7 BELGESEL", TR: DISCOVERY CHANNEL HD+
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243202
+
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.ID.png" group-title="BAYER TV TR7 BELGESEL", TR: DISCOVERY IDX
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243204
+
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.IDX.png" group-title="BAYER TV TR7 BELGESEL", TR: DISCOVERY IDX HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243205
+
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="https://imagizer.imageshack.com/img923/8707/A5PJiA.png" group-title="BAYER TV TR7 BELGESEL", TR: DISCOVERY SCIENCE FHD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/259820
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="BAYER TV TR7 BELGESEL", TR: DMAX HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243217
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="BAYER TV TR7 BELGESEL", TR: DMAX HD+
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243216
+
+#EXTINF:-1 tvg-id="TR: DMAX HEVC" tvg-logo="https://static.epg.best/it/DMAX.it.png" group-title="BAYER TV TR7 BELGESEL", TR: DMAX HEVC
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/371828
+
+#EXTINF:-1 tvg-id="docubox.tr" tvg-logo="https://imagizer.imageshack.com/img922/3328/OzEnhL.png" group-title="BAYER TV TR7 BELGESEL", TR: DOCUBOX HD+
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243210
+
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/2494/TJumUL.png" group-title="BAYER TV TR7 BELGESEL", TR: History FHD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243209
+
+#EXTINF:-1 tvg-id="TR: KOY TV" tvg-logo="noimage.png" group-title="BAYER TV TR7 BELGESEL", TR: KOY TV
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413078
+
+#EXTINF:-1 tvg-id="TR: KÖY TV" tvg-logo="https://imagizer.imageshack.com/img924/4149/fgdaHp.png" group-title="BAYER TV TR7 BELGESEL", TR: KÖY TV
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/374330
+
+#EXTINF:-1 tvg-id="TR: LOVE NATURE HD+" tvg-logo="https://imagizer.imageshack.com/img923/7798/YecNuV.png" group-title="BAYER TV TR7 BELGESEL", TR: LOVE NATURE HD+
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243213
+
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://imagizer.imageshack.com/img922/6835/sjXSTE.png" group-title="BAYER TV TR7 BELGESEL", TR: Nat Geo Wild HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243221
+
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="BAYER TV TR7 BELGESEL", TR: National Geographic HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243219
+
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="BAYER TV TR7 BELGESEL", TR: National Geographic HD+
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243218
+
+#EXTINF:-1 tvg-id="TR: TARIH TV HD" tvg-logo="noimage.png" group-title="BAYER TV TR7 BELGESEL", TR: TARIH TV HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/421982
+
+#EXTINF:-1 tvg-id="TR: TARIM TV" tvg-logo="noimage.png" group-title="BAYER TV TR7 BELGESEL", TR: TARIM TV
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/374329
+
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://imagizer.imageshack.com/img924/4360/bCtOv4.png" group-title="BAYER TV TR7 BELGESEL", TR: TGRT BELGESEL
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243212
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="BAYER TV TR7 BELGESEL", TR: TLC TV HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/374324
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="BAYER TV TR7 BELGESEL", TR: TLC TV HD+
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243194
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV TR7 BELGESEL", TR: TRT Belgesel HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243223
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV TR7 BELGESEL", TR: TRT BELGESEL HD+
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243222
+
+#EXTINF:-1 tvg-id="TR: TRT BELGESEL HEVC" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV TR7 BELGESEL", TR: TRT BELGESEL HEVC
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/371830
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV TR7 BELGESEL", TR: TRT BELGESEL RAW
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/371853
+
+#EXTINF:-1 tvg-id="TR: ViASAT EXPLORER" tvg-logo="noimage.png" group-title="BAYER TV TR7 BELGESEL", TR: ViASAT EXPLORER
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/416422
+
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="BAYER TV TR7 BELGESEL", TR: VIASAT HISTORY HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243207
+
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="BAYER TV TR7 BELGESEL", TR: ViASAT HiSTORY HD+
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243206
+
+#EXTINF:-1 tvg-id="TR: VIASAT HISTORY HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="BAYER TV TR7 BELGESEL", TR: VIASAT HISTORY HEVC
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/371829
+
+#EXTINF:-1 tvg-id="TR: VIASAT NATURE HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/VIASAT.NATURE.png" group-title="BAYER TV TR7 BELGESEL", TR: VIASAT NATURE HD
+http://103.161.34.2:8080/Alemfn/8weUUEEtwy/226120
+
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://kanallogo2.com/images/ulusal/360.png" group-title="BAYER TV 6 TR OTHERS", 360 Hd
 http://plus7545rs.xyz:80/live/Memo@almn/23eylul@2022/8205.ts
 
@@ -12841,108 +12994,6 @@ http://plus7545rs.xyz:80/live/Memo@almn/23eylul@2022/181569.ts
 
 #EXTINF:-1 tvg-id="Zeki Metin Tv" tvg-logo="https://kanallogo2.com/images/sinema/zeki-metin.png" group-title="BAYER TV 6 TR OTHERS", Zeki Metin Tv
 http://plus7545rs.xyz:80/live/Memo@almn/23eylul@2022/122769.ts
-
-#EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="https://imagizer.imageshack.com/img924/5792/w7Z43l.png" group-title="BAYER TV TR7 BELGESEL", TR: Animal Planet HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/374325
-
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="BAYER TV TR7 BELGESEL", TR: BBC Earth HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/374326
-
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://http://logo.bosstv.live/Logo/TR/BELGESEL/HD/BBC.EARTH.png" group-title="BAYER TV TR7 BELGESEL", TR: BBC Earth HD+
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243198
-
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="https://imagizer.imageshack.com/img924/7783/uqZnwv.png" group-title="BAYER TV TR7 BELGESEL", TR: beIN IZ HD+
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243201
-
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="BAYER TV TR7 BELGESEL", TR: DISCOVERY CHANNEL HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243203
-
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="BAYER TV TR7 BELGESEL", TR: DISCOVERY CHANNEL HD+
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243202
-
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.ID.png" group-title="BAYER TV TR7 BELGESEL", TR: DISCOVERY IDX
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243204
-
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.IDX.png" group-title="BAYER TV TR7 BELGESEL", TR: DISCOVERY IDX HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243205
-
-#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="https://imagizer.imageshack.com/img923/8707/A5PJiA.png" group-title="BAYER TV TR7 BELGESEL", TR: DISCOVERY SCIENCE FHD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/259820
-
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="BAYER TV TR7 BELGESEL", TR: DMAX HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243217
-
-#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="BAYER TV TR7 BELGESEL", TR: DMAX HD+
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243216
-
-#EXTINF:-1 tvg-id="TR: DMAX HEVC" tvg-logo="https://static.epg.best/it/DMAX.it.png" group-title="BAYER TV TR7 BELGESEL", TR: DMAX HEVC
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/371828
-
-#EXTINF:-1 tvg-id="docubox.tr" tvg-logo="https://imagizer.imageshack.com/img922/3328/OzEnhL.png" group-title="BAYER TV TR7 BELGESEL", TR: DOCUBOX HD+
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243210
-
-#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="https://imagizer.imageshack.com/img924/2494/TJumUL.png" group-title="BAYER TV TR7 BELGESEL", TR: History FHD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243209
-
-#EXTINF:-1 tvg-id="TR: KOY TV" tvg-logo="noimage.png" group-title="BAYER TV TR7 BELGESEL", TR: KOY TV
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/413078
-
-#EXTINF:-1 tvg-id="TR: KÖY TV" tvg-logo="https://imagizer.imageshack.com/img924/4149/fgdaHp.png" group-title="BAYER TV TR7 BELGESEL", TR: KÖY TV
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/374330
-
-#EXTINF:-1 tvg-id="TR: LOVE NATURE HD+" tvg-logo="https://imagizer.imageshack.com/img923/7798/YecNuV.png" group-title="BAYER TV TR7 BELGESEL", TR: LOVE NATURE HD+
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243213
-
-#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://imagizer.imageshack.com/img922/6835/sjXSTE.png" group-title="BAYER TV TR7 BELGESEL", TR: Nat Geo Wild HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243221
-
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="BAYER TV TR7 BELGESEL", TR: National Geographic HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243219
-
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="BAYER TV TR7 BELGESEL", TR: National Geographic HD+
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243218
-
-#EXTINF:-1 tvg-id="TR: TARIH TV HD" tvg-logo="noimage.png" group-title="BAYER TV TR7 BELGESEL", TR: TARIH TV HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/421982
-
-#EXTINF:-1 tvg-id="TR: TARIM TV" tvg-logo="noimage.png" group-title="BAYER TV TR7 BELGESEL", TR: TARIM TV
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/374329
-
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://imagizer.imageshack.com/img924/4360/bCtOv4.png" group-title="BAYER TV TR7 BELGESEL", TR: TGRT BELGESEL
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243212
-
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="BAYER TV TR7 BELGESEL", TR: TLC TV HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/374324
-
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="BAYER TV TR7 BELGESEL", TR: TLC TV HD+
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243194
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV TR7 BELGESEL", TR: TRT Belgesel HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243223
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV TR7 BELGESEL", TR: TRT BELGESEL HD+
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243222
-
-#EXTINF:-1 tvg-id="TR: TRT BELGESEL HEVC" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV TR7 BELGESEL", TR: TRT BELGESEL HEVC
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/371830
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="BAYER TV TR7 BELGESEL", TR: TRT BELGESEL RAW
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/371853
-
-#EXTINF:-1 tvg-id="TR: ViASAT EXPLORER" tvg-logo="noimage.png" group-title="BAYER TV TR7 BELGESEL", TR: ViASAT EXPLORER
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/416422
-
-#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="BAYER TV TR7 BELGESEL", TR: VIASAT HISTORY HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243207
-
-#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="BAYER TV TR7 BELGESEL", TR: ViASAT HiSTORY HD+
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/243206
-
-#EXTINF:-1 tvg-id="TR: VIASAT HISTORY HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="BAYER TV TR7 BELGESEL", TR: VIASAT HISTORY HEVC
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/371829
-
-#EXTINF:-1 tvg-id="TR: VIASAT NATURE HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/VIASAT.NATURE.png" group-title="BAYER TV TR7 BELGESEL", TR: VIASAT NATURE HD
-http://103.161.34.2:8080/Alemfn/8weUUEEtwy/226120
 
 #EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="https://imagizer.imageshack.com/img924/5792/w7Z43l.png" group-title="BAYER TV TR7 OTHERS", TR: Animal Planet HD
 http://103.161.34.2:8080/Alemfn/8weUUEEtwy/374325
