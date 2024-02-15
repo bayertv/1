@@ -2795,6 +2795,93 @@ http://abcnew.site:8880/29ca10293n08/asdfr34f34/29023
 #EXTINF:-1 tvg-id="DE260:RTL 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE260SKYSELECTHD.png" group-title="DEUTSCH 3", DE260:RTL 2
 http://abcnew.site:8880/29ca10293n08/asdfr34f34/29022
 
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ANIMAL PLANET FHD
+http://59419255149526262.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/526262.ts
+
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ARD ALPHA HD
+http://59419255149636026.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/636026.ts
+
+#EXTINF:-1 tvg-id="arte.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ARTE FHD
+http://59419255149742913.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/742913.ts
+
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: CRIME & INVESTIGATION SD
+http://59419255149751444.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/751444.ts
+
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: DISCOVERY CHANNEL FHD
+http://59419255149751455.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/751455.ts
+
+#EXTINF:-1 tvg-id="DE: DISCOVERY HEVC" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: DISCOVERY HEVC
+http://59419255149780183.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/780183.ts
+
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: DMAX SD
+http://59419255149764947.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/764947.ts
+
+#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: HGTV HD
+http://59419255149751478.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/751478.ts
+
+#EXTINF:-1 tvg-id="history.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: HISTORY HD
+http://59419255149681847.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/681847.ts
+
+#EXTINF:-1 tvg-id="DE: KABEL 1 DOKU HD" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: KABEL 1 DOKU HD
+http://59419255149783149.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/783149.ts
+
+#EXTINF:-1 tvg-id="DE: KABEL 1 DOKU SD" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: KABEL 1 DOKU SD
+http://59419255149779872.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/779872.ts
+
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: N-TV HD
+http://59419255149725095.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/725095.ts
+
+#EXTINF:-1 tvg-id="DE: N24 DOKU FHD" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: N24 DOKU FHD
+http://59419255149779873.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/779873.ts
+
+#EXTINF:-1 tvg-id="n24doku.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: N24 DOKU SD
+http://59419255149751507.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/751507.ts
+
+#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: NATIONAL GEOGRAPHIC HEVC
+http://59419255149760293.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/760293.ts
+
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: NATIONAL GEOGRAPHIC WILD HD
+http://59419255149693397.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/693397.ts
+
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: PHOENIX FHD
+http://59419255149763639.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/763639.ts
+
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: PLANET FHD
+http://59419255149765217.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/765217.ts
+
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SKY CRIME HD
+http://59419255149760339.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/760339.ts
+
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SKY DOCUMENTARIES HD
+http://59419255149760341.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/760341.ts
+
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SKY NATURE FHD
+http://59419255149760343.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/760343.ts
+
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SPIEGEL GESCHICHTE HD
+http://59419255149760390.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/760390.ts
+
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: SPIEGEL TV WISSEN HD
+http://59419255149751625.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/751625.ts
+
+#EXTINF:-1 tvg-id="tlc.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: TLC SD
+http://59419255149760400.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/760400.ts
+
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: WELT DER WUNDER SD
+http://59419255149765232.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/765232.ts
+
+#EXTINF:-1 tvg-id="welt.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: WELT SD
+http://59419255149746760.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/746760.ts
+
+#EXTINF:-1 tvg-id="zdf.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ZDF HD
+http://59419255149696004.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/696004.ts
+
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ZDF INFO HD
+http://59419255149726827.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/726827.ts
+
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 DOKU", DE: ZDF NEO HD
+http://59419255149611590.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/611590.ts
+
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="noimage.png" group-title="DEUTSCH 4 OTHERS", DE: 1-2-3 TV HD
 http://59419255149758050.ofd0208.xyz:80/play/fe612614/rsx4a5QAKN/758050.ts
 
