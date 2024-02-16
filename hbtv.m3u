@@ -15941,6 +15941,42 @@ http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/32796
 #EXTINF:-1 tvg-id="vatan.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR276VATANTVHD.png" group-title="BAYER TV TR8 TÜM KANALLAR", TR276:YOL TV
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/32793
 
+#EXTINF:-1 tvg-id="animal.planet.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/5064.png" group-title="CANADA 2", Animal Planet
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5064.ts
+
+#EXTINF:-1 tvg-id="BRAVO" tvg-logo="noimage.png" group-title="CANADA 2", BRAVO
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20455.ts
+
+#EXTINF:-1 tvg-id="discovery.science.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/4988.png" group-title="CANADA 2", Discovery Science CA
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4988.ts
+
+#EXTINF:-1 tvg-id="CA:DTOUR HD" tvg-logo="noimage.png" group-title="CANADA 2", DTOUR HD
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20538.ts
+
+#EXTINF:-1 tvg-id="hgtv.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/5077.png" group-title="CANADA 2", HGTV
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5077.ts
+
+#EXTINF:-1 tvg-id="historia.ca" tvg-logo="https://vtpi-logo.xyz/logos/5038.png" group-title="CANADA 2", HISTORIA QC
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5038.ts
+
+#EXTINF:-1 tvg-id="history.canada.east.ca" tvg-logo="https://vtpi-logo.xyz/logos/5073.png" group-title="CANADA 2", History Channel
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5073.ts
+
+#EXTINF:-1 tvg-id="love.nature.ca" tvg-logo="noimage.png" group-title="CANADA 2", Love Nature
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5072.ts
+
+#EXTINF:-1 tvg-id="national.geographic.wild.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/5030.png" group-title="CANADA 2", NAT GEO WILD Ca
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5030.ts
+
+#EXTINF:-1 tvg-id="national.geographic.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/5029.png" group-title="CANADA 2", NATIONAL GEOGRAPHIC Ca
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5029.ts
+
+#EXTINF:-1 tvg-id="tlc.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/4973.png" group-title="CANADA 2", TLC HD CA
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4973.ts
+
+#EXTINF:-1 tvg-id="wild.ca" tvg-logo="https://vtpi-logo.xyz/logos/5066.png" group-title="CANADA 2", Wild TV
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5066.ts
+
 #EXTINF:-1 tvg-id="abc.spark.ca" tvg-logo="https://vtpi-logo.xyz/logos/5088.png" group-title="CANADA 2", ABC Spark
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5088.ts
 
@@ -15952,9 +15988,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5056.ts
 
 #EXTINF:-1 tvg-id="amc.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/5001.png" group-title="CANADA 2", AMC HD CA
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5001.ts
-
-#EXTINF:-1 tvg-id="animal.planet.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/5064.png" group-title="CANADA 2", Animal Planet
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5064.ts
 
 #EXTINF:-1 tvg-id="artv.ca" tvg-logo="https://vtpi-logo.xyz/logos/5055.png" group-title="CANADA 2", ARTV QC
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5055.ts
@@ -15988,9 +16021,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5079.ts
 
 #EXTINF:-1 tvg-id="CBC HD CA" tvg-logo="noimage.png" group-title="CANADA 2", CBC HD CA
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4998.ts
-
-#EXTINF:-1 tvg-id="cbc.montreal.qc.ca" tvg-logo="https://vtpi-logo.xyz/logos/4997.png" group-title="CANADA 2", CBC Montreal CA-FR
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4997.ts
 
 #EXTINF:-1 tvg-id="cbc.montreal.qc.ca" tvg-logo="https://vtpi-logo.xyz/logos/5050.png" group-title="CANADA 2", CBC MONTREAL QC
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5050.ts
@@ -16079,9 +16109,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5087.ts
 #EXTINF:-1 tvg-id="ctv2.ottawa.on.ca" tvg-logo="https://vtpi-logo.xyz/logos/5092.png" group-title="CANADA 2", CTV2 OTTAWA
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5092.ts
 
-#EXTINF:-1 tvg-id="discovery.science.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/4988.png" group-title="CANADA 2", Discovery Science CA
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4988.ts
-
 #EXTINF:-1 tvg-id="disney.xd.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/5044.png" group-title="CANADA 2", DISNEY Ca
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5044.ts
 
@@ -16133,15 +16160,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5039.ts
 #EXTINF:-1 tvg-id="hbo.ca" tvg-logo="https://vtpi-logo.xyz/logos/4981.png" group-title="CANADA 2", HBO 2 HD CA
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4981.ts
 
-#EXTINF:-1 tvg-id="hgtv.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/5077.png" group-title="CANADA 2", HGTV
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5077.ts
-
-#EXTINF:-1 tvg-id="historia.ca" tvg-logo="https://vtpi-logo.xyz/logos/5038.png" group-title="CANADA 2", HISTORIA QC
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5038.ts
-
-#EXTINF:-1 tvg-id="history.canada.east.ca" tvg-logo="https://vtpi-logo.xyz/logos/5073.png" group-title="CANADA 2", History Channel
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5073.ts
-
 #EXTINF:-1 tvg-id="ici.montreal.qc.dv.ca" tvg-logo="https://vtpi-logo.xyz/logos/5037.png" group-title="CANADA 2", ICI MONTREAL QC
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5037.ts
 
@@ -16157,32 +16175,17 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5034.ts
 #EXTINF:-1 tvg-id="lifetime.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/4980.png" group-title="CANADA 2", Lifetime FHD CA
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4980.ts
 
-#EXTINF:-1 tvg-id="love.nature.ca" tvg-logo="noimage.png" group-title="CANADA 2", Love Nature
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5072.ts
-
 #EXTINF:-1 tvg-id="makeful.ca" tvg-logo="https://vtpi-logo.xyz/logos/5090.png" group-title="CANADA 2", Makeful
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5090.ts
 
 #EXTINF:-1 tvg-id="meteo.media.ca" tvg-logo="https://vtpi-logo.xyz/logos/5033.png" group-title="CANADA 2", METEO QC
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5033.ts
 
-#EXTINF:-1 tvg-id="moi.et.compagnie.ca" tvg-logo="https://vtpi-logo.xyz/logos/5101.png" group-title="CANADA 2", MOI et CIE (FR)
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5101.ts
-
 #EXTINF:-1 tvg-id="movietime.ca" tvg-logo="https://vtpi-logo.xyz/logos/5031.png" group-title="CANADA 2", MOVIE TIME 1 Ca
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5031.ts
 
 #EXTINF:-1 tvg-id="mtv.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/5074.png" group-title="CANADA 2", MTV
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5074.ts
-
-#EXTINF:-1 tvg-id="musique.plus.sur.demande.ca" tvg-logo="https://vtpi-logo.xyz/logos/5100.png" group-title="CANADA 2", Musique Plus (FR)
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5100.ts
-
-#EXTINF:-1 tvg-id="national.geographic.wild.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/5030.png" group-title="CANADA 2", NAT GEO WILD Ca
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5030.ts
-
-#EXTINF:-1 tvg-id="national.geographic.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/5029.png" group-title="CANADA 2", NATIONAL GEOGRAPHIC Ca
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5029.ts
 
 #EXTINF:-1 tvg-id="NTV News HD CA" tvg-logo="https://vtpi-logo.xyz/logos/4979.png" group-title="CANADA 2", NTV News HD CA
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4979.ts
@@ -16210,9 +16213,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5023.ts
 
 #EXTINF:-1 tvg-id="rds.2.ca" tvg-logo="https://vtpi-logo.xyz/logos/5022.png" group-title="CANADA 2", RDS 2 QC
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5022.ts
-
-#EXTINF:-1 tvg-id="rds.info.ca" tvg-logo="https://vtpi-logo.xyz/logos/4977.png" group-title="CANADA 2", RDS Info CA-FR
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4977.ts
 
 #EXTINF:-1 tvg-id="rds.info.ca" tvg-logo="https://vtpi-logo.xyz/logos/5021.png" group-title="CANADA 2", RDS INFO QC
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5021.ts
@@ -16262,29 +16262,11 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5014.ts
 #EXTINF:-1 tvg-id="SUPER CHANNEL 4 Ca" tvg-logo="noimage.png" group-title="CANADA 2", SUPER CHANNEL 4 Ca
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5013.ts
 
-#EXTINF:-1 tvg-id="super.ecran.1.ca" tvg-logo="https://vtpi-logo.xyz/logos/4957.png" group-title="CANADA 2", Super Ecran 1 (FR)
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4957.ts
-
-#EXTINF:-1 tvg-id="super.ecran.2.ca" tvg-logo="https://vtpi-logo.xyz/logos/5093.png" group-title="CANADA 2", Super Ecran 2 (FR)
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5093.ts
-
-#EXTINF:-1 tvg-id="super.ecran.3.ca" tvg-logo="https://vtpi-logo.xyz/logos/5094.png" group-title="CANADA 2", Super Ecran 3 (FR)
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5094.ts
-
-#EXTINF:-1 tvg-id="super.ecran.4.ca" tvg-logo="https://vtpi-logo.xyz/logos/5095.png" group-title="CANADA 2", Super Ecran 4 (FR)
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5095.ts
-
 #EXTINF:-1 tvg-id="tele.quebec.quebec.ca" tvg-logo="https://vtpi-logo.xyz/logos/5012.png" group-title="CANADA 2", TELE QUEBEC QC
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5012.ts
 
-#EXTINF:-1 tvg-id="teletoon.east.ca" tvg-logo="https://vtpi-logo.xyz/logos/5096.png" group-title="CANADA 2", Teletoon (FR)
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5096.ts
-
 #EXTINF:-1 tvg-id="teletoon.francais.ca" tvg-logo="noimage.png" group-title="CANADA 2", Teletoon Eng
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4960.ts
-
-#EXTINF:-1 tvg-id="tlc.canada.ca" tvg-logo="https://vtpi-logo.xyz/logos/4973.png" group-title="CANADA 2", TLC HD CA
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4973.ts
 
 #EXTINF:-1 tvg-id="TMN 2 HD Ca" tvg-logo="https://vtpi-logo.xyz/logos/5011.png" group-title="CANADA 2", TMN 2 HD Ca
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5011.ts
@@ -16331,9 +16313,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5006.ts
 #EXTINF:-1 tvg-id="vrak.ca" tvg-logo="https://vtpi-logo.xyz/logos/5005.png" group-title="CANADA 2", VRAK TV QC
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5005.ts
 
-#EXTINF:-1 tvg-id="wild.ca" tvg-logo="https://vtpi-logo.xyz/logos/5066.png" group-title="CANADA 2", Wild TV
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5066.ts
-
 #EXTINF:-1 tvg-id="weather.network.ca" tvg-logo="https://vtpi-logo.xyz/logos/5068.png" group-title="CANADA 2", W_NETWORK
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5068.ts
 
@@ -16342,9 +16321,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5004.ts
 
 #EXTINF:-1 tvg-id="yes.burlington.on.ca" tvg-logo="https://vtpi-logo.xyz/logos/4964.png" group-title="CANADA 2", YES TV HD CA
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/4964.ts
-
-#EXTINF:-1 tvg-id="yoopa.ca" tvg-logo="https://vtpi-logo.xyz/logos/5060.png" group-title="CANADA 2", YOOPA (FR)
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5060.ts
 
 #EXTINF:-1 tvg-id="ytv.east.dv.ca" tvg-logo="https://vtpi-logo.xyz/logos/5059.png" group-title="CANADA 2", YTV
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/5059.ts
@@ -16405,9 +16381,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20453.ts
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="noimage.png" group-title="CANADA 2", ANIMAL PLANET
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20454.ts
-
-#EXTINF:-1 tvg-id="BRAVO" tvg-logo="noimage.png" group-title="CANADA 2", BRAVO
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20455.ts
 
 #EXTINF:-1 tvg-id="CablePulse 24TV" tvg-logo="noimage.png" group-title="CANADA 2", CablePulse 24TV
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20456.ts
@@ -16538,18 +16511,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20497.ts
 #EXTINF:-1 tvg-id="SPORTSNET WORLD" tvg-logo="noimage.png" group-title="CANADA 2", SPORTSNET WORLD
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20498.ts
 
-#EXTINF:-1 tvg-id="Super Ecran 1 (FR)" tvg-logo="noimage.png" group-title="CANADA 2", Super Ecran 1 (FR)
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20499.ts
-
-#EXTINF:-1 tvg-id="Super Ecran 2 (FR)" tvg-logo="noimage.png" group-title="CANADA 2", Super Ecran 2 (FR)
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20500.ts
-
-#EXTINF:-1 tvg-id="Super Ecran 3 (FR)" tvg-logo="noimage.png" group-title="CANADA 2", Super Ecran 3 (FR)
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20501.ts
-
-#EXTINF:-1 tvg-id="Super Ecran 4 (FR)" tvg-logo="noimage.png" group-title="CANADA 2", Super Ecran 4 (FR)
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20502.ts
-
 #EXTINF:-1 tvg-id="TELETOON (East)" tvg-logo="noimage.png" group-title="CANADA 2", TELETOON (East)
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20503.ts
 
@@ -16622,9 +16583,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20525.ts
 #EXTINF:-1 tvg-id="CA:CPAC English" tvg-logo="noimage.png" group-title="CANADA 2", CA:CPAC English
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20526.ts
 
-#EXTINF:-1 tvg-id="CA:CPAC French" tvg-logo="noimage.png" group-title="CANADA 2", CA:CPAC French
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20527.ts
-
 #EXTINF:-1 tvg-id="CA:Crime Investigation" tvg-logo="noimage.png" group-title="CANADA 2", CA:Crime Investigation
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20528.ts
 
@@ -16654,9 +16612,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20536.ts
 
 #EXTINF:-1 tvg-id="CA:DIY Network" tvg-logo="noimage.png" group-title="CANADA 2", CA:DIY Network
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20537.ts
-
-#EXTINF:-1 tvg-id="CA:DTOUR HD" tvg-logo="noimage.png" group-title="CANADA 2", CA:DTOUR HD
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20538.ts
 
 #EXTINF:-1 tvg-id="CA:E!" tvg-logo="noimage.png" group-title="CANADA 2", CA:E!
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/20539.ts
@@ -20678,6 +20633,39 @@ http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/65933
 #EXTINF:-1 tvg-id="CA225:Rogers TV Bathurst" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/CA225" group-title="CANADA 8", CA225:Rogers TV Bathurst
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/49994
 
+#EXTINF:-1 tvg-id="animal.plnt.plus.1.gb" tvg-logo="https://vtpi-logo.xyz/logos/8721.png" group-title="UK 2", Animal Plnt+1
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8721.ts
+
+#EXTINF:-1 tvg-id="disc.history.gb" tvg-logo="noimage.png" group-title="UK 2", Disc.History
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8580.ts
+
+#EXTINF:-1 tvg-id="disc.science.gb" tvg-logo="noimage.png" group-title="UK 2", Disc.Science
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8579.ts
+
+#EXTINF:-1 tvg-id="disc.turbo.gb" tvg-logo="noimage.png" group-title="UK 2", Disc.Turbo
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8578.ts
+
+#EXTINF:-1 tvg-id="discovery.gb" tvg-logo="noimage.png" group-title="UK 2", Discovery
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8577.ts
+
+#EXTINF:-1 tvg-id="dmax.gb" tvg-logo="noimage.png" group-title="UK 2", DMAX
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8576.ts
+
+#EXTINF:-1 tvg-id="dmax.plus.1.gb" tvg-logo="https://vtpi-logo.xyz/logos/8427.png" group-title="UK 2", DMAX+1
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8427.ts
+
+#EXTINF:-1 tvg-id="geo.gb" tvg-logo="noimage.png" group-title="UK 2", GEO TV
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8561.ts
+
+#EXTINF:-1 tvg-id="nat.geo.gb" tvg-logo="noimage.png" group-title="UK 2", Nat Geo
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8522.ts
+
+#EXTINF:-1 tvg-id="nat.geo.wild.gb" tvg-logo="noimage.png" group-title="UK 2", Nat Geo Wild
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8521.ts
+
+#EXTINF:-1 tvg-id="tlc.gb" tvg-logo="https://vtpi-logo.xyz/logos/8437.png" group-title="UK 2", TLC
+http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8437.ts
+
 #EXTINF:-1 tvg-id="4music.gb" tvg-logo="noimage.png" group-title="UK 2", 4Music
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8631.ts
 
@@ -20713,9 +20701,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8709.ts
 
 #EXTINF:-1 tvg-id="animal.planet.gb" tvg-logo="noimage.png" group-title="UK 2", Animal Planet
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8621.ts
-
-#EXTINF:-1 tvg-id="animal.plnt.plus.1.gb" tvg-logo="https://vtpi-logo.xyz/logos/8721.png" group-title="UK 2", Animal Plnt+1
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8721.ts
 
 #EXTINF:-1 tvg-id="ary.digital.gb" tvg-logo="noimage.png" group-title="UK 2", Ary Digital
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8415.ts
@@ -20987,24 +20972,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8581.ts
 #EXTINF:-1 tvg-id="dave.ja.vu.gb" tvg-logo="noimage.png" group-title="UK 2", Dave ja vu
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8582.ts
 
-#EXTINF:-1 tvg-id="disc.history.gb" tvg-logo="noimage.png" group-title="UK 2", Disc.History
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8580.ts
-
-#EXTINF:-1 tvg-id="disc.science.gb" tvg-logo="noimage.png" group-title="UK 2", Disc.Science
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8579.ts
-
-#EXTINF:-1 tvg-id="disc.turbo.gb" tvg-logo="noimage.png" group-title="UK 2", Disc.Turbo
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8578.ts
-
-#EXTINF:-1 tvg-id="discovery.gb" tvg-logo="noimage.png" group-title="UK 2", Discovery
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8577.ts
-
-#EXTINF:-1 tvg-id="dmax.gb" tvg-logo="noimage.png" group-title="UK 2", DMAX
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8576.ts
-
-#EXTINF:-1 tvg-id="dmax.plus.1.gb" tvg-logo="https://vtpi-logo.xyz/logos/8427.png" group-title="UK 2", DMAX+1
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8427.ts
-
 #EXTINF:-1 tvg-id="drama.gb" tvg-logo="noimage.png" group-title="UK 2", Drama
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8575.ts
 
@@ -21073,9 +21040,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8563.ts
 
 #EXTINF:-1 tvg-id="geo.kahani.gb" tvg-logo="noimage.png" group-title="UK 2", GEO Kahani
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8562.ts
-
-#EXTINF:-1 tvg-id="geo.gb" tvg-logo="noimage.png" group-title="UK 2", GEO TV
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8561.ts
 
 #EXTINF:-1 tvg-id="cgn.gb" tvg-logo="noimage.png" group-title="UK 2", GN TV
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8560.ts
@@ -21190,12 +21154,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8730.ts
 
 #EXTINF:-1 tvg-id="virgin.two.gb" tvg-logo="noimage.png" group-title="UK 2", IRE Virgin Two HD
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8729.ts
-
-#EXTINF:-1 tvg-id="islam.gb" tvg-logo="noimage.png" group-title="UK 2", Islam Channel
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8417.ts
-
-#EXTINF:-1 tvg-id="islam.gb" tvg-logo="noimage.png" group-title="UK 2", Islam Tv
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8416.ts
 
 #EXTINF:-1 tvg-id="itv.granada.plus.1.gb" tvg-logo="https://vtpi-logo.xyz/logos/8690.png" group-title="UK 2", ITV 1 Granada +1
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8690.ts
@@ -21337,12 +21295,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8525.ts
 
 #EXTINF:-1 tvg-id="mutv.gb" tvg-logo="noimage.png" group-title="UK 2", MUTV
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8523.ts
-
-#EXTINF:-1 tvg-id="nat.geo.gb" tvg-logo="noimage.png" group-title="UK 2", Nat Geo
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8522.ts
-
-#EXTINF:-1 tvg-id="nat.geo.wild.gb" tvg-logo="noimage.png" group-title="UK 2", Nat Geo Wild
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8521.ts
 
 #EXTINF:-1 tvg-id="ndtv.24x7.gb" tvg-logo="noimage.png" group-title="UK 2", NDTV 24x7
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8520.ts
@@ -21697,9 +21649,6 @@ http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8439.ts
 
 #EXTINF:-1 tvg-id="tjc.gb" tvg-logo="noimage.png" group-title="UK 2", TJC
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8438.ts
-
-#EXTINF:-1 tvg-id="tlc.gb" tvg-logo="https://vtpi-logo.xyz/logos/8437.png" group-title="UK 2", TLC
-http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8437.ts
 
 #EXTINF:-1 tvg-id="tlc.plus.1.gb" tvg-logo="https://vtpi-logo.xyz/logos/8710.png" group-title="UK 2", TLC+1
 http://fast.bounceme.net:8080/live/DcXAefZAXb/M88wXbyGnc/8710.ts
