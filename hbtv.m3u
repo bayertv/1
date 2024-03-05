@@ -410,6 +410,9 @@ https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.cg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png" group-title="BAYER TV TR1 - GLOBAL", Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rTPUi6D.jpg" group-title="BAYER TV TR1 - GLOBAL", Americas Voice
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://w7.pngwing.com/pngs/791/633/png-transparent-al-jazeera-english-television-channel-doha-australian-food-television-text-logo-thumbnail.png" group-title="BAYER TV TR1 - GLOBAL", Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
@@ -428,7 +431,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="BAYER TV TR1 - GLOBAL", CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="cnn.tv.vodafone.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US021CNN-HD.png" group-title="BAYER TV TR1 - GLOBAL", CNN ¸[Pluto]
+#EXTINF:-1 tvg-id="cnn.tv.vodafone.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US021CNN-HD.png" group-title="BAYER TV TR1 - GLOBAL", CNN 
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png" group-title="BAYER TV TR1 - GLOBAL", Euronews English
