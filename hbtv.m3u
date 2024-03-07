@@ -1238,17 +1238,29 @@ https://3.ultimate2019.com/stream/hls/890
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png" group-title="BAYER TV TR1 - GLOBAL", ZooMoo ¸[Pluto]
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTATIONS ENGLISH", Marriage Scammer: Till Cash Do Us Part
-https://odysee.com/$/download/Marriage_Scammer_Till_Cash_Do_Us_Part/00136de5bfdb181e3270be51510296f6dd8d3f8b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", War Correspondents–3
+https://odysee.com/$/download/War-Correspondents-3/610d6c1b19f9cba80770c19108e501d3bfd3d74c
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTATIONS ENGLISH", Donbass: The Flipside Of War
-https://odysee.com/$/download/Donbass_The_Flipside_Of_War/b7c81cf7f082f4c2838fa191cef0abf07cc4bec0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTATIONS ENGLISH", War Correspondents
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", War Correspondents
 https://odysee.com/$/download/War-Correspondents_NO-LOGO_TG_ok/42ac15595cfaa56b04f2ce49953690416610b4c8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTATIONS ENGLISH", xxx
-https://youtu.be/pykpO5kQJ98
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", Gods of War
+https://odysee.com/$/download/Gods-of-War/f6319e2f70fdf76326316989f3ee42a4450cb936
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", War and Peace
+https://odysee.com/$/download/War_and_Peace/dff5dc764d29eb633f97c0403f64372fb0f1c2f2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTATIONS ENGLISH", Red Alert: The Arab Spring
+https://odysee.com/$/download/Red_Alert_The_Arab_Spring/37af503649a21c98d5a0c98325cfb923671c84c4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", Frontline Diary of an American Officer
+https://odysee.com/$/download/Frontline_Diary_of_an_American_Officer/b296dd95e04079f5ab631ab3264c504a6c32e814
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", Marriage Scammer: Till Cash Do Us Part
+https://odysee.com/$/download/Marriage_Scammer_Till_Cash_Do_Us_Part/00136de5bfdb181e3270be51510296f6dd8d3f8b
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", Donbass: The Flipside Of War
+https://odysee.com/$/download/Donbass_The_Flipside_Of_War/b7c81cf7f082f4c2838fa191cef0abf07cc4bec0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", Lady Cops of Afghanistan
 https://odysee.com/$/download/lady-cops-of-afghanistan-rt-documentary/e7979c3c8ebfa1edbcd32c29d281f4030d3edce4
@@ -1256,11 +1268,11 @@ https://odysee.com/$/download/lady-cops-of-afghanistan-rt-documentary/e7979c3c8e
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", Leningrad Unbreakable
 https://odysee.com/$/download/Leningrad-Unbreakable/82e68744e760591462857f3233c4dbfa018f3929
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", Philadelphia - addicted to freedom
-https://odysee.com/$/download/Philadelphia-addicted-to-freedom/4a97b9877b11b9a3dbf52a41795f96145aa80216
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", Tundra Wonder Mums
 https://odysee.com/$/download/tundra-wonder-mums.-tundra-is-their/0ca0b12618005af75bcb47e0b37a902cd342a90d
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", Philadelphia - addicted to freedom
+https://odysee.com/$/download/Philadelphia-addicted-to-freedom/4a97b9877b11b9a3dbf52a41795f96145aa80216
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="DOCUMENTATIONS ENGLISH", Ukraine's Arms Barons
 https://odysee.com/$/download/Ukraine's_Arms_Barons/7d3d4b6a4c0e534168e8d501ff8cae551983b2e3
