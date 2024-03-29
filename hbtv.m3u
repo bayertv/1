@@ -42,7 +42,7 @@ http://stream.tvcdn.net/haber/tbmm-tv.m3u8
 https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="BAYER TV TR1", TGRT HABER HD
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="BAYER TV TR1", TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
@@ -57,7 +57,7 @@ https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
 http://stream.tvcdn.net/haber/tvnet.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="BAYER TV TR1", ULUSAL KANAL
-https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/85/index.m3u8
+http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
 
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="BAYER TV TR1", Ülke TV
 http://stream.tvcdn.net/haber/ulke-tv.m3u8
@@ -82,9 +82,6 @@ https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="BAYER TV TR1", KANAL 7 HD
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
-
-#EXTINF:-1 tvg-id="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="BAYER TV TR1", KANAL 7 AVRUPA
-http://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="BAYER TV TR1", KANAL D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
@@ -125,14 +122,11 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="BAYER TV TR1", TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
-#EXTINF:-1 tvg-id="TV8International.tr" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="BAYER TV TR1", TV 8 INT
-https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="BAYER TV TR1", TV8.5
-http://stream.tvcdn.net/eglence/tv8-5.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", AMED TV DiYARBAKIR
 http://live.amedradyotv.net:2020/hls/ferat.m3u8
+
+#EXTINF:-1 tvg-id="TV8International.tr" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="BAYER TV TR1", TV 8 INT
+https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", ANGARA TV HD
 https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
@@ -167,20 +161,11 @@ https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", BRT 2 KIBRIS
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", BÜLTEN TV
-https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", CEKMEKOY BELEDiYE TV
-https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/amlst:cekmekoybeltv/chunklist_w1305163043_b1694720.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", DERiN TV
 https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", DiYAR TV
 https://yayin30.haber100.com/live/diyartv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", DOCUMAX BELGESEL
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1278/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", DOST HD TV
 https://dost.stream.emsal.im/tv/live.m3u8
@@ -191,20 +176,8 @@ https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EBA iLKOKUL
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EBA LiSE
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EBA ORTAOKUL
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EDESSA TV URFA
 https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EDiRNE TV
-https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", ERCiS TV
 https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
@@ -212,32 +185,17 @@ https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", ESENLER SEHiR EKRANI
 https://yayin30.haber100.com/live/sehirekrani/chunklist_w1128481069.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EURO 90 CHANNEL
-https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EZO TV
 https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", FB TV FHD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/298/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", FiNEST TV
-http://media.finest.tv/hls/live.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", FLASH HABER HD
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", FOX TV FHD
-https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", GURBET 24 TV
-http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", HABER 61 HD
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
@@ -257,9 +215,6 @@ http://new.cache-stream.workers.dev/stream/UCVebw64Db0yhrPkVk-D8F6w/live.m3u8?ap
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL 56
 https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL 7 AVRUPA FHD
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL AVRUPA FHD
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 
@@ -274,9 +229,6 @@ https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KANAL S
 https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KASTAMONU  TV FHD
-http://51.158.204.52:8080/live/kastamonutv/kastamonutv/3385.m3u8?app=supersatforum
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", KON TV HD
 https://kontv.blutv.com/blutv_kontv2/live.m3u8
@@ -323,9 +275,6 @@ https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TEVE 2 FHD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TEVE 2 FHD YEDEK
-https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/34/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TiViTURK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
@@ -341,8 +290,8 @@ https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TRT 1 HD YEDEK
 https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TRT 2 HD
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="BAYER TV TR1", TRT 2
+http://stream.tvcdn.net/eglence/trt-2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TRT ARABi
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
@@ -382,12 +331,6 @@ https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TV 1 KAYSERi
 http://stream.taksimbilisim.com:1935/tv1/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TV 48
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TV 8.5 FHD
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TV 90
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
@@ -45500,6 +45443,66 @@ http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/60979
 #EXTINF:-1 tvg-id="US957:NFL-Titans" tvg-logo="noimage.png" group-title="USA 8", US957:NFL-Titans
 http://mku0414.oknirvana.club:8880/29ca10243n03/3red53r33/60980
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: A&E HEVC
+http://738520238270804032.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/804032.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: AMERICAN HEROES CHANNEL HD
+http://738520238270792143.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792143.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: AMERICAN HEROES HD
+http://738520238270750895.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/750895.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: ANIMAL PLANET EAST HD
+http://738520238270802947.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/802947.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: ANIMAL PLANET HD
+http://738520238270794322.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/794322.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: CRIME & INVESTIGATION HD
+http://738520238270758419.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/758419.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY CHANNEL EAST FHD
+http://738520238270804046.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/804046.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY CHANNEL FHD
+http://738520238270800894.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/800894.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY CHANNEL WEST HD
+http://738520238270800893.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/800893.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY FAMILY HD
+http://738520238270751018.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/751018.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY ID EAST FHD
+http://738520238270799678.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/799678.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY LIFE HD
+http://738520238270751020.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/751020.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY SCIENCE SD
+http://738520238270751021.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/751021.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY VELOCITY HD
+http://738520238270804229.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/804229.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: HGTV HD
+http://738520238270800902.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/800902.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: HGTV EAST HD
+http://738520238270792856.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792856.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: HISTORY FHD
+http://738520238270792857.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792857.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: INVESTIGATION DISCOVERY FHD
+http://738520238270792862.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792862.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: NASA TV HD
+http://738520238270792874.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792874.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: NATIONAL GEOGRAPHIC EAST HD
+http://738520238270802984.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/802984.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: 5 STAR MAX FHD
 http://738520238270797482.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/797482.ts
 
@@ -45520,9 +45523,6 @@ http://738520238270792512.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792512.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: [VIP-SPORT] NHL NETWORK HD
 http://738520238270792513.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792513.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: A&E HEVC
-http://738520238270804032.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/804032.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: ABC CHARLOTTE NC WSOC HD
 http://738520238270797484.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/797484.ts
@@ -45602,20 +45602,8 @@ http://738520238270793857.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/793857.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: AMC+ FHD
 http://738520238270805533.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/805533.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: AMERICAN HEROES CHANNEL HD
-http://738520238270792143.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792143.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: AMERICAN HEROES HD
-http://738520238270750895.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/750895.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: AMG FHD
 http://738520238270792144.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792144.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: ANIMAL PLANET EAST HD
-http://738520238270802947.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/802947.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: ANIMAL PLANET HD
-http://738520238270794322.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/794322.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: ANTENNA TV SD
 http://738520238270802948.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/802948.ts
@@ -46061,9 +46049,6 @@ http://738520238270805557.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/805557.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: COZI TV SD
 http://738520238270751010.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/751010.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: CRIME & INVESTIGATION HD
-http://738520238270758419.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/758419.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: CW FHD
 http://738520238270671234.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/671234.ts
 
@@ -46081,30 +46066,6 @@ http://738520238270792233.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792233.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DESTINATION AMERICA FHD
 http://738520238270728620.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/728620.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY CHANNEL EAST FHD
-http://738520238270804046.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/804046.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY CHANNEL FHD
-http://738520238270800894.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/800894.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY CHANNEL WEST HD
-http://738520238270800893.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/800893.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY FAMILY HD
-http://738520238270751018.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/751018.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY ID EAST FHD
-http://738520238270799678.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/799678.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY LIFE HD
-http://738520238270751020.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/751020.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY SCIENCE SD
-http://738520238270751021.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/751021.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISCOVERY VELOCITY HD
-http://738520238270804229.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/804229.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: DISNEY CHANNEL (EAST) SD
 http://738520238270792237.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792237.ts
@@ -46565,20 +46526,11 @@ http://738520238270797154.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/797154.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: HEROES & ICONS HD
 http://738520238270805568.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/805568.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: HGTV EAST HD
-http://738520238270792856.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792856.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: HGTV HD
-http://738520238270800902.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/800902.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: HI-YAH! FHD
 http://738520238270797545.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/797545.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: HIS LIGHT (RELIGIOUS) HD
 http://738520238270805569.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/805569.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: HISTORY FHD
-http://738520238270792857.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792857.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: HLN HD
 http://738520238270792858.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792858.ts
@@ -46606,9 +46558,6 @@ http://738520238270805572.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/805572.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: INSP TV HD
 http://738520238270805571.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/805571.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: INVESTIGATION DISCOVERY FHD
-http://738520238270792862.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792862.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: ION HD
 http://738520238270802007.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/802007.ts
@@ -46760,14 +46709,8 @@ http://738520238270799685.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/799685.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: NASA - NTV2 HD
 http://738520238270797158.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/797158.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: NASA TV HD
-http://738520238270792874.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/792874.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: NASHVILLE ABC 2 (WKRN) HD
 http://738520238270805585.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/805585.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: NATIONAL GEOGRAPHIC EAST HD
-http://738520238270802984.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/802984.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA 9", US: NATIONAL GEOGRAPHIC HD
 http://738520238270802985.ofg0316.xyz:80/play/Alfonsoamval/qP5dFhSrRh/802985.ts
