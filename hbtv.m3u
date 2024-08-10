@@ -9,7 +9,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="BAYER TV TR1", CNN TURK HD
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="BAYER TV TR1", DHA Canlı 1
 http://stream.tvcdn.net/haber/dha-canli-1.m3u8
@@ -30,7 +30,7 @@ https://haberglobal.blutv.com/blutv_haberglobal2/live_720p2000000kbps/index.m3u8
 https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="BAYER TV TR1", NTV HD
-https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+http://stream.tvcdn.net/haber/ntv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="BAYER TV TR1", SÖZCÜ TV
 https://szctv.blutv.com/blutv_szctv/live_720p2000000kbps/index.m3u8
@@ -53,15 +53,6 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="BAYER TV TR1", TV 100
 https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="BAYER TV TR1", TVNET
-http://stream.tvcdn.net/haber/tvnet.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="BAYER TV TR1", ULUSAL KANAL
-http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
-
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="BAYER TV TR1", Ülke TV
-http://stream.tvcdn.net/haber/ulke-tv.m3u8
-
 #EXTINF:-1 tvg-id="YOLTV.de" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="BAYER TV TR1", Yol TV
 http://stream.tvcdn.net/haber/yol-tv.m3u8
 
@@ -77,8 +68,8 @@ https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="BAYER TV TR1", DMAX
 http://stream.tvcdn.net/eglence/dmax.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/8eb0d399-57c3-460f-99fd-609e9652d8aa.png" group-title="BAYER TV TR1", FOX TV HD
-https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/8eb0d399-57c3-460f-99fd-609e9652d8aa.png" group-title="BAYER TV TR1", NOW TV HD
+http://stream.tvcdn.net/ulusal/fox-tv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="BAYER TV TR1", KANAL 7 HD
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
