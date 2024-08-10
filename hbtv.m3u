@@ -275,11 +275,8 @@ https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TOP POP TV
 https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TRT 1 FHD YEDEK
-https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TRT 1 HD YEDEK
-https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", TRT 1 HD
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="BAYER TV TR1", TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
