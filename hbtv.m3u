@@ -69,7 +69,7 @@ https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 http://stream.tvcdn.net/eglence/dmax.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/8eb0d399-57c3-460f-99fd-609e9652d8aa.png" group-title="BAYER TV TR1", NOW TV HD
-http://stream.tvcdn.net/ulusal/fox-tv.m3u8
+http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="BAYER TV TR1", KANAL 7 HD
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
@@ -81,7 +81,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="BAYER TV TR1", SHOW TV HD
-https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png" group-title="BAYER TV TR1", SHOW TURK
 https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
@@ -122,15 +122,6 @@ https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", ANGARA TV HD
 https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", BARTIN TV HD
-http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", BEA TV
-https://yayin30.haber100.com/live/beykenttv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", BERAT TV
-http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", BESiKTAS WEB TV
 http://s01.vpis.io/besiktas/besiktas.m3u8
 
@@ -152,29 +143,11 @@ https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", BRT 2 KIBRIS
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", DERiN TV
-https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", DiYAR TV
-https://yayin30.haber100.com/live/diyartv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", DOST HD TV
-https://dost.stream.emsal.im/tv/live.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", DREAM TURK HD
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EDESSA TV URFA
-https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", ERCiS TV
-https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", ESENLER SEHiR EKRANI
-https://yayin30.haber100.com/live/sehirekrani/chunklist_w1128481069.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BAYER TV TR1", EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
