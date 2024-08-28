@@ -29,9 +29,6 @@ https://haberglobal.blutv.com/blutv_haberglobal2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="BAYER TV TR1", HALK TV
 https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="BAYER TV TR1", NTV HD
-http://stream.tvcdn.net/haber/ntv.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="BAYER TV TR1", SÖZCÜ TV
 https://szctv.blutv.com/blutv_szctv/live_720p2000000kbps/index.m3u8
 
@@ -60,7 +57,7 @@ http://stream.tvcdn.net/haber/yol-tv.m3u8
 http://stream.tvcdn.net/eglence/a2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="BAYER TV TR1", ATV
-http://stream.tvcdn.net/ulusal/atv.m3u8
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="BAYER TV TR1", ATV AVRUPA
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
