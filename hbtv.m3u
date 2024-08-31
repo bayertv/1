@@ -9,7 +9,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="BAYER TV TR1", CNN TURK HD
-http://stream.tvcdn.net/haber/cnn-turk.m3u8
+http://abcnew.site:8880/29ca10293n08/asdfr34f34/33008
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="BAYER TV TR1", DHA Canlı 1
 http://stream.tvcdn.net/haber/dha-canli-1.m3u8
@@ -57,7 +57,7 @@ http://stream.tvcdn.net/haber/yol-tv.m3u8
 http://stream.tvcdn.net/eglence/a2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="BAYER TV TR1", ATV
-http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+http://vo01.mohdtv.com:8880/voby4055/7457362324/33049
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="BAYER TV TR1", ATV AVRUPA
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
