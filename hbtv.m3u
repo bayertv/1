@@ -77,6 +77,9 @@ http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32801
 #EXTINF:-1 tvg-id="atv.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR020SEMERKAND.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR001:ATV
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33049
 
+#EXTINF:-1 tvg-id="TR064:DIGI MAX 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR064" group-title="TÜRKÇE 2 TÜM KANALLAR", TR001:DIGI MAX 1
+http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33005
+
 #EXTINF:-1 tvg-id="TR114:FX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR114TV2HD(1080P).png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR001:FX
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32955
 
@@ -103,6 +106,9 @@ http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33068
 
 #EXTINF:-1 tvg-id="24.kitchen.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR002ULKEHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR002:24 KITCHEN
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33067
+
+#EXTINF:-1 tvg-id="spor.smart.2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR017SSPORTHD(1).png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR002:ANIMAL PLANET
+http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33052
 
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR003TV8HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR003:360
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33066
@@ -145,9 +151,6 @@ http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33054
 
 #EXTINF:-1 tvg-id="spor.smart.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR016SPORSMART.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR016:ANADOLU DERNEK
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33053
-
-#EXTINF:-1 tvg-id="spor.smart.2.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR017SSPORTHD(1).png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR017:ANIMAL PLANET
-http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33052
 
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR018SKYTURK360.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR018:ARTI TV
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33051
@@ -256,9 +259,6 @@ http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33009
 
 #EXTINF:-1 tvg-id="TR063:DEHA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR063FLASHTV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR063:DEHA TV
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33006
-
-#EXTINF:-1 tvg-id="TR064:DIGI MAX 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR064" group-title="TÜRKÇE 2 TÜM KANALLAR", TR064:DIGI MAX 1
-http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/33005
 
 #EXTINF:-1 tvg-id="21.junior.al" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR070DREAMTURKTV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR070:DIZI SMART PREMIUM
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32999
