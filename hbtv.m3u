@@ -59,6 +59,9 @@ http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32893
 #EXTINF:-1 tvg-id="a.para.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR192APARAHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR000:SCIENCE & VICE
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32877
 
+#EXTINF:-1 tvg-id="TR ▎SOZCU TV SD" tvg-logo="https://img.logo-cdn.cc/sozcutv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR000:SOZCU TV SD
+http://line.ultrab.xyz:80/2FFC00/271506/756670
+
 #EXTINF:-1 tvg-id="disney.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR225DisneyChannelHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR000:TELE 1
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32844
 
@@ -88,6 +91,9 @@ http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32938
 
 #EXTINF:-1 tvg-id="trt.arabi.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR135TRTARAPCA.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR001:KANAL D
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32934
+
+#EXTINF:-1 tvg-id="trt.spor.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR113BEINBOXOFFICE1HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR001:NOW
+http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32956
 
 #EXTINF:-1 tvg-id="a.spor.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR197ASPORHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR001:SHOW TV
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32872
@@ -382,9 +388,6 @@ http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32958
 
 #EXTINF:-1 tvg-id="trt.haber.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR112TRTHABERHD(1080P).png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR112:FILMBOX YESILCAM
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32957
-
-#EXTINF:-1 tvg-id="trt.spor.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR113BEINBOXOFFICE1HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR113:FOX
-http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32956
 
 #EXTINF:-1 tvg-id="tv8.tr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR115TV8HD(1080P).png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR115:GALATASARAY TV
 http://mu3241218.oknirvana.club:8880/TNwC28ZMED/aG9TWtVfqy/32954
@@ -1519,9 +1522,6 @@ http://line.ultrab.xyz:80/2FFC00/271506/664833
 
 #EXTINF:-1 tvg-id="TR ▎SMART SPOR 2 HD" tvg-logo="https://img.logo-cdn.cc/smartspor2.png" group-title="TÜRKÇE 3 TÜM KANALLAR", TR ▎SMART SPOR 2 HD
 http://line.ultrab.xyz:80/2FFC00/271506/664834
-
-#EXTINF:-1 tvg-id="TR ▎SOZCU TV SD" tvg-logo="https://img.logo-cdn.cc/sozcutv.png" group-title="TÜRKÇE 3 TÜM KANALLAR", TR ▎SOZCU TV SD
-http://line.ultrab.xyz:80/2FFC00/271506/756670
 
 #EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="https://img.logo-cdn.cc/sportstv.png" group-title="TÜRKÇE 3 TÜM KANALLAR", TR ▎SPORTS TV SD
 http://line.ultrab.xyz:80/2FFC00/271506/3466
