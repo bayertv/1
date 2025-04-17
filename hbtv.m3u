@@ -1,4 +1,2842 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Sky-Turk-360.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: 360 Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/273
+
+#EXTINF:-1 tvg-id="skyturk360.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Sky-Turk-360.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: 360 Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/290
+
+#EXTINF:-1 tvg-id="TR: 80's Hits HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: 80's Hits HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53606
+
+#EXTINF:-1 tvg-id="TR: 90's Hits HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: 90's Hits HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53605
+
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/ahbr_hd.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: A Haber HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/283
+
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/ahbr_hd.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: A Haber HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/298
+
+#EXTINF:-1 tvg-id="TR: A News HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/A-News-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: A News HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/292
+
+#EXTINF:-1 tvg-id="TR: A News HD+" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/A-News-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: A News HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12827
+
+#EXTINF:-1 tvg-id="TR: A Para HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/A-Para.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: A Para HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12821
+
+#EXTINF:-1 tvg-id="TR: A Para HD+" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/A-Para.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: A Para HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/282
+
+#EXTINF:-1 tvg-id="aspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/A-SPOR-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: A Spor HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/43
+
+#EXTINF:-1 tvg-id="aspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/A-SPOR-HEVC.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: A Spor HD Ⓗ②⑥⑤
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/213
+
+#EXTINF:-1 tvg-id="aspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/A-SPOR-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: A Spor HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/42
+
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/a2HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: A2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53
+
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/a2HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: A2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/64
+
+#EXTINF:-1 tvg-id="TR: Ada Tv Kıbrıs" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Ada-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ada Tv Kıbrıs
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3743
+
+#EXTINF:-1 tvg-id="TR: Adisebaba Masallar" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Adisebaba Masallar
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24818
+
+#EXTINF:-1 tvg-id="TR: Akit Tv HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/AKIT-TV-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Akit Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3754
+
+#EXTINF:-1 tvg-id="TR: Akit Tv HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/AKIT-TV-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Akit Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12819
+
+#EXTINF:-1 tvg-id="TR: Aksu Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/KAHRAMANMARA%C5%9E-Aksu-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Aksu Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8691
+
+#EXTINF:-1 tvg-id="TR: Alem Fm HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Alem Fm HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53621
+
+#EXTINF:-1 tvg-id="TR: Altas Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Altas-Tv-Ordu.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Altas Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12800
+
+#EXTINF:-1 tvg-id="TR: Anadolu Dernek Tv" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ANADOLU_DERNEK_SD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Anadolu Dernek Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/38973
+
+#EXTINF:-1 tvg-id="TR: Animaux HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/ANIMAUX.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Animaux HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25036
+
+#EXTINF:-1 tvg-id="TR: Arena Box Action" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Action
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50798
+
+#EXTINF:-1 tvg-id="TR: Arena Box Animasyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Animasyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50810
+
+#EXTINF:-1 tvg-id="TR: Arena Box Belgesel" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Belgesel
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50811
+
+#EXTINF:-1 tvg-id="TR: Arena Box Bilim Kurgu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Bilim Kurgu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50801
+
+#EXTINF:-1 tvg-id="TR: Arena Box Comedy" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Comedy
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50805
+
+#EXTINF:-1 tvg-id="TR: Arena Box Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50806
+
+#EXTINF:-1 tvg-id="TR: Arena Box Fantastic" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Fantastic
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50799
+
+#EXTINF:-1 tvg-id="TR: Arena Box Gerilim" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Gerilim
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50800
+
+#EXTINF:-1 tvg-id="TR: Arena Box Kemal Sunal" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Kemal Sunal
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50808
+
+#EXTINF:-1 tvg-id="TR: Arena Box Korku" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Korku
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50804
+
+#EXTINF:-1 tvg-id="TR: Arena Box Macera" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Macera
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50803
+
+#EXTINF:-1 tvg-id="TR: Arena Box Vizyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Vizyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50802
+
+#EXTINF:-1 tvg-id="TR: Arena Box Yerli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Yerli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50807
+
+#EXTINF:-1 tvg-id="TR: Arena Box Yeşilçam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Arena Box Yeşilçam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50809
+
+#EXTINF:-1 tvg-id="TR: Atv Avrupa HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/ATV-AVRUPA.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Atv Avrupa HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/77
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/atv-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Atv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/54
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/ATV-HEVC.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Atv HD Ⓗ②⑥⑤
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/212
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/atv-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Atv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/68
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/atv-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Atv SD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/45239
+
+#EXTINF:-1 tvg-id="TR: Avrasya Türk Fm" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Avrasya Türk Fm
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46245
+
+#EXTINF:-1 tvg-id="TR: Aşk Fm Ankara" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/ASK-FM.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Aşk Fm Ankara
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16504
+
+#EXTINF:-1 tvg-id="TR: Baba Radyo" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Baba Radyo
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46223
+
+#EXTINF:-1 tvg-id="TR: Baba Radyo HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Baba Radyo HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53632
+
+#EXTINF:-1 tvg-id="babytv.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/04/BABY-TV-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Baby Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/168
+
+#EXTINF:-1 tvg-id="TR: Bayram Fm Dini" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bayram Fm Dini
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46225
+
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/BBC-EARTH-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bbc Earth HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/263
+
+#EXTINF:-1 tvg-id="TR: Bein Connect 1 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/bein-connect.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Connect 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41795
+
+#EXTINF:-1 tvg-id="TR: Bein Connect 2 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/bein-connect.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Connect 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41796
+
+#EXTINF:-1 tvg-id="TR: Bein Connect 3 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/bein-connect.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Connect 3 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41797
+
+#EXTINF:-1 tvg-id="TR: Bein Connect 4 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/bein-connect.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Connect 4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41798
+
+#EXTINF:-1 tvg-id="TR: Bein Connect 5 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/bein-connect.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Connect 5 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41799
+
+#EXTINF:-1 tvg-id="TR: Bein Connect 6 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/bein-connect.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Connect 6 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41800
+
+#EXTINF:-1 tvg-id="TR: Bein Connect 7 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2022/10/bein-connect.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Connect 7 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53448
+
+#EXTINF:-1 tvg-id="TR: Bein Connect 8 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2022/10/bein-connect.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Connect 8 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53449
+
+#EXTINF:-1 tvg-id="TR: Bein Connect 9 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2022/10/bein-connect.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Connect 9 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53450
+
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-GURME-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Gurme HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/267
+
+#EXTINF:-1 tvg-id="TR: Bein H&E" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein H&E
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53729
+
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/bein-IZ-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein İz HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/265
+
+#EXTINF:-1 tvg-id="TR: Bein Movies Premiere HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Movies Premiere HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53725
+
+#EXTINF:-1 tvg-id="TR: Bein Movies Stars HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Movies Stars HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53726
+
+#EXTINF:-1 tvg-id="TR: Bein Movies Turk HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Movies Turk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/92957
+
+#EXTINF:-1 tvg-id="TR: Bein Series 1 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Series 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53727
+
+#EXTINF:-1 tvg-id="TR: Bein Series 2 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Series 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53728
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-SD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 1 (SD)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41218
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 1 Feed HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16536
+
+#EXTINF:-1 tvg-id="TR: Bein Sports 1 Feed HD+" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 1 Feed HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41219
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 1 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/26969
+
+#EXTINF:-1 tvg-id="TR: Bein Sports 1 FHD (HQ)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 1 FHD (HQ)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41227
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 1 HD (1920x1080)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/10
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-yedek-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 1 HD (HQ)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/26970
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 1 HD (VIP)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/52750
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-yedek-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 1 HD+ (1920x1080)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4817
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-Mobile.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 1 Mobil (480P)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-SD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 1 SD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/1284
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 1 UK
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16390
+
+#EXTINF:-1 tvg-id="TR: Bein Sports 2 FHD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 2 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50154
+
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-2-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/13
+
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-2-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 2 HD (S)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/9
+
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-2-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23893
+
+#EXTINF:-1 tvg-id="TR: Bein Sports 3 FHD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 3 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50155
+
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-3-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 3 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/15
+
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-3-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 3 HD  (S)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/14
+
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-3-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 3 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23894
+
+#EXTINF:-1 tvg-id="TR: Bein Sports 4 FHD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 4 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50156
+
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-4-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/17
+
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-4-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 4 HD  (S)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16
+
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-4-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 4 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23895
+
+#EXTINF:-1 tvg-id="TR: Bein Sports 5 FHD" tvg-logo="http://panelfx.xyz:80/images/mg9e4VnU5MiobcDarwnBsTI4xus1YIAOZbK41kaT3F0.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 5 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50157
+
+#EXTINF:-1 tvg-id="TR: Bein Sports 5 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/beIN-SPORTS-5-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports 5 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/42605
+
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-HABER-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports Haber HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/7
+
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-HABER-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports Haber HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/6
+
+#EXTINF:-1 tvg-id="TR: Bein Sports Max 1 FHD" tvg-logo="http://epg.localconectivity.net/LOGO/SPOR-TR/BSportMax2HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports Max 1 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50158
+
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-1-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports Max 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/19
+
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-1-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports Max 1 HD (S)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/18
+
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-1-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports Max 1 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23896
+
+#EXTINF:-1 tvg-id="TR: Bein Sports Max 2 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_max_2_2.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports Max 2 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50159
+
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-2-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports Max 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21
+
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-2-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports Max 2 HD (S)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/20
+
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-2-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports Max 2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23897
+
+#EXTINF:-1 tvg-id="TR: Bein Sports Yabanci" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-4-qa-fr.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bein Sports Yabanci
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93632
+
+#EXTINF:-1 tvg-id="TR: Bengütürk Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Benguturk.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bengütürk Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4978
+
+#EXTINF:-1 tvg-id="TR: Best Aksiyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Aksiyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41174
+
+#EXTINF:-1 tvg-id="TR: Best Animasyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Animasyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41175
+
+#EXTINF:-1 tvg-id="TR: Best Bilim Kurgu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Bilim Kurgu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41176
+
+#EXTINF:-1 tvg-id="TR: Best Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41177
+
+#EXTINF:-1 tvg-id="TR: Best Fm" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/bestfm.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Fm
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16505
+
+#EXTINF:-1 tvg-id="TR: Best Fm HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Fm HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53625
+
+#EXTINF:-1 tvg-id="TR: Best Imdb" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Imdb
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41178
+
+#EXTINF:-1 tvg-id="TR: Best Komedi" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Komedi
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41179
+
+#EXTINF:-1 tvg-id="TR: Best Korku" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Korku
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41180
+
+#EXTINF:-1 tvg-id="TR: Best Loca 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Loca 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41181
+
+#EXTINF:-1 tvg-id="TR: Best Loca 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Loca 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41182
+
+#EXTINF:-1 tvg-id="TR: Best Loca 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Loca 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41183
+
+#EXTINF:-1 tvg-id="TR: Best Salon 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Salon 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41184
+
+#EXTINF:-1 tvg-id="TR: Best Salon 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Salon 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41185
+
+#EXTINF:-1 tvg-id="TR: Best Salon 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Salon 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41186
+
+#EXTINF:-1 tvg-id="TR: Best Savas" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Savas
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41187
+
+#EXTINF:-1 tvg-id="TR: Best Turk" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Turk
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41188
+
+#EXTINF:-1 tvg-id="TR: Best Yesilcam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Best Yesilcam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41189
+
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/BEYAZTVNEW.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Beyaz Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/56
+
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/BEYAZTVNEW.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Beyaz Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/74
+
+#EXTINF:-1 tvg-id="TR: Bizim Ev Tv" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/BizimEvTV_Logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bizim Ev Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28837
+
+#EXTINF:-1 tvg-id="TR: Bloomberght HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/BLOOMBERG-HT.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bloomberght HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47379
+
+#EXTINF:-1 tvg-id="TR: Bloomberght HD+" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/BLOOMBERG-HT.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bloomberght HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47380
+
+#EXTINF:-1 tvg-id="TR: Blu Tv Play 1 HD" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/6295d4b4866ac31658881736.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Blu Tv Play 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53090
+
+#EXTINF:-1 tvg-id="TR: Blu Tv Play 2 HD" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/6295d42d866ac31658881732.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Blu Tv Play 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53091
+
+#EXTINF:-1 tvg-id="TR: Blues HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Blues HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53616
+
+#EXTINF:-1 tvg-id="boomerang.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/Boomerang.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Boomerang HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/169
+
+#EXTINF:-1 tvg-id="TR: Brt 1 HD Kıbrıs" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Brt-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Brt 1 HD Kıbrıs
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3747
+
+#EXTINF:-1 tvg-id="TR: Brt 2 HD Kıbrıs" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/BRT-2.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Brt 2 HD Kıbrıs
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3745
+
+#EXTINF:-1 tvg-id="TR: Brt 3 HD Kıbrıs" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/KIBRIS-BRT-3.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Brt 3 HD Kıbrıs
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/306
+
+#EXTINF:-1 tvg-id="TR: Bundesliga 2.Lig TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bundesliga 2.Lig TV HD (Mac Ozetleri)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99867
+
+#EXTINF:-1 tvg-id="TR: Bundesliga TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Bundesliga TV HD (Mac Ozetleri)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99866
+
+#EXTINF:-1 tvg-id="TR: By Horses Tv HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: By Horses Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53089
+
+#EXTINF:-1 tvg-id="TR: Byzbox Aci Hayat" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Aci Hayat
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53475
+
+#EXTINF:-1 tvg-id="TR: Byzbox Adile Nasit" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Adile Nasit
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53495
+
+#EXTINF:-1 tvg-id="TR: Byzbox Aksiyon 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Aksiyon 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53503
+
+#EXTINF:-1 tvg-id="TR: Byzbox Aksiyon 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Aksiyon 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53504
+
+#EXTINF:-1 tvg-id="TR: Byzbox Ariza" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Ariza
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53487
+
+#EXTINF:-1 tvg-id="TR: Byzbox Asmali Konak" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Asmali Konak
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53485
+
+#EXTINF:-1 tvg-id="TR: Byzbox Avrupa Yakasi" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Avrupa Yakasi
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53481
+
+#EXTINF:-1 tvg-id="TR: Byzbox Bilim Kurgu 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Bilim Kurgu 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53514
+
+#EXTINF:-1 tvg-id="TR: Byzbox Bilim Kurgu 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Bilim Kurgu 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53515
+
+#EXTINF:-1 tvg-id="TR: Byzbox Bilim Kurgu 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Bilim Kurgu 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53516
+
+#EXTINF:-1 tvg-id="TR: Byzbox Bollywood 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Bollywood 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53517
+
+#EXTINF:-1 tvg-id="TR: Byzbox Bollywood 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Bollywood 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53518
+
+#EXTINF:-1 tvg-id="TR: Byzbox Bollywood 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Bollywood 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53519
+
+#EXTINF:-1 tvg-id="TR: Byzbox Bollywood 4" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Bollywood 4
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53520
+
+#EXTINF:-1 tvg-id="TR: Byzbox Bollywood 5" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Bollywood 5
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53521
+
+#EXTINF:-1 tvg-id="TR: Byzbox Calikusu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Calikusu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53480
+
+#EXTINF:-1 tvg-id="TR: Byzbox Cennet Mahallesi" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Cennet Mahallesi
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53489
+
+#EXTINF:-1 tvg-id="TR: Byzbox Cicek Taksi" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Cicek Taksi
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53491
+
+#EXTINF:-1 tvg-id="TR: Byzbox Cocuklar Duymasin" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Cocuklar Duymasin
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53488
+
+#EXTINF:-1 tvg-id="TR: Byzbox Cuneyt Arkin" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Cuneyt Arkin
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53496
+
+#EXTINF:-1 tvg-id="TR: Byzbox Deli Yurek" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Deli Yurek
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53474
+
+#EXTINF:-1 tvg-id="TR: Byzbox Drama 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Drama 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53506
+
+#EXTINF:-1 tvg-id="TR: Byzbox Drama 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Drama 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53507
+
+#EXTINF:-1 tvg-id="TR: Byzbox Drama 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Drama 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53508
+
+#EXTINF:-1 tvg-id="TR: Byzbox Ezel" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Ezel
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53473
+
+#EXTINF:-1 tvg-id="TR: Byzbox Gerilim 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Gerilim 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53530
+
+#EXTINF:-1 tvg-id="TR: Byzbox Gerilim 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Gerilim 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53531
+
+#EXTINF:-1 tvg-id="TR: Byzbox Gerilim 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Gerilim 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53532
+
+#EXTINF:-1 tvg-id="TR: Byzbox Gerilim 4" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Gerilim 4
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53533
+
+#EXTINF:-1 tvg-id="TR: Byzbox Komedi 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Komedi 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53512
+
+#EXTINF:-1 tvg-id="TR: Byzbox Komedi 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Komedi 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53513
+
+#EXTINF:-1 tvg-id="TR: Byzbox Korku 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Korku 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53498
+
+#EXTINF:-1 tvg-id="TR: Byzbox Korku 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Korku 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53499
+
+#EXTINF:-1 tvg-id="TR: Byzbox Korku 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Korku 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53500
+
+#EXTINF:-1 tvg-id="TR: Byzbox Korku 4" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Korku 4
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53501
+
+#EXTINF:-1 tvg-id="TR: Byzbox Korku 5" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Korku 5
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53502
+
+#EXTINF:-1 tvg-id="TR: Byzbox Kurtlar Vadisi" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Kurtlar Vadisi
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53477
+
+#EXTINF:-1 tvg-id="TR: Byzbox Kurtlar Vadisi Pusu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Kurtlar Vadisi Pusu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53478
+
+#EXTINF:-1 tvg-id="TR: Byzbox Kuzey Guney" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Kuzey Guney
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53493
+
+#EXTINF:-1 tvg-id="TR: Byzbox Muhtesem Yuzyil" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Muhtesem Yuzyil
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53483
+
+#EXTINF:-1 tvg-id="TR: Byzbox Poyraz Karayel" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Poyraz Karayel
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53484
+
+#EXTINF:-1 tvg-id="TR: Byzbox Romantik 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Romantik 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53525
+
+#EXTINF:-1 tvg-id="TR: Byzbox Romantik 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Romantik 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53526
+
+#EXTINF:-1 tvg-id="TR: Byzbox Romantik 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Romantik 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53527
+
+#EXTINF:-1 tvg-id="TR: Byzbox Romantik 4" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Romantik 4
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53528
+
+#EXTINF:-1 tvg-id="TR: Byzbox Romantik 5" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Romantik 5
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53529
+
+#EXTINF:-1 tvg-id="TR: Byzbox Ruhsar" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Ruhsar
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53479
+
+#EXTINF:-1 tvg-id="TR: Byzbox Savas 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Savas 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53522
+
+#EXTINF:-1 tvg-id="TR: Byzbox Savas 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Savas 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53523
+
+#EXTINF:-1 tvg-id="TR: Byzbox Savas 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Savas 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53524
+
+#EXTINF:-1 tvg-id="TR: Byzbox Suskunlar" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Suskunlar
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53476
+
+#EXTINF:-1 tvg-id="TR: Byzbox Turk Mali" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Turk Mali
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53482
+
+#EXTINF:-1 tvg-id="TR: Byzbox Ulan Istanbul" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Ulan Istanbul
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53494
+
+#EXTINF:-1 tvg-id="TR: Byzbox Yabanci Damat" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Yabanci Damat
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53490
+
+#EXTINF:-1 tvg-id="TR: Byzbox Yaprak Dokumu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Yaprak Dokumu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53486
+
+#EXTINF:-1 tvg-id="TR: Byzbox Yerli 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Yerli 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53509
+
+#EXTINF:-1 tvg-id="TR: Byzbox Yerli 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Yerli 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53510
+
+#EXTINF:-1 tvg-id="TR: Byzbox Yerli 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Yerli 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53511
+
+#EXTINF:-1 tvg-id="TR: Byzbox Yesilcam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Yesilcam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53497
+
+#EXTINF:-1 tvg-id="TR: Byzbox Yilan Hikayesi" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Byzbox Yilan Hikayesi
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53492
+
+#EXTINF:-1 tvg-id="TR: Camia Tv" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/camia-tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Camia Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/22505
+
+#EXTINF:-1 tvg-id="TR: Can Radyo" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/CAN-RADYO.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Can Radyo
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16501
+
+#EXTINF:-1 tvg-id="TR: Can Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Can-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Can Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/2215
+
+#EXTINF:-1 tvg-id="TR: Canım Kardeşim Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Canim-Kardesim.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Canım Kardeşim Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24843
+
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/cartoon_network.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Cartoon Network HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/157
+
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/cartoon_network.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Cartoon Network HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/170
+
+#EXTINF:-1 tvg-id="cbeebies.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/bbc-cbebies.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Cbeebies Bbc Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/166
+
+#EXTINF:-1 tvg-id="TR: Cem Tv HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Cem-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Cem Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12850
+
+#EXTINF:-1 tvg-id="TR: Chasse Peche HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/chasse.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Chasse Peche HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25035
+
+#EXTINF:-1 tvg-id="TR: Cnbc-e HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Cnbc-e HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93024
+
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/CNN-TURK-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Cnn Türk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/285
+
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/CNN-TURK-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Cnn Türk HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/299
+
+#EXTINF:-1 tvg-id="TR: Concerts HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Concerts HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53600
+
+#EXTINF:-1 tvg-id="davinci.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/da_vinci_new.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Da Vinci Kids HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/167
+
+#EXTINF:-1 tvg-id="TR: Deha Denizli Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2022/12/DEHA_TV_SD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Deha Denizli Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/45251
+
+#EXTINF:-1 tvg-id="TR: Dia Barbie" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/BARBIE-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Barbie
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24828
+
+#EXTINF:-1 tvg-id="TR: Dia Booba Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Booba.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Booba Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24825
+
+#EXTINF:-1 tvg-id="TR: Dia Cocuk 10 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Cocuk 10 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41131
+
+#EXTINF:-1 tvg-id="TR: Dia Cocuk 2 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Cocuk 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41123
+
+#EXTINF:-1 tvg-id="TR: Dia Cocuk 3 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Cocuk 3 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41124
+
+#EXTINF:-1 tvg-id="TR: Dia Cocuk 4 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Cocuk 4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41125
+
+#EXTINF:-1 tvg-id="TR: Dia Cocuk 5 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Cocuk 5 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41126
+
+#EXTINF:-1 tvg-id="TR: Dia Cocuk 6 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Cocuk 6 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41127
+
+#EXTINF:-1 tvg-id="TR: Dia Cocuk 7 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Cocuk 7 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41128
+
+#EXTINF:-1 tvg-id="TR: Dia Cocuk 8 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Cocuk 8 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41129
+
+#EXTINF:-1 tvg-id="TR: Dia Cocuk 9 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Cocuk 9 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41130
+
+#EXTINF:-1 tvg-id="TR: Dia Doru" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Doru
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24841
+
+#EXTINF:-1 tvg-id="TR: Dia Ege İle Gaga" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Ege İle Gaga
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24834
+
+#EXTINF:-1 tvg-id="TR: Dia Elifin Düşler" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Elifin-Dusleri.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Elifin Düşler
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24836
+
+#EXTINF:-1 tvg-id="TR: Dia Hapsuu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Hapsuu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24833
+
+#EXTINF:-1 tvg-id="TR: Dia Kare" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Kare
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24840
+
+#EXTINF:-1 tvg-id="TR: Dia Keloğlan" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Keloglan-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Keloğlan
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24839
+
+#EXTINF:-1 tvg-id="TR: Dia Konuşan Tom" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Konuşan Tom
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24831
+
+#EXTINF:-1 tvg-id="TR: Dia Kral Şakir" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kral-Sakir.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Kral Şakir
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24829
+
+#EXTINF:-1 tvg-id="TR: Dia Kuzucuk" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Kuzucuk
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24838
+
+#EXTINF:-1 tvg-id="TR: Dia Masal" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Masal-Tv-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Masal
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24837
+
+#EXTINF:-1 tvg-id="TR: Dia Pepe Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Pepee-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Pepe Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24830
+
+#EXTINF:-1 tvg-id="TR: Dia Peppa Pig" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Peppa-Pig.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Peppa Pig
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24826
+
+#EXTINF:-1 tvg-id="TR: Dia Tom ve Jerry" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Tom-ve-Jerry.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Tom ve Jerry
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24832
+
+#EXTINF:-1 tvg-id="TR: Dia Yesilcam 1 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Yesilcam 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41113
+
+#EXTINF:-1 tvg-id="TR: Dia Yesilcam 10 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Yesilcam 10 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41122
+
+#EXTINF:-1 tvg-id="TR: Dia Yesilcam 2 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Yesilcam 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41114
+
+#EXTINF:-1 tvg-id="TR: Dia Yesilcam 3 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Yesilcam 3 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41115
+
+#EXTINF:-1 tvg-id="TR: Dia Yesilcam 4 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Yesilcam 4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41116
+
+#EXTINF:-1 tvg-id="TR: Dia Yesilcam 5 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Yesilcam 5 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41117
+
+#EXTINF:-1 tvg-id="TR: Dia Yesilcam 6 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Yesilcam 6 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41118
+
+#EXTINF:-1 tvg-id="TR: Dia Yesilcam 7 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Yesilcam 7 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41119
+
+#EXTINF:-1 tvg-id="TR: Dia Yesilcam 8 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Yesilcam 8 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41120
+
+#EXTINF:-1 tvg-id="TR: Dia Yesilcam 9 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Yesilcam 9 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41121
+
+#EXTINF:-1 tvg-id="TR: Dia Şirinler" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Sirinler-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dia Şirinler
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24835
+
+#EXTINF:-1 tvg-id="TR: Dinamik Aksiyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Aksiyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41132
+
+#EXTINF:-1 tvg-id="TR: Dinamik Animasyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Animasyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41133
+
+#EXTINF:-1 tvg-id="TR: Dinamik Bilim Kurgu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Bilim Kurgu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41134
+
+#EXTINF:-1 tvg-id="TR: Dinamik Box-Set" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Box-Set
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41135
+
+#EXTINF:-1 tvg-id="TR: Dinamik Dini" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Dini
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41136
+
+#EXTINF:-1 tvg-id="TR: Dinamik Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41137
+
+#EXTINF:-1 tvg-id="TR: Dinamik Hababam Sınıfı" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Hababam Sınıfı
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41138
+
+#EXTINF:-1 tvg-id="TR: Dinamik Hint" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Hint
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41139
+
+#EXTINF:-1 tvg-id="TR: Dinamik Imdb" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Imdb
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41140
+
+#EXTINF:-1 tvg-id="TR: Dinamik Kemal Sunal" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Kemal Sunal
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41141
+
+#EXTINF:-1 tvg-id="TR: Dinamik Komedi" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Komedi
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41142
+
+#EXTINF:-1 tvg-id="TR: Dinamik Korku" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Korku
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41143
+
+#EXTINF:-1 tvg-id="TR: Dinamik Loca 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Loca 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41144
+
+#EXTINF:-1 tvg-id="TR: Dinamik Loca 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Loca 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41145
+
+#EXTINF:-1 tvg-id="TR: Dinamik Loca 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Loca 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41146
+
+#EXTINF:-1 tvg-id="TR: Dinamik Marvel" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Marvel
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41147
+
+#EXTINF:-1 tvg-id="TR: Dinamik Salon 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Salon 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41148
+
+#EXTINF:-1 tvg-id="TR: Dinamik Salon 10" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Salon 10
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41157
+
+#EXTINF:-1 tvg-id="TR: Dinamik Salon 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Salon 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41149
+
+#EXTINF:-1 tvg-id="TR: Dinamik Salon 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Salon 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41150
+
+#EXTINF:-1 tvg-id="TR: Dinamik Salon 4" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Salon 4
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41151
+
+#EXTINF:-1 tvg-id="TR: Dinamik Salon 5" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Salon 5
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41152
+
+#EXTINF:-1 tvg-id="TR: Dinamik Salon 6" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Salon 6
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41153
+
+#EXTINF:-1 tvg-id="TR: Dinamik Salon 7" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Salon 7
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41154
+
+#EXTINF:-1 tvg-id="TR: Dinamik Salon 8" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Salon 8
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41155
+
+#EXTINF:-1 tvg-id="TR: Dinamik Salon 9" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Salon 9
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41156
+
+#EXTINF:-1 tvg-id="TR: Dinamik Savas" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Savas
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41158
+
+#EXTINF:-1 tvg-id="TR: Dinamik Sener Sen" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Sener Sen
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41159
+
+#EXTINF:-1 tvg-id="TR: Dinamik Turk" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Turk
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41160
+
+#EXTINF:-1 tvg-id="TR: Dinamik Uzakdogu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Uzakdogu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41161
+
+#EXTINF:-1 tvg-id="TR: Dinamik Vizyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Vizyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41162
+
+#EXTINF:-1 tvg-id="TR: Dinamik Western" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Western
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41163
+
+#EXTINF:-1 tvg-id="TR: Dinamik Yesilcam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dinamik Yesilcam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41164
+
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/DISCOVERY-CHANNEL-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Discovery Channel HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/260
+
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/DISCOVERY-CHANNEL-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Discovery Channel HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28392
+
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/DISCOVERY-IDX-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Discovery ID HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28394
+
+#EXTINF:-1 tvg-id="disneyjunior.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/20210309_DisneyJunior_Logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Disney Jr HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/164
+
+#EXTINF:-1 tvg-id="TR: Diyanet Kuran Meali Canlı" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Diyanet Kuran Meali Canlı
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46238
+
+#EXTINF:-1 tvg-id="TR: Diyanet Radyo" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Diyanet Radyo
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46224
+
+#EXTINF:-1 tvg-id="trtdiyanet.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/diyanettv_logonew.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Diyanet Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/233
+
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-logo="NXT" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dizi Smart Max HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/195
+
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dizi Smart Premium HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/194
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/DMAX-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dmax HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/266
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/DMAX-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dmax HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/268
+
+#EXTINF:-1 tvg-id="TR: Docubox HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/docu_box_hd.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Docubox HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53284
+
+#EXTINF:-1 tvg-id="docubox.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/DocuBox-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Docubox HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28396
+
+#EXTINF:-1 tvg-id="dosttv.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Dost-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dost Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/237
+
+#EXTINF:-1 tvg-id="TR: Dream Box Action" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Action
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50876
+
+#EXTINF:-1 tvg-id="TR: Dream Box Bilim Kurgu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Bilim Kurgu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50877
+
+#EXTINF:-1 tvg-id="TR: Dream Box Comedy" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Comedy
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50879
+
+#EXTINF:-1 tvg-id="TR: Dream Box Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50881
+
+#EXTINF:-1 tvg-id="TR: Dream Box Fantastic" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Fantastic
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50878
+
+#EXTINF:-1 tvg-id="TR: Dream Box Gerilim" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Gerilim
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50883
+
+#EXTINF:-1 tvg-id="TR: Dream Box Kemal Sunal" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Kemal Sunal
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50887
+
+#EXTINF:-1 tvg-id="TR: Dream Box Korku" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Korku
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50880
+
+#EXTINF:-1 tvg-id="TR: Dream Box Macera" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Macera
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50882
+
+#EXTINF:-1 tvg-id="TR: Dream Box Netflix" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Netflix
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50889
+
+#EXTINF:-1 tvg-id="TR: Dream Box Romantic" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Romantic
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50885
+
+#EXTINF:-1 tvg-id="TR: Dream Box Savaş" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Savaş
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50884
+
+#EXTINF:-1 tvg-id="TR: Dream Box Yerli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Yerli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50886
+
+#EXTINF:-1 tvg-id="TR: Dream Box Yeşilçam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dream Box Yeşilçam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50888
+
+#EXTINF:-1 tvg-id="TR: Dreamy HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Dreamy HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53612
+
+#EXTINF:-1 tvg-id="TR: Duck Tv HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/DUCK.TV2_.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Duck Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/9373
+
+#EXTINF:-1 tvg-id="TR: E! Entertainment HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/E-Entertainment-HEVC.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: E! Entertainment HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28838
+
+#EXTINF:-1 tvg-id="TR: Easy Listening HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Easy Listening HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53614
+
+#EXTINF:-1 tvg-id="TR: Edessa Tv" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/edessa-tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Edessa Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/120
+
+#EXTINF:-1 tvg-id="TR: Efkar Radyo" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Efkar Radyo
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46229
+
+#EXTINF:-1 tvg-id="TR: Ekin Türk HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/ekinturk.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ekin Türk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16431
+
+#EXTINF:-1 tvg-id="TR: Ekol Tv HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ekol Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93743
+
+#EXTINF:-1 tvg-id="TR: Ekol Tv HD+" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ekol Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12808
+
+#EXTINF:-1 tvg-id="ekoturk.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/EkoTurk_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: EkoTürk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/280
+
+#EXTINF:-1 tvg-id="ekoturk.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/EkoTurk_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: EkoTürk HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12860
+
+#EXTINF:-1 tvg-id="TR: Energetic HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Energetic HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53613
+
+#EXTINF:-1 tvg-id="TR: Epic Drama HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Epic Drama HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/51045
+
+#EXTINF:-1 tvg-id="TR: Er Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/MALATYA-ER-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Er Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12829
+
+#EXTINF:-1 tvg-id="TR: Es Tv" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/es-tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Es Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/117
+
+#EXTINF:-1 tvg-id="TR: Eskişehir 26 Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/ESKISEHIR-KANAL-26.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Eskişehir 26 Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12831
+
+#EXTINF:-1 tvg-id="TR: Euro D HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/kanal_d.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Euro D HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50
+
+#EXTINF:-1 tvg-id="TR: Euro Star HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/star_tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Euro Star HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/78
+
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/EUROSPORT-1-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Eurosport 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/37
+
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/EUROSPORT-2-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Eurosport 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/38
+
+#EXTINF:-1 tvg-id="TR: Eva TV" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Vatan-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Eva TV
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/1938
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 1 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28077
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 1 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 1 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25699
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 1 SD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 1 SD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25697
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 2 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28217
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 2 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25700
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 3 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 3 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28218
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 3 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 3 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25701
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 4 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28219
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 4 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 4 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25702
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 5 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 5 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28220
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 5 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 5 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25703
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 6 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 6 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28221
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 6 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 6 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25704
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 7 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 7 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25692
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 7 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 7 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25705
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 8 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 8 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25693
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 8 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Exxen Spor 8 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25706
+
+#EXTINF:-1 tvg-id="TR: Eşkiya Dünyaya Hükümdar Olmaz 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Eşkiya Dünyaya Hükümdar Olmaz 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49253
+
+#EXTINF:-1 tvg-id="TR: Eşkiya Dünyaya Hükümdar Olmaz 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Eşkiya Dünyaya Hükümdar Olmaz 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49254
+
+#EXTINF:-1 tvg-id="TR: Fashion Tv" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/fashion_tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fashion Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28834
+
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/FB-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: FB Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/45
+
+#EXTINF:-1 tvg-id="TR: Fenomen Radyo" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/FENOMEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fenomen Radyo
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16506
+
+#EXTINF:-1 tvg-id="TR: Fenomen Rap" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/FENOMEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fenomen Rap
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16507
+
+#EXTINF:-1 tvg-id="TR: Fenomen Türk" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/FENOMEN-TURK.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fenomen Türk
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16508
+
+#EXTINF:-1 tvg-id="TR: FerBox IMDb 100" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: FerBox IMDb 100
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/85141
+
+#EXTINF:-1 tvg-id="TR: Fight Box HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/FightBox.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fight Box HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28953
+
+#EXTINF:-1 tvg-id="TR: Fight Network HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/fight_network.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fight Network HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28952
+
+#EXTINF:-1 tvg-id="TR: Film Box Action" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Film Box Action
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50922
+
+#EXTINF:-1 tvg-id="TR: Film Box Comedy" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Film Box Comedy
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50926
+
+#EXTINF:-1 tvg-id="TR: Film Box Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Film Box Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50927
+
+#EXTINF:-1 tvg-id="TR: Film Box Family" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Film Box Family
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50924
+
+#EXTINF:-1 tvg-id="TR: Film Box Fantastic" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Film Box Fantastic
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50923
+
+#EXTINF:-1 tvg-id="TR: Film Box Horror" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Film Box Horror
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50925
+
+#EXTINF:-1 tvg-id="TR: Film Box Kemal Sunal" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Film Box Kemal Sunal
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50930
+
+#EXTINF:-1 tvg-id="TR: Film Box Sci-fi" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Film Box Sci-fi
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50928
+
+#EXTINF:-1 tvg-id="TR: Film Box Yerli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Film Box Yerli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50929
+
+#EXTINF:-1 tvg-id="TR: Film Box Yeşilçam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Film Box Yeşilçam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50931
+
+#EXTINF:-1 tvg-id="TR: Fix Cinema Action" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fix Cinema Action
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50812
+
+#EXTINF:-1 tvg-id="TR: Fix Cinema Bilimkurgu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fix Cinema Bilimkurgu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50813
+
+#EXTINF:-1 tvg-id="TR: Fix Cinema Comedy" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fix Cinema Comedy
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50814
+
+#EXTINF:-1 tvg-id="TR: Fix Cinema Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fix Cinema Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50815
+
+#EXTINF:-1 tvg-id="TR: Fix Cinema Fantastic" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fix Cinema Fantastic
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50816
+
+#EXTINF:-1 tvg-id="TR: Fix Cinema Korku" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fix Cinema Korku
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50817
+
+#EXTINF:-1 tvg-id="TR: Fix Cinema Macera" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fix Cinema Macera
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50818
+
+#EXTINF:-1 tvg-id="TR: Fix Cinema Netflix" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fix Cinema Netflix
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50819
+
+#EXTINF:-1 tvg-id="TR: Fix Cinema Yerli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fix Cinema Yerli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50820
+
+#EXTINF:-1 tvg-id="TR: Fix Cinema Yesilcam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fix Cinema Yesilcam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50821
+
+#EXTINF:-1 tvg-id="TR: Flash Tv HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/flashtv-logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Flash Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/26826
+
+#EXTINF:-1 tvg-id="TR: Flash Tv HD+" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/flashtv-logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Flash Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46260
+
+#EXTINF:-1 tvg-id="TR: Fransa Ligue1 TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fransa Ligue1 TV HD (Mac Ozetleri)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99869
+
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-logo="http://epg.localconectivity.net/LOGO/ULUSAL-TR/FxHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fx HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/181
+
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Fx HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12988
+
+#EXTINF:-1 tvg-id="TR: Gaziantep Olay Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/GAZIANTEP-OLAY-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Gaziantep Olay Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12834
+
+#EXTINF:-1 tvg-id="TR: Global Box Action" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Global Box Action
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50907
+
+#EXTINF:-1 tvg-id="TR: Global Box Comedy" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Global Box Comedy
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50910
+
+#EXTINF:-1 tvg-id="TR: Global Box Disney +" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Global Box Disney +
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50916
+
+#EXTINF:-1 tvg-id="TR: Global Box Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Global Box Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50911
+
+#EXTINF:-1 tvg-id="TR: Global Box Fantastic" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Global Box Fantastic
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50909
+
+#EXTINF:-1 tvg-id="TR: Global Box Kemal Sunal" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Global Box Kemal Sunal
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50913
+
+#EXTINF:-1 tvg-id="TR: Global Box Korku" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Global Box Korku
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50908
+
+#EXTINF:-1 tvg-id="TR: Global Box Vizyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Global Box Vizyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50912
+
+#EXTINF:-1 tvg-id="TR: Global Box Yerli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Global Box Yerli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50914
+
+#EXTINF:-1 tvg-id="TR: Global Box Yeşilçam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Global Box Yeşilçam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50915
+
+#EXTINF:-1 tvg-id="TR: Gold Cinema Aksiyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Gold Cinema Aksiyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41107
+
+#EXTINF:-1 tvg-id="TR: Gold Cinema Animasyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Gold Cinema Animasyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41108
+
+#EXTINF:-1 tvg-id="TR: Gold Cinema Bilim Kurgu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Gold Cinema Bilim Kurgu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41109
+
+#EXTINF:-1 tvg-id="TR: Gold Cinema Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Gold Cinema Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41110
+
+#EXTINF:-1 tvg-id="TR: Gold Cinema Macera" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Gold Cinema Macera
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41111
+
+#EXTINF:-1 tvg-id="TR: Gold Cinema Yerli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Gold Cinema Yerli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41112
+
+#EXTINF:-1 tvg-id="gstv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/GS-TV-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: GS Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/44
+
+#EXTINF:-1 tvg-id="TR: Güldür Güldür 2019 Skeçler-1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Güldür Güldür 2019 Skeçler-1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49185
+
+#EXTINF:-1 tvg-id="TR: Güldür Güldür 2019 Skeçler-2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Güldür Güldür 2019 Skeçler-2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49186
+
+#EXTINF:-1 tvg-id="TR: Güldür Güldür 2020 Skeçler-1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Güldür Güldür 2020 Skeçler-1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49247
+
+#EXTINF:-1 tvg-id="TR: Güldür Güldür 2020 Skeçler-2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Güldür Güldür 2020 Skeçler-2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49248
+
+#EXTINF:-1 tvg-id="TR: Güldür Güldür 2021 Skeçler-1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Güldür Güldür 2021 Skeçler-1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49245
+
+#EXTINF:-1 tvg-id="TR: Güldür Güldür 2021 Skeçler-2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Güldür Güldür 2021 Skeçler-2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49246
+
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Haber-Global.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Haber Global HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/284
+
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Haber-Global.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Haber Global HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/294
+
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/HB-NEW.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Haber Türk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/286
+
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/HB-NEW.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Haber Türk HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/300
+
+#EXTINF:-1 tvg-id="TR: Habitat HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/habitat_tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Habitat HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23725
+
+#EXTINF:-1 tvg-id="halk.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Halk-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Halk Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46338
+
+#EXTINF:-1 tvg-id="halk.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Halk-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Halk Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/1134
+
+#EXTINF:-1 tvg-id="halk.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Halk-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Halk Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46339
+
+#EXTINF:-1 tvg-id="halk.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Halk-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Halk Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/277
+
+#EXTINF:-1 tvg-id="TR: Happy HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Happy HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53607
+
+#EXTINF:-1 tvg-id="TR: Hip Hop HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Hip Hop HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53619
+
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/history_hd.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: History HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/264
+
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/history_hd.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: History HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41644
+
+#EXTINF:-1 tvg-id="TR: Horror Box 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Horror Box 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50917
+
+#EXTINF:-1 tvg-id="TR: Horror Box 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Horror Box 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50918
+
+#EXTINF:-1 tvg-id="TR: Horror Box 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Horror Box 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50919
+
+#EXTINF:-1 tvg-id="TR: Horror Box 4" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Horror Box 4
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50920
+
+#EXTINF:-1 tvg-id="TR: Horror Box 5" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Horror Box 5
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50921
+
+#EXTINF:-1 tvg-id="TR: Hottest Hits HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Hottest Hits HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53601
+
+#EXTINF:-1 tvg-id="TR: Ht Premium Kids" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ht Premium Kids
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24819
+
+#EXTINF:-1 tvg-id="TR: Ht Spor HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ht Spor HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93899
+
+#EXTINF:-1 tvg-id="TR: Ht Spor HD+" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ht Spor HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93900
+
+#EXTINF:-1 tvg-id="TR: In Love HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: In Love HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53608
+
+#EXTINF:-1 tvg-id="TR: International HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: International HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53603
+
+#EXTINF:-1 tvg-id="TR: İbb TV" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: İbb TV
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53020
+
+#EXTINF:-1 tvg-id="TR: Joy Fm HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Joy Fm HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53634
+
+#EXTINF:-1 tvg-id="TR: Joy Türk" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/joyturk.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Joy Türk
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16502
+
+#EXTINF:-1 tvg-id="TR: Joyturk Fm HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Joyturk Fm HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53623
+
+#EXTINF:-1 tvg-id="TR: Kabe Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/Kabe-TV-Canl%C4%B1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kabe Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/6036
+
+#EXTINF:-1 tvg-id="TR: Kafa Radyo HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kafa Radyo HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53624
+
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/24-TV-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 24 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/289
+
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/24-TV-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 24 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12835
+
+#EXTINF:-1 tvg-id="TR: Kanal 26" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/ESKISEHIR-KANAL-26.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 26
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12843
+
+#EXTINF:-1 tvg-id="TR: Kanal 3" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kanal-3-Isparta.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12837
+
+#EXTINF:-1 tvg-id="TR: Kanal 3 Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kanal-3-Isparta.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 3 Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3752
+
+#EXTINF:-1 tvg-id="TR: Kanal 32 Isparta" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/kanal32.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 32 Isparta
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/13794
+
+#EXTINF:-1 tvg-id="TR: Kanal 33 Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/MERSIN-KANAL-33.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 33 Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/136
+
+#EXTINF:-1 tvg-id="TR: Kanal 42 Tv" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/kanal42.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 42 Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/29103
+
+#EXTINF:-1 tvg-id="TR: Kanal 58 Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kanal-58.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 58 Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12839
+
+#EXTINF:-1 tvg-id="TR: Kanal 68 Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/AKSARAY-KANAL-68.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 68 Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12810
+
+#EXTINF:-1 tvg-id="TR: Kanal 7 Avrupa HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kanal-7-Avrupa.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 7 Avrupa HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/14931
+
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/kanal7.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 7 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/57
+
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/kanal7.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal 7 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/75
+
+#EXTINF:-1 tvg-id="TR: Kanal Avrupa Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kanal-Avrupa.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal Avrupa Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/135
+
+#EXTINF:-1 tvg-id="kanalb.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kanal-B-150x150.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal B
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/81
+
+#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/kanal_d.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal D HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/62
+
+#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/KANAL-D-HEVC.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal D HD Ⓗ②⑥⑤
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/215
+
+#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/kanal_d.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal D HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/67
+
+#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/kanal_d.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal D SD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/45240
+
+#EXTINF:-1 tvg-id="TR: Kanal Fırat Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kanal-Firat-Elazig.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal Fırat Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12805
+
+#EXTINF:-1 tvg-id="TR: Kanal T Kıbrıs" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/KIBRIS-KANAL-T.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal T Kıbrıs
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3744
+
+#EXTINF:-1 tvg-id="TR: Kanal V" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/KANAL-V.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal V
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12801
+
+#EXTINF:-1 tvg-id="TR: Kanal V" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/KANAL-V.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kanal V
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12844
+
+#EXTINF:-1 tvg-id="TR: Karadeniz Fm" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/KARADENIZ-FM.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Karadeniz Fm
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16509
+
+#EXTINF:-1 tvg-id="TR: Kardelen Tv" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/kardelen-tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kardelen Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12840
+
+#EXTINF:-1 tvg-id="TR: Kayseri Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kayseri-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kayseri Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3751
+
+#EXTINF:-1 tvg-id="TR: Kemal Sunal 1 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kemal Sunal 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8694
+
+#EXTINF:-1 tvg-id="TR: Kemal Sunal 2 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kemal Sunal 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8695
+
+#EXTINF:-1 tvg-id="TR: Kemal Sunal Tv" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kemal Sunal Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8693
+
+#EXTINF:-1 tvg-id="TR: Kent Türk Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/KAYSERI-KENT-TURK.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kent Türk Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8692
+
+#EXTINF:-1 tvg-id="TR: Kent Türk Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/KAYSERI-KENT-TURK.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kent Türk Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12845
+
+#EXTINF:-1 tvg-id="TR: King Box Action" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: King Box Action
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50822
+
+#EXTINF:-1 tvg-id="TR: King Box Bilim Kurgu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: King Box Bilim Kurgu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50823
+
+#EXTINF:-1 tvg-id="TR: King Box Comedy" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: King Box Comedy
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50826
+
+#EXTINF:-1 tvg-id="TR: King Box Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: King Box Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50827
+
+#EXTINF:-1 tvg-id="TR: King Box Fantastic" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: King Box Fantastic
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50824
+
+#EXTINF:-1 tvg-id="TR: King Box Kemal Sunal" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: King Box Kemal Sunal
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50829
+
+#EXTINF:-1 tvg-id="TR: King Box Macera" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: King Box Macera
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50825
+
+#EXTINF:-1 tvg-id="TR: King Box Yerli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: King Box Yerli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50828
+
+#EXTINF:-1 tvg-id="TR: King Box Yeşilçam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: King Box Yeşilçam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50830
+
+#EXTINF:-1 tvg-id="TR: KingBox Action" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: KingBox Action
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/85139
+
+#EXTINF:-1 tvg-id="TR: KingBox Action 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: KingBox Action 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/85140
+
+#EXTINF:-1 tvg-id="TR: KingBox Boxset" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: KingBox Boxset
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/85132
+
+#EXTINF:-1 tvg-id="TR: KingBox Gold" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: KingBox Gold
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/85137
+
+#EXTINF:-1 tvg-id="TR: KingBox Gold 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: KingBox Gold 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/85138
+
+#EXTINF:-1 tvg-id="TR: KingBox Prime" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: KingBox Prime
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/85135
+
+#EXTINF:-1 tvg-id="TR: KingBox Prime 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: KingBox Prime 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/85136
+
+#EXTINF:-1 tvg-id="TR: KingBox Recep Ivedik" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: KingBox Recep Ivedik
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/85131
+
+#EXTINF:-1 tvg-id="TR: KingBox Turk" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: KingBox Turk
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/85133
+
+#EXTINF:-1 tvg-id="TR: KingBox Turk 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: KingBox Turk 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/85134
+
+#EXTINF:-1 tvg-id="TR: Kocaeli Tv" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/12/kocaelitv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kocaeli Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/45382
+
+#EXTINF:-1 tvg-id="TR: Kon Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/KONYA-KON-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kon Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/6035
+
+#EXTINF:-1 tvg-id="TR: Konuşanlar | Mix" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Konuşanlar | Mix
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49204
+
+#EXTINF:-1 tvg-id="TR: Koza Tv HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KOZA_SD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Koza Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93556
+
+#EXTINF:-1 tvg-id="TR: Kral Fm" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/kralfm.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kral Fm
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16510
+
+#EXTINF:-1 tvg-id="TR: Kral Fm HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kral Fm HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53630
+
+#EXTINF:-1 tvg-id="TR: Kral Pop Fm" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kral Pop Fm
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46218
+
+#EXTINF:-1 tvg-id="kralpop.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kral-Pop.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kral Pop HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/1941
+
+#EXTINF:-1 tvg-id="TR: Kral Pop HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kral Pop HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53626
+
+#EXTINF:-1 tvg-id="TR: Kral Tv HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kral-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kral Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/246
+
+#EXTINF:-1 tvg-id="TR: Krt Tv HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/KRT-TV-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Krt Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/278
+
+#EXTINF:-1 tvg-id="krt.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/KRT-TV-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Krt Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46259
+
+#EXTINF:-1 tvg-id="TR: Kudus Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kudus-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kudus Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/239
+
+#EXTINF:-1 tvg-id="TR: Kukuli Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Kukuli-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kukuli Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24817
+
+#EXTINF:-1 tvg-id="TR: Köy Tv" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/koy_tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Köy Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/9546
+
+#EXTINF:-1 tvg-id="TR: Kıbrıs Genç Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/TR-Kibris-Genc-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kıbrıs Genç Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3742
+
+#EXTINF:-1 tvg-id="TR: Kıbrıs Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2019/11/Kibris-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Kıbrıs Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3740
+
+#EXTINF:-1 tvg-id="TR: Lalegül Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Lalegul-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lalegül Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/241
+
+#EXTINF:-1 tvg-id="TR: Latin HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Latin HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53618
+
+#EXTINF:-1 tvg-id="liderhaber.tv" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lider Haber HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/52873
+
+#EXTINF:-1 tvg-id="TR: Limon İle Zeytin" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Limon-ile-Zeytin-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Limon İle Zeytin
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24824
+
+#EXTINF:-1 tvg-id="TR: Line Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/BURSA-LINE-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Line Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/123
+
+#EXTINF:-1 tvg-id="TR: Lionbox Cem Yılmaz" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Cem Yılmaz
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49283
+
+#EXTINF:-1 tvg-id="TR: Lionbox Chucky" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Chucky
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49284
+
+#EXTINF:-1 tvg-id="TR: Lionbox Cüneyt Arkın 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Cüneyt Arkın 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49285
+
+#EXTINF:-1 tvg-id="TR: Lionbox Cüneyt Arkın 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Cüneyt Arkın 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49286
+
+#EXTINF:-1 tvg-id="TR: Lionbox Dublaj 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Dublaj 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49287
+
+#EXTINF:-1 tvg-id="TR: Lionbox Dublaj 10" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Dublaj 10
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49288
+
+#EXTINF:-1 tvg-id="TR: Lionbox Dublaj 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Dublaj 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49289
+
+#EXTINF:-1 tvg-id="TR: Lionbox Dublaj 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Dublaj 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49290
+
+#EXTINF:-1 tvg-id="TR: Lionbox Dublaj 4" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Dublaj 4
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49291
+
+#EXTINF:-1 tvg-id="TR: Lionbox Dublaj 5" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Dublaj 5
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49292
+
+#EXTINF:-1 tvg-id="TR: Lionbox Dublaj 6" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Dublaj 6
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49293
+
+#EXTINF:-1 tvg-id="TR: Lionbox Dublaj 7" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Dublaj 7
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49294
+
+#EXTINF:-1 tvg-id="TR: Lionbox Dublaj 8" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Dublaj 8
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49295
+
+#EXTINF:-1 tvg-id="TR: Lionbox Dublaj 9" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Dublaj 9
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49296
+
+#EXTINF:-1 tvg-id="TR: Lionbox Evliya" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Evliya
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49297
+
+#EXTINF:-1 tvg-id="TR: Lionbox Fast & Furious" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Fast & Furious
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49298
+
+#EXTINF:-1 tvg-id="TR: Lionbox Ferdi Tayfur" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Ferdi Tayfur
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49299
+
+#EXTINF:-1 tvg-id="TR: Lionbox Final Destination" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Final Destination
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49300
+
+#EXTINF:-1 tvg-id="TR: Lionbox Hababam Sınıfı" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Hababam Sınıfı
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49301
+
+#EXTINF:-1 tvg-id="TR: Lionbox Harry Potter" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Harry Potter
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49302
+
+#EXTINF:-1 tvg-id="TR: Lionbox Horror" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Horror
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49303
+
+#EXTINF:-1 tvg-id="TR: Lionbox Hz. Omer" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Hz. Omer
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49305
+
+#EXTINF:-1 tvg-id="TR: Lionbox Hz. Yusuf" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Hz. Yusuf
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49304
+
+#EXTINF:-1 tvg-id="TR: Lionbox İbrahim Tatlıses" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox İbrahim Tatlıses
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49306
+
+#EXTINF:-1 tvg-id="TR: Lionbox Jackie Chan 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Jackie Chan 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49307
+
+#EXTINF:-1 tvg-id="TR: Lionbox Jackie Chan 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Jackie Chan 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49308
+
+#EXTINF:-1 tvg-id="TR: Lionbox John Wick" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox John Wick
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49309
+
+#EXTINF:-1 tvg-id="TR: Lionbox Jonny Depp" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Jonny Depp
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49310
+
+#EXTINF:-1 tvg-id="TR: Lionbox Kadir İnanır" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Kadir İnanır
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49311
+
+#EXTINF:-1 tvg-id="TR: Lionbox Kemal Sunal 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Kemal Sunal 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49312
+
+#EXTINF:-1 tvg-id="TR: Lionbox Kemal Sunal 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Kemal Sunal 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49313
+
+#EXTINF:-1 tvg-id="TR: Lionbox Kemal Sunal 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Kemal Sunal 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49314
+
+#EXTINF:-1 tvg-id="TR: Lionbox Marvel 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Marvel 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49315
+
+#EXTINF:-1 tvg-id="TR: Lionbox Marvel 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Marvel 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49316
+
+#EXTINF:-1 tvg-id="TR: Lionbox Mumya" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Mumya
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49317
+
+#EXTINF:-1 tvg-id="TR: Lionbox Predator" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Predator
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49318
+
+#EXTINF:-1 tvg-id="TR: Lionbox Sener Sen" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Sener Sen
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49319
+
+#EXTINF:-1 tvg-id="TR: Lionbox Superman" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Superman
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49320
+
+#EXTINF:-1 tvg-id="TR: Lionbox Tarkan" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Tarkan
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49352
+
+#EXTINF:-1 tvg-id="TR: Lionbox The Hangover" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox The Hangover
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49321
+
+#EXTINF:-1 tvg-id="TR: Lionbox Türkan Şoray" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Türkan Şoray
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49322
+
+#EXTINF:-1 tvg-id="TR: Lionbox Van Damme" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Van Damme
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49323
+
+#EXTINF:-1 tvg-id="TR: Lionbox X-Men" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox X-Men
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49324
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49325
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49326
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49327
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 10" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 10
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49328
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 11" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 11
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49329
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 12" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 12
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49330
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 13" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 13
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49331
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 14" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 14
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49332
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 15" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 15
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49333
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 16" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 16
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49334
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 17" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 17
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49335
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 18" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 18
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49336
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 19" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 19
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49337
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49338
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 20" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 20
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49339
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49340
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 4" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 4
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49341
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 5" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 5
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49342
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 6" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 6
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49343
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 7" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 7
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49344
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 8" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 8
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49345
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yerli Sinema 9" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yerli Sinema 9
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49346
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yesilcam 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yesilcam 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49347
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yesilcam 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yesilcam 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49348
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yunus Emre" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yunus Emre
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49350
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yüzüklerin Efendisi" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yüzüklerin Efendisi
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49351
+
+#EXTINF:-1 tvg-id="TR: Lionbox Yılmaz Güney" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Yılmaz Güney
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49349
+
+#EXTINF:-1 tvg-id="TR: Lionbox Çağrı 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Çağrı 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49281
+
+#EXTINF:-1 tvg-id="TR: Lionbox Çağrı 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Lionbox Çağrı 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49282
+
+#EXTINF:-1 tvg-id="TR: Love Nature HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/Love-Nature.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Love Nature HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/15189
+
+#EXTINF:-1 tvg-id="TR: Love Songs HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Love Songs HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53602
+
+#EXTINF:-1 tvg-id="TR: Masal Radyo HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Masal Radyo HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53633
+
+#EXTINF:-1 tvg-id="TR: Mavi Karadeniz Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Mavi-Karadeniz-Tv-150x150.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mavi Karadeniz Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3737
+
+#EXTINF:-1 tvg-id="TR: Max 007 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max 007 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/37011
+
+#EXTINF:-1 tvg-id="TR: Max 4K UHD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max 4K UHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/48988
+
+#EXTINF:-1 tvg-id="TR: Max Aksiyon 2 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Aksiyon 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/37010
+
+#EXTINF:-1 tvg-id="TR: Max Aksiyon HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/MAX-Aksiyon-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Aksiyon HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4980
+
+#EXTINF:-1 tvg-id="TR: Max Animasyon 1 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/MAX-Animasyon-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Animasyon 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4981
+
+#EXTINF:-1 tvg-id="TR: Max Animasyon 2 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/MAX-Animasyon-2-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Animasyon 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4982
+
+#EXTINF:-1 tvg-id="TR: Max Gold HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/MAX-Gold-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Gold HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4984
+
+#EXTINF:-1 tvg-id="TR: Max Kino Collection HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Kino Collection HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16449
+
+#EXTINF:-1 tvg-id="TR: Max Orjinal HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Orjinal HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/37012
+
+#EXTINF:-1 tvg-id="TR: Max Premier HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/MAX-Premier-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Premier HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4986
+
+#EXTINF:-1 tvg-id="TR: Max Star Wars HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/MAX-Star-Wars-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Star Wars HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4987
+
+#EXTINF:-1 tvg-id="TR: Max Türk HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/MAX-Turk-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Türk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4988
+
+#EXTINF:-1 tvg-id="TR: Max Vizyon 1 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/MAX-Vizyon-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Vizyon 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4989
+
+#EXTINF:-1 tvg-id="TR: Max Vizyon 2 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/MAX-Vizyon-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Vizyon 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4990
+
+#EXTINF:-1 tvg-id="TR: Max Vizyon 3 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/MAX-Vizyon-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Vizyon 3 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4991
+
+#EXTINF:-1 tvg-id="TR: Max Vizyon 4 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Vizyon 4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16452
+
+#EXTINF:-1 tvg-id="TR: Max Western HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/MAX-Western-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Max Western HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4993
+
+#EXTINF:-1 tvg-id="TR: Maşa İle Koca Ayı Tv" tvg-logo="http://xplatinmedia.com:8080/images/dcff39e7c1453963db6654c1d53365a6.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Maşa İle Koca Ayı Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/35266
+
+#EXTINF:-1 tvg-id="TR: Medine Tv" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/medine-tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Medine Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12851
+
+#EXTINF:-1 tvg-id="TR: Mega Box Action" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Action
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50840
+
+#EXTINF:-1 tvg-id="TR: Mega Box Animsyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Animsyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50854
+
+#EXTINF:-1 tvg-id="TR: Mega Box Bilim Kurgu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Bilim Kurgu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50842
+
+#EXTINF:-1 tvg-id="TR: Mega Box Comedy" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Comedy
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50845
+
+#EXTINF:-1 tvg-id="TR: Mega Box Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50846
+
+#EXTINF:-1 tvg-id="TR: Mega Box Fantastic" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Fantastic
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50841
+
+#EXTINF:-1 tvg-id="TR: Mega Box Gold" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Gold
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50850
+
+#EXTINF:-1 tvg-id="TR: Mega Box Klip" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Klip
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50855
+
+#EXTINF:-1 tvg-id="TR: Mega Box Korku" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Korku
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50844
+
+#EXTINF:-1 tvg-id="TR: Mega Box Macera" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Macera
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50843
+
+#EXTINF:-1 tvg-id="TR: Mega Box Marvel" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Marvel
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50852
+
+#EXTINF:-1 tvg-id="TR: Mega Box Netflix" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Netflix
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50851
+
+#EXTINF:-1 tvg-id="TR: Mega Box Vizyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Vizyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50848
+
+#EXTINF:-1 tvg-id="TR: Mega Box Western" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Western
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50847
+
+#EXTINF:-1 tvg-id="TR: Mega Box Yerli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Yerli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50849
+
+#EXTINF:-1 tvg-id="TR: Mega Box Yeşilçam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Yeşilçam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50853
+
+#EXTINF:-1 tvg-id="TR: Mega Box Ülke Seyahat" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mega Box Ülke Seyahat
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50856
+
+#EXTINF:-1 tvg-id="TR: Melancholic HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Melancholic HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53610
+
+#EXTINF:-1 tvg-id="meltemtv.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Meltem-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Meltem Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/235
+
+#EXTINF:-1 tvg-id="TR: Metro Fm" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/metrofm.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Metro Fm
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16518
+
+#EXTINF:-1 tvg-id="TR: Mezzo HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/mezzo-tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mezzo HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28833
+
+#EXTINF:-1 tvg-id="minikago.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/Minika-GO.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Minica Go HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/171
+
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Minika-Cocuk.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Minika Çocuk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/172
+
+#EXTINF:-1 tvg-id="TR: Moonbug Kids Tv HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Moonbug Kids Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53093
+
+#EXTINF:-1 tvg-id="TR: Morning Coffee HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Morning Coffee HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53611
+
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Moviesmart-Classic-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Moviesmart Classic HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/188
+
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Moviesmart-Turk.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Moviesmart Türk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/186
+
+#EXTINF:-1 tvg-id="TR: Mtv Live HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2019/11/MtvHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Mtv Live HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/9374
+
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/NAT-GEO-WILD-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Nat Geo Wild HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/257
+
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/NAT-GEO-WILD-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Nat Geo Wild HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28399
+
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/NAT-GEO-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: National Georaphic HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/258
+
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/NAT-GEO-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: National Georaphic HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28398
+
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/NBA-TV-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Nba Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/36
+
+#EXTINF:-1 tvg-id="TR: Neocine Action" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Neocine Action
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50831
+
+#EXTINF:-1 tvg-id="TR: Neocine Fantastic" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Neocine Fantastic
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50832
+
+#EXTINF:-1 tvg-id="TR: Neocine Gold" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Neocine Gold
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50836
+
+#EXTINF:-1 tvg-id="TR: Neocine Korku" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Neocine Korku
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50833
+
+#EXTINF:-1 tvg-id="TR: Neocine Netflix" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Neocine Netflix
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50837
+
+#EXTINF:-1 tvg-id="TR: Neocine Special" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Neocine Special
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50839
+
+#EXTINF:-1 tvg-id="TR: Neocine Turk" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Neocine Turk
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50834
+
+#EXTINF:-1 tvg-id="TR: Neocine Western" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Neocine Western
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50835
+
+#EXTINF:-1 tvg-id="TR: Neocine Yesilcam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Neocine Yesilcam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50838
+
+#EXTINF:-1 tvg-id="nickjr.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/11/Nickelodeon-Junior.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Nick Jr HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/162
+
+#EXTINF:-1 tvg-id="nickelodeon.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/nickeledonhd.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Nickelodeon HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/161
+
+#EXTINF:-1 tvg-id="TR: Niloya Tv" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/niloya.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Niloya Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/35265
+
+#EXTINF:-1 tvg-id="TR: Nova Cinema 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Nova Cinema 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50932
+
+#EXTINF:-1 tvg-id="TR: Nova Cinema 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Nova Cinema 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50933
+
+#EXTINF:-1 tvg-id="TR: Nova Cinema 3" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Nova Cinema 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50934
+
+#EXTINF:-1 tvg-id="TR: Nova Cinema 4" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Nova Cinema 4
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50935
+
+#EXTINF:-1 tvg-id="TR: Nova Cinema 5" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Nova Cinema 5
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50936
+
+#EXTINF:-1 tvg-id="TR: Nova Cinema 6" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Nova Cinema 6
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50937
+
+#EXTINF:-1 tvg-id="fox.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/FOX-TV-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Now Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/55
+
+#EXTINF:-1 tvg-id="fox.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/FOX-TV-HEVC.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Now Tv HD Ⓗ②⑥⑤
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/225
+
+#EXTINF:-1 tvg-id="fox.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/FOX-TV-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Now Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/71
+
+#EXTINF:-1 tvg-id="fox.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/FOX-TV-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Now Tv SD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/45244
+
+#EXTINF:-1 tvg-id="numberoneask.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/number1-ask-tr.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: NR1 Aşk Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/34082
+
+#EXTINF:-1 tvg-id="numberonedamar.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/number-1-damar-tr.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: NR1 Damar Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/34083
+
+#EXTINF:-1 tvg-id="numberonedamar.tr" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: NR1 Dance Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/34084
+
+#EXTINF:-1 tvg-id="numberonetv.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/nr1_hd.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: NR1 Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/250
+
+#EXTINF:-1 tvg-id="numberoneturk.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/nr1_turk.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: NR1 Türk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/249
+
+#EXTINF:-1 tvg-id="ntv.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Ntv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ntv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/287
+
+#EXTINF:-1 tvg-id="ntv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/NTV-HABER-HEVC.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ntv HD Ⓗ②⑥⑤
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/211
+
+#EXTINF:-1 tvg-id="ntv.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Ntv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ntv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/297
+
+#EXTINF:-1 tvg-id="TR: Number 1 Fm" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/NUMBER1-FM.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Number 1 Fm
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16513
+
+#EXTINF:-1 tvg-id="TR: Olacak O Kadar Mix" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Olacak O Kadar Mix
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49221
+
+#EXTINF:-1 tvg-id="TR: Oldies But Goldies HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Oldies But Goldies HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53604
+
+#EXTINF:-1 tvg-id="on4.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/ON4-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: On4 Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/139
+
+#EXTINF:-1 tvg-id="TR: Ostim Radyo Ankara" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ostim Radyo Ankara
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46220
+
+#EXTINF:-1 tvg-id="TR: Pamukkale Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Pamukkale-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Pamukkale Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/137
+
+#EXTINF:-1 tvg-id="TR: Park Fm Ankara" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/PARK-FM.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Park Fm Ankara
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16521
+
+#EXTINF:-1 tvg-id="TR: Party HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Party HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53609
+
+#EXTINF:-1 tvg-id="TR: Peppa Pig Türkçe" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Peppa-Pig.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Peppa Pig Türkçe
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24820
+
+#EXTINF:-1 tvg-id="TR: Power Love" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Power Love
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49840
+
+#EXTINF:-1 tvg-id="powertv.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/powertv_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Power Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/244
+
+#EXTINF:-1 tvg-id="TR: Power Türk Fm" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/POWER-TURK-FM.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Power Türk Fm
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16503
+
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/powerturktv_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: PowerTürk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/245
+
+#EXTINF:-1 tvg-id="TR: Premier Lig TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Premier Lig TV HD (Mac Ozetleri)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99868
+
+#EXTINF:-1 tvg-id="TR: Proturk 45 Lik" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk 45 Lik
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50750
+
+#EXTINF:-1 tvg-id="TR: Proturk 4k Ultra" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk 4k Ultra
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50777
+
+#EXTINF:-1 tvg-id="TR: Proturk Action" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Action
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50765
+
+#EXTINF:-1 tvg-id="TR: Proturk Alaturka" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Alaturka
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50751
+
+#EXTINF:-1 tvg-id="TR: Proturk Arabesk" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Arabesk
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50752
+
+#EXTINF:-1 tvg-id="TR: Proturk Bilim Kurgu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Bilim Kurgu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50764
+
+#EXTINF:-1 tvg-id="TR: Proturk Bülent Ersoy" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Bülent Ersoy
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50753
+
+#EXTINF:-1 tvg-id="TR: Proturk Comedy" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Comedy
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50771
+
+#EXTINF:-1 tvg-id="TR: Proturk Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50768
+
+#EXTINF:-1 tvg-id="TR: Proturk Fantastic" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Fantastic
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50769
+
+#EXTINF:-1 tvg-id="TR: Proturk Gerilim" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Gerilim
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50766
+
+#EXTINF:-1 tvg-id="TR: Proturk Intro" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Intro
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50761
+
+#EXTINF:-1 tvg-id="TR: Proturk Kemal Sunal" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Kemal Sunal
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50779
+
+#EXTINF:-1 tvg-id="TR: Proturk Korku" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Korku
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50767
+
+#EXTINF:-1 tvg-id="TR: Proturk Loca 1" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Loca 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50762
+
+#EXTINF:-1 tvg-id="TR: Proturk Loca 2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Loca 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50763
+
+#EXTINF:-1 tvg-id="TR: Proturk Macera" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Macera
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50770
+
+#EXTINF:-1 tvg-id="TR: Proturk Meyhane Şarkıları" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Meyhane Şarkıları
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50754
+
+#EXTINF:-1 tvg-id="TR: Proturk Netflix" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Netflix
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50776
+
+#EXTINF:-1 tvg-id="TR: Proturk Orjinal" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Orjinal
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50778
+
+#EXTINF:-1 tvg-id="TR: Proturk Oyun Havaları" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Oyun Havaları
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50749
+
+#EXTINF:-1 tvg-id="TR: Proturk Rap" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Rap
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50755
+
+#EXTINF:-1 tvg-id="TR: Proturk Sanat Müziği" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Sanat Müziği
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50756
+
+#EXTINF:-1 tvg-id="TR: Proturk Slow" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Slow
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50757
+
+#EXTINF:-1 tvg-id="TR: Proturk Türk Pop" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Türk Pop
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50758
+
+#EXTINF:-1 tvg-id="TR: Proturk Türkü" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Türkü
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50759
+
+#EXTINF:-1 tvg-id="TR: Proturk Uzakdoğu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Uzakdoğu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50774
+
+#EXTINF:-1 tvg-id="TR: Proturk Vizyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Vizyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50772
+
+#EXTINF:-1 tvg-id="TR: Proturk Western" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Western
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50775
+
+#EXTINF:-1 tvg-id="TR: Proturk Yerli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Yerli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50773
+
+#EXTINF:-1 tvg-id="TR: Proturk Yeşilçam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Yeşilçam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50780
+
+#EXTINF:-1 tvg-id="TR: Proturk Zeki Müren" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Proturk Zeki Müren
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50760
+
+#EXTINF:-1 tvg-id="TR: Radyo 06" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Radyo 06
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46240
+
+#EXTINF:-1 tvg-id="TR: Radyo 7 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Radyo 7 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53628
+
+#EXTINF:-1 tvg-id="TR: Radyo Alaturka" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Radyo Alaturka
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46221
+
+#EXTINF:-1 tvg-id="TR: Radyo Banko" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Radyo Banko
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46241
+
+#EXTINF:-1 tvg-id="TR: Radyo Megasite" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/MEGA-SITE.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Radyo Megasite
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16522
+
+#EXTINF:-1 tvg-id="TR: Radyo Mydonose Türk" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Radyo Mydonose Türk
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46233
+
+#EXTINF:-1 tvg-id="TR: Radyo Seymen" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/RADYO-SEYMEN.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Radyo Seymen
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16515
+
+#EXTINF:-1 tvg-id="TR: Radyo Viva HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Radyo Viva HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53631
+
+#EXTINF:-1 tvg-id="TR: Radyo Vizyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Radyo Vizyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46234
+
+#EXTINF:-1 tvg-id="TR: Real Box Action" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Action
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50857
+
+#EXTINF:-1 tvg-id="TR: Real Box Animasyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Animasyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50870
+
+#EXTINF:-1 tvg-id="TR: Real Box Animasyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Animasyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47037
+
+#EXTINF:-1 tvg-id="TR: Real Box Bilim Kurgu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Bilim Kurgu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50858
+
+#EXTINF:-1 tvg-id="TR: Real Box Booba" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Booba
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50873
+
+#EXTINF:-1 tvg-id="TR: Real Box Comedy" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Comedy
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50863
+
+#EXTINF:-1 tvg-id="TR: Real Box Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50864
+
+#EXTINF:-1 tvg-id="TR: Real Box Fantastic" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Fantastic
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50860
+
+#EXTINF:-1 tvg-id="TR: Real Box Gerilim" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Gerilim
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50861
+
+#EXTINF:-1 tvg-id="TR: Real Box Hint" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Hint
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50869
+
+#EXTINF:-1 tvg-id="TR: Real Box İtfaiyeci Sam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box İtfaiyeci Sam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47042
+
+#EXTINF:-1 tvg-id="TR: Real Box Korku" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Korku
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50862
+
+#EXTINF:-1 tvg-id="TR: Real Box Kral Sakir" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Kral Sakir
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50875
+
+#EXTINF:-1 tvg-id="TR: Real Box Kukuli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Kukuli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50874
+
+#EXTINF:-1 tvg-id="TR: Real Box Kukuli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Kukuli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47041
+
+#EXTINF:-1 tvg-id="TR: Real Box Macera" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Macera
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50859
+
+#EXTINF:-1 tvg-id="TR: Real Box Niloya" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Niloya
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50871
+
+#EXTINF:-1 tvg-id="TR: Real Box Niloya" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Niloya
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47038
+
+#EXTINF:-1 tvg-id="TR: Real Box Pepee" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Pepee
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50872
+
+#EXTINF:-1 tvg-id="TR: Real Box Pepee" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Pepee
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47039
+
+#EXTINF:-1 tvg-id="TR: Real Box Rafadan Tayfa" tvg-logo="https://tvchannelslist.site/logo/byzbox-132x991.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Rafadan Tayfa
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47040
+
+#EXTINF:-1 tvg-id="TR: Real Box Vizyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Vizyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50865
+
+#EXTINF:-1 tvg-id="TR: Real Box Western" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Western
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50866
+
+#EXTINF:-1 tvg-id="TR: Real Box Yerli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Yerli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50867
+
+#EXTINF:-1 tvg-id="TR: Real Box Yeşilçam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Real Box Yeşilçam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50868
+
+#EXTINF:-1 tvg-id="TR: Reggae HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Reggae HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53617
+
+#EXTINF:-1 tvg-id="TR: Rehber Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Rehber-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Rehber Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/236
+
+#EXTINF:-1 tvg-id="TR: Relaxation HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Relaxation HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53615
+
+#EXTINF:-1 tvg-id="TR: Rock HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Rock HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53620
+
+#EXTINF:-1 tvg-id="TR: Rumeli Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Rumeli-tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Rumeli Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3736
+
+#EXTINF:-1 tvg-id="TR: S Sport +1 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport +1 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25545
+
+#EXTINF:-1 tvg-id="TR: S Sport +1 HD (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport +1 HD (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50146
+
+#EXTINF:-1 tvg-id="TR: S Sport +2 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport +2 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25546
+
+#EXTINF:-1 tvg-id="TR: S Sport +3 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport +3 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25547
+
+#EXTINF:-1 tvg-id="TR: S Sport +4 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport +4 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25548
+
+#EXTINF:-1 tvg-id="TR: S Sport +5 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport +5 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25549
+
+#EXTINF:-1 tvg-id="TR: S Sport +6 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport +6 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28858
+
+#EXTINF:-1 tvg-id="TR: S Sport +7 (Maç Saati Aktif)" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport +7 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/91126
+
+#EXTINF:-1 tvg-id="TR: S Sport +8 (Maç Saati Aktif)" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport +8 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/91127
+
+#EXTINF:-1 tvg-id="TR: S Sport 2 FHD" tvg-logo="https://img.dsmartgo.com.tr/resize-height/400//content/t/VK/20856/Thumbnail.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport 2 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50161
+
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-2-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/31
+
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-2-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport 2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/34906
+
+#EXTINF:-1 tvg-id="TR: S Sport FHD" tvg-logo="https://tvchannelslist.site/logo/s-sport-tr.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50160
+
+#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-1-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/29
+
+#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-1-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: S Sport HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28
+
+#EXTINF:-1 tvg-id="TR: Sam Tv" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sam Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/48149
+
+#EXTINF:-1 tvg-id="TR: Sat7 Türk" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Sat7Turk.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sat7 Türk
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/22530
+
+#EXTINF:-1 tvg-id="TR: Semerkand Radyo Dini" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Semerkand Radyo Dini
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46226
+
+#EXTINF:-1 tvg-id="semerkandtv.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/semerkand_hd.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Semerkand Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/242
+
+#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SHOW-TV-HEVC.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Show HD Ⓗ②⑥⑤
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/214
+
+#EXTINF:-1 tvg-id="showmax.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/ShowMax.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Show Max
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/76
+
+#EXTINF:-1 tvg-id="TR: Show Radyo HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Show Radyo HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53629
+
+#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/showhd_logonew.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Show Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/60
+
+#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/showhd_logonew.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Show Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/70
+
+#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/showhd_logonew.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Show Tv SD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/45242
+
+#EXTINF:-1 tvg-id="TR: Show Türk HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Show-Tv-Avrupa.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Show Türk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/10985
+
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/sinema1001_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sinema Tv 1001 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21280
+
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/sinema1002_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sinema Tv 1002 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21281
+
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/sinema2_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sinema Tv 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21273
+
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/sinemaaile2_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sinema Tv Aile 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21275
+
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/sinemaaile_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sinema Tv Aile HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21274
+
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/sinemaaksiyon2_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sinema Tv Aksiyon 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21277
+
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/sinemaaksiyon_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sinema Tv Aksiyon HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21276
+
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/sinematv_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sinema Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21272
+
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/sinemakomedi2_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sinema Tv Komedi 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21279
+
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/sinemakomedi_logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sinema Tv Komedi HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21278
+
+#EXTINF:-1 tvg-id="TR: Slow Turk HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Slow Turk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53627
+
+#EXTINF:-1 tvg-id="TR: Slow Türk Fm" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/SLOWTURK.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Slow Türk Fm
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16517
+
+#EXTINF:-1 tvg-id="TR: Smart Box Action" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Action
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50890
+
+#EXTINF:-1 tvg-id="TR: Smart Box Belgesel" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Belgesel
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50906
+
+#EXTINF:-1 tvg-id="TR: Smart Box Bilim Kurgu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Bilim Kurgu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50891
+
+#EXTINF:-1 tvg-id="TR: Smart Box Comedy" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Comedy
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50900
+
+#EXTINF:-1 tvg-id="TR: Smart Box Dram" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Dram
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50897
+
+#EXTINF:-1 tvg-id="TR: Smart Box Fantastic" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Fantastic
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50893
+
+#EXTINF:-1 tvg-id="TR: Smart Box Gerilim" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Gerilim
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50894
+
+#EXTINF:-1 tvg-id="TR: Smart Box Kemal Sunal" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Kemal Sunal
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50903
+
+#EXTINF:-1 tvg-id="TR: Smart Box Korku" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Korku
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50895
+
+#EXTINF:-1 tvg-id="TR: Smart Box Macera" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Macera
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50892
+
+#EXTINF:-1 tvg-id="TR: Smart Box Netflix" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Netflix
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50904
+
+#EXTINF:-1 tvg-id="TR: Smart Box Orjinal" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Orjinal
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50905
+
+#EXTINF:-1 tvg-id="TR: Smart Box Romantik" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Romantik
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50899
+
+#EXTINF:-1 tvg-id="TR: Smart Box Savaş" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Savaş
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50898
+
+#EXTINF:-1 tvg-id="TR: Smart Box Western" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Western
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50896
+
+#EXTINF:-1 tvg-id="TR: Smart Box Yerli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Yerli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50901
+
+#EXTINF:-1 tvg-id="TR: Smart Box Yeşilçam" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Smart Box Yeşilçam
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50902
+
+#EXTINF:-1 tvg-id="TR: Spor Smart 2 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SPOR-SMART-2-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Spor Smart 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12898
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SPOR-SMART-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Spor Smart HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/33
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SPOR-SMART-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Spor Smart HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/32
+
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SPORTS-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sports Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/34
+
+#EXTINF:-1 tvg-id="startv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/star_tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Star Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/61
+
+#EXTINF:-1 tvg-id="startv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/STAR-TV-HEVC.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Star Tv HD Ⓗ②⑥⑤
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/210
+
+#EXTINF:-1 tvg-id="startv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/star_tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Star Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/69
+
+#EXTINF:-1 tvg-id="startv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/star_tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Star Tv SD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/45241
+
+#EXTINF:-1 tvg-id="TR: Super Fm HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Super Fm HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53622
+
+#EXTINF:-1 tvg-id="TR: Sözcü Tv HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2023/03/sozcu-tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sözcü Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47328
+
+#EXTINF:-1 tvg-id="TR: Sözcü Tv HD+" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2023/03/sozcu-tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sözcü Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47340
+
+#EXTINF:-1 tvg-id="TR: Süper Fm" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/superfm.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Süper Fm
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16511
+
+#EXTINF:-1 tvg-id="TR: Sım Tv Kıbrıs" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Sim-Tv-Kibris.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Sım Tv Kıbrıs
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3746
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 1 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93565
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 1 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor 1 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93564
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 2 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93567
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 2 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor2.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor 2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93566
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 3 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor 3 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93569
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 3 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor3.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor 3 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93568
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 4 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor 4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93571
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 4 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor4.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor 4 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93570
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 5 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor 5 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93573
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 5 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor5.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor 5 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93572
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 6 HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor 6 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93575
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 6 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor6.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor 6 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93574
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor HD" tvg-logo="http://icon.orbitip.org/spor/tabiispor.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93984
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor HD+" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tabii Spor HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93985
+
+#EXTINF:-1 tvg-id="TR: Tarih Tv HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2022/11/tarih-tv-logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tarih Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/44609
+
+#EXTINF:-1 tvg-id="TR: Tatlıses Tv" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/tatlises-tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tatlıses Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/1944
+
+#EXTINF:-1 tvg-id="TR: Tek Rumeli Tv HD" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tek Rumeli Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93555
+
+#EXTINF:-1 tvg-id="tele1.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Tele-1-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tele 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/90
+
+#EXTINF:-1 tvg-id="TR: Tele 1 HD+" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Tele-1-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tele 1 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12846
+
+#EXTINF:-1 tvg-id="TR: Tempo Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/tempo-tv-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tempo Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/116
+
+#EXTINF:-1 tvg-id="TR: Ten Ten Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Ten-Ten-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ten Ten Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24821
+
+#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Teve2.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Teve2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/63
+
+#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Teve2.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Teve2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/65
+
+#EXTINF:-1 tvg-id="TR: Tgrt Belgesel" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TGRT-BELGESEL-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tgrt Belgesel
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3759
+
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TGRT-HABER-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tgrt Haber HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/288
+
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TGRT-HABER-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tgrt Haber HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/10876
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 1 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-2.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tivibu Spor 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 1 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-2.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tivibu Spor 1 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 2 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-3.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tivibu Spor 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/27
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 2 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-3.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tivibu Spor 2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/26
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 3 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-4.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tivibu Spor 3 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28951
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 4 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-5.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tivibu Spor 4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/43205
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tivibu Spor HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tivibu Spor HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/22
+
+#EXTINF:-1 tvg-id="tjktv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/TJK.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tjk Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/TLC-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: TLC HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/254
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/TLC-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: TLC HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12825
+
+#EXTINF:-1 tvg-id="TR: Ton Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Ton-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ton Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12854
+
+#EXTINF:-1 tvg-id="TR: Trendyol 1. Lig TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trendyol 1. Lig TV HD (Mac Ozetleri)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99865
+
+#EXTINF:-1 tvg-id="TR: Trendyol Süper Lig TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trendyol Süper Lig TV HD (Mac Ozetleri)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99864
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TRT-11.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/2
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/trt_1_hevc.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt 1 HD Ⓗ②⑥⑤
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/204
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TRT-11.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt 1 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/66
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TRT-11.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt 1 SD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/44610
+
+#EXTINF:-1 tvg-id="trt2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TRT-2-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/52
+
+#EXTINF:-1 tvg-id="TR: Trt 3 Spor - Tbmm Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2022/12/trt_sopr3_tbmm.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt 3 Spor - Tbmm Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/45252
+
+#EXTINF:-1 tvg-id="trt4k.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TRT-4K.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt 4K
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/746
+
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/trt_avaz.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Avaz HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12892
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-BELGESEL-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Belgesel HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/256
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-BELGESEL-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Belgesel HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28400
+
+#EXTINF:-1 tvg-id="trtebatvilkokul.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/Trt_Ebatv_Logo_ilkokul.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Eba Tv İlkokul HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/9477
+
+#EXTINF:-1 tvg-id="trtebatvlise.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/Trt_Ebatv_Logo_Ortaokul.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Eba Tv Lise HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/9479
+
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/Trt_Ebatv_Logo_Lise.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Eba Tv OrtaOkul HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/9478
+
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TRT-HABER2.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Haber HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/279
+
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-HABER-HEVC.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Haber HD Ⓗ②⑥⑤
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/206
+
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TRT-HABER2.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Haber HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/296
+
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/trt_muzik.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Müzik HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/253
+
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-SPOR-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Spor HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/40
+
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-SPOR-HEVC.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Spor HD Ⓗ②⑥⑤
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/207
+
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-SPOR-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Spor HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8671
+
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-SPOR-2-FHD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Spor Yıldız HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41
+
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/trtturk_logonew.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Türk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/1940
+
+#EXTINF:-1 tvg-id="trtworld.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Trt-World.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt World HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12818
+
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TRT-COCUK-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Trt Çocuk HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/160
+
+#EXTINF:-1 tvg-id="TR: Tv 100  HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/tv100.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv 100  HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/10874
+
+#EXTINF:-1 tvg-id="TR: Tv 100 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/tv100.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv 100 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/274
+
+#EXTINF:-1 tvg-id="TR: Tv 4 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/TV-4-150x150.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv 4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/51
+
+#EXTINF:-1 tvg-id="TR: Tv 41 Kocaeli" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2022/12/TV41_SD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv 41 Kocaeli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/45381
+
+#EXTINF:-1 tvg-id="TR: Tv 5" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/TV5.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv 5
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12817
+
+#EXTINF:-1 tvg-id="TR: Tv 52 Ordu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv 52 Ordu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46407
+
+#EXTINF:-1 tvg-id="TR: Tv Den" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2023/03/tvden.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv Den
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/34738
+
+#EXTINF:-1 tvg-id="TR: Tv Em" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2023/03/logo@tvemyeni.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv Em
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/44828
+
+#EXTINF:-1 tvg-id="TR: Tv1 Kayseri TV" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/TV1-Kayseri.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv1 Kayseri TV
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12841
+
+#EXTINF:-1 tvg-id="TR: TV264" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/tv264.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: TV264
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23994
+
+#EXTINF:-1 tvg-id="TR: Tv4 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/TV-4.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28831
+
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/tv8hd_logonew.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv8 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/58
+
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TV-8-HEVC.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv8 HD Ⓗ②⑥⑤
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/223
+
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/tv8hd_logonew.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv8 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/72
+
+#EXTINF:-1 tvg-id="TR: Tv8 İnt" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/TV8INT2.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv8 İnt
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/79
+
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/tv8hd_logonew.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv8 SD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/45243
+
+#EXTINF:-1 tvg-id="tv85.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TV8-5-Logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv8.5 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49
+
+#EXTINF:-1 tvg-id="tv85.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TV8-5-Logo.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Tv8.5 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/73
+
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/tvnet-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: TvNet HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/275
+
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/tvnet-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: TvNet HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12847
+
+#EXTINF:-1 tvg-id="TR: Türk Haber Tv" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/TurkHaberBB.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Türk Haber Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/127
+
+#EXTINF:-1 tvg-id="TR: Türkülerle Türkiye" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Türkülerle Türkiye
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/40043
+
+#EXTINF:-1 tvg-id="TR: Ufc Fight Pass HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/ufc.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ufc Fight Pass HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28954
+
+#EXTINF:-1 tvg-id="TR: Ultra HD Aksiyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ultra HD Aksiyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41165
+
+#EXTINF:-1 tvg-id="TR: Ultra HD Animasyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ultra HD Animasyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41166
+
+#EXTINF:-1 tvg-id="TR: Ultra HD Bilim Kurgu" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ultra HD Bilim Kurgu
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41167
+
+#EXTINF:-1 tvg-id="TR: Ultra HD Imdb" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ultra HD Imdb
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41168
+
+#EXTINF:-1 tvg-id="TR: Ultra HD Kemal Sunal" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ultra HD Kemal Sunal
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41169
+
+#EXTINF:-1 tvg-id="TR: Ultra HD Komedi" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ultra HD Komedi
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41170
+
+#EXTINF:-1 tvg-id="TR: Ultra HD Korku" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ultra HD Korku
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41171
+
+#EXTINF:-1 tvg-id="TR: Ultra HD Savas" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ultra HD Savas
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41172
+
+#EXTINF:-1 tvg-id="TR: Ultra HD Turk" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ultra HD Turk
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41173
+
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Ulusal-Kanal.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ulusal Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/130
+
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Ulusal-Kanal.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ulusal Tv HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/46257
+
+#EXTINF:-1 tvg-id="TR: Usk Vizyon Cinema Altyazı" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Usk Vizyon Cinema Altyazı
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50794
+
+#EXTINF:-1 tvg-id="TR: Usk Vizyon Cinema Animasyon" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Usk Vizyon Cinema Animasyon
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50797
+
+#EXTINF:-1 tvg-id="TR: Usk Vizyon Cinema Dublaj" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Usk Vizyon Cinema Dublaj
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50796
+
+#EXTINF:-1 tvg-id="TR: Usk Vizyon Cinema Yerli" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Usk Vizyon Cinema Yerli
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50795
+
+#EXTINF:-1 tvg-id="TR: Uzay Haber Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/UZAY-HABER.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Uzay Haber Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/272
+
+#EXTINF:-1 tvg-id="ucankus.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Ucankus-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Uçankuş HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/9178
+
+#EXTINF:-1 tvg-id="ucankus.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Ucankus-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Uçankuş Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28832
+
+#EXTINF:-1 tvg-id="vav.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2023/03/vav.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Vav TV HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/32416
+
+#EXTINF:-1 tvg-id="TR: Viasat Explore HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/VIASAT-EXPLORE-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Viasat Explore HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/15106
+
+#EXTINF:-1 tvg-id="TR: Viasat Explore HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/VIASAT-EXPLORE-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Viasat Explore HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/32418
+
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/VIASAT-HISTORY-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Viasat History HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/14949
+
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/VIASAT-HISTORY-HD.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Viasat History HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28395
+
+#EXTINF:-1 tvg-id="TR: Viasat Nature HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/viasat_nature.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Viasat Nature HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/32419
+
+#EXTINF:-1 tvg-id="TR: Virgin Radio" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/virginradio.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Virgin Radio
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16519
+
+#EXTINF:-1 tvg-id="TR: Vuslat Malatya Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/MALATYA-VUSLAT-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Vuslat Malatya Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12848
+
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/YABAN-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Yaban Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/255
+
+#EXTINF:-1 tvg-id="TR: Yesilyol Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2023/03/yesilyoltv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Yesilyol Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/40873
+
+#EXTINF:-1 tvg-id="TR: Yeşilcam 1" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Yesilcam-1-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Yeşilcam 1
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8696
+
+#EXTINF:-1 tvg-id="TR: Yeşilcam 2" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Yesilcam-2-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Yeşilcam 2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8697
+
+#EXTINF:-1 tvg-id="TR: Yeşilcam 3" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Yesilcam-1-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Yeşilcam 3
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8698
+
+#EXTINF:-1 tvg-id="TR: Yol Tv HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Yol-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Yol Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/59
+
+#EXTINF:-1 tvg-id="TR: Yıldız En Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Yildiz-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Yıldız En Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/3738
+
+#EXTINF:-1 tvg-id="TR: Çay Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Cay-Tv-Rize.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Çay Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/126
+
+#EXTINF:-1 tvg-id="TR: Çiftçi Tv HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/CIFTCI-TV.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Çiftçi Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/15118
+
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Moviesmart-Cocuk.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Çocuk Smart HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/173
+
+#EXTINF:-1 tvg-id="TR: Çok Güzel Hareketler-2" tvg-logo="noimage.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Çok Güzel Hareketler-2
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/49224
+
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/ULKE-TV-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ülke Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/276
+
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/12/ULKE-TV-1.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Ülke TV HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/293
+
+#EXTINF:-1 tvg-id="TR: Şirinler Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Sirinler-Tv.png" group-title="TÜRKÇE 2 TÜM KANALLAR", TR: Şirinler Tv
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24823
+
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-logo="https://img.logo-cdn.cc//24.png" group-title="TÜRKÇE 3 TÜM KANALLAR", TR ▎24 HABER FHD
 http://line.ultrab.xyz:80/2FFC00/271506/3484
 
