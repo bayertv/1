@@ -1,153 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-SPOR-HD.png" group-title="Tr Spor", TR: Trt Spor HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/40
-
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-SPOR-FHD.png" group-title="Tr Spor", TR: Trt Spor HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8671
-
-#EXTINF:-1 tvg-id="trtspor2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-SPOR-2-FHD.png" group-title="Tr Spor", TR: Trt Spor Yıldız HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41
-
 #EXTINF:-1 tvg-id="aspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/A-SPOR-HD.png" group-title="Tr Spor", TR: A Spor HD
 http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/43
 
 #EXTINF:-1 tvg-id="aspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/A-SPOR-FHD.png" group-title="Tr Spor", TR: A Spor HD+
 http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/42
-
-#EXTINF:-1 tvg-id="TR: Ht Spor HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Ht Spor HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93899
-
-#EXTINF:-1 tvg-id="TR: Ht Spor HD+" tvg-logo="noimage.png" group-title="Tr Spor", TR: Ht Spor HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93900
-
-#EXTINF:-1 tvg-id="TR: Trendyol Süper Lig TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="Tr Spor", TR: Trendyol Süper Lig TV HD (Mac Ozetleri)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99864
-
-#EXTINF:-1 tvg-id="TR: Trendyol 1. Lig TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="Tr Spor", TR: Trendyol 1. Lig TV HD (Mac Ozetleri)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99865
-
-#EXTINF:-1 tvg-id="TR: Premier Lig TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="Tr Spor", TR: Premier Lig TV HD (Mac Ozetleri)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99868
-
-#EXTINF:-1 tvg-id="TR: Bundesliga TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="Tr Spor", TR: Bundesliga TV HD (Mac Ozetleri)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99866
-
-#EXTINF:-1 tvg-id="TR: Bundesliga 2.Lig TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="Tr Spor", TR: Bundesliga 2.Lig TV HD (Mac Ozetleri)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99867
-
-#EXTINF:-1 tvg-id="TR: Fransa Ligue1 TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="Tr Spor", TR: Fransa Ligue1 TV HD (Mac Ozetleri)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99869
-
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-HABER-FHD.png" group-title="Tr Spor", TR: Bein Sports Haber HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/7
-
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-HABER-FHD.png" group-title="Tr Spor", TR: Bein Sports Haber HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/6
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="Tr Spor", TR: Bein Sports 1 Feed HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16536
-
-#EXTINF:-1 tvg-id="TR: Bein Sports 1 Feed HD+" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="Tr Spor", TR: Bein Sports 1 Feed HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41219
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="Tr Spor", TR: Bein Sports 1 UK
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16390
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-FHD.png" group-title="Tr Spor", TR: Bein Sports 1 HD (VIP)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/52750
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-FHD.png" group-title="Tr Spor", TR: Bein Sports 1 FHD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/26969
-
-#EXTINF:-1 tvg-id="TR: Bein Sports 1 FHD (HQ)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="Tr Spor", TR: Bein Sports 1 FHD (HQ)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41227
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-yedek-1.png" group-title="Tr Spor", TR: Bein Sports 1 HD (HQ)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/26970
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="Tr Spor", TR: Bein Sports 1 HD (1920x1080)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/10
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-yedek-1.png" group-title="Tr Spor", TR: Bein Sports 1 HD+ (1920x1080)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4817
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-SD.png" group-title="Tr Spor", TR: Bein Sports 1 SD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/1284
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-SD.png" group-title="Tr Spor", TR: Bein Sports 1 (SD)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41218
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-Mobile.png" group-title="Tr Spor", TR: Bein Sports 1 Mobil (480P)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8
-
-#EXTINF:-1 tvg-id="TR: Bein Sports Yabanci" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-4-qa-fr.png" group-title="Tr Spor", TR: Bein Sports Yabanci
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93632
-
-#EXTINF:-1 tvg-id="TR: Bein Sports 2 FHD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Bein Sports 2 FHD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50154
-
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-2-HD.png" group-title="Tr Spor", TR: Bein Sports 2 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/13
-
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-2-HD.png" group-title="Tr Spor", TR: Bein Sports 2 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23893
-
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-2-HD.png" group-title="Tr Spor", TR: Bein Sports 2 HD (S)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/9
-
-#EXTINF:-1 tvg-id="TR: Bein Sports 3 FHD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Bein Sports 3 FHD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50155
-
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-3-HD.png" group-title="Tr Spor", TR: Bein Sports 3 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/15
-
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-3-HD.png" group-title="Tr Spor", TR: Bein Sports 3 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23894
-
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-3-HD.png" group-title="Tr Spor", TR: Bein Sports 3 HD  (S)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/14
-
-#EXTINF:-1 tvg-id="TR: Bein Sports 4 FHD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Bein Sports 4 FHD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50156
-
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-4-HD.png" group-title="Tr Spor", TR: Bein Sports 4 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/17
-
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-4-HD.png" group-title="Tr Spor", TR: Bein Sports 4 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23895
-
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-4-HD.png" group-title="Tr Spor", TR: Bein Sports 4 HD  (S)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16
-
-#EXTINF:-1 tvg-id="TR: Bein Sports 5 FHD" tvg-logo="http://panelfx.xyz:80/images/mg9e4VnU5MiobcDarwnBsTI4xus1YIAOZbK41kaT3F0.png" group-title="Tr Spor", TR: Bein Sports 5 FHD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50157
-
-#EXTINF:-1 tvg-id="TR: Bein Sports 5 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/beIN-SPORTS-5-HD.png" group-title="Tr Spor", TR: Bein Sports 5 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/42605
-
-#EXTINF:-1 tvg-id="TR: Bein Sports Max 1 FHD" tvg-logo="http://epg.localconectivity.net/LOGO/SPOR-TR/BSportMax2HD.png" group-title="Tr Spor", TR: Bein Sports Max 1 FHD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50158
-
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-1-HD.png" group-title="Tr Spor", TR: Bein Sports Max 1 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/19
-
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-1-HD.png" group-title="Tr Spor", TR: Bein Sports Max 1 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23896
-
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-1-HD.png" group-title="Tr Spor", TR: Bein Sports Max 1 HD (S)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/18
-
-#EXTINF:-1 tvg-id="TR: Bein Sports Max 2 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_max_2_2.png" group-title="Tr Spor", TR: Bein Sports Max 2 FHD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50159
-
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-2-HD.png" group-title="Tr Spor", TR: Bein Sports Max 2 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21
-
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-2-HD.png" group-title="Tr Spor", TR: Bein Sports Max 2 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23897
-
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-2-HD.png" group-title="Tr Spor", TR: Bein Sports Max 2 HD (S)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/20
 
 #EXTINF:-1 tvg-id="TR: Bein Connect 1 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/bein-connect.png" group-title="Tr Spor", TR: Bein Connect 1 HD
 http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41795
@@ -176,137 +32,140 @@ http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53449
 #EXTINF:-1 tvg-id="TR: Bein Connect 9 HD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2022/10/bein-connect.png" group-title="Tr Spor", TR: Bein Connect 9 HD
 http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53450
 
-#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-1-HD.png" group-title="Tr Spor", TR: S Sport HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/29
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-SD.png" group-title="Tr Spor", TR: Bein Sports 1 (SD)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41218
 
-#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-1-FHD.png" group-title="Tr Spor", TR: S Sport HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="Tr Spor", TR: Bein Sports 1 Feed HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16536
 
-#EXTINF:-1 tvg-id="TR: S Sport FHD" tvg-logo="https://tvchannelslist.site/logo/s-sport-tr.png" group-title="Tr Spor", TR: S Sport FHD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50160
+#EXTINF:-1 tvg-id="TR: Bein Sports 1 Feed HD+" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="Tr Spor", TR: Bein Sports 1 Feed HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41219
 
-#EXTINF:-1 tvg-id="ssport2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-2-FHD.png" group-title="Tr Spor", TR: S Sport 2 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/31
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-FHD.png" group-title="Tr Spor", TR: Bein Sports 1 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/26969
 
-#EXTINF:-1 tvg-id="ssport2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-2-FHD.png" group-title="Tr Spor", TR: S Sport 2 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/34906
+#EXTINF:-1 tvg-id="TR: Bein Sports 1 FHD (HQ)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="Tr Spor", TR: Bein Sports 1 FHD (HQ)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41227
 
-#EXTINF:-1 tvg-id="TR: S Sport 2 FHD" tvg-logo="https://img.dsmartgo.com.tr/resize-height/400//content/t/VK/20856/Thumbnail.png" group-title="Tr Spor", TR: S Sport 2 FHD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50161
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="Tr Spor", TR: Bein Sports 1 HD (1920x1080)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/10
 
-#EXTINF:-1 tvg-id="TR: S Sport +1 HD (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +1 HD (Maç Saati Aktif)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50146
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-yedek-1.png" group-title="Tr Spor", TR: Bein Sports 1 HD (HQ)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/26970
 
-#EXTINF:-1 tvg-id="TR: S Sport +1 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +1 (Maç Saati Aktif)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25545
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-FHD.png" group-title="Tr Spor", TR: Bein Sports 1 HD (VIP)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/52750
 
-#EXTINF:-1 tvg-id="TR: S Sport +2 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +2 (Maç Saati Aktif)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25546
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-yedek-1.png" group-title="Tr Spor", TR: Bein Sports 1 HD+ (1920x1080)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/4817
 
-#EXTINF:-1 tvg-id="TR: S Sport +3 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +3 (Maç Saati Aktif)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25547
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-Mobile.png" group-title="Tr Spor", TR: Bein Sports 1 Mobil (480P)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8
 
-#EXTINF:-1 tvg-id="TR: S Sport +4 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +4 (Maç Saati Aktif)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25548
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-SD.png" group-title="Tr Spor", TR: Bein Sports 1 SD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/1284
 
-#EXTINF:-1 tvg-id="TR: S Sport +5 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +5 (Maç Saati Aktif)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25549
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-1-HD.png" group-title="Tr Spor", TR: Bein Sports 1 UK
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16390
 
-#EXTINF:-1 tvg-id="TR: S Sport +6 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +6 (Maç Saati Aktif)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28858
+#EXTINF:-1 tvg-id="TR: Bein Sports 2 FHD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Bein Sports 2 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50154
 
-#EXTINF:-1 tvg-id="TR: S Sport +7 (Maç Saati Aktif)" tvg-logo="noimage.png" group-title="Tr Spor", TR: S Sport +7 (Maç Saati Aktif)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/91126
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-2-HD.png" group-title="Tr Spor", TR: Bein Sports 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/13
 
-#EXTINF:-1 tvg-id="TR: S Sport +8 (Maç Saati Aktif)" tvg-logo="noimage.png" group-title="Tr Spor", TR: S Sport +8 (Maç Saati Aktif)
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/91127
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-2-HD.png" group-title="Tr Spor", TR: Bein Sports 2 HD (S)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/9
 
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SPOR-SMART-HD.png" group-title="Tr Spor", TR: Spor Smart HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/33
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-2-HD.png" group-title="Tr Spor", TR: Bein Sports 2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23893
 
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SPOR-SMART-FHD.png" group-title="Tr Spor", TR: Spor Smart HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/32
+#EXTINF:-1 tvg-id="TR: Bein Sports 3 FHD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Bein Sports 3 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50155
 
-#EXTINF:-1 tvg-id="TR: Spor Smart 2 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SPOR-SMART-2-HD.png" group-title="Tr Spor", TR: Spor Smart 2 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12898
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-3-HD.png" group-title="Tr Spor", TR: Bein Sports 3 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/15
 
-#EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/NBA-TV-FHD.png" group-title="Tr Spor", TR: Nba Tv HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/36
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-3-HD.png" group-title="Tr Spor", TR: Bein Sports 3 HD  (S)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/14
 
-#EXTINF:-1 tvg-id="TR: Tivibu Spor HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-1.png" group-title="Tr Spor", TR: Tivibu Spor HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-3-HD.png" group-title="Tr Spor", TR: Bein Sports 3 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23894
 
-#EXTINF:-1 tvg-id="TR: Tivibu Spor HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-1.png" group-title="Tr Spor", TR: Tivibu Spor HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/22
+#EXTINF:-1 tvg-id="TR: Bein Sports 4 FHD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Bein Sports 4 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50156
 
-#EXTINF:-1 tvg-id="TR: Tivibu Spor 1 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-2.png" group-title="Tr Spor", TR: Tivibu Spor 1 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-4-HD.png" group-title="Tr Spor", TR: Bein Sports 4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/17
 
-#EXTINF:-1 tvg-id="TR: Tivibu Spor 1 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-2.png" group-title="Tr Spor", TR: Tivibu Spor 1 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-4-HD.png" group-title="Tr Spor", TR: Bein Sports 4 HD  (S)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/16
 
-#EXTINF:-1 tvg-id="TR: Tivibu Spor 2 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-3.png" group-title="Tr Spor", TR: Tivibu Spor 2 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/27
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-4-HD.png" group-title="Tr Spor", TR: Bein Sports 4 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23895
 
-#EXTINF:-1 tvg-id="TR: Tivibu Spor 2 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-3.png" group-title="Tr Spor", TR: Tivibu Spor 2 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/26
+#EXTINF:-1 tvg-id="TR: Bein Sports 5 FHD" tvg-logo="http://panelfx.xyz:80/images/mg9e4VnU5MiobcDarwnBsTI4xus1YIAOZbK41kaT3F0.png" group-title="Tr Spor", TR: Bein Sports 5 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50157
 
-#EXTINF:-1 tvg-id="TR: Tivibu Spor 3 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-4.png" group-title="Tr Spor", TR: Tivibu Spor 3 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28951
+#EXTINF:-1 tvg-id="TR: Bein Sports 5 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/beIN-SPORTS-5-HD.png" group-title="Tr Spor", TR: Bein Sports 5 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/42605
 
-#EXTINF:-1 tvg-id="TR: Tivibu Spor 4 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-5.png" group-title="Tr Spor", TR: Tivibu Spor 4 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/43205
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-HABER-FHD.png" group-title="Tr Spor", TR: Bein Sports Haber HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/7
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor HD" tvg-logo="http://icon.orbitip.org/spor/tabiispor.png" group-title="Tr Spor", TR: Tabii Spor HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93984
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-HABER-FHD.png" group-title="Tr Spor", TR: Bein Sports Haber HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/6
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor HD+" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93985
+#EXTINF:-1 tvg-id="TR: Bein Sports Max 1 FHD" tvg-logo="http://epg.localconectivity.net/LOGO/SPOR-TR/BSportMax2HD.png" group-title="Tr Spor", TR: Bein Sports Max 1 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50158
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor 1 HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor 1 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93565
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-1-HD.png" group-title="Tr Spor", TR: Bein Sports Max 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/19
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor 1 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor1.png" group-title="Tr Spor", TR: Tabii Spor 1 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93564
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-1-HD.png" group-title="Tr Spor", TR: Bein Sports Max 1 HD (S)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/18
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor 2 HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor 2 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93567
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-1-HD.png" group-title="Tr Spor", TR: Bein Sports Max 1 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23896
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor 2 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor2.png" group-title="Tr Spor", TR: Tabii Spor 2 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93566
+#EXTINF:-1 tvg-id="TR: Bein Sports Max 2 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_max_2_2.png" group-title="Tr Spor", TR: Bein Sports Max 2 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50159
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor 3 HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor 3 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93569
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-2-HD.png" group-title="Tr Spor", TR: Bein Sports Max 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/21
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor 3 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor3.png" group-title="Tr Spor", TR: Tabii Spor 3 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93568
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-2-HD.png" group-title="Tr Spor", TR: Bein Sports Max 2 HD (S)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/20
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor 4 HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor 4 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93571
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/beIN-SPORTS-MAX-2-HD.png" group-title="Tr Spor", TR: Bein Sports Max 2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23897
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor 4 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor4.png" group-title="Tr Spor", TR: Tabii Spor 4 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93570
+#EXTINF:-1 tvg-id="TR: Bein Sports Yabanci" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-4-qa-fr.png" group-title="Tr Spor", TR: Bein Sports Yabanci
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93632
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor 5 HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor 5 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93573
+#EXTINF:-1 tvg-id="TR: Bundesliga 2.Lig TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="Tr Spor", TR: Bundesliga 2.Lig TV HD (Mac Ozetleri)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99867
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor 5 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor5.png" group-title="Tr Spor", TR: Tabii Spor 5 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93572
+#EXTINF:-1 tvg-id="TR: Bundesliga TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="Tr Spor", TR: Bundesliga TV HD (Mac Ozetleri)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99866
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor 6 HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor 6 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93575
+#EXTINF:-1 tvg-id="TR: By Horses Tv HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: By Horses Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53089
 
-#EXTINF:-1 tvg-id="TR: Tabii Spor 6 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor6.png" group-title="Tr Spor", TR: Tabii Spor 6 HD+
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93574
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/EUROSPORT-1-HD.png" group-title="Tr Spor", TR: Eurosport 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/37
 
-#EXTINF:-1 tvg-id="TR: Exxen Spor 1 SD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="Tr Spor", TR: Exxen Spor 1 SD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25697
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/EUROSPORT-2-HD.png" group-title="Tr Spor", TR: Eurosport 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/38
 
 #EXTINF:-1 tvg-id="TR: Exxen Spor 1 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="Tr Spor", TR: Exxen Spor 1 HD
 http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28077
 
 #EXTINF:-1 tvg-id="TR: Exxen Spor 1 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="Tr Spor", TR: Exxen Spor 1 HD+
 http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25699
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 1 SD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="Tr Spor", TR: Exxen Spor 1 SD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25697
 
 #EXTINF:-1 tvg-id="TR: Exxen Spor 2 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="Tr Spor", TR: Exxen Spor 2 HD
 http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28217
@@ -350,32 +209,173 @@ http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25693
 #EXTINF:-1 tvg-id="TR: Exxen Spor 8 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/EXXEN.png" group-title="Tr Spor", TR: Exxen Spor 8 HD+
 http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25706
 
-#EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/EUROSPORT-1-HD.png" group-title="Tr Spor", TR: Eurosport 1 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/37
-
-#EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/EUROSPORT-2-HD.png" group-title="Tr Spor", TR: Eurosport 2 HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/38
-
-#EXTINF:-1 tvg-id="gstv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/GS-TV-HD.png" group-title="Tr Spor", TR: GS Tv HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/44
-
 #EXTINF:-1 tvg-id="fbtv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/FB-TV.png" group-title="Tr Spor", TR: FB Tv HD
 http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/45
 
-#EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SPORTS-TV.png" group-title="Tr Spor", TR: Sports Tv HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/34
-
-#EXTINF:-1 tvg-id="tjktv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/TJK.png" group-title="Tr Spor", TR: Tjk Tv HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47
-
-#EXTINF:-1 tvg-id="TR: By Horses Tv HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: By Horses Tv HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/53089
+#EXTINF:-1 tvg-id="TR: Fight Box HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/FightBox.png" group-title="Tr Spor", TR: Fight Box HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28953
 
 #EXTINF:-1 tvg-id="TR: Fight Network HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/fight_network.png" group-title="Tr Spor", TR: Fight Network HD
 http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28952
 
-#EXTINF:-1 tvg-id="TR: Fight Box HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/FightBox.png" group-title="Tr Spor", TR: Fight Box HD
-http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28953
+#EXTINF:-1 tvg-id="TR: Fransa Ligue1 TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="Tr Spor", TR: Fransa Ligue1 TV HD (Mac Ozetleri)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99869
+
+#EXTINF:-1 tvg-id="gstv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/GS-TV-HD.png" group-title="Tr Spor", TR: GS Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/44
+
+#EXTINF:-1 tvg-id="TR: Ht Spor HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Ht Spor HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93899
+
+#EXTINF:-1 tvg-id="TR: Ht Spor HD+" tvg-logo="noimage.png" group-title="Tr Spor", TR: Ht Spor HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93900
+
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/NBA-TV-FHD.png" group-title="Tr Spor", TR: Nba Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/36
+
+#EXTINF:-1 tvg-id="TR: Premier Lig TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="Tr Spor", TR: Premier Lig TV HD (Mac Ozetleri)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99868
+
+#EXTINF:-1 tvg-id="TR: S Sport +1 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +1 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25545
+
+#EXTINF:-1 tvg-id="TR: S Sport +1 HD (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +1 HD (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50146
+
+#EXTINF:-1 tvg-id="TR: S Sport +2 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +2 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25546
+
+#EXTINF:-1 tvg-id="TR: S Sport +3 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +3 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25547
+
+#EXTINF:-1 tvg-id="TR: S Sport +4 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +4 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25548
+
+#EXTINF:-1 tvg-id="TR: S Sport +5 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +5 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25549
+
+#EXTINF:-1 tvg-id="TR: S Sport +6 (Maç Saati Aktif)" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/S-SPORT-PLUS.png" group-title="Tr Spor", TR: S Sport +6 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28858
+
+#EXTINF:-1 tvg-id="TR: S Sport +7 (Maç Saati Aktif)" tvg-logo="noimage.png" group-title="Tr Spor", TR: S Sport +7 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/91126
+
+#EXTINF:-1 tvg-id="TR: S Sport +8 (Maç Saati Aktif)" tvg-logo="noimage.png" group-title="Tr Spor", TR: S Sport +8 (Maç Saati Aktif)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/91127
+
+#EXTINF:-1 tvg-id="TR: S Sport 2 FHD" tvg-logo="https://img.dsmartgo.com.tr/resize-height/400//content/t/VK/20856/Thumbnail.png" group-title="Tr Spor", TR: S Sport 2 FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50161
+
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-2-FHD.png" group-title="Tr Spor", TR: S Sport 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/31
+
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-2-FHD.png" group-title="Tr Spor", TR: S Sport 2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/34906
+
+#EXTINF:-1 tvg-id="TR: S Sport FHD" tvg-logo="https://tvchannelslist.site/logo/s-sport-tr.png" group-title="Tr Spor", TR: S Sport FHD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/50160
+
+#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-1-HD.png" group-title="Tr Spor", TR: S Sport HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/29
+
+#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/S-SPORT-1-FHD.png" group-title="Tr Spor", TR: S Sport HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28
+
+#EXTINF:-1 tvg-id="TR: Spor Smart 2 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SPOR-SMART-2-HD.png" group-title="Tr Spor", TR: Spor Smart 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/12898
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SPOR-SMART-HD.png" group-title="Tr Spor", TR: Spor Smart HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/33
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SPOR-SMART-FHD.png" group-title="Tr Spor", TR: Spor Smart HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/32
+
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/SPORTS-TV.png" group-title="Tr Spor", TR: Sports Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/34
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 1 HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93565
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 1 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor1.png" group-title="Tr Spor", TR: Tabii Spor 1 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93564
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 2 HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93567
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 2 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor2.png" group-title="Tr Spor", TR: Tabii Spor 2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93566
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 3 HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor 3 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93569
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 3 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor3.png" group-title="Tr Spor", TR: Tabii Spor 3 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93568
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 4 HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor 4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93571
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 4 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor4.png" group-title="Tr Spor", TR: Tabii Spor 4 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93570
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 5 HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor 5 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93573
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 5 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor5.png" group-title="Tr Spor", TR: Tabii Spor 5 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93572
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 6 HD" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor 6 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93575
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 6 HD+" tvg-logo="http://icon.orbitip.org/spor/tabiispor6.png" group-title="Tr Spor", TR: Tabii Spor 6 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93574
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor HD" tvg-logo="http://icon.orbitip.org/spor/tabiispor.png" group-title="Tr Spor", TR: Tabii Spor HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93984
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor HD+" tvg-logo="noimage.png" group-title="Tr Spor", TR: Tabii Spor HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/93985
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 1 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-2.png" group-title="Tr Spor", TR: Tivibu Spor 1 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/25
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 1 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-2.png" group-title="Tr Spor", TR: Tivibu Spor 1 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 2 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-3.png" group-title="Tr Spor", TR: Tivibu Spor 2 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/27
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 2 HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-3.png" group-title="Tr Spor", TR: Tivibu Spor 2 HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/26
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 3 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-4.png" group-title="Tr Spor", TR: Tivibu Spor 3 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28951
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor 4 HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-5.png" group-title="Tr Spor", TR: Tivibu Spor 4 HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/43205
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-1.png" group-title="Tr Spor", TR: Tivibu Spor HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/23
+
+#EXTINF:-1 tvg-id="TR: Tivibu Spor HD+" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/tivibu-1.png" group-title="Tr Spor", TR: Tivibu Spor HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/22
+
+#EXTINF:-1 tvg-id="tjktv.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/TJK.png" group-title="Tr Spor", TR: Tjk Tv HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/47
+
+#EXTINF:-1 tvg-id="TR: Trendyol 1. Lig TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="Tr Spor", TR: Trendyol 1. Lig TV HD (Mac Ozetleri)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99865
+
+#EXTINF:-1 tvg-id="TR: Trendyol Süper Lig TV HD (Mac Ozetleri)" tvg-logo="noimage.png" group-title="Tr Spor", TR: Trendyol Süper Lig TV HD (Mac Ozetleri)
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/99864
+
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-SPOR-HD.png" group-title="Tr Spor", TR: Trt Spor HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/40
+
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-SPOR-FHD.png" group-title="Tr Spor", TR: Trt Spor HD+
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/8671
+
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/08/TRT-SPOR-2-FHD.png" group-title="Tr Spor", TR: Trt Spor Yıldız HD
+http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/41
 
 #EXTINF:-1 tvg-id="TR: Ufc Fight Pass HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/ufc.png" group-title="Tr Spor", TR: Ufc Fight Pass HD
 http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/28954
@@ -2719,45 +2719,6 @@ http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/293
 
 #EXTINF:-1 tvg-id="TR: Şirinler Tv" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Sirinler-Tv.png" group-title="Turkey", TR: Şirinler Tv
 http://kys38.net:8080/Kkayaecf0/fQYSMkdTu3tm/24823
-
-#EXTINF:-1 tvg-id="S|TR Dövüşçü S01 E01" tvg-logo="https://image.tmdb.org/t/p/w154/9m3OE0CwrgoAWB0lN2SBJyQW7RL.jpg" group-title="S|TR", S|TR Dövüşçü S01 E01
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93351.mkv
-
-#EXTINF:-1 tvg-id="S|TR Dövüşçü S01 E02" tvg-logo="https://image.tmdb.org/t/p/w154/9m3OE0CwrgoAWB0lN2SBJyQW7RL.jpg" group-title="S|TR", S|TR Dövüşçü S01 E02
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93352.mkv
-
-#EXTINF:-1 tvg-id="S|TR Dövüşçü S01 E03" tvg-logo="https://image.tmdb.org/t/p/w154/9m3OE0CwrgoAWB0lN2SBJyQW7RL.jpg" group-title="S|TR", S|TR Dövüşçü S01 E03
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93353.mkv
-
-#EXTINF:-1 tvg-id="S|TR Dövüşçü S01 E04" tvg-logo="https://image.tmdb.org/t/p/w154/9m3OE0CwrgoAWB0lN2SBJyQW7RL.jpg" group-title="S|TR", S|TR Dövüşçü S01 E04
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93354.mkv
-
-#EXTINF:-1 tvg-id="S|TR Dövüşçü S01 E05" tvg-logo="https://image.tmdb.org/t/p/w154/9m3OE0CwrgoAWB0lN2SBJyQW7RL.jpg" group-title="S|TR", S|TR Dövüşçü S01 E05
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93355.mkv
-
-#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR Yaşamayanlar S01 E01
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93194.mkv
-
-#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR Yaşamayanlar S01 E02
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93195.mkv
-
-#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR Yaşamayanlar S01 E03
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93196.mkv
-
-#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR Yaşamayanlar S01 E04
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93197.mkv
-
-#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR Yaşamayanlar S01 E05
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93198.mkv
-
-#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR Yaşamayanlar S01 E06
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93199.mkv
-
-#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR Yaşamayanlar S01 E07
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93200.mkv
-
-#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR Yaşamayanlar S01 E08
-http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93201.mkv
 
 #EXTINF:-1 tvg-id="S|TR: 10 Bin Adım S01 E01" tvg-logo="https://image.tmdb.org/t/p/w154/s3qr2K8LjVCTIBoWOnkFd6bQqcM.jpg" group-title="S|TR", S|TR: 10 Bin Adım S01 E01
 http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/75627.mkv
@@ -11494,6 +11455,21 @@ http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93213.mkv
 
 #EXTINF:-1 tvg-id="S|TR: Dudullu Postası S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rV3BMufFqFaP5s4lPJFOemQgJYv.jpg" group-title="S|TR", S|TR: Dudullu Postası S01 E13
 http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93214.mkv
+
+#EXTINF:-1 tvg-id="S|TR Dövüşçü S01 E01" tvg-logo="https://image.tmdb.org/t/p/w154/9m3OE0CwrgoAWB0lN2SBJyQW7RL.jpg" group-title="S|TR", S|TR: Dövüşçü S01 E01
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93351.mkv
+
+#EXTINF:-1 tvg-id="S|TR Dövüşçü S01 E02" tvg-logo="https://image.tmdb.org/t/p/w154/9m3OE0CwrgoAWB0lN2SBJyQW7RL.jpg" group-title="S|TR", S|TR: Dövüşçü S01 E02
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93352.mkv
+
+#EXTINF:-1 tvg-id="S|TR Dövüşçü S01 E03" tvg-logo="https://image.tmdb.org/t/p/w154/9m3OE0CwrgoAWB0lN2SBJyQW7RL.jpg" group-title="S|TR", S|TR: Dövüşçü S01 E03
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93353.mkv
+
+#EXTINF:-1 tvg-id="S|TR Dövüşçü S01 E04" tvg-logo="https://image.tmdb.org/t/p/w154/9m3OE0CwrgoAWB0lN2SBJyQW7RL.jpg" group-title="S|TR", S|TR: Dövüşçü S01 E04
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93354.mkv
+
+#EXTINF:-1 tvg-id="S|TR Dövüşçü S01 E05" tvg-logo="https://image.tmdb.org/t/p/w154/9m3OE0CwrgoAWB0lN2SBJyQW7RL.jpg" group-title="S|TR", S|TR: Dövüşçü S01 E05
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93355.mkv
 
 #EXTINF:-1 tvg-id="S|TR: Dünyayla Benim Aramda S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/1ec6p6t2zKSganwT4ovbaXlP4z4.jpg" group-title="S|TR", S|TR: Dünyayla Benim Aramda S01 E01
 http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/41724.mkv
@@ -26260,6 +26236,30 @@ http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/75523.mkv
 
 #EXTINF:-1 tvg-id="S|TR: Yazgı S01 E06" tvg-logo="https://image.tmdb.org/t/p/w154/ukkwIoDbcCq5FMVB1N6CstQOwhx.jpg" group-title="S|TR", S|TR: Yazgı S01 E06
 http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/75524.mkv
+
+#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR: Yaşamayanlar S01 E01
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93194.mkv
+
+#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR: Yaşamayanlar S01 E02
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93195.mkv
+
+#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR: Yaşamayanlar S01 E03
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93196.mkv
+
+#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR: Yaşamayanlar S01 E04
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93197.mkv
+
+#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR: Yaşamayanlar S01 E05
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93198.mkv
+
+#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR: Yaşamayanlar S01 E06
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93199.mkv
+
+#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR: Yaşamayanlar S01 E07
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93200.mkv
+
+#EXTINF:-1 tvg-id="S|TR Yaşamayanlar S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vntk70iZz58EmUTETdtsDP04T3.jpg" group-title="S|TR", S|TR: Yaşamayanlar S01 E08
+http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/93201.mkv
 
 #EXTINF:-1 tvg-id="S|TR: Yeni Nesil Ebeveynler S01 E01" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2023/06/YeniNesilEbeveynler_Afis.jpg" group-title="S|TR", S|TR: Yeni Nesil Ebeveynler S01 E01
 http://kys38.net:8080/series/Kkayaecf0/fQYSMkdTu3tm/49751.mkv
