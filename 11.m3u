@@ -1,6 +1,393 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="✦ ✦ DAZN EVENT✦ ✦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ➤  DAZN SPORT", ✦ ✦ DAZN EVENT✦ ✦
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/844234
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.hizliresim.com/rs5is15.png" group-title="TR ➤ Ulusal", 360 Tv [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/217
+
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="https://i.hizliresim.com/28jvw2z.png" group-title="TR ➤ Ulusal", A 2 [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/147
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://i.hizliresim.com/hrbbce4.png" group-title="TR ➤ Ulusal", ATV [ FHD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/108
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://i.hizliresim.com/hrbbce4.png" group-title="TR ➤ Ulusal", ATV [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/139
+
+#EXTINF:-1 tvg-id="Atv Euro [ HD ]" tvg-logo="https://i.hizliresim.com/hrbbce4.png" group-title="TR ➤ Ulusal", Atv Euro [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/170
+
+#EXTINF:-1 tvg-id="Berat Tv [ HD ]" tvg-logo="https://i.hizliresim.com/cnibof7.png" group-title="TR ➤ Ulusal", Berat Tv [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/118363
+
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://i.hizliresim.com/5q2r7s5.png" group-title="TR ➤ Ulusal", Beyaz Tv [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/22585
+
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://i.hizliresim.com/461fpzl.png" group-title="TR ➤ Ulusal", Kanal 7 [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/151
+
+#EXTINF:-1 tvg-id="Kanal 7 Europe  [ HD ]" tvg-logo="https://i.hizliresim.com/461fpzl.png" group-title="TR ➤ Ulusal", Kanal 7 Europe  [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/35959
+
+#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="https://i.hizliresim.com/33yo5h0.png" group-title="TR ➤ Ulusal", KANAL D [ FHD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/73
+
+#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="https://i.hizliresim.com/33yo5h0.png" group-title="TR ➤ Ulusal", KANAL D [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/143
+
+#EXTINF:-1 tvg-id="Kanal D Euro [ HD ]" tvg-logo="https://i.hizliresim.com/33yo5h0.png" group-title="TR ➤ Ulusal", Kanal D Euro [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/172
+
+#EXTINF:-1 tvg-id="Kanal Europe [ HD ]" tvg-logo="https://i.hizliresim.com/pnghuf4.png" group-title="TR ➤ Ulusal", Kanal Europe [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/28286
+
+#EXTINF:-1 tvg-id="now.tr" tvg-logo="https://i.hizliresim.com/ecblxwe.png" group-title="TR ➤ Ulusal", NOW [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/135
+
+#EXTINF:-1 tvg-id="now.tr" tvg-logo="https://i.hizliresim.com/ecblxwe.png" group-title="TR ➤ Ulusal", NOW TV [ FHD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/89
+
+#EXTINF:-1 tvg-id="Show Euro [ HD ]" tvg-logo="https://i.hizliresim.com/33unoqn.png" group-title="TR ➤ Ulusal", Show Euro [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/175
+
+#EXTINF:-1 tvg-id="Show Max [ HD ]" tvg-logo="https://i.hizliresim.com/33unoqn.png" group-title="TR ➤ Ulusal", Show Max [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/35958
+
+#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://i.hizliresim.com/33unoqn.png" group-title="TR ➤ Ulusal", SHOW TV [ FHD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/209
+
+#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://i.hizliresim.com/33unoqn.png" group-title="TR ➤ Ulusal", SHOW TV[ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/130
+
+#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://i.hizliresim.com/migmz9e.png" group-title="TR ➤ Ulusal", STAR [ FHD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/201
+
+#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://i.hizliresim.com/migmz9e.png" group-title="TR ➤ Ulusal", STAR [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/126
+
+#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://i.hizliresim.com/migmz9e.png" group-title="TR ➤ Ulusal", STAR EURO [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/178
+
+#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://i.hizliresim.com/migmz9e.png" group-title="TR ➤ Ulusal", STAR HD 1080p
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/841087
+
+#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://i.hizliresim.com/kszfr7w.png" group-title="TR ➤ Ulusal", Teve 2 [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/154
+
+#EXTINF:-1 tvg-id="TGRT EU [ HD ]" tvg-logo="https://i.hizliresim.com/8fksa27.png" group-title="TR ➤ Ulusal", TGRT EU [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/93710
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://i.hizliresim.com/o6w42nk.png" group-title="TR ➤ Ulusal", Tlc [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/109
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://i.ibb.co/vx4LBFx6/4.png" group-title="TR ➤ Ulusal", TRT 1 [ FHD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/161
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://i.ibb.co/vx4LBFx6/4.png" group-title="TR ➤ Ulusal", TRT 1 [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/158
+
+#EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://i.hizliresim.com/h8sezrn.png" group-title="TR ➤ Ulusal", TRT 2 [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/21489
+
+#EXTINF:-1 tvg-id="TRT Arabi [ HD ]" tvg-logo="https://i.hizliresim.com/e62hirg.png" group-title="TR ➤ Ulusal", TRT Arabi [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/63891
+
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-logo="https://i.hizliresim.com/aetrvmk.png" group-title="TR ➤ Ulusal", TRT Avaz [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/34388
+
+#EXTINF:-1 tvg-id="TRT Eba [ HD ]" tvg-logo="https://i.hizliresim.com/blfpi4c.png" group-title="TR ➤ Ulusal", TRT Eba [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/21601
+
+#EXTINF:-1 tvg-id="TRT Eba Tv Lise [ HD ]" tvg-logo="https://i.hizliresim.com/blfpi4c.png" group-title="TR ➤ Ulusal", TRT Eba Tv Lise [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/21602
+
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://i.hizliresim.com/jhr0ipy.png" group-title="TR ➤ Ulusal", TRT Turk [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/97
+
+#EXTINF:-1 tvg-id="TV5.fi" tvg-logo="https://i.hizliresim.com/nm7ubmv.png" group-title="TR ➤ Ulusal", Tv5 [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/91
+
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://i.hizliresim.com/m8jrqvv.png" group-title="TR ➤ Ulusal", TV8 [ FHD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/148
+
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://i.hizliresim.com/m8jrqvv.png" group-title="TR ➤ Ulusal", TV8 [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/124
+
+#EXTINF:-1 tvg-id="TV8 Int [ HD ]" tvg-logo="https://i.hizliresim.com/m8jrqvv.png" group-title="TR ➤ Ulusal", TV8 Int [ HD ]
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/63947
+
+#EXTINF:-1 tvg-id="TR: TRT 1 HEVC" tvg-logo="https://i.ibb.co/vx4LBFx6/4.png" group-title="TR ➤ Spor [QHD]", TR: TRT 1 HEVC
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850136
+
+#EXTINF:-1 tvg-id="TR: TRT Spor Hevc" tvg-logo="https://i.ibb.co/MD6LMwrB/39.png" group-title="TR ➤ Spor [QHD]", TR: TRT Spor Hevc
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850137
+
+#EXTINF:-1 tvg-id="TR: Tabii TV FHD" tvg-logo="https://i.imgur.com/0N5EQLN.png" group-title="TR ➤ Spor [QHD]", TR: Tabii TV FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850138
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor FHD" tvg-logo="https://i.ibb.co/Z6Yv2fgs/21.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850139
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor FHD" tvg-logo="https://i.ibb.co/Z6Yv2fgs/21.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850140
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor HD" tvg-logo="https://i.ibb.co/C50nRn76/22.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850141
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor Mobil" tvg-logo="https://i.ibb.co/C50nRn76/22.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor Mobil
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850142
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 1 FHD" tvg-logo="https://i.ibb.co/SXwFnJNm/2.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 1 FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850143
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 1 HD" tvg-logo="https://i.ibb.co/ccYsSrDs/1.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 1 HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850144
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 1 HD" tvg-logo="https://i.ibb.co/ccYsSrDs/1.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 1 HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850145
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 1 Mobil" tvg-logo="https://i.ibb.co/ccYsSrDs/1.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 1 Mobil
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850146
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 2 FHD" tvg-logo="https://i.ibb.co/kp5F5fV/4.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 2 FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850147
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 2 HD" tvg-logo="https://i.ibb.co/CpdH0xx7/3.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 2 HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850148
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 3 FHD" tvg-logo="https://i.ibb.co/5WdHQZgR/5.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 3 FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850149
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 3 HD" tvg-logo="https://i.ibb.co/2Yfm0csx/6.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 3 HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850150
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 4 FHD" tvg-logo="https://i.ibb.co/TD6cv9Dx/8.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 4 FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850151
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 4 HD" tvg-logo="https://i.ibb.co/BH5BgxMP/7.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 4 HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850155
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 5 FHD" tvg-logo="https://i.ibb.co/pBC7mMrb/10.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 5 FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850160
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 5 HD" tvg-logo="https://i.ibb.co/fZYZmHp/9.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 5 HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850162
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 6 FHD" tvg-logo="https://i.ibb.co/ch2wypR7/12.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 6 FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850163
+
+#EXTINF:-1 tvg-id="TR: Tabii Spor 6 HD" tvg-logo="https://i.ibb.co/RpqQbtbX/11.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 6 HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850164
+
+#EXTINF:-1 tvg-id="TR: Beyaz TV FHD" tvg-logo="https://i.ibb.co/Y7Qc1Xk8/20.png" group-title="TR ➤ Spor [QHD]", TR: Beyaz TV FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850165
+
+#EXTINF:-1 tvg-id="TR: Smart Spor 1 HEVC" tvg-logo="https://i.ibb.co/hFYwjhM7/23.png" group-title="TR ➤ Spor [QHD]", TR: Smart Spor 1 HEVC
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850166
+
+#EXTINF:-1 tvg-id="TR: Smart Spor 1 FHD" tvg-logo="https://i.ibb.co/r2RrchDD/22.png" group-title="TR ➤ Spor [QHD]", TR: Smart Spor 1 FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850167
+
+#EXTINF:-1 tvg-id="TR: Smart Spor 2 HEVC" tvg-logo="https://i.ibb.co/YVPN4HS/24.png" group-title="TR ➤ Spor [QHD]", TR: Smart Spor 2 HEVC
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850168
+
+#EXTINF:-1 tvg-id="TR: Smart Spor 2 FHD" tvg-logo="https://i.ibb.co/YVPN4HS/24.png" group-title="TR ➤ Spor [QHD]", TR: Smart Spor 2 FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850169
+
+#EXTINF:-1 tvg-id="TR: A Spor FHD" tvg-logo="https://i.ibb.co/G3Mm17y7/2.png" group-title="TR ➤ Spor [QHD]", TR: A Spor FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850170
+
+#EXTINF:-1 tvg-id="TR: A Spor HD" tvg-logo="https://i.ibb.co/992bgfpF/1.png" group-title="TR ➤ Spor [QHD]", TR: A Spor HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850171
+
+#EXTINF:-1 tvg-id="TR: TRT Spor FHD" tvg-logo="https://i.ibb.co/jvc6K99X/TRTSPORFHD.png" group-title="TR ➤ Spor [QHD]", TR: TRT Spor FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850172
+
+#EXTINF:-1 tvg-id="TR: TRT Spor HEVC" tvg-logo="https://i.ibb.co/MD6LMwrB/39.png" group-title="TR ➤ Spor [QHD]", TR: TRT Spor HEVC
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850173
+
+#EXTINF:-1 tvg-id="TR: TRT Spor Yıldız fhd" tvg-logo="https://i.ibb.co/39dRz94h/41.png" group-title="TR ➤ Spor [QHD]", TR: TRT Spor Yıldız fhd
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850174
+
+#EXTINF:-1 tvg-id="TR: FB TV" tvg-logo="https://i.ibb.co/svY45TjG/8.png" group-title="TR ➤ Spor [QHD]", TR: FB TV
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850175
+
+#EXTINF:-1 tvg-id="TR: GS TV" tvg-logo="http://135.125.239.110/icon/808479.png" group-title="TR ➤ Spor [QHD]", TR: GS TV
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850176
+
+#EXTINF:-1 tvg-id="TR: Eurosport 1" tvg-logo="https://i.ibb.co/CsVq1mk7/3.png" group-title="TR ➤ Spor [QHD]", TR: Eurosport 1
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850177
+
+#EXTINF:-1 tvg-id="TR: Eurosport 2" tvg-logo="https://i.ibb.co/4nJHZJNK/5.png" group-title="TR ➤ Spor [QHD]", TR: Eurosport 2
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850178
+
+#EXTINF:-1 tvg-id="TR: Red Bull TV" tvg-logo="http://135.125.239.110/icon/889439.png" group-title="TR ➤ Spor [QHD]", TR: Red Bull TV
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850179
+
+#EXTINF:-1 tvg-id="TR: HT SPOR" tvg-logo="https://i.ibb.co/HcG36FL/11.png" group-title="TR ➤ Spor [QHD]", TR: HT SPOR
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850180
+
+#EXTINF:-1 tvg-id="TR: Edge Sport FHD" tvg-logo="noimage.png" group-title="TR ➤ Spor [QHD]", TR: Edge Sport FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850181
+
+#EXTINF:-1 tvg-id="TR: NBA TV" tvg-logo="https://i.ibb.co/nqxrQWzt/13.png" group-title="TR ➤ Spor [QHD]", TR: NBA TV
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850182
+
+#EXTINF:-1 tvg-id="TR: FightScreen" tvg-logo="http://135.125.239.110/icon/372549.png" group-title="TR ➤ Spor [QHD]", TR: FightScreen
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850183
+
+#EXTINF:-1 tvg-id="TR: T.A.Y TV" tvg-logo="http://135.125.239.110/icon/374122.png" group-title="TR ➤ Spor [QHD]", TR: T.A.Y TV
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850184
+
+#EXTINF:-1 tvg-id="TR: TJK TV" tvg-logo="http://135.125.239.110/icon/771952.png" group-title="TR ➤ Spor [QHD]", TR: TJK TV
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850185
+
+#EXTINF:-1 tvg-id="TR: Kickbox" tvg-logo="http://135.125.239.110/icon/509971.png" group-title="TR ➤ Spor [QHD]", TR: Kickbox
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850186
+
+#EXTINF:-1 tvg-id="TR: WWE Network" tvg-logo="http://135.125.239.110/icon/610315.png" group-title="TR ➤ Spor [QHD]", TR: WWE Network
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850187
+
+#EXTINF:-1 tvg-id="TR: SportsTV" tvg-logo="http://135.125.239.110/icon/606220.png" group-title="TR ➤ Spor [QHD]", TR: SportsTV
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850188
+
+#EXTINF:-1 tvg-id="TR: 24 TV FHD" tvg-logo="https://i.imgur.com/5qklXu1.png" group-title="TR ➤ Haber  [QHD]", TR: 24 TV FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849539
+
+#EXTINF:-1 tvg-id="TR: 24 TV HD" tvg-logo="https://i.imgur.com/9HFbdDm.png" group-title="TR ➤ Haber  [QHD]", TR: 24 TV HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849540
+
+#EXTINF:-1 tvg-id="TR: A Haber FHD" tvg-logo="https://i.imgur.com/zVB7Ton.png" group-title="TR ➤ Haber  [QHD]", TR: A Haber FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849560
+
+#EXTINF:-1 tvg-id="TR: A Haber HD" tvg-logo="https://i.imgur.com/qHsjUE6.png" group-title="TR ➤ Haber  [QHD]", TR: A Haber HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849561
+
+#EXTINF:-1 tvg-id="TR: A Para FHD" tvg-logo="https://i.imgur.com/lWI1wfx.png" group-title="TR ➤ Haber  [QHD]", TR: A Para FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849562
+
+#EXTINF:-1 tvg-id="TR: A Para HD" tvg-logo="https://i.imgur.com/AA0Wz8L.png" group-title="TR ➤ Haber  [QHD]", TR: A Para HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849563
+
+#EXTINF:-1 tvg-id="TR: Akit Tv FHD" tvg-logo="https://i.imgur.com/otog7av.png" group-title="TR ➤ Haber  [QHD]", TR: Akit Tv FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849541
+
+#EXTINF:-1 tvg-id="TR: Akit Tv HD" tvg-logo="https://i.imgur.com/kfaltm6.png" group-title="TR ➤ Haber  [QHD]", TR: Akit Tv HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849542
+
+#EXTINF:-1 tvg-id="TR: Bengütürk TV HD" tvg-logo="https://i.imgur.com/cgrMhTB.png" group-title="TR ➤ Haber  [QHD]", TR: Bengütürk TV HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849565
+
+#EXTINF:-1 tvg-id="TR: Bloomberg HT FHD" tvg-logo="https://i.imgur.com/uzeNlmK.png" group-title="TR ➤ Haber  [QHD]", TR: Bloomberg HT FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849543
+
+#EXTINF:-1 tvg-id="TR: Bloomberg HT HD" tvg-logo="https://i.imgur.com/Jdpmkfc.png" group-title="TR ➤ Haber  [QHD]", TR: Bloomberg HT HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849544
+
+#EXTINF:-1 tvg-id="TR: Can TV HD" tvg-logo="https://i.imgur.com/M7kSwO3.png" group-title="TR ➤ Haber  [QHD]", TR: Can TV HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849564
+
+#EXTINF:-1 tvg-id="TR: CNBC-e FHD" tvg-logo="https://r.resimlink.com/3zfitETjrZF.jpg" group-title="TR ➤ Haber  [QHD]", TR: CNBC-e FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849520
+
+#EXTINF:-1 tvg-id="TR: CNN TURK FHD" tvg-logo="https://i.imgur.com/JlphClS.png" group-title="TR ➤ Haber  [QHD]", TR: CNN TURK FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849523
+
+#EXTINF:-1 tvg-id="TR: CNN TURK HD" tvg-logo="https://i.imgur.com/naApqjA.png" group-title="TR ➤ Haber  [QHD]", TR: CNN TURK HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849524
+
+#EXTINF:-1 tvg-id="TR: Ekol TV HD" tvg-logo="https://logoeuropa.xyz/turkey/ekoltv.png" group-title="TR ➤ Haber  [QHD]", TR: Ekol TV HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849559
+
+#EXTINF:-1 tvg-id="TR: EkoTürk HD" tvg-logo="https://i.imgur.com/PvaJ9LY.png" group-title="TR ➤ Haber  [QHD]", TR: EkoTürk HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849545
+
+#EXTINF:-1 tvg-id="TR: Flash Haber" tvg-logo="https://i.imgur.com/Pv2gskS.png" group-title="TR ➤ Haber  [QHD]", TR: Flash Haber
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849546
+
+#EXTINF:-1 tvg-id="TR: Haber Global FHD" tvg-logo="https://i.imgur.com/uBW4Wk1.png" group-title="TR ➤ Haber  [QHD]", TR: Haber Global FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849525
+
+#EXTINF:-1 tvg-id="TR: Haber Global HD" tvg-logo="https://i.imgur.com/HuthImB.png" group-title="TR ➤ Haber  [QHD]", TR: Haber Global HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849526
+
+#EXTINF:-1 tvg-id="TR: HABER TURK FHD" tvg-logo="https://i.imgur.com/R89OEgB.png" group-title="TR ➤ Haber  [QHD]", TR: HABER TURK FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849527
+
+#EXTINF:-1 tvg-id="TR: HABER TURK HD" tvg-logo="https://i.imgur.com/BDUUDMx.png" group-title="TR ➤ Haber  [QHD]", TR: HABER TURK HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849528
+
+#EXTINF:-1 tvg-id="TR: Halk Tv FHD" tvg-logo="https://i.imgur.com/Rc9EOKS.png" group-title="TR ➤ Haber  [QHD]", TR: Halk Tv FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849531
+
+#EXTINF:-1 tvg-id="TR: Halk TV HD" tvg-logo="https://i.imgur.com/ctIPQBd.png" group-title="TR ➤ Haber  [QHD]", TR: Halk TV HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849532
+
+#EXTINF:-1 tvg-id="TR: Kon Tv" tvg-logo="https://i.imgur.com/D1L3beT.png" group-title="TR ➤ Haber  [QHD]", TR: Kon Tv
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849548
+
+#EXTINF:-1 tvg-id="TR: Kon Tv FHD" tvg-logo="https://i.imgur.com/D1L3beT.png" group-title="TR ➤ Haber  [QHD]", TR: Kon Tv FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849547
+
+#EXTINF:-1 tvg-id="TR: Krt Tv FHD" tvg-logo="https://i.imgur.com/hKcUBEc.png" group-title="TR ➤ Haber  [QHD]", TR: Krt Tv FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849549
+
+#EXTINF:-1 tvg-id="TR: Lider Haber FHD" tvg-logo="https://i.imgur.com/Vw9IGIT.png" group-title="TR ➤ Haber  [QHD]", TR: Lider Haber FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849529
+
+#EXTINF:-1 tvg-id="TR: Lider Haber HD" tvg-logo="https://i.imgur.com/fEaMWFr.png" group-title="TR ➤ Haber  [QHD]", TR: Lider Haber HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849530
+
+#EXTINF:-1 tvg-id="TR: NTV FHD" tvg-logo="https://i.imgur.com/MSjiavw.png" group-title="TR ➤ Haber  [QHD]", TR: NTV FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849533
+
+#EXTINF:-1 tvg-id="TR: NTV HD" tvg-logo="https://i.imgur.com/r9wCWTc.png" group-title="TR ➤ Haber  [QHD]", TR: NTV HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849534
+
+#EXTINF:-1 tvg-id="TR: SOZCU TV FHD" tvg-logo="https://i.imgur.com/LAFlEBJ.png" group-title="TR ➤ Haber  [QHD]", TR: SOZCU TV FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849521
+
+#EXTINF:-1 tvg-id="TR: SOZCU TV HD" tvg-logo="https://i.imgur.com/87Tu4qo.png" group-title="TR ➤ Haber  [QHD]", TR: SOZCU TV HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849522
+
+#EXTINF:-1 tvg-id="TR: Tele 1 FHD" tvg-logo="https://i.imgur.com/U2aXdDD.png" group-title="TR ➤ Haber  [QHD]", TR: Tele 1 FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849550
+
+#EXTINF:-1 tvg-id="TR: Tele 1 HD" tvg-logo="https://i.imgur.com/NA3GQbg.png" group-title="TR ➤ Haber  [QHD]", TR: Tele 1 HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849551
+
+#EXTINF:-1 tvg-id="TR: TGRT Haber FHD" tvg-logo="https://i.imgur.com/owx6ErH.png" group-title="TR ➤ Haber  [QHD]", TR: TGRT Haber FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849535
+
+#EXTINF:-1 tvg-id="TR: TGRT Haber HD" tvg-logo="https://i.imgur.com/27RstWf.png" group-title="TR ➤ Haber  [QHD]", TR: TGRT Haber HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849536
+
+#EXTINF:-1 tvg-id="TR: TRT Haber FHD" tvg-logo="https://i.imgur.com/owx6ErH.png" group-title="TR ➤ Haber  [QHD]", TR: TRT Haber FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849537
+
+#EXTINF:-1 tvg-id="TR: TRT Haber HD" tvg-logo="https://i.imgur.com/gZlYf2l.png" group-title="TR ➤ Haber  [QHD]", TR: TRT Haber HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849538
+
+#EXTINF:-1 tvg-id="TR: Tv 100 FHD" tvg-logo="https://i.imgur.com/DYM91dp.png" group-title="TR ➤ Haber  [QHD]", TR: Tv 100 FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849552
+
+#EXTINF:-1 tvg-id="TR: Tv 100 HD" tvg-logo="https://i.imgur.com/bM5HNbk.png" group-title="TR ➤ Haber  [QHD]", TR: Tv 100 HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849553
+
+#EXTINF:-1 tvg-id="TR: TvNet FHD" tvg-logo="https://i.imgur.com/V19R22V.png" group-title="TR ➤ Haber  [QHD]", TR: TvNet FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849554
+
+#EXTINF:-1 tvg-id="TR: TvNet HD" tvg-logo="https://i.imgur.com/GJ6VnVS.png" group-title="TR ➤ Haber  [QHD]", TR: TvNet HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849555
+
+#EXTINF:-1 tvg-id="TR: Ulke Tv FHD" tvg-logo="https://i.imgur.com/21aZQ1F.png" group-title="TR ➤ Haber  [QHD]", TR: Ulke Tv FHD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849556
+
+#EXTINF:-1 tvg-id="TR: Ulke Tv HD" tvg-logo="https://i.imgur.com/sRxtNVY.png" group-title="TR ➤ Haber  [QHD]", TR: Ulke Tv HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849557
+
+#EXTINF:-1 tvg-id="TR: Ulusal Kanal HD" tvg-logo="https://i.imgur.com/pXLwM2a.png" group-title="TR ➤ Haber  [QHD]", TR: Ulusal Kanal HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849558
+
+#EXTINF:-1 tvg-id="TR: Yol TV HD" tvg-logo="https://i.imgur.com/8cxTkA3.png" group-title="TR ➤ Haber  [QHD]", TR: Yol TV HD
+http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849566
 
 #EXTINF:-1 tvg-id="|DE| DAZN 1 FHD-Kabel" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/DAZN.1.png" group-title="DE ➤  DAZN SPORT", |DE| DAZN 1 FHD-Kabel
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/844235
@@ -529,9 +916,6 @@ http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/829229
 
 #EXTINF:-1 tvg-id="DE: Warner TV serie QHD" tvg-logo="https://i.hizliresim.com/iw8ts1d.png" group-title="DE ➤ BESONDER FILME/SERIE", DE: Warner TV serie QHD
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/829230
-
-#EXTINF:-1 tvg-id="✦  ✦  ✦ GERMANY DOKU  ✦  ✦  ✦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ➤ DOKUMENTARFILM", ✦  ✦  ✦ GERMANY DOKU  ✦  ✦  ✦
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/812841
 
 #EXTINF:-1 tvg-id="|DE| DMAX FHD" tvg-logo="https://i.hizliresim.com/41v0m9g.png" group-title="DE ➤ DOKUMENTARFILM", |DE| DMAX FHD
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/812842
@@ -2519,9 +2903,6 @@ http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/812880
 #EXTINF:-1 tvg-id="|DE| NICKELODEON HD" tvg-logo="https://i.hizliresim.com/848crgf.png" group-title="DE ➤ KINDER", |DE| NICKELODEON HD
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/812881
 
-#EXTINF:-1 tvg-id="✦ ✦ KINDER STORE ✦ ✦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ➤ KINDER", ✦ ✦ KINDER STORE ✦ ✦
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/812949
-
 #EXTINF:-1 tvg-id="|DE|  BAKI ʜᴅ" tvg-logo="https://i.hizliresim.com/4uzo25l.png" group-title="DE ➤ KINDER", |DE|  BAKI ʜᴅ
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/812950
 
@@ -2602,9 +2983,6 @@ http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/812975
 
 #EXTINF:-1 tvg-id="|DE|  KINDER 10 ʜᴅ" tvg-logo="https://i.hizliresim.com/ij9wr0i.png" group-title="DE ➤ KINDER", |DE|  KINDER 10 ʜᴅ
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/812976
-
-#EXTINF:-1 tvg-id="✦ ✦ CINEMA BOX ✦ ✦" tvg-logo="https://i.hizliresim.com/8wp6frk.png" group-title="DE ➤ KINO&SERIEN", ✦ ✦ CINEMA BOX ✦ ✦
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/812977
 
 #EXTINF:-1 tvg-id="|DE| KRIMI ʜᴅ" tvg-logo="https://i.hizliresim.com/tocmlv0.png" group-title="DE ➤ KINO&SERIEN", |DE| KRIMI ʜᴅ
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/812978
@@ -3254,9 +3632,6 @@ http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/826553
 #EXTINF:-1 tvg-id="|DE| SKY BOX PREMIEREN 7 4K" tvg-logo="https://i.hizliresim.com/3i34jbi.png" group-title="DE ➤ SKY BOX 24/7", |DE| SKY BOX PREMIEREN 7 4K
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/826554
 
-#EXTINF:-1 tvg-id="✦ ✦ GERMANY SPORT ✦ ✦" tvg-logo="https://i.hizliresim.com/lryfdg1.png" group-title="DE ➤ SKY BUNDESLIGA", ✦ ✦ GERMANY SPORT ✦ ✦
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/839756
-
 #EXTINF:-1 tvg-id="|DE| SKY BUNDESLIGA FHD" tvg-logo="https://i.hizliresim.com/lryfdg1.png" group-title="DE ➤ SKY BUNDESLIGA", |DE| SKY BUNDESLIGA FHD
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/839757
 
@@ -3632,9 +4007,6 @@ http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/839868
 #EXTINF:-1 tvg-id="|DE| TELEKOM SPORT 16 FHD" tvg-logo="https://i.hizliresim.com/qmhjtqg.png" group-title="DE ➤ TELEKOM SPORT", |DE| TELEKOM SPORT 16 FHD
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/839869
 
-#EXTINF:-1 tvg-id="•●★--- Ulusal HEVC ----★●•" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="TR ➤ [ Hevc ]", •●★--- Ulusal HEVC ----★●•
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/846799
-
 #EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://i.hizliresim.com/gjtt3lg.png" group-title="TR ➤ [ Hevc ]", TR: TRT 4K HEVC
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/846800
 
@@ -3997,9 +4369,6 @@ http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/839272
 
 #EXTINF:-1 tvg-id="MYZENTV HD" tvg-logo="noimage.png" group-title="TR ➤ Belgesel", MYZENTV HD
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/839273
-
-#EXTINF:-1 tvg-id="TR: •●★--- Belgesel Kanalları  ----★●•" tvg-logo="https://i.ibb.co/Cpt7Gksn/4.png" group-title="TR ➤ Belgesel [QHD]", TR: •●★--- Belgesel Kanalları  ----★●•
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849836
 
 #EXTINF:-1 tvg-id="TR: National Geographic FHD" tvg-logo="https://i.imgur.com/oIX9iHF.png" group-title="TR ➤ Belgesel [QHD]", TR: National Geographic FHD
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849837
@@ -4556,147 +4925,6 @@ http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/822850
 #EXTINF:-1 tvg-id="TR: EKOL TV HD" tvg-logo="noimage.png" group-title="TR ➤ Haber", TR: EKOL TV HD
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/838969
 
-#EXTINF:-1 tvg-id="TR: CNBC-e FHD" tvg-logo="https://r.resimlink.com/3zfitETjrZF.jpg" group-title="TR ➤ Haber  [QHD]", TR: CNBC-e FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849520
-
-#EXTINF:-1 tvg-id="TR: SOZCU TV FHD" tvg-logo="https://i.imgur.com/LAFlEBJ.png" group-title="TR ➤ Haber  [QHD]", TR: SOZCU TV FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849521
-
-#EXTINF:-1 tvg-id="TR: SOZCU TV HD" tvg-logo="https://i.imgur.com/87Tu4qo.png" group-title="TR ➤ Haber  [QHD]", TR: SOZCU TV HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849522
-
-#EXTINF:-1 tvg-id="TR: CNN TURK FHD" tvg-logo="https://i.imgur.com/JlphClS.png" group-title="TR ➤ Haber  [QHD]", TR: CNN TURK FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849523
-
-#EXTINF:-1 tvg-id="TR: CNN TURK HD" tvg-logo="https://i.imgur.com/naApqjA.png" group-title="TR ➤ Haber  [QHD]", TR: CNN TURK HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849524
-
-#EXTINF:-1 tvg-id="TR: Haber Global FHD" tvg-logo="https://i.imgur.com/uBW4Wk1.png" group-title="TR ➤ Haber  [QHD]", TR: Haber Global FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849525
-
-#EXTINF:-1 tvg-id="TR: Haber Global HD" tvg-logo="https://i.imgur.com/HuthImB.png" group-title="TR ➤ Haber  [QHD]", TR: Haber Global HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849526
-
-#EXTINF:-1 tvg-id="TR: HABER TURK FHD" tvg-logo="https://i.imgur.com/R89OEgB.png" group-title="TR ➤ Haber  [QHD]", TR: HABER TURK FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849527
-
-#EXTINF:-1 tvg-id="TR: HABER TURK HD" tvg-logo="https://i.imgur.com/BDUUDMx.png" group-title="TR ➤ Haber  [QHD]", TR: HABER TURK HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849528
-
-#EXTINF:-1 tvg-id="TR: Lider Haber FHD" tvg-logo="https://i.imgur.com/Vw9IGIT.png" group-title="TR ➤ Haber  [QHD]", TR: Lider Haber FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849529
-
-#EXTINF:-1 tvg-id="TR: Lider Haber HD" tvg-logo="https://i.imgur.com/fEaMWFr.png" group-title="TR ➤ Haber  [QHD]", TR: Lider Haber HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849530
-
-#EXTINF:-1 tvg-id="TR: Halk Tv FHD" tvg-logo="https://i.imgur.com/Rc9EOKS.png" group-title="TR ➤ Haber  [QHD]", TR: Halk Tv FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849531
-
-#EXTINF:-1 tvg-id="TR: Halk TV HD" tvg-logo="https://i.imgur.com/ctIPQBd.png" group-title="TR ➤ Haber  [QHD]", TR: Halk TV HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849532
-
-#EXTINF:-1 tvg-id="TR: NTV FHD" tvg-logo="https://i.imgur.com/MSjiavw.png" group-title="TR ➤ Haber  [QHD]", TR: NTV FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849533
-
-#EXTINF:-1 tvg-id="TR: NTV HD" tvg-logo="https://i.imgur.com/r9wCWTc.png" group-title="TR ➤ Haber  [QHD]", TR: NTV HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849534
-
-#EXTINF:-1 tvg-id="TR: TGRT Haber FHD" tvg-logo="https://i.imgur.com/owx6ErH.png" group-title="TR ➤ Haber  [QHD]", TR: TGRT Haber FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849535
-
-#EXTINF:-1 tvg-id="TR: TGRT Haber HD" tvg-logo="https://i.imgur.com/27RstWf.png" group-title="TR ➤ Haber  [QHD]", TR: TGRT Haber HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849536
-
-#EXTINF:-1 tvg-id="TR: TRT Haber FHD" tvg-logo="https://i.imgur.com/owx6ErH.png" group-title="TR ➤ Haber  [QHD]", TR: TRT Haber FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849537
-
-#EXTINF:-1 tvg-id="TR: TRT Haber HD" tvg-logo="https://i.imgur.com/gZlYf2l.png" group-title="TR ➤ Haber  [QHD]", TR: TRT Haber HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849538
-
-#EXTINF:-1 tvg-id="TR: 24 TV FHD" tvg-logo="https://i.imgur.com/5qklXu1.png" group-title="TR ➤ Haber  [QHD]", TR: 24 TV FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849539
-
-#EXTINF:-1 tvg-id="TR: 24 TV HD" tvg-logo="https://i.imgur.com/9HFbdDm.png" group-title="TR ➤ Haber  [QHD]", TR: 24 TV HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849540
-
-#EXTINF:-1 tvg-id="TR: Akit Tv FHD" tvg-logo="https://i.imgur.com/otog7av.png" group-title="TR ➤ Haber  [QHD]", TR: Akit Tv FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849541
-
-#EXTINF:-1 tvg-id="TR: Akit Tv HD" tvg-logo="https://i.imgur.com/kfaltm6.png" group-title="TR ➤ Haber  [QHD]", TR: Akit Tv HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849542
-
-#EXTINF:-1 tvg-id="TR: Bloomberg HT FHD" tvg-logo="https://i.imgur.com/uzeNlmK.png" group-title="TR ➤ Haber  [QHD]", TR: Bloomberg HT FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849543
-
-#EXTINF:-1 tvg-id="TR: Bloomberg HT HD" tvg-logo="https://i.imgur.com/Jdpmkfc.png" group-title="TR ➤ Haber  [QHD]", TR: Bloomberg HT HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849544
-
-#EXTINF:-1 tvg-id="TR: EkoTürk HD" tvg-logo="https://i.imgur.com/PvaJ9LY.png" group-title="TR ➤ Haber  [QHD]", TR: EkoTürk HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849545
-
-#EXTINF:-1 tvg-id="TR: Flash Haber" tvg-logo="https://i.imgur.com/Pv2gskS.png" group-title="TR ➤ Haber  [QHD]", TR: Flash Haber
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849546
-
-#EXTINF:-1 tvg-id="TR: Kon Tv FHD" tvg-logo="https://i.imgur.com/D1L3beT.png" group-title="TR ➤ Haber  [QHD]", TR: Kon Tv FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849547
-
-#EXTINF:-1 tvg-id="TR: Kon Tv" tvg-logo="https://i.imgur.com/D1L3beT.png" group-title="TR ➤ Haber  [QHD]", TR: Kon Tv
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849548
-
-#EXTINF:-1 tvg-id="TR: Krt Tv FHD" tvg-logo="https://i.imgur.com/hKcUBEc.png" group-title="TR ➤ Haber  [QHD]", TR: Krt Tv FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849549
-
-#EXTINF:-1 tvg-id="TR: Tele 1 FHD" tvg-logo="https://i.imgur.com/U2aXdDD.png" group-title="TR ➤ Haber  [QHD]", TR: Tele 1 FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849550
-
-#EXTINF:-1 tvg-id="TR: Tele 1 HD" tvg-logo="https://i.imgur.com/NA3GQbg.png" group-title="TR ➤ Haber  [QHD]", TR: Tele 1 HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849551
-
-#EXTINF:-1 tvg-id="TR: Tv 100 FHD" tvg-logo="https://i.imgur.com/DYM91dp.png" group-title="TR ➤ Haber  [QHD]", TR: Tv 100 FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849552
-
-#EXTINF:-1 tvg-id="TR: Tv 100 HD" tvg-logo="https://i.imgur.com/bM5HNbk.png" group-title="TR ➤ Haber  [QHD]", TR: Tv 100 HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849553
-
-#EXTINF:-1 tvg-id="TR: TvNet FHD" tvg-logo="https://i.imgur.com/V19R22V.png" group-title="TR ➤ Haber  [QHD]", TR: TvNet FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849554
-
-#EXTINF:-1 tvg-id="TR: TvNet HD" tvg-logo="https://i.imgur.com/GJ6VnVS.png" group-title="TR ➤ Haber  [QHD]", TR: TvNet HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849555
-
-#EXTINF:-1 tvg-id="TR: Ulke Tv FHD" tvg-logo="https://i.imgur.com/21aZQ1F.png" group-title="TR ➤ Haber  [QHD]", TR: Ulke Tv FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849556
-
-#EXTINF:-1 tvg-id="TR: Ulke Tv HD" tvg-logo="https://i.imgur.com/sRxtNVY.png" group-title="TR ➤ Haber  [QHD]", TR: Ulke Tv HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849557
-
-#EXTINF:-1 tvg-id="TR: Ulusal Kanal HD" tvg-logo="https://i.imgur.com/pXLwM2a.png" group-title="TR ➤ Haber  [QHD]", TR: Ulusal Kanal HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849558
-
-#EXTINF:-1 tvg-id="TR: Ekol TV HD" tvg-logo="https://logoeuropa.xyz/turkey/ekoltv.png" group-title="TR ➤ Haber  [QHD]", TR: Ekol TV HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849559
-
-#EXTINF:-1 tvg-id="TR: A Haber FHD" tvg-logo="https://i.imgur.com/zVB7Ton.png" group-title="TR ➤ Haber  [QHD]", TR: A Haber FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849560
-
-#EXTINF:-1 tvg-id="TR: A Haber HD" tvg-logo="https://i.imgur.com/qHsjUE6.png" group-title="TR ➤ Haber  [QHD]", TR: A Haber HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849561
-
-#EXTINF:-1 tvg-id="TR: A Para FHD" tvg-logo="https://i.imgur.com/lWI1wfx.png" group-title="TR ➤ Haber  [QHD]", TR: A Para FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849562
-
-#EXTINF:-1 tvg-id="TR: A Para HD" tvg-logo="https://i.imgur.com/AA0Wz8L.png" group-title="TR ➤ Haber  [QHD]", TR: A Para HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849563
-
-#EXTINF:-1 tvg-id="TR: Can TV HD" tvg-logo="https://i.imgur.com/M7kSwO3.png" group-title="TR ➤ Haber  [QHD]", TR: Can TV HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849564
-
-#EXTINF:-1 tvg-id="TR: Bengütürk TV HD" tvg-logo="https://i.imgur.com/cgrMhTB.png" group-title="TR ➤ Haber  [QHD]", TR: Bengütürk TV HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849565
-
-#EXTINF:-1 tvg-id="TR: Yol TV HD" tvg-logo="https://i.imgur.com/8cxTkA3.png" group-title="TR ➤ Haber  [QHD]", TR: Yol TV HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849566
-
 #EXTINF:-1 tvg-id="trtmuzik.tr" tvg-logo="https://i.hizliresim.com/2pt2fvd.png" group-title="TR ➤ Müzik", TRT Muzik [ HD ]
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/98
 
@@ -4907,9 +5135,6 @@ http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/826081
 #EXTINF:-1 tvg-id="FILM SCREEN" tvg-logo="noimage.png" group-title="TR ➤ Sinema Platform", FILM SCREEN
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/839262
 
-#EXTINF:-1 tvg-id="TR: •●★--- Sinema Platform ----★●•" tvg-logo="https://i.hizliresim.com/qoxl1x5.png" group-title="TR ➤ Sinema Platform [QHD]", TR: •●★--- Sinema Platform ----★●•
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849713
-
 #EXTINF:-1 tvg-id="TR: beIN Series 1" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-1.eno.png" group-title="TR ➤ Sinema Platform [QHD]", TR: beIN Series 1
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849714
 
@@ -5002,9 +5227,6 @@ http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849743
 
 #EXTINF:-1 tvg-id="TR: TiviTürk" tvg-logo="https://i.ibb.co/Lhp646fs/tiviturk.png" group-title="TR ➤ Sinema Platform [QHD]", TR: TiviTürk
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849744
-
-#EXTINF:-1 tvg-id="•●★--- BİLGİLENDİRME KANALI ----★●•" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="TR ➤ Sinema Platform,•●★--- BİLGİLENDİRME KANALI ----★●•", "•●★--- BİLGİLENDİRME KANALI ----★●•"
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/270
 
 #EXTINF:-1 tvg-id="SINEVIZYON INFO ʜᴅ" tvg-logo="https://i.hizliresim.com/ip9b9h0.png" group-title="TR ➤ Sinevizyon", SINEVIZYON INFO ʜᴅ
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/823073
@@ -5143,147 +5365,6 @@ http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/834248
 
 #EXTINF:-1 tvg-id="tracesportsstars.tr" tvg-logo="noimage.png" group-title="TR ➤ Spor [ D Smart ]", TRACE SPORT STARS HD
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/839263
-
-#EXTINF:-1 tvg-id="•●★--- BİLGİLENDİRME KANALI ----★●•" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="TR ➤ Spor [ D Smart ],•●★--- BİLGİLENDİRME KANALI ----★●•", "•●★--- BİLGİLENDİRME KANALI ----★●•"
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/268
-
-#EXTINF:-1 tvg-id="TR: •●★--- Spor Kanalları ----★●•" tvg-logo="https://i.ibb.co/Zp7ffsp0/TRSPORKANALKAPAK.png" group-title="TR ➤ Spor [QHD]", TR: •●★--- Spor Kanalları ----★●•
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850135
-
-#EXTINF:-1 tvg-id="TR: TRT 1 HEVC" tvg-logo="https://i.ibb.co/vx4LBFx6/4.png" group-title="TR ➤ Spor [QHD]", TR: TRT 1 HEVC
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850136
-
-#EXTINF:-1 tvg-id="TR: TRT Spor Hevc" tvg-logo="https://i.ibb.co/MD6LMwrB/39.png" group-title="TR ➤ Spor [QHD]", TR: TRT Spor Hevc
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850137
-
-#EXTINF:-1 tvg-id="TR: Tabii TV FHD" tvg-logo="https://i.imgur.com/0N5EQLN.png" group-title="TR ➤ Spor [QHD]", TR: Tabii TV FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850138
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor FHD" tvg-logo="https://i.ibb.co/Z6Yv2fgs/21.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850139
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor FHD" tvg-logo="https://i.ibb.co/Z6Yv2fgs/21.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850140
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor HD" tvg-logo="https://i.ibb.co/C50nRn76/22.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850141
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor Mobil" tvg-logo="https://i.ibb.co/C50nRn76/22.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor Mobil
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850142
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 1 FHD" tvg-logo="https://i.ibb.co/SXwFnJNm/2.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 1 FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850143
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 1 HD" tvg-logo="https://i.ibb.co/ccYsSrDs/1.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 1 HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850144
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 1 HD" tvg-logo="https://i.ibb.co/ccYsSrDs/1.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 1 HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850145
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 1 Mobil" tvg-logo="https://i.ibb.co/ccYsSrDs/1.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 1 Mobil
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850146
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 2 FHD" tvg-logo="https://i.ibb.co/kp5F5fV/4.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 2 FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850147
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 2 HD" tvg-logo="https://i.ibb.co/CpdH0xx7/3.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 2 HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850148
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 3 FHD" tvg-logo="https://i.ibb.co/5WdHQZgR/5.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 3 FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850149
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 3 HD" tvg-logo="https://i.ibb.co/2Yfm0csx/6.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 3 HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850150
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 4 FHD" tvg-logo="https://i.ibb.co/TD6cv9Dx/8.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 4 FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850151
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 4 HD" tvg-logo="https://i.ibb.co/BH5BgxMP/7.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 4 HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850155
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 5 FHD" tvg-logo="https://i.ibb.co/pBC7mMrb/10.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 5 FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850160
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 5 HD" tvg-logo="https://i.ibb.co/fZYZmHp/9.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 5 HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850162
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 6 FHD" tvg-logo="https://i.ibb.co/ch2wypR7/12.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 6 FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850163
-
-#EXTINF:-1 tvg-id="TR: Tabii Spor 6 HD" tvg-logo="https://i.ibb.co/RpqQbtbX/11.png" group-title="TR ➤ Spor [QHD]", TR: Tabii Spor 6 HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850164
-
-#EXTINF:-1 tvg-id="TR: Beyaz TV FHD" tvg-logo="https://i.ibb.co/Y7Qc1Xk8/20.png" group-title="TR ➤ Spor [QHD]", TR: Beyaz TV FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850165
-
-#EXTINF:-1 tvg-id="TR: Smart Spor 1 HEVC" tvg-logo="https://i.ibb.co/hFYwjhM7/23.png" group-title="TR ➤ Spor [QHD]", TR: Smart Spor 1 HEVC
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850166
-
-#EXTINF:-1 tvg-id="TR: Smart Spor 1 FHD" tvg-logo="https://i.ibb.co/r2RrchDD/22.png" group-title="TR ➤ Spor [QHD]", TR: Smart Spor 1 FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850167
-
-#EXTINF:-1 tvg-id="TR: Smart Spor 2 HEVC" tvg-logo="https://i.ibb.co/YVPN4HS/24.png" group-title="TR ➤ Spor [QHD]", TR: Smart Spor 2 HEVC
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850168
-
-#EXTINF:-1 tvg-id="TR: Smart Spor 2 FHD" tvg-logo="https://i.ibb.co/YVPN4HS/24.png" group-title="TR ➤ Spor [QHD]", TR: Smart Spor 2 FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850169
-
-#EXTINF:-1 tvg-id="TR: A Spor FHD" tvg-logo="https://i.ibb.co/G3Mm17y7/2.png" group-title="TR ➤ Spor [QHD]", TR: A Spor FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850170
-
-#EXTINF:-1 tvg-id="TR: A Spor HD" tvg-logo="https://i.ibb.co/992bgfpF/1.png" group-title="TR ➤ Spor [QHD]", TR: A Spor HD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850171
-
-#EXTINF:-1 tvg-id="TR: TRT Spor FHD" tvg-logo="https://i.ibb.co/jvc6K99X/TRTSPORFHD.png" group-title="TR ➤ Spor [QHD]", TR: TRT Spor FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850172
-
-#EXTINF:-1 tvg-id="TR: TRT Spor HEVC" tvg-logo="https://i.ibb.co/MD6LMwrB/39.png" group-title="TR ➤ Spor [QHD]", TR: TRT Spor HEVC
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850173
-
-#EXTINF:-1 tvg-id="TR: TRT Spor Yıldız fhd" tvg-logo="https://i.ibb.co/39dRz94h/41.png" group-title="TR ➤ Spor [QHD]", TR: TRT Spor Yıldız fhd
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850174
-
-#EXTINF:-1 tvg-id="TR: FB TV" tvg-logo="https://i.ibb.co/svY45TjG/8.png" group-title="TR ➤ Spor [QHD]", TR: FB TV
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850175
-
-#EXTINF:-1 tvg-id="TR: GS TV" tvg-logo="http://135.125.239.110/icon/808479.png" group-title="TR ➤ Spor [QHD]", TR: GS TV
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850176
-
-#EXTINF:-1 tvg-id="TR: Eurosport 1" tvg-logo="https://i.ibb.co/CsVq1mk7/3.png" group-title="TR ➤ Spor [QHD]", TR: Eurosport 1
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850177
-
-#EXTINF:-1 tvg-id="TR: Eurosport 2" tvg-logo="https://i.ibb.co/4nJHZJNK/5.png" group-title="TR ➤ Spor [QHD]", TR: Eurosport 2
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850178
-
-#EXTINF:-1 tvg-id="TR: Red Bull TV" tvg-logo="http://135.125.239.110/icon/889439.png" group-title="TR ➤ Spor [QHD]", TR: Red Bull TV
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850179
-
-#EXTINF:-1 tvg-id="TR: HT SPOR" tvg-logo="https://i.ibb.co/HcG36FL/11.png" group-title="TR ➤ Spor [QHD]", TR: HT SPOR
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850180
-
-#EXTINF:-1 tvg-id="TR: Edge Sport FHD" tvg-logo="noimage.png" group-title="TR ➤ Spor [QHD]", TR: Edge Sport FHD
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850181
-
-#EXTINF:-1 tvg-id="TR: NBA TV" tvg-logo="https://i.ibb.co/nqxrQWzt/13.png" group-title="TR ➤ Spor [QHD]", TR: NBA TV
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850182
-
-#EXTINF:-1 tvg-id="TR: FightScreen" tvg-logo="http://135.125.239.110/icon/372549.png" group-title="TR ➤ Spor [QHD]", TR: FightScreen
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850183
-
-#EXTINF:-1 tvg-id="TR: T.A.Y TV" tvg-logo="http://135.125.239.110/icon/374122.png" group-title="TR ➤ Spor [QHD]", TR: T.A.Y TV
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850184
-
-#EXTINF:-1 tvg-id="TR: TJK TV" tvg-logo="http://135.125.239.110/icon/771952.png" group-title="TR ➤ Spor [QHD]", TR: TJK TV
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850185
-
-#EXTINF:-1 tvg-id="TR: Kickbox" tvg-logo="http://135.125.239.110/icon/509971.png" group-title="TR ➤ Spor [QHD]", TR: Kickbox
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850186
-
-#EXTINF:-1 tvg-id="TR: WWE Network" tvg-logo="http://135.125.239.110/icon/610315.png" group-title="TR ➤ Spor [QHD]", TR: WWE Network
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850187
-
-#EXTINF:-1 tvg-id="TR: SportsTV" tvg-logo="http://135.125.239.110/icon/606220.png" group-title="TR ➤ Spor [QHD]", TR: SportsTV
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/850188
 
 #EXTINF:-1 tvg-id="TR: Galatasaray | Live!" tvg-logo="noimage.png" group-title="TR ➤ SPOR TEKRARLARI [LİVE]", TR: Galatasaray | Live!
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/846846
@@ -5441,123 +5522,6 @@ http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/830729
 #EXTINF:-1 tvg-id="TiViBUSPOR 4 ʜᴅ 1080" tvg-logo="https://i.ibb.co/gZsXYDLf/33.png" group-title="TR ➤ Tivibu Spor", TiViBUSPOR 4 ʜᴅ 1080
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/830730
 
-#EXTINF:-1 tvg-id="░▒►═ ✯ BİLGİLENDİRME KANALI✯ ═◄▒░" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="TR ➤ Ulusal", ░▒►═ ✯ BİLGİLENDİRME KANALI✯ ═◄▒░
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/269
-
-#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://i.ibb.co/vx4LBFx6/4.png" group-title="TR ➤ Ulusal", TRT 1 [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/158
-
-#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://i.ibb.co/vx4LBFx6/4.png" group-title="TR ➤ Ulusal", TRT 1 [ FHD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/161
-
-#EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://i.hizliresim.com/h8sezrn.png" group-title="TR ➤ Ulusal", TRT 2 [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/21489
-
-#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://i.hizliresim.com/jhr0ipy.png" group-title="TR ➤ Ulusal", TRT Turk [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/97
-
-#EXTINF:-1 tvg-id="TRT Eba [ HD ]" tvg-logo="https://i.hizliresim.com/blfpi4c.png" group-title="TR ➤ Ulusal", TRT Eba [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/21601
-
-#EXTINF:-1 tvg-id="TRT Eba Tv Lise [ HD ]" tvg-logo="https://i.hizliresim.com/blfpi4c.png" group-title="TR ➤ Ulusal", TRT Eba Tv Lise [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/21602
-
-#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="https://i.hizliresim.com/33yo5h0.png" group-title="TR ➤ Ulusal", KANAL D [ FHD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/73
-
-#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="https://i.hizliresim.com/33yo5h0.png" group-title="TR ➤ Ulusal", KANAL D [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/143
-
-#EXTINF:-1 tvg-id="Kanal D Euro [ HD ]" tvg-logo="https://i.hizliresim.com/33yo5h0.png" group-title="TR ➤ Ulusal", Kanal D Euro [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/172
-
-#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://i.hizliresim.com/33unoqn.png" group-title="TR ➤ Ulusal", SHOW TV[ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/130
-
-#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://i.hizliresim.com/33unoqn.png" group-title="TR ➤ Ulusal", SHOW TV [ FHD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/209
-
-#EXTINF:-1 tvg-id="Show Euro [ HD ]" tvg-logo="https://i.hizliresim.com/33unoqn.png" group-title="TR ➤ Ulusal", Show Euro [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/175
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://i.hizliresim.com/hrbbce4.png" group-title="TR ➤ Ulusal", ATV [ FHD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/108
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://i.hizliresim.com/hrbbce4.png" group-title="TR ➤ Ulusal", ATV [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/139
-
-#EXTINF:-1 tvg-id="Atv Euro [ HD ]" tvg-logo="https://i.hizliresim.com/hrbbce4.png" group-title="TR ➤ Ulusal", Atv Euro [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/170
-
-#EXTINF:-1 tvg-id="now.tr" tvg-logo="https://i.hizliresim.com/ecblxwe.png" group-title="TR ➤ Ulusal", NOW TV [ FHD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/89
-
-#EXTINF:-1 tvg-id="now.tr" tvg-logo="https://i.hizliresim.com/ecblxwe.png" group-title="TR ➤ Ulusal", NOW [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/135
-
-#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://i.hizliresim.com/m8jrqvv.png" group-title="TR ➤ Ulusal", TV8 [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/124
-
-#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://i.hizliresim.com/m8jrqvv.png" group-title="TR ➤ Ulusal", TV8 [ FHD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/148
-
-#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://i.hizliresim.com/migmz9e.png" group-title="TR ➤ Ulusal", STAR [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/126
-
-#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://i.hizliresim.com/migmz9e.png" group-title="TR ➤ Ulusal", STAR [ FHD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/201
-
-#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://i.hizliresim.com/migmz9e.png" group-title="TR ➤ Ulusal", STAR HD 1080p
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/841087
-
-#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://i.hizliresim.com/migmz9e.png" group-title="TR ➤ Ulusal", STAR EURO [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/178
-
-#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://i.hizliresim.com/5q2r7s5.png" group-title="TR ➤ Ulusal", Beyaz Tv [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/22585
-
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://i.hizliresim.com/461fpzl.png" group-title="TR ➤ Ulusal", Kanal 7 [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/151
-
-#EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="https://i.hizliresim.com/28jvw2z.png" group-title="TR ➤ Ulusal", A 2 [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/147
-
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://i.hizliresim.com/o6w42nk.png" group-title="TR ➤ Ulusal", Tlc [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/109
-
-#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://i.hizliresim.com/kszfr7w.png" group-title="TR ➤ Ulusal", Teve 2 [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/154
-
-#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.hizliresim.com/rs5is15.png" group-title="TR ➤ Ulusal", 360 Tv [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/217
-
-#EXTINF:-1 tvg-id="Kanal Europe [ HD ]" tvg-logo="https://i.hizliresim.com/pnghuf4.png" group-title="TR ➤ Ulusal", Kanal Europe [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/28286
-
-#EXTINF:-1 tvg-id="TV5.fi" tvg-logo="https://i.hizliresim.com/nm7ubmv.png" group-title="TR ➤ Ulusal", Tv5 [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/91
-
-#EXTINF:-1 tvg-id="trtavaz.tr" tvg-logo="https://i.hizliresim.com/aetrvmk.png" group-title="TR ➤ Ulusal", TRT Avaz [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/34388
-
-#EXTINF:-1 tvg-id="Show Max [ HD ]" tvg-logo="https://i.hizliresim.com/33unoqn.png" group-title="TR ➤ Ulusal", Show Max [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/35958
-
-#EXTINF:-1 tvg-id="Kanal 7 Europe  [ HD ]" tvg-logo="https://i.hizliresim.com/461fpzl.png" group-title="TR ➤ Ulusal", Kanal 7 Europe  [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/35959
-
-#EXTINF:-1 tvg-id="TRT Arabi [ HD ]" tvg-logo="https://i.hizliresim.com/e62hirg.png" group-title="TR ➤ Ulusal", TRT Arabi [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/63891
-
-#EXTINF:-1 tvg-id="TV8 Int [ HD ]" tvg-logo="https://i.hizliresim.com/m8jrqvv.png" group-title="TR ➤ Ulusal", TV8 Int [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/63947
-
-#EXTINF:-1 tvg-id="TGRT EU [ HD ]" tvg-logo="https://i.hizliresim.com/8fksa27.png" group-title="TR ➤ Ulusal", TGRT EU [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/93710
-
-#EXTINF:-1 tvg-id="Berat Tv [ HD ]" tvg-logo="https://i.hizliresim.com/cnibof7.png" group-title="TR ➤ Ulusal", Berat Tv [ HD ]
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/118363
-
 #EXTINF:-1 tvg-id="TRT 1 4K" tvg-logo="https://i.ibb.co/vx4LBFx6/4.png" group-title="TR ➤ Ulusal 4K", TRT 1 4K
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/847110
 
@@ -5629,9 +5593,6 @@ http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/830599
 
 #EXTINF:-1 tvg-id="NOW TV FHD (50FPS)" tvg-logo="https://i.hizliresim.com/ecblxwe.png" group-title="TR ➤ Ulusal [50 FPS]", NOW TV FHD (50FPS)
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/830600
-
-#EXTINF:-1 tvg-id="TR: •●★--- Ulusal Kanallar ----★●•" tvg-logo="https://i.ibb.co/Hf84XqXy/16.png" group-title="TR ➤ Ulusal [HD-FHD]", TR: •●★--- Ulusal Kanallar ----★●•
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849289
 
 #EXTINF:-1 tvg-id="TR: TRT 4K" tvg-logo="https://i.ibb.co/yJx24my/3.png" group-title="TR ➤ Ulusal [HD-FHD]", TR: TRT 4K
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/849290
@@ -34264,9 +34225,6 @@ http://nxsmrt4.xyz:80/movie/ayse0909/RSp2N7rzCv/829087.mp4
 
 #EXTINF:-1 tvg-id="Bir Zamanlar Meksika’da (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oY0Yqsj4TwkjELkIHXJimjdbV8M.jpg" group-title="TR/FILM ➤ TV PLUS", Bir Zamanlar Meksika’da (2003)
 http://nxsmrt4.xyz:80/movie/ayse0909/RSp2N7rzCv/831313.mp4
-
-#EXTINF:-1 tvg-id="•●★--- Sport 4K and RAW ----★●•" tvg-logo="https://i.hizliresim.com/drol7st.png" group-title="WS ➤ WORLD SPORTS", •●★--- Sport 4K and RAW ----★●•
-http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/846972
 
 #EXTINF:-1 tvg-id="ES: M+ Dazn F1 | 4K UHD" tvg-logo="https://i.hizliresim.com/o02yqe0.png" group-title="WS ➤ WORLD SPORTS", ES: M+ Dazn F1 | 4K UHD
 http://nxsmrt4.xyz:80/ayse0909/RSp2N7rzCv/846973
